@@ -8,18 +8,13 @@ from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 class PDFProcessor:
-
     def __init__(self, chunk_size=500, chunk_overlap=50):
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
 
     def extract_text_from_pdf(self, pdf_path: str) -> List[str]:
-
-
-
         loader = PyPDFLoader(pdf_path)
         documents = loader.load()
-
 
         filtered_docs = []
         for doc in documents:
@@ -28,32 +23,43 @@ class PDFProcessor:
             else:
                 print(f"跳过表格内容: {doc.page_content[:100]}...")
 
-
         text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=self.chunk_size,
             chunk_overlap=self.chunk_overlap,
             separators=["\n\n", "\n", "。", "！", "？", ".", "!", "?", " ", ""]  # 递归分割顺序
         )
-
-
         chunks = text_splitter.split_documents(filtered_docs)
-
-
         text_chunks = [chunk.page_content for chunk in chunks]
-
         return text_chunks
 
     def _is_table(self, text: str) -> bool:
-
         lines = [line.strip() for line in text.split('\n') if line.strip()]
 
         if len(lines) < 2:
             return False
+
+        # 1. 检查是否有 Markdown 表格特征（竖线）
         if any('|' in line for line in lines[:3]):
             return True
 
-        return False
+        # 2. 检查是否有制表符分隔
+        if any('\t' in line for line in lines[:3]):
+            return True
 
+        # 3. 检查是否是多列对齐的文本表格
+        # 取前几行，判断它们是否被分割成相似的列数（通过空格对齐）
+        col_counts = []
+        for line in lines[:min(5, len(lines))]:
+            # 连续多个空格视为分隔符
+            cols = [c for c in line.split('  ') if c.strip()]
+            if len(cols) >= 3:
+                col_counts.append(len(cols))
+
+        # 如果前几行列数一致且 >= 2，则认为是表格
+        if len(col_counts) >= 2 and len(set(col_counts)) == 1:
+            return True
+
+        return False
 
     def _is_page_metadata(self, text: str) -> bool:
 
@@ -67,9 +73,8 @@ class PDFProcessor:
         if save_to_file:
             self._save_chunks_to_file(text_chunks)
 
-    def _save_chunks_to_file(self, text_chunks: List[str], filename: str = "chunks_analysis.txt"):
-
-        with open(f"../data/raw_pdfs/{filename}", 'w', encoding='utf-8') as f:
+    def _save_chunks_to_file(self, text_chunks: List[str], filename: str = "中国银行2024年年度报告.txt"):
+        with open(f"../data/chunks/{filename}", 'w', encoding='utf-8') as f:
             for i, chunk in enumerate(text_chunks):
                 f.write(f"Chunk #{i + 1}    ,Length: {len(chunk)} chars,    Type: {'Table' if self._is_table(chunk) else 'Text'}\n")
                 f.write(chunk + "\n")

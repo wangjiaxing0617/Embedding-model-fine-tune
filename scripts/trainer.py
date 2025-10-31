@@ -4,28 +4,47 @@ from peft import LoraConfig, get_peft_model
 import json
 import torch
 import os
+from sklearn.model_selection import train_test_split
+
+def prepare_data():
+    data_path = "../data/json/中国银行2024年年度报告.json"
+    with open(data_path, 'r', encoding='utf-8') as f:
+        triplets = json.load(f)
+    train_triplets, val_triplets = train_test_split(
+        triplets,
+        test_size=0.1,
+        random_state=42
+    )
+    return train_triplets, val_triplets
+
+# 执行并保存结果
+train_triplets, val_triplets = prepare_data()
+
 
 os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
 model_options = {
     'qwen3-0.6B': 'Qwen/Qwen3-Embedding-0.6B',
-    'qwen3-4B': 'Qwen/Qwen3-Embedding-4B',
+    'bge-m3': 'bge-m3',
+    'jina-embeddings-v3':'jina-embeddings-v3'
     }
 
 # 选择其中一个下载和使用
 model_name = model_options['qwen3-0.6B']
-print(f"正在从国内镜像下载: {model_name}")
 model = SentenceTransformer(model_name)
-print('a')
+print(f"模型镜像: {model_name}下载完成")
+
 class EmbeddingTrainer:
-    def __init__(self, base_model: str = "all-MiniLM-L6-v2", use_lora: bool = False):
-        print("model starts")
-        self.device = "cuda" if torch.cuda.is_available() else "cpu"
-        self.model = SentenceTransformer(
-            base_model,
-            model_kwargs={"attn_implementation": "flash_attention_2"},
-            tokenizer_kwargs={"padding_side": "left"},
-        )
-        print("模型成功")
+    def __init__(self, use_lora: bool = True, device_id: int = 0):
+        os.environ["CUDA_VISIBLE_DEVICES"] = str(device_id)
+        if torch.cuda.is_available():
+            self.device = f"cuda:{device_id}"
+            print(f"使用 GPU: {self.device}")
+        else:
+            self.device = "cpu"
+            print("使用 CPU")
+
+        self.model = model
+        self.model.to(self.device)
         self.use_lora = use_lora
         if use_lora:
             self._setup_lora()
@@ -34,19 +53,16 @@ class EmbeddingTrainer:
         lora_config = LoraConfig(
             r=16,
             lora_alpha=32,
-            target_modules=["q_proj", "v_proj"],
+            target_modules=["q_proj", "v_proj", "k_proj", "o_proj"],
             lora_dropout=0.05,
             bias="none",
         )
-        self.model.get_auto_model().add_adapter(lora_config, adapter_name="lora")
-        self.model.get_auto_model().set_active_adapters("lora")
+        self.model[0].auto_model = get_peft_model(self.model[0].auto_model, lora_config)
+        print("LoRA 适配器已启用")
 
-    def prepare_training_data(self, data_path: str):
-
-        with open(data_path, 'r', encoding='utf-8') as f:
-            triplets = json.load(f)
+    def prepare_training_data(self, train_triplets: list):
         train_examples = []
-        for triplet in triplets:
+        for triplet in train_triplets:
             train_examples.append(InputExample(
                 texts=[triplet['query'], triplet['positive'], triplet['negative']]
             ))
@@ -70,36 +86,13 @@ class EmbeddingTrainer:
             show_progress_bar=True
         )
 
-# # 主执行脚本
-# def main():
-#     # 1. 处理PDF
-#     processor = PDFProcessor()
-#     all_chunks = []
-#
-#     pdf_dir = "../data/raw_pdfs/"
-#     for pdf_file in os.listdir(pdf_dir):
-#         if pdf_file.endswith('.pdf'):
-#             chunks = processor.extract_text_from_pdf(os.path.join(pdf_dir, pdf_file))
-#             all_chunks.extend(chunks)
-#             print(f"处理 {pdf_file}: 得到 {len(chunks)} 个文本块")
-#
-#     # 保存过滤后的文本块
-#     with open("../data/filtered_chunks/text_chunks.json", 'w', encoding='utf-8') as f:
-#         json.dump(all_chunks, f, ensure_ascii=False, indent=2)
-#
-#     # 2. 生成训练数据（需要配置API key）
-#     # generator = TrainingDataGenerator(api_key="your-api-key")
-#     # training_data = generator.generate_qa_triplets(all_chunks[:100])  # 先试100个
-#
-#     # 3. 训练模型
-#     trainer = EmbeddingTrainer()
-#     # train_examples = trainer.prepare_training_data("../data/training_data/triplets.json")
-#     # trainer.train(train_examples, "../models/finetuned_embedding")
 def main():
     # 20251030
     trainer = EmbeddingTrainer()
-    train_examples = trainer.prepare_training_data("../data/raw_pdfs/sample_triplets.json")
+    train_examples = trainer.prepare_training_data(train_triplets)
     trainer.train(train_examples, "../models/single_text_embedding")
 
 if __name__ == "__main__":
     main()
+
+# 训练数据分块

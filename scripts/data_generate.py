@@ -188,23 +188,15 @@ if __name__ == "__main__":
 
     # 2. 初始化生成器（使用OpenRouter）
     generator = TrainingDataGenerator(
-        api_key="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",
+        api_key="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",
         model="openai/gpt-4.1-nano",
     )
 
 
-    # sample_chunks = [
-    #     "中国银行股份有限公司   股票代码：601988   2024 年年度报告",
-    #     "中国银行是中国持续经营时间最久的银行。1912 年 2 月正式成立，先后行使中央银行、国际汇兑银行和国际贸易专业银行职能。1949 年以后，长期作为国家外汇外贸专业银行，统一经营管理国家外汇，开展国际贸易结算、侨汇和其他非贸易外汇业务。1994 年改组为国有独资商业银行，全面提供各类金融服务，发展成为本外币兼营、业务品种齐全、实力雄厚的大型商业银行。2006 年率先成功在香港联交所和上交所挂牌上市，成为国内首家“A+H”上市银行。中国银行是 2008 年北京夏季奥运会和 2022 年北京冬季奥运会唯一官方银行合作伙伴，是中国唯一的“双奥银行” 。2011 年，中国银行成为新兴经济体中首家全球系统重要性银行，目前已连续14 年入选，国际地位、竞争能力、综合实力跻身全球大型银行前列。当前，中国银行对标党中央决策部署，以服务实体经济为根本宗旨，以防控风险为永恒主题，以巩固扩大全球化优势、提升全球布局能力为首要任务，着力做好科技金融、绿色金融、普惠金融、养老金融、数字金融五篇大文章，在实干笃行中助力金融强国建设。",
-    #     "养老金融、数字金融五篇大文章，在实干笃行中助力金融强国建设。 中国银行是中国全球化和综合化程度最高的银行， 在中国境内及境外64 个国家和地区设有机构，中银香港、澳门分行担任当地的发钞行。中国银行拥有比较完善的全球服务网络，形成了以公司金融、个人金融和金融市场等商业银行业务为主体，涵盖投资银行、直接投资、证券、保险、基金、飞机租赁、资产管理、金融科技、金融租赁等多个领域的综合金融服务体系，为客户提供“一点接入、全球响应、综合服务”的金融解决方案。 中国银行是拥有崇高使命感和责任感的银行。成立 113 年来，中国银行始终恪守“为社会谋福利、为国家求富强”的历史使命，形成了宝贵的精神财富，与诚实守信、以义取利、稳健审慎、守正创新、依法合规的中国特色金融文化同向同频、和声共鸣。在全面建设社会主义现代化国家的新征程上，中国银行将坚持以习近平新时代中国特色社会主义思想为指导，完整准确全面贯彻新发展理念，找准落实中央决策部署和实现自身高质量发展的结合点、发力点、支撑点，当好贯彻党中央决策部署的实干家、服务实体经济的主力军、服务双循环新发"
-    # ]
-
-    # 直接读取保存的chunks文件
-    def load_first_20_chunks():
-        with open("../data/raw_pdfs/chunks_analysis.txt", 'r', encoding='utf-8') as f:
+    def load_all_chunks():
+        with open("../data/chunks/中国银行2024年年度报告.txt", 'r', encoding='utf-8') as f:
             content = f.read()
 
-        # 从文件中提取chunks内容
         chunks = []
         current_chunk = ""
         in_chunk = False
@@ -223,17 +215,21 @@ if __name__ == "__main__":
             elif in_chunk and line.strip():
                 current_chunk += line + "\n"
 
-        return chunks[:20]
-    sample_chunks = load_first_20_chunks()
+        return chunks
 
-    # 先用样本测试
-    test_triplets = generator.generate_qa_triplets(sample_chunks, chunks_per_batch=2)
-
+    sample_chunks = load_all_chunks()
+    test_triplets = generator.generate_qa_triplets(sample_chunks, chunks_per_batch=32)
     if test_triplets:
-        generator.save_triplets(test_triplets, "../data/raw_pdfs/sample_triplets.json")
+        generator.save_triplets(test_triplets, "../data/json/中国银行2024年年度报告.json")
         print("测试生成成功！")
         # 如果测试成功，处理全部数据
         # all_triplets = generator.generate_qa_triplets(text_chunks, chunks_per_batch=3)
         # generator.save_triplets(all_triplets, "../data/training_data/all_triplets.json")
     else:
         print("测试生成失败，请检查API配置")
+
+# 生成样本太少了，只能生成一半左右的样本，
+# 很多是f"数据格式验证失败，期望{len(chunks)}个，实际{len(triplets)}个，重试 {attempt + 1}/{max_retries}")
+# 还有print(f"JSON解析错误: {e}，重试 {attempt + 1}/{max_retries}")
+
+# 5000个训练样本，500个测试集吧
