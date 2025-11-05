@@ -4,22 +4,25 @@ from peft import LoraConfig, get_peft_model
 import json
 import torch
 import os
+import random
 from sklearn.model_selection import train_test_split
 
-def prepare_data():
-    data_path = "../data/json/中国银行2024年年度报告.json"
-    with open(data_path, 'r', encoding='utf-8') as f:
-        triplets = json.load(f)
-    train_triplets, val_triplets = train_test_split(
-        triplets,
-        test_size=0.1,
-        random_state=42
-    )
+def prepare_data(data_dir:str):
+    json_files = [f for f in os.listdir(data_dir) if f.endswith('.json')]
+    val_files = random.sample(json_files, int(len(json_files) * 0.1))
+    train_files = [f for f in json_files if f not in val_files]
+    train_triplets = []
+    for file in train_files:
+        with open(os.path.join(data_dir, file), 'r', encoding='utf-8') as f:
+            triplets = json.load(f)
+            train_triplets.extend(triplets)
+    val_triplets = []
+    for file in val_files:
+        with open(os.path.join(data_dir, file), 'r', encoding='utf-8') as f:
+            triplets = json.load(f)
+            val_triplets.extend(triplets)
     return train_triplets, val_triplets
-
-# 执行并保存结果
-train_triplets, val_triplets = prepare_data()
-
+train_triplets, val_triplets = prepare_data("../data/json/")
 
 os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
 model_options = {
@@ -27,8 +30,6 @@ model_options = {
     'bge-m3': 'bge-m3',
     'jina-embeddings-v3':'jina-embeddings-v3'
     }
-
-# 选择其中一个下载和使用
 model_name = model_options['qwen3-0.6B']
 model = SentenceTransformer(model_name)
 print(f"模型镜像: {model_name}下载完成")
@@ -42,7 +43,6 @@ class EmbeddingTrainer:
         else:
             self.device = "cpu"
             print("使用 CPU")
-
         self.model = model
         self.model.to(self.device)
         self.use_lora = use_lora
@@ -51,11 +51,12 @@ class EmbeddingTrainer:
 
     def _setup_lora(self):
         lora_config = LoraConfig(
-            r=16,
-            lora_alpha=32,
-            target_modules=["q_proj", "v_proj", "k_proj", "o_proj"],
-            lora_dropout=0.05,
+            r=4,
+            lora_alpha=8,
+            target_modules=["q_proj", "v_proj"],
+            lora_dropout=0.15,
             bias="none",
+            # task_type=TaskType.FEATURE_EXTRACTION
         )
         self.model[0].auto_model = get_peft_model(self.model[0].auto_model, lora_config)
         print("LoRA 适配器已启用")
@@ -66,18 +67,14 @@ class EmbeddingTrainer:
             train_examples.append(InputExample(
                 texts=[triplet['query'], triplet['positive'], triplet['negative']]
             ))
-
         return train_examples
 
     def train(self, train_examples, output_path: str, num_epochs: int = 3):
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
-        """训练模型"""
         train_dataloader = DataLoader(train_examples, shuffle=True, batch_size=16)
         train_loss = losses.MultipleNegativesRankingLoss(self.model)
-
-        # 训练配置
-        warmup_steps = int(len(train_dataloader) * num_epochs * 0.1)
-
+        steps_per_epoch = len(train_dataloader)
+        warmup_steps = min(30, int(steps_per_epoch * 0.2))
         self.model.fit(
             train_objectives=[(train_dataloader, train_loss)],
             epochs=num_epochs,
@@ -85,14 +82,11 @@ class EmbeddingTrainer:
             output_path=output_path,
             show_progress_bar=True
         )
-
 def main():
     # 20251030
     trainer = EmbeddingTrainer()
     train_examples = trainer.prepare_training_data(train_triplets)
-    trainer.train(train_examples, "../models/single_text_embedding")
+    trainer.train(train_examples, "../models/text_embedding")
 
 if __name__ == "__main__":
     main()
-
-# 训练数据分块

@@ -3,25 +3,20 @@ import random
 from typing import List, Dict
 from trainer import val_triplets
 
-def create_evaluation_data(training_data_path: str, eval_data:list):
+def create_evaluation_data(eval_data:list):
     # 构建评估数据格式
     queries = []
     corpus = []
     relevant_docs = {}
-
     # 收集所有唯一的文档
     doc_id_map = {}  # 文本 -> 索引的映射
     doc_counter = 0
 
-    with open(training_data_path, 'r', encoding='utf-8') as f:
-        training_data = json.load(f)
-    # 先收集所有positive作为corpus
-    for triplet in training_data:  # 用全部数据构建corpus，确保覆盖
+    for triplet in eval_data:  # 用全部数据构建corpus，确保覆盖
         if triplet['positive'] not in doc_id_map:
             doc_id_map[triplet['positive']] = doc_counter
             corpus.append(triplet['positive'])
             doc_counter += 1
-
         if triplet['negative'] not in doc_id_map:
             doc_id_map[triplet['negative']] = doc_counter
             corpus.append(triplet['negative'])
@@ -50,13 +45,9 @@ def save_evaluation_data(eval_data: Dict, output_path: str):
 # 使用示例
 if __name__ == "__main__":
     # 从训练数据生成评估数据
-    eval_data = create_evaluation_data(
-        training_data_path="../data/json/中国银行2024年年度报告.json",
-        eval_data=val_triplets
-    )
+    evaluation_data = create_evaluation_data(eval_data=val_triplets)
     # 保存评估数据
-    save_evaluation_data(eval_data, "../data/eval/test.json")
-
-    print(f"- 查询数量: {len(eval_data['queries'])}")
-    print(f"- 文档数量: {len(eval_data['corpus'])}")
-    print(f"- 查询-文档对: {len(eval_data['relevant_docs'])}")
+    save_evaluation_data(evaluation_data, "../data/eval/eval_data.json")
+    print(f"- 查询数量: {len(evaluation_data['queries'])}")
+    print(f"- 文档数量: {len(evaluation_data['corpus'])}")
+    print(f"- 查询-文档对: {len(evaluation_data['relevant_docs'])}")

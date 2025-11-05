@@ -15,69 +15,79 @@ class TrainingDataGenerator:
             base_url="https://openrouter.ai/api/v1",
             api_key=self.api_key,
         )
-    def generate_qa_triplets(self, text_chunks: List[str], chunks_per_batch: int = 3) -> List[Dict]:
+    def generate_qa_triplets(self, text_chunks: List[str], chunks_per_batch: int) -> List[Dict]:
         """生成(问, 正例, 负例)三元组"""
         all_triplets = []
-
         # 分批处理，避免token限制
         for i in range(0, len(text_chunks), chunks_per_batch):
             batch_chunks = text_chunks[i:i + chunks_per_batch]
             print(f"处理批次 {i // chunks_per_batch + 1}")
-
             triplets = self._generate_batch_triplets(batch_chunks)
             if triplets:
                 all_triplets.extend(triplets)
-                print(f"✓ 成功生成 {len(triplets)} 个三元组")
+                print(f"✓ 成功生成批内 {len(triplets)} 个样本\n")
             else:
-                print(f"✗ 批次 {i // chunks_per_batch + 1} 生成失败")
-
+                print(f"✗ 批次 {i // chunks_per_batch + 1} 未生成样本")
             time.sleep(2)  # 避免API限制
-
         return all_triplets
 
     def _generate_batch_triplets(self, chunks: List[str], max_retries: int = 3) -> List[Dict]:
         prompt = f"""
-你是一个专业的数据生成助手。基于以下{len(chunks)}个文档片段，生成适合训练Embedding模型的数据。
-文档片段：
+你是一个专业的数据生成助手。你的任务是**筛选出适合"填表查询"的语料**，并生成对应的问答对。
+
+### 第一阶段：内容筛选
+从以下 `{len(chunks)}` 个文档片段中，筛选出包含**具体事实信息**的内容。
+**文档片段：**
 {json.dumps(chunks, ensure_ascii=False, indent=2)}
 
-要求：
-- 严格为每个文档片段生成1个训练样本，共生成{len(chunks)}个样本
-- 问题要自然，像真实用户会问的
-- 正例回答要准确、完整地回答问题的文本，逻辑清晰
-- 负例回答要有迷惑性：相同主题但不同答案、包含相同关键词但语义不同、部分相关但不完整
-- 所有生成的语料都需要源自于原文本，不要使用额外文本
-- 最终内容需要在准确完整的条件下尽量简明扼要
+**【重点关注的信息类型】**
+- ✅ **基础信息**：公司名称、股票代码、成立时间、上市地点等
+- ✅ **财务数据**：营收、利润、资产规模等关键指标  
+- ✅ **业务描述**：主营业务、产品服务、市场定位等
+- ✅ **组织信息**：管理层、分支机构、股权结构等
 
-query生成的举例：（few-shot）
-1.中国银行的股票代码是多少？
-2.中国银行主营业务是？什么时候上市的？
-3.中国银行的国际化情况怎么样？
+**【筛选标准 - 优先选择】**
+- **信息完整**：包含完整句子和段落结构，有明确的业务逻辑或概念说明  
+- **可读性强**：语言通顺，逻辑清晰，数字在上下文中有明确含义
+- **信息量足**：包含具体的事实、数据、定义等可用于填表的信息
+**【筛选标准 - 尽量避免】**
+- **表格主导**：几乎全部由连续数字序列或多行数字对齐的内容构成
+- **严重乱码**：大部分内容为无法识别字符或断断续续的短语片段
+- **信息稀薄**：缺乏实质性内容，主要为孤立数字或格式符号
+**【重要原则】**
+- 如果你无法理解某部分内容，请直接忽略它
+- **如果所有内容都难以理解**（比如全是表格或乱码），请跳过整个生成任务。
 
-返回格式：
+### 第二阶段：数据生成
+基于筛选出的高质量语料，生成适合**填表查询场景**的问答对。
+**【生成要求】**
+- **问题要直接**：像用户在填表时需要查询特定信息
+- **正例回答要精准**：直接给出表格需要填写的具体信息
+- **负例回答要有迷惑性**：相同主题但信息不匹配、部分正确但不完整、相关但非所求
+- **所有内容源自原文本**：不要使用额外文本
+**【格式参考】**
 [
   {{
-    "query": "中国银行主营业务是？什么时候上市的？",
-    "positive": "中国银行作为大型商业银行，主营业务涵盖本外币兼营、业务品种齐全的各类金融服务。该银行于2006年率先成功在香港联交所和上海证券交易所挂牌上市，成为国内首家“A+H”上市银行。",
-    "negative": "中国银行长期作为国家外汇外贸专业银行，主要经营国家外汇管理、开展国际贸易结算、侨汇和其他非贸易外汇业务。在中国金融改革进程中，中国银行完成了股份制改造并实现了公开上市。"
+    "query": "2024年中国银行的营业收入和净利润是多少？",
+    "positive": "截至 2024 年末，集团资产、负债总额分别突破 35 万亿元、32 万亿元，增长 8.11%、8.20%。
+全年实现营业收入和净利润6,301亿元、2,527亿元，分别增长1.16%、2.58%，集团不良贷款
+率 1.25%，下降 0.02 个百分点，境外商行利润总额贡献度超过 22%，主要业务市场竞争力提
+升，主要经营指标保持稳健均衡。",
+    "negative": "2024年，境内商业银行业务实现营业收入4,771.28亿元，同比减少
+30.62亿元，下降0.64%。"
   }},
   {{
-    "query": "中国银行的国际化情况怎么样？",
-    "positive": "中国银行是中国全球化和综合化程度最高的银行，在中国境内及境外64个国家和地区设有机构。该行拥有比较完善的全球服务网络，形成了以商业银行业务为主体，涵盖投资银行、直接投资、证券、保险、基金等多个领域的综合金融服务体系，能够为客户提供"一点接入、全球响应、综合服务"的金融解决方案。",
-    "negative": "中国银行在全面建设社会主义现代化国家的新征程上，将找准落实中央决策部署和实现自身高质量发展的结合点，当好服务双循环新发展格局的排头兵。作为拥有崇高使命感和责任感的银行，中银香港、澳门分行担任当地的发钞行，体现了其在境外的业务布局。中国银行始终恪守"为社会谋福利、为国家求富强"的历史使命，不断开创高质量发展新局面。"
+    "query": "中国银行上市时间是？",
+    "positive": "该银行于2006年率先成功在香港联交所和上海证券交易所挂牌上市，成为国内首家“A+H”上市银行。",
+    "negative": "在中国金融改革进程中，中国银行完成了股份制改造并实现了公开上市。"
   }}
 ]
-
+请开始执行这个两阶段任务：先筛选出包含具体信息的内容，然后生成适合填表查询的问答对。
 """
-
         for attempt in range(max_retries):
             try:
-
                 completion = self.client.chat.completions.create(
-
-                    extra_body={
-                        "data_collection": "deny"  # 不使用会存储数据的提供商
-                    },
+                    extra_body={"data_collection": "deny"},  # 不使用会存储数据的提供商
                     model=self.model,
                     messages=[{"role": "user", "content": prompt}],
                     temperature=0.3,
@@ -114,26 +124,19 @@ query生成的举例：（few-shot）
                 # 清理响应文本，提取JSON
                 cleaned_result = self._clean_json_response(content)
                 triplets = json.loads(cleaned_result)
-
                 # 验证数据格式
-                if self._validate_triplets(triplets) and len(triplets) == len(chunks):
+                if self._validate_triplets(triplets):
+                    print(f"返回成功的数据: {len(triplets)}个")
                     return triplets
                 else:
-                    print(
-                        f"数据格式验证失败，期望{len(chunks)}个，实际{len(triplets)}个，重试 {attempt + 1}/{max_retries}")
-                    # 如果数量不匹配但格式正确，也可以考虑返回
-                    if self._validate_triplets(triplets) and len(triplets) > 0:
-                        print(f"返回部分成功的数据: {len(triplets)}个")
-                        return triplets
+                    print("没有问答对生成")
 
             except json.JSONDecodeError as e:
                 print(f"JSON解析错误: {e}，重试 {attempt + 1}/{max_retries}")
             except Exception as e:
                 print(f"生成数据时出错: {e}，重试 {attempt + 1}/{max_retries}")
-
             time.sleep(3)  # 重试前等待
-
-        print(f"所有重试失败，跳过该批次")
+        print(f"所有重试连接失败，跳过该批次")
         return []
 
     def _clean_json_response(self, text: str) -> str:
@@ -142,20 +145,42 @@ query生成的举例：（few-shot）
         text = re.sub(r'```json\s*', '', text)
         text = re.sub(r'```\s*', '', text)
         text = text.strip()
-
-        # 如果以非JSON字符开头，尝试找到第一个{[
-        if not text.startswith('{') and not text.startswith('['):
-            match = re.search(r'[\{\[]', text)
-            if match:
-                text = text[match.start():]
-
-        return text
+        # 查找JSON的开始和结束位置
+        start_chars = ['[', '{']
+        end_chars = [']', '}']
+        start_idx = -1
+        end_idx = -1
+        # 找到第一个JSON开始字符
+        for i, char in enumerate(text):
+            if char in start_chars:
+                start_idx = i
+                break
+        if start_idx == -1:
+            return "[]"  # 没有找到JSON内容
+        stack = []
+        for i in range(start_idx, len(text)):
+            char = text[i]
+            if char in start_chars:
+                stack.append(char)
+            elif char in end_chars:
+                if not stack:
+                    break
+                opening_char = stack.pop()
+                # 检查括号是否匹配
+                if (opening_char == '[' and char == ']') or (opening_char == '{' and char == '}'):
+                    if not stack:  # 栈为空，找到最外层的结束位置
+                        end_idx = i
+                        break
+        if start_idx != -1 and end_idx != -1:
+            # 提取纯JSON部分
+            pure_json = text[start_idx:end_idx + 1]
+            return pure_json
+        return "[]"  # 无法提取有效JSON
 
     def _validate_triplets(self, triplets) -> bool:
         """验证生成的三元组格式"""
         if not isinstance(triplets, list):
             return False
-
         for triplet in triplets:
             if not isinstance(triplet, dict):
                 return False
@@ -163,16 +188,13 @@ query生成的举例：（few-shot）
                 return False
             if not all(isinstance(triplet[key], str) for key in ['query', 'positive', 'negative']):
                 return False
-
         return True
 
     def save_triplets(self, triplets: List[Dict], filepath: str):
         """保存生成的三元组到文件"""
         os.makedirs(os.path.dirname(filepath), exist_ok=True)
-
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(triplets, f, ensure_ascii=False, indent=2)
-
         print(f"✓ 保存 {len(triplets)} 个训练样本到 {filepath}")
 
 
@@ -188,19 +210,16 @@ if __name__ == "__main__":
 
     # 2. 初始化生成器（使用OpenRouter）
     generator = TrainingDataGenerator(
-        api_key="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",
-        model="openai/gpt-4.1-nano",
+        api_key="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",
+        model="google/gemini-2.5-flash-lite",
     )
 
-
-    def load_all_chunks():
-        with open("../data/chunks/中国银行2024年年度报告.txt", 'r', encoding='utf-8') as f:
+    def load_all_chunks(path:str):
+        with open(path, 'r', encoding='utf-8') as f:
             content = f.read()
-
         chunks = []
         current_chunk = ""
         in_chunk = False
-
         for line in content.split('\n'):
             if line.startswith("Chunk #"):
                 if current_chunk and in_chunk:
@@ -214,22 +233,21 @@ if __name__ == "__main__":
                 in_chunk = False
             elif in_chunk and line.strip():
                 current_chunk += line + "\n"
-
         return chunks
 
-    sample_chunks = load_all_chunks()
-    test_triplets = generator.generate_qa_triplets(sample_chunks, chunks_per_batch=32)
-    if test_triplets:
-        generator.save_triplets(test_triplets, "../data/json/中国银行2024年年度报告.json")
-        print("测试生成成功！")
-        # 如果测试成功，处理全部数据
-        # all_triplets = generator.generate_qa_triplets(text_chunks, chunks_per_batch=3)
-        # generator.save_triplets(all_triplets, "../data/training_data/all_triplets.json")
-    else:
-        print("测试生成失败，请检查API配置")
+    chunk_dir = "../data/chunks/"
+    json_dir = "../data/json/"
+    for filename in os.listdir(chunk_dir):
+        chunk_path = os.path.join(chunk_dir, filename)
+        chunks = load_all_chunks(chunk_path)
+        test_triplets = generator.generate_qa_triplets(chunks, chunks_per_batch=16)
+        if test_triplets:
+            json_filename = filename.replace('.txt', '.json')
+            generator.save_triplets(test_triplets,os.path.join(json_dir,json_filename))
+        else:
+            print("{json_filename}文件生成失败")
 
 # 生成样本太少了，只能生成一半左右的样本，
 # 很多是f"数据格式验证失败，期望{len(chunks)}个，实际{len(triplets)}个，重试 {attempt + 1}/{max_retries}")
 # 还有print(f"JSON解析错误: {e}，重试 {attempt + 1}/{max_retries}")
-
 # 5000个训练样本，500个测试集吧
