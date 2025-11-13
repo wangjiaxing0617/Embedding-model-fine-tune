@@ -12,7 +12,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 
 
 class PDFProcessor:
-    def __init__(self, chunk_size=500, chunk_overlap=50):
+    def __init__(self, chunk_size=256, chunk_overlap=25):
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
 
@@ -103,7 +103,6 @@ class PDFProcessor:
             return True
         else:
             return False
-
 
     def _is_page_metadata(self, text: str) -> bool:
         """
