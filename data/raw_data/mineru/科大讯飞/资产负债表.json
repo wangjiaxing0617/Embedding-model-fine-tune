@@ -1,0 +1,884 @@
+[
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 1,
+    "textLevel": 1,
+    "bBox": {
+      "l": 95.0,
+      "t": 118.0,
+      "r": 147.0,
+      "b": 130.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "投资者关系",
+    "md": "投资者关系",
+    "file_id": "资产负债表",
+    "element_id": 1
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 147.0,
+      "r": 120.0,
+      "b": 157.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司简介",
+    "md": "公司简介",
+    "file_id": "资产负债表",
+    "element_id": 2
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 176.0,
+      "r": 129.0,
+      "b": 184.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司治理",
+    "md": "公司治理",
+    "file_id": "资产负债表",
+    "element_id": 3
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 204.0,
+      "r": 129.0,
+      "b": 213.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司公告",
+    "md": "公司公告",
+    "file_id": "资产负债表",
+    "element_id": 4
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 231.0,
+      "r": 129.0,
+      "b": 241.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "财务信息",
+    "md": "财务信息",
+    "file_id": "资产负债表",
+    "element_id": 5
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 258.0,
+      "r": 133.0,
+      "b": 267.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "主要财务指标",
+    "md": "主要财务指标",
+    "file_id": "资产负债表",
+    "element_id": 6
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 283.0,
+      "r": 147.0,
+      "b": 293.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "利润及利润分配表",
+    "md": "利润及利润分配表",
+    "file_id": "资产负债表",
+    "element_id": 7
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 309.0,
+      "r": 126.0,
+      "b": 318.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "现金流量表",
+    "md": "现金流量表",
+    "file_id": "资产负债表",
+    "element_id": 8
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 332.0,
+      "r": 126.0,
+      "b": 342.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "资产负债表",
+    "md": "资产负债表",
+    "file_id": "资产负债表",
+    "element_id": 9
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 360.0,
+      "r": 120.0,
+      "b": 368.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "股票信息",
+    "md": "股票信息",
+    "file_id": "资产负债表",
+    "element_id": 10
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 388.0,
+      "r": 120.0,
+      "b": 397.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "投资者沟",
+    "md": "投资者沟",
+    "file_id": "资产负债表",
+    "element_id": 11
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 48.0,
+      "t": 442.0,
+      "r": 99.0,
+      "b": 455.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "投资者联系",
+    "md": "投资者联系",
+    "file_id": "资产负债表",
+    "element_id": 12
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 39.0,
+      "t": 464.0,
+      "r": 90.0,
+      "b": 473.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司董秘：江涛",
+    "md": "公司董秘：江涛",
+    "file_id": "资产负债表",
+    "element_id": 13
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 480.0,
+      "r": 125.0,
+      "b": 489.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "传真：0551-65331802",
+    "md": "传真：0551-65331802",
+    "file_id": "资产负债表",
+    "element_id": 14
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 39.0,
+      "t": 495.0,
+      "r": 125.0,
+      "b": 504.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "联系电话：0551-67892230",
+    "md": "联系电话：0551-67892230",
+    "file_id": "资产负债表",
+    "element_id": 15
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 39.0,
+      "t": 511.0,
+      "r": 140.0,
+      "b": 521.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "电子邮箱：taojiang@iflytek.com",
+    "md": "电子邮箱：taojiang@iflytek.com",
+    "file_id": "资产负债表",
+    "element_id": 16
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 39.0,
+      "t": 526.0,
+      "r": 181.0,
+      "b": 536.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司地址：安徽省合肥市高新开发区望江西路",
+    "md": "公司地址：安徽省合肥市高新开发区望江西路",
+    "file_id": "资产负债表",
+    "element_id": 17
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 75.0,
+      "t": 537.0,
+      "r": 95.0,
+      "b": 546.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "666号",
+    "md": "666号",
+    "file_id": "资产负债表",
+    "element_id": 18
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 1,
+    "textLevel": 1,
+    "bBox": {
+      "l": 231.0,
+      "t": 119.0,
+      "r": 273.0,
+      "b": 131.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "财务信息",
+    "md": "财务信息",
+    "file_id": "资产负债表",
+    "element_id": 19
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 233.0,
+      "t": 161.0,
+      "r": 275.0,
+      "b": 171.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "主要财务指标",
+    "md": "主要财务指标",
+    "file_id": "资产负债表",
+    "element_id": 20
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 302.0,
+      "t": 161.0,
+      "r": 360.0,
+      "b": 171.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "利润及利润分配表",
+    "md": "利润及利润分配表",
+    "file_id": "资产负债表",
+    "element_id": 21
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 386.0,
+      "t": 161.0,
+      "r": 422.0,
+      "b": 171.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "现金流量表",
+    "md": "现金流量表",
+    "file_id": "资产负债表",
+    "element_id": 22
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 447.0,
+      "t": 161.0,
+      "r": 484.0,
+      "b": 171.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "资产负债表",
+    "md": "资产负债表",
+    "file_id": "资产负债表",
+    "element_id": 23
+  },
+  {
+    "page": 1,
+    "type": "table",
+    "bBox": {
+      "l": 223.0,
+      "t": 191.0,
+      "r": 569.0,
+      "b": 490.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "指标",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "2025年三季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "2024年三季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "资产类科目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "货币资金(万元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "315062.81",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 1
+        },
+        {
+          "text": "275081",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "流动资产(万元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "2491518.27",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 1
+        },
+        {
+          "text": "2262804.68",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "非流动资产(万元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "1837314.17",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 1
+        },
+        {
+          "text": "1750459.98",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "总资产(万元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "4328832.44",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 1
+        },
+        {
+          "text": "4013264.66",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "负债类科目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "流动负债(万元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 0
+        },
+        {
+          "text": "1678370.51",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 1
+        },
+        {
+          "text": "1430822.36",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "长期借款(万元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 0
+        },
+        {
+          "text": "395225.5",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 1
+        },
+        {
+          "text": "598569.01",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "非流动负债(万元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 0
+        },
+        {
+          "text": "763422.13",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 1
+        },
+        {
+          "text": "871546.77",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "总负债(万元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 0
+        },
+        {
+          "text": "2441792.64",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 1
+        },
+        {
+          "text": "2302369.13",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "股东权益类科目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "实收资本(或股本)(万元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 0
+        },
+        {
+          "text": "231169.26",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 1
+        },
+        {
+          "text": "231173.42",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "未分配利润(万元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 0
+        },
+        {
+          "text": "525513.76",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 1
+        },
+        {
+          "text": "479640.98",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "所有者权益(万元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 0
+        },
+        {
+          "text": "1887039.81",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 1
+        },
+        {
+          "text": "1710895.53",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 2
+        }
+      ]
+    ],
+    "html": "<table><tr><td>指标</td><td>2025年三季报</td><td>2024年三季报</td></tr><tr><td>资产类科目</td><td></td><td></td></tr><tr><td>货币资金(万元)</td><td>315062.81</td><td>275081</td></tr><tr><td>流动资产(万元)</td><td>2491518.27</td><td>2262804.68</td></tr><tr><td>非流动资产(万元)</td><td>1837314.17</td><td>1750459.98</td></tr><tr><td>总资产(万元)</td><td>4328832.44</td><td>4013264.66</td></tr><tr><td>负债类科目</td><td></td><td></td></tr><tr><td>流动负债(万元)</td><td>1678370.51</td><td>1430822.36</td></tr><tr><td>长期借款(万元)</td><td>395225.5</td><td>598569.01</td></tr><tr><td>非流动负债(万元)</td><td>763422.13</td><td>871546.77</td></tr><tr><td>总负债(万元)</td><td>2441792.64</td><td>2302369.13</td></tr><tr><td>股东权益类科目</td><td></td><td></td></tr><tr><td>实收资本(或股本)(万元)</td><td>231169.26</td><td>231173.42</td></tr><tr><td>未分配利润(万元)</td><td>525513.76</td><td>479640.98</td></tr><tr><td>所有者权益(万元)</td><td>1887039.81</td><td>1710895.53</td></tr></table>",
+    "md": "| 指标 | 2025年三季报 | 2024年三季报 |\n| --- | --- | --- |\n| 资产类科目 |  |  |\n| 货币资金(万元) | 315062.81 | 275081 |\n| 流动资产(万元) | 2491518.27 | 2262804.68 |\n| 非流动资产(万元) | 1837314.17 | 1750459.98 |\n| 总资产(万元) | 4328832.44 | 4013264.66 |\n| 负债类科目 |  |  |\n| 流动负债(万元) | 1678370.51 | 1430822.36 |\n| 长期借款(万元) | 395225.5 | 598569.01 |\n| 非流动负债(万元) | 763422.13 | 871546.77 |\n| 总负债(万元) | 2441792.64 | 2302369.13 |\n| 股东权益类科目 |  |  |\n| 实收资本(或股本)(万元) | 231169.26 | 231173.42 |\n| 未分配利润(万元) | 525513.76 | 479640.98 |\n| 所有者权益(万元) | 1887039.81 | 1710895.53 |",
+    "perfectTable": false,
+    "img_path": "images/a1dfb66cdb47dbce284c0bd4fe672498d29cac4dc9af7906cf3f07a8c96e7fce.jpg",
+    "file_id": "资产负债表",
+    "table_type": "合并资产负债表",
+    "two_d_data": {
+      "2025年三季报": {
+        "资产类科目": "",
+        "货币资金(万元)": 315062.81,
+        "流动资产(万元)": 2491518.27,
+        "非流动资产(万元)": 1837314.17,
+        "总资产(万元)": 4328832.44,
+        "负债类科目": "",
+        "流动负债(万元)": 1678370.51,
+        "长期借款(万元)": 395225.5,
+        "非流动负债(万元)": 763422.13,
+        "总负债(万元)": 2441792.64,
+        "股东权益类科目": "",
+        "实收资本(或股本)(万元)": 231169.26,
+        "未分配利润(万元)": 525513.76,
+        "所有者权益(万元)": 1887039.81
+      },
+      "2024年三季报": {
+        "资产类科目": "",
+        "货币资金(万元)": 275081.0,
+        "流动资产(万元)": 2262804.68,
+        "非流动资产(万元)": 1750459.98,
+        "总资产(万元)": 4013264.66,
+        "负债类科目": "",
+        "流动负债(万元)": 1430822.36,
+        "长期借款(万元)": 598569.01,
+        "非流动负债(万元)": 871546.77,
+        "总负债(万元)": 2302369.13,
+        "股东权益类科目": "",
+        "实收资本(或股本)(万元)": 231173.42,
+        "未分配利润(万元)": 479640.98,
+        "所有者权益(万元)": 1710895.53
+      }
+    },
+    "standard2D": true,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "指标",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "2025年三季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "2024年三季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        }
+      ]
+    ],
+    "element_id": 24
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 156.0,
+      "t": 50.0,
+      "r": 178.0,
+      "b": 70.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "X",
+    "md": "X",
+    "file_id": "资产负债表",
+    "element_id": 25
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 180.0,
+      "t": 51.0,
+      "r": 220.0,
+      "b": 61.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "科大讯飞",
+    "md": "科大讯飞",
+    "file_id": "资产负债表",
+    "element_id": 26
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 180.0,
+      "t": 61.0,
+      "r": 219.0,
+      "b": 67.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "IFLYTEK",
+    "md": "IFLYTEK",
+    "file_id": "资产负债表",
+    "element_id": 27
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 225.0,
+      "t": 51.0,
+      "r": 280.0,
+      "b": 62.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "投资者关系",
+    "md": "投资者关系",
+    "file_id": "资产负债表",
+    "element_id": 28
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 226.0,
+      "t": 62.0,
+      "r": 278.0,
+      "b": 69.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "INVESTOR RELATIONS",
+    "md": "INVESTOR RELATIONS",
+    "file_id": "资产负债表",
+    "element_id": 29
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 60.0,
+      "t": 590.0,
+      "r": 90.0,
+      "b": 600.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "技术支持",
+    "md": "技术支持",
+    "file_id": "资产负债表",
+    "element_id": 30
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 117.0,
+      "t": 590.0,
+      "r": 162.0,
+      "b": 599.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "400=830=3630",
+    "md": "400=830=3630",
+    "file_id": "资产负债表",
+    "element_id": 31
+  }
+]

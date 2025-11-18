@@ -1,0 +1,2869 @@
+[
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 19.0,
+      "t": 92.0,
+      "r": 447.0,
+      "b": 106.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "股份發行人及根據《上市規則》第十九B章上市的香港預託證券發行人的證券變動月報表",
+    "md": "股份發行人及根據《上市規則》第十九B章上市的香港預託證券發行人的證券變動月報表",
+    "file_id": "药明康德：H股公告",
+    "element_id": 1
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 19.0,
+      "t": 127.0,
+      "r": 278.0,
+      "b": 145.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "截至月份： 2025年10月31日",
+    "md": "截至月份： 2025年10月31日",
+    "file_id": "药明康德：H股公告",
+    "element_id": 2
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 625.0,
+      "t": 127.0,
+      "r": 797.0,
+      "b": 145.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "狀態：新提交",
+    "md": "狀態：新提交",
+    "file_id": "药明康德：H股公告",
+    "element_id": 3
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 19.0,
+      "t": 154.0,
+      "r": 147.0,
+      "b": 165.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "致：香港交易及結算所有限公司",
+    "md": "致：香港交易及結算所有限公司",
+    "file_id": "药明康德：H股公告",
+    "element_id": 4
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 19.0,
+      "t": 178.0,
+      "r": 279.0,
+      "b": 190.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司名稱：無錫藥明康德新藥開發股份有限公司",
+    "md": "公司名稱：無錫藥明康德新藥開發股份有限公司",
+    "file_id": "药明康德：H股公告",
+    "element_id": 5
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 19.0,
+      "t": 200.0,
+      "r": 278.0,
+      "b": 216.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "呈交日期： 2025年11月4日",
+    "md": "呈交日期： 2025年11月4日",
+    "file_id": "药明康德：H股公告",
+    "element_id": 6
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 20.0,
+      "t": 227.0,
+      "r": 114.0,
+      "b": 239.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "I.法定/註冊股本變動",
+    "md": "I.法定/註冊股本變動",
+    "file_id": "药明康德：H股公告",
+    "element_id": 7
+  },
+  {
+    "page": 1,
+    "type": "table",
+    "bBox": {
+      "l": 17.0,
+      "t": 249.0,
+      "r": 797.0,
+      "b": 362.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "1.股份分類",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "普通股",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "股份類別",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "於香港聯交所上市(註1)",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 7
+        },
+        {
+          "text": "是",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "證券代號(如上市)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "02359",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "說明",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 7,
+          "rowstart": 1,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "法定/註冊股份數目",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "面值",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 5
+        },
+        {
+          "text": "法定/註冊股本",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 8
+        }
+      ],
+      [
+        {
+          "text": "上月底結存",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "492,412,308",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 3,
+          "colstart": 2
+        },
+        {
+          "text": "RMB",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 5
+        },
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 3,
+          "colstart": 6
+        },
+        {
+          "text": "RMB",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 8
+        },
+        {
+          "text": "492,412,308",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 3,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "增加/減少(-)",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "18,064,601",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 4,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 4,
+          "colstart": 5
+        },
+        {
+          "text": "RMB",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 8
+        },
+        {
+          "text": "18,064,601",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 4,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "本月底結存",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "510,476,909",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 5,
+          "colstart": 2
+        },
+        {
+          "text": "RMB",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 5
+        },
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 5,
+          "colstart": 6
+        },
+        {
+          "text": "RMB",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 8
+        },
+        {
+          "text": "510,476,909",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 5,
+          "colstart": 9
+        }
+      ]
+    ],
+    "html": "<table><tr><td>1.股份分類</td><td colspan=\"2\">普通股</td><td>股份類別</td><td colspan=\"3\">H</td><td colspan=\"2\">於香港聯交所上市(註1)</td><td>是</td><td></td></tr><tr><td>證券代號(如上市)</td><td colspan=\"2\">02359</td><td>說明</td><td colspan=\"7\"></td></tr><tr><td colspan=\"2\"></td><td colspan=\"3\">法定/註冊股份數目</td><td colspan=\"3\">面值</td><td colspan=\"3\">法定/註冊股本</td></tr><tr><td colspan=\"2\">上月底結存</td><td colspan=\"3\">492,412,308</td><td>RMB</td><td colspan=\"2\">1</td><td>RMB</td><td colspan=\"2\">492,412,308</td></tr><tr><td colspan=\"2\">增加/減少(-)</td><td colspan=\"3\">18,064,601</td><td colspan=\"3\"></td><td>RMB</td><td colspan=\"2\">18,064,601</td></tr><tr><td colspan=\"2\">本月底結存</td><td colspan=\"3\">510,476,909</td><td>RMB</td><td colspan=\"2\">1</td><td>RMB</td><td colspan=\"2\">510,476,909</td></tr></table>",
+    "md": "| 1.股份分類 | 普通股 | 普通股 | 股份類別 | H | H | H | 於香港聯交所上市(註1) | 於香港聯交所上市(註1) | 是 |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 證券代號(如上市) | 02359 | 02359 | 說明 |  |  |  |  |  |  |  |\n|  |  | 法定/註冊股份數目 | 法定/註冊股份數目 | 法定/註冊股份數目 | 面值 | 面值 | 面值 | 法定/註冊股本 | 法定/註冊股本 | 法定/註冊股本 |\n| 上月底結存 | 上月底結存 | 492,412,308 | 492,412,308 | 492,412,308 | RMB | 1 | 1 | RMB | 492,412,308 | 492,412,308 |\n| 增加/減少(-) | 增加/減少(-) | 18,064,601 | 18,064,601 | 18,064,601 |  |  |  | RMB | 18,064,601 | 18,064,601 |\n| 本月底結存 | 本月底結存 | 510,476,909 | 510,476,909 | 510,476,909 | RMB | 1 | 1 | RMB | 510,476,909 | 510,476,909 |",
+    "perfectTable": false,
+    "img_path": "images/108f86cdf11d75d2f8ad785f15c061e4b1478223a99e0de354ee187dc6ef5cd9.jpg",
+    "file_id": "药明康德：H股公告",
+    "table_type": "其他表",
+    "standard2D": false,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "1.股份分類",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "普通股",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "股份類別",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "於香港聯交所上市(註1)",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 7
+        },
+        {
+          "text": "是",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "證券代號(如上市)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "02359",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "說明",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 7,
+          "rowstart": 1,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "法定/註冊股份數目",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "面值",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 5
+        },
+        {
+          "text": "法定/註冊股本",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 8
+        }
+      ]
+    ],
+    "element_id": 8
+  },
+  {
+    "page": 1,
+    "type": "table",
+    "bBox": {
+      "l": 17.0,
+      "t": 372.0,
+      "r": 797.0,
+      "b": 484.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "2.股份分類",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "普通股",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "股份類別",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "A",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "於香港聯交所上市(註1)",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 7
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "證券代號(如上市)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "603259",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "說明",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "於上海證券交易所上市",
+          "rowspan": 1,
+          "colspan": 7,
+          "rowstart": 1,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "法定/註冊股份數目",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "面值",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 5
+        },
+        {
+          "text": "法定/註冊股本",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 8
+        }
+      ],
+      [
+        {
+          "text": "上月底結存",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "2,473,280,246",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 3,
+          "colstart": 2
+        },
+        {
+          "text": "RMB",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 5
+        },
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 3,
+          "colstart": 6
+        },
+        {
+          "text": "RMB",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 8
+        },
+        {
+          "text": "2,473,280,246",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 3,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "增加/減少(-)",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "0",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 4,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 4,
+          "colstart": 5
+        },
+        {
+          "text": "RMB",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 8
+        },
+        {
+          "text": "0",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 4,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "本月底結存",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "2,473,280,246",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 5,
+          "colstart": 2
+        },
+        {
+          "text": "RMB",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 5
+        },
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 5,
+          "colstart": 6
+        },
+        {
+          "text": "RMB",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 8
+        },
+        {
+          "text": "2,473,280,246",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 5,
+          "colstart": 9
+        }
+      ]
+    ],
+    "html": "<table><tr><td>2.股份分類</td><td colspan=\"2\">普通股</td><td>股份類別</td><td colspan=\"3\">A</td><td colspan=\"2\">於香港聯交所上市(註1)</td><td>否</td><td></td></tr><tr><td>證券代號(如上市)</td><td colspan=\"2\">603259</td><td>說明</td><td colspan=\"7\">於上海證券交易所上市</td></tr><tr><td colspan=\"2\"></td><td colspan=\"3\">法定/註冊股份數目</td><td colspan=\"3\">面值</td><td colspan=\"3\">法定/註冊股本</td></tr><tr><td colspan=\"2\">上月底結存</td><td colspan=\"3\">2,473,280,246</td><td>RMB</td><td colspan=\"2\">1</td><td>RMB</td><td colspan=\"2\">2,473,280,246</td></tr><tr><td colspan=\"2\">增加/減少(-)</td><td colspan=\"3\">0</td><td colspan=\"3\"></td><td>RMB</td><td colspan=\"2\">0</td></tr><tr><td colspan=\"2\">本月底結存</td><td colspan=\"3\">2,473,280,246</td><td>RMB</td><td colspan=\"2\">1</td><td>RMB</td><td colspan=\"2\">2,473,280,246</td></tr></table>",
+    "md": "| 2.股份分類 | 普通股 | 普通股 | 股份類別 | A | A | A | 於香港聯交所上市(註1) | 於香港聯交所上市(註1) | 否 |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 證券代號(如上市) | 603259 | 603259 | 說明 | 於上海證券交易所上市 | 於上海證券交易所上市 | 於上海證券交易所上市 | 於上海證券交易所上市 | 於上海證券交易所上市 | 於上海證券交易所上市 | 於上海證券交易所上市 |\n|  |  | 法定/註冊股份數目 | 法定/註冊股份數目 | 法定/註冊股份數目 | 面值 | 面值 | 面值 | 法定/註冊股本 | 法定/註冊股本 | 法定/註冊股本 |\n| 上月底結存 | 上月底結存 | 2,473,280,246 | 2,473,280,246 | 2,473,280,246 | RMB | 1 | 1 | RMB | 2,473,280,246 | 2,473,280,246 |\n| 增加/減少(-) | 增加/減少(-) | 0 | 0 | 0 |  |  |  | RMB | 0 | 0 |\n| 本月底結存 | 本月底結存 | 2,473,280,246 | 2,473,280,246 | 2,473,280,246 | RMB | 1 | 1 | RMB | 2,473,280,246 | 2,473,280,246 |",
+    "perfectTable": false,
+    "img_path": "images/8236477cd1d31ba5bfec9cfc6b2982a9b48bc83e967d4b409d92d6693ff11255.jpg",
+    "file_id": "药明康德：H股公告",
+    "table_type": "其他表",
+    "standard2D": false,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "2.股份分類",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "普通股",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "股份類別",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "A",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "於香港聯交所上市(註1)",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 7
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "證券代號(如上市)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "603259",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "說明",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "於上海證券交易所上市",
+          "rowspan": 1,
+          "colspan": 7,
+          "rowstart": 1,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "法定/註冊股份數目",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "面值",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 5
+        },
+        {
+          "text": "法定/註冊股本",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 8
+        }
+      ]
+    ],
+    "element_id": 9
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 409.0,
+      "t": 499.0,
+      "r": 723.0,
+      "b": 512.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "本月底法定/註冊股本總額： RMB 2,983,757,155",
+    "md": "本月底法定/註冊股本總額： RMB 2,983,757,155",
+    "file_id": "药明康德：H股公告",
+    "element_id": 10
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 19.0,
+      "t": 516.0,
+      "r": 44.0,
+      "b": 528.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "備註：",
+    "md": "備註：",
+    "file_id": "药明康德：H股公告",
+    "element_id": 11
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 758.0,
+      "t": 18.0,
+      "r": 787.0,
+      "b": 29.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "FF301",
+    "md": "FF301",
+    "file_id": "药明康德：H股公告",
+    "element_id": 12
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 25.0,
+      "t": 42.0,
+      "r": 93.0,
+      "b": 59.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "HKEX",
+    "md": "HKEX",
+    "file_id": "药明康德：H股公告",
+    "element_id": 13
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 25.0,
+      "t": 61.0,
+      "r": 92.0,
+      "b": 71.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "香港交易所",
+    "md": "香港交易所",
+    "file_id": "药明康德：H股公告",
+    "element_id": 14
+  },
+  {
+    "page": 1,
+    "type": "page_number",
+    "bBox": {
+      "l": 387.0,
+      "t": 537.0,
+      "r": 451.0,
+      "b": 549.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第1頁共11頁",
+    "md": "第1頁共11頁",
+    "file_id": "药明康德：H股公告",
+    "element_id": 15
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 759.0,
+      "t": 538.0,
+      "r": 787.0,
+      "b": 548.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "v 1.1.1",
+    "md": "v 1.1.1",
+    "file_id": "药明康德：H股公告",
+    "element_id": 16
+  },
+  {
+    "page": 2,
+    "type": "list",
+    "sub_type": "text",
+    "list_items": [
+      "(1)由於無錫藥明康德新藥開發股份有限公司(「本公司」)在中華人民共和國註冊成立，“法定股本”的概念並不適用。第Ⅰ部分所載資料是指本公司的“已發行股本”。",
+      "(2)於2025年10月10日，因轉換500,000,000美元於2025年到期之零息有擔保可轉換債券而發行18,064,601股H股。"
+    ],
+    "md": "(1)由於無錫藥明康德新藥開發股份有限公司(「本公司」)在中華人民共和國註冊成立，“法定股本”的概念並不適用。第Ⅰ部分所載資料是指本公司的“已發行股本”。\n(2)於2025年10月10日，因轉換500,000,000美元於2025年到期之零息有擔保可轉換債券而發行18,064,601股H股。",
+    "value": "(1)由於無錫藥明康德新藥開發股份有限公司(「本公司」)在中華人民共和國註冊成立，“法定股本”的概念並不適用。第Ⅰ部分所載資料是指本公司的“已發行股本”。\n(2)於2025年10月10日，因轉換500,000,000美元於2025年到期之零息有擔保可轉換債券而發行18,064,601股H股。",
+    "bBox": {
+      "l": 19.0,
+      "t": 36.0,
+      "r": 675.0,
+      "b": 71.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "file_id": "药明康德：H股公告",
+    "element_id": 17
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 758.0,
+      "t": 18.0,
+      "r": 787.0,
+      "b": 29.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "FF301",
+    "md": "FF301",
+    "file_id": "药明康德：H股公告",
+    "element_id": 18
+  },
+  {
+    "page": 2,
+    "type": "page_number",
+    "bBox": {
+      "l": 388.0,
+      "t": 537.0,
+      "r": 452.0,
+      "b": 549.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第2頁共11頁",
+    "md": "第2頁共11頁",
+    "file_id": "药明康德：H股公告",
+    "element_id": 19
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 760.0,
+      "t": 538.0,
+      "r": 787.0,
+      "b": 548.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "v 1.1.1",
+    "md": "v 1.1.1",
+    "file_id": "药明康德：H股公告",
+    "element_id": 20
+  },
+  {
+    "page": 3,
+    "type": "table",
+    "bBox": {
+      "l": 17.0,
+      "t": 68.0,
+      "r": 797.0,
+      "b": 181.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "1.股份分類",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "普通股",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "股份類別",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "於香港聯交所上市(註1)",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 6
+        },
+        {
+          "text": "是",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "證券代號(如上市)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "02359",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "說明",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 6,
+          "rowstart": 1,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "已發行股份(不包括庫存股份)數目",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "庫存股份數目",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 5
+        },
+        {
+          "text": "已發行股份總數",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 7
+        }
+      ],
+      [
+        {
+          "text": "上月底結存",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "492,412,308",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 3,
+          "colstart": 2
+        },
+        {
+          "text": "0",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 3,
+          "colstart": 5
+        },
+        {
+          "text": "492,412,308",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 3,
+          "colstart": 7
+        }
+      ],
+      [
+        {
+          "text": "增加/減少(-)",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "18,064,601",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 4,
+          "colstart": 2
+        },
+        {
+          "text": "0",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 4,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 4,
+          "colstart": 7
+        }
+      ],
+      [
+        {
+          "text": "本月底結存",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "510,476,909",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 5,
+          "colstart": 2
+        },
+        {
+          "text": "0",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 5,
+          "colstart": 5
+        },
+        {
+          "text": "510,476,909",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 5,
+          "colstart": 7
+        }
+      ]
+    ],
+    "html": "<table><tr><td>1.股份分類</td><td colspan=\"2\">普通股</td><td>股份類別</td><td colspan=\"2\">H</td><td colspan=\"2\">於香港聯交所上市(註1)</td><td>是</td><td></td></tr><tr><td>證券代號(如上市)</td><td colspan=\"2\">02359</td><td>說明</td><td colspan=\"6\"></td></tr><tr><td colspan=\"2\"></td><td colspan=\"3\">已發行股份(不包括庫存股份)數目</td><td colspan=\"2\">庫存股份數目</td><td colspan=\"3\">已發行股份總數</td></tr><tr><td colspan=\"2\">上月底結存</td><td colspan=\"3\">492,412,308</td><td colspan=\"2\">0</td><td colspan=\"3\">492,412,308</td></tr><tr><td colspan=\"2\">增加/減少(-)</td><td colspan=\"3\">18,064,601</td><td colspan=\"2\">0</td><td colspan=\"3\"></td></tr><tr><td colspan=\"2\">本月底結存</td><td colspan=\"3\">510,476,909</td><td colspan=\"2\">0</td><td colspan=\"3\">510,476,909</td></tr></table>",
+    "md": "| 1.股份分類 | 普通股 | 普通股 | 股份類別 | H | H | 於香港聯交所上市(註1) | 於香港聯交所上市(註1) | 是 |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 證券代號(如上市) | 02359 | 02359 | 說明 |  |  |  |  |  |  |\n|  |  | 已發行股份(不包括庫存股份)數目 | 已發行股份(不包括庫存股份)數目 | 已發行股份(不包括庫存股份)數目 | 庫存股份數目 | 庫存股份數目 | 已發行股份總數 | 已發行股份總數 | 已發行股份總數 |\n| 上月底結存 | 上月底結存 | 492,412,308 | 492,412,308 | 492,412,308 | 0 | 0 | 492,412,308 | 492,412,308 | 492,412,308 |\n| 增加/減少(-) | 增加/減少(-) | 18,064,601 | 18,064,601 | 18,064,601 | 0 | 0 |  |  |  |\n| 本月底結存 | 本月底結存 | 510,476,909 | 510,476,909 | 510,476,909 | 0 | 0 | 510,476,909 | 510,476,909 | 510,476,909 |",
+    "perfectTable": false,
+    "table_caption": [
+      "II. 已發行股份及/或庫存股份變動"
+    ],
+    "img_path": "images/77eaaf737d2cfea6e5062d18d8f93578914527eb4cbc6190a66116cb25be7a03.jpg",
+    "file_id": "药明康德：H股公告",
+    "table_type": "股东持股情况表",
+    "standard2D": false,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "1.股份分類",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "普通股",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "股份類別",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "於香港聯交所上市(註1)",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 6
+        },
+        {
+          "text": "是",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "證券代號(如上市)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "02359",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "說明",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 6,
+          "rowstart": 1,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "已發行股份(不包括庫存股份)數目",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "庫存股份數目",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 5
+        },
+        {
+          "text": "已發行股份總數",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 7
+        }
+      ]
+    ],
+    "element_id": 21
+  },
+  {
+    "page": 3,
+    "type": "table",
+    "bBox": {
+      "l": 17.0,
+      "t": 192.0,
+      "r": 797.0,
+      "b": 305.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "2.股份分類",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "普通股",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "股份類別",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "A",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "於香港聯交所上市(註1)",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 6
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "證券代號(如上市)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "603259",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "說明",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "於上海證券交易所上市",
+          "rowspan": 1,
+          "colspan": 6,
+          "rowstart": 1,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "已發行股份(不包括庫存股份)數目",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "庫存股份數目",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 5
+        },
+        {
+          "text": "已發行股份總數",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 7
+        }
+      ],
+      [
+        {
+          "text": "上月底結存",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "2,473,280,246",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 3,
+          "colstart": 2
+        },
+        {
+          "text": "0",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 3,
+          "colstart": 5
+        },
+        {
+          "text": "2,473,280,246",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 3,
+          "colstart": 7
+        }
+      ],
+      [
+        {
+          "text": "增加/減少(-)",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "0",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 4,
+          "colstart": 2
+        },
+        {
+          "text": "0",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 4,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 4,
+          "colstart": 7
+        }
+      ],
+      [
+        {
+          "text": "本月底結存",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "2,473,280,246",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 5,
+          "colstart": 2
+        },
+        {
+          "text": "0",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 5,
+          "colstart": 5
+        },
+        {
+          "text": "2,473,280,246",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 5,
+          "colstart": 7
+        }
+      ]
+    ],
+    "html": "<table><tr><td>2.股份分類</td><td colspan=\"2\">普通股</td><td>股份類別</td><td colspan=\"2\">A</td><td colspan=\"2\">於香港聯交所上市(註1)</td><td>否</td><td></td></tr><tr><td>證券代號(如上市)</td><td colspan=\"2\">603259</td><td>說明</td><td colspan=\"6\">於上海證券交易所上市</td></tr><tr><td colspan=\"2\"></td><td colspan=\"3\">已發行股份(不包括庫存股份)數目</td><td colspan=\"2\">庫存股份數目</td><td colspan=\"3\">已發行股份總數</td></tr><tr><td colspan=\"2\">上月底結存</td><td colspan=\"3\">2,473,280,246</td><td colspan=\"2\">0</td><td colspan=\"3\">2,473,280,246</td></tr><tr><td colspan=\"2\">增加/減少(-)</td><td colspan=\"3\">0</td><td colspan=\"2\">0</td><td colspan=\"3\"></td></tr><tr><td colspan=\"2\">本月底結存</td><td colspan=\"3\">2,473,280,246</td><td colspan=\"2\">0</td><td colspan=\"3\">2,473,280,246</td></tr></table>",
+    "md": "| 2.股份分類 | 普通股 | 普通股 | 股份類別 | A | A | 於香港聯交所上市(註1) | 於香港聯交所上市(註1) | 否 |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 證券代號(如上市) | 603259 | 603259 | 說明 | 於上海證券交易所上市 | 於上海證券交易所上市 | 於上海證券交易所上市 | 於上海證券交易所上市 | 於上海證券交易所上市 | 於上海證券交易所上市 |\n|  |  | 已發行股份(不包括庫存股份)數目 | 已發行股份(不包括庫存股份)數目 | 已發行股份(不包括庫存股份)數目 | 庫存股份數目 | 庫存股份數目 | 已發行股份總數 | 已發行股份總數 | 已發行股份總數 |\n| 上月底結存 | 上月底結存 | 2,473,280,246 | 2,473,280,246 | 2,473,280,246 | 0 | 0 | 2,473,280,246 | 2,473,280,246 | 2,473,280,246 |\n| 增加/減少(-) | 增加/減少(-) | 0 | 0 | 0 | 0 | 0 |  |  |  |\n| 本月底結存 | 本月底結存 | 2,473,280,246 | 2,473,280,246 | 2,473,280,246 | 0 | 0 | 2,473,280,246 | 2,473,280,246 | 2,473,280,246 |",
+    "perfectTable": false,
+    "table_footnote": [
+      "備註：",
+      "(1)由於無錫藥明康德新藥開發股份有限公司(「本公司」)在中華人民共和國註冊成立，“法定股本”的概念並不適用。第Ⅰ部分所載資料是指本公司的“已發行股本”。",
+      "(2)於2025年10月10日，因轉換500,000,000美元於2025年到期之零息有擔保可轉換債券而發行18,064,601股H股。"
+    ],
+    "img_path": "images/9d7cbd759e27a5bed150bc4f679f31017179609f34e4d8cbc93f86f35ee1167b.jpg",
+    "file_id": "药明康德：H股公告",
+    "table_type": "股东持股情况表",
+    "standard2D": false,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "2.股份分類",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "普通股",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "股份類別",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "A",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "於香港聯交所上市(註1)",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 6
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "證券代號(如上市)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "603259",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "說明",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "於上海證券交易所上市",
+          "rowspan": 1,
+          "colspan": 6,
+          "rowstart": 1,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "已發行股份(不包括庫存股份)數目",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "庫存股份數目",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 5
+        },
+        {
+          "text": "已發行股份總數",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 7
+        }
+      ]
+    ],
+    "element_id": 22
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 758.0,
+      "t": 18.0,
+      "r": 785.0,
+      "b": 27.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "FF301",
+    "md": "FF301",
+    "file_id": "药明康德：H股公告",
+    "element_id": 23
+  },
+  {
+    "page": 3,
+    "type": "page_number",
+    "bBox": {
+      "l": 387.0,
+      "t": 537.0,
+      "r": 451.0,
+      "b": 549.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第3頁共11頁",
+    "md": "第3頁共11頁",
+    "file_id": "药明康德：H股公告",
+    "element_id": 24
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 760.0,
+      "t": 538.0,
+      "r": 787.0,
+      "b": 548.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "v 1.1.1",
+    "md": "v 1.1.1",
+    "file_id": "药明康德：H股公告",
+    "element_id": 25
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "headingLevel": 1,
+    "textLevel": 1,
+    "bBox": {
+      "l": 20.0,
+      "t": 46.0,
+      "r": 188.0,
+      "b": 60.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "III.已發行股份及/或庫存股份變動詳情",
+    "md": "III.已發行股份及/或庫存股份變動詳情",
+    "file_id": "药明康德：H股公告",
+    "element_id": 26
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 23.0,
+      "t": 68.0,
+      "r": 237.0,
+      "b": 82.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "(A). 股份期權（根據發行人的股份期權計劃） 不適用",
+    "md": "(A). 股份期權（根據發行人的股份期權計劃） 不適用",
+    "file_id": "药明康德：H股公告",
+    "element_id": 27
+  },
+  {
+    "page": 4,
+    "type": "page_number",
+    "bBox": {
+      "l": 758.0,
+      "t": 18.0,
+      "r": 787.0,
+      "b": 29.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "FF301",
+    "md": "FF301",
+    "file_id": "药明康德：H股公告",
+    "element_id": 28
+  },
+  {
+    "page": 4,
+    "type": "page_number",
+    "bBox": {
+      "l": 387.0,
+      "t": 537.0,
+      "r": 452.0,
+      "b": 549.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第4頁共11頁",
+    "md": "第4頁共11頁",
+    "file_id": "药明康德：H股公告",
+    "element_id": 29
+  },
+  {
+    "page": 4,
+    "type": "page_number",
+    "bBox": {
+      "l": 759.0,
+      "t": 538.0,
+      "r": 787.0,
+      "b": 549.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "v 1.1.1",
+    "md": "v 1.1.1",
+    "file_id": "药明康德：H股公告",
+    "element_id": 30
+  },
+  {
+    "page": 6,
+    "type": "table",
+    "bBox": {
+      "l": 17.0,
+      "t": 54.0,
+      "r": 797.0,
+      "b": 238.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "1.股份分類",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "普通股",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "股份類別",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 5
+        },
+        {
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 7
+        },
+        {
+          "text": "於香港聯交所上市(註1)",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 0,
+          "colstart": 9
+        },
+        {
+          "text": "是",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 12
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 14
+        }
+      ],
+      [
+        {
+          "text": "證券代號(如上市)",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "02359",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "說明",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 1,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 7,
+          "rowstart": 1,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 14
+        }
+      ],
+      [
+        {
+          "text": "可換股票據的說明",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "發行貨幣",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 3
+        },
+        {
+          "text": "上月底已發行總額",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 4
+        },
+        {
+          "text": "本月內變動",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 6
+        },
+        {
+          "text": "本月底已發行總額",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 8
+        },
+        {
+          "text": "本月內因此發行的新股數目(C1)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 10
+        },
+        {
+          "text": "本月內因此自庫存轉讓的庫存股份數目(C2)",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 11
+        },
+        {
+          "text": "本月底因此可能發行或自庫存轉讓的股份數目",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 13
+        }
+      ],
+      [
+        {
+          "text": "1).",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "於2025年到期之零息有擔保可轉換債券",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 3,
+          "colstart": 1
+        },
+        {
+          "text": "USD",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 3
+        },
+        {
+          "text": "182,100,000",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 3,
+          "colstart": 4
+        },
+        {
+          "text": "已換股",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 6
+        },
+        {
+          "text": "-182,100,000",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 8
+        },
+        {
+          "text": "0",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 9
+        },
+        {
+          "text": "18,064,601",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 10
+        },
+        {
+          "text": "0",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 3,
+          "colstart": 11
+        },
+        {
+          "text": "0",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 13
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 14
+        }
+      ],
+      [
+        {
+          "text": "可換股票據類別",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "債券/票據",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 4,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 4,
+          "colspan": 8,
+          "rowstart": 4,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 14
+        }
+      ],
+      [
+        {
+          "text": "可換股票據的證券代號(如已於香港聯交所上市)(註1)",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "05265",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 5,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 14
+        }
+      ],
+      [
+        {
+          "text": "認購價/轉換價",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 6,
+          "colstart": 0
+        },
+        {
+          "text": "HKD 78.28",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 6,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 14
+        }
+      ],
+      [
+        {
+          "text": "股東大會通過日期(如適用)",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 7,
+          "colstart": 0
+        },
+        {
+          "text": "2025年4月29日",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 7,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 14
+        }
+      ]
+    ],
+    "html": "<table><tr><td colspan=\"2\">1.股份分類</td><td colspan=\"3\">普通股</td><td colspan=\"2\">股份類別</td><td colspan=\"2\">H</td><td colspan=\"3\">於香港聯交所上市(註1)</td><td colspan=\"2\">是</td><td></td></tr><tr><td colspan=\"2\">證券代號(如上市)</td><td colspan=\"3\">02359</td><td colspan=\"2\">說明</td><td colspan=\"7\"></td><td></td></tr><tr><td colspan=\"3\">可換股票據的說明</td><td>發行貨幣</td><td colspan=\"2\">上月底已發行總額</td><td colspan=\"2\">本月內變動</td><td colspan=\"2\">本月底已發行總額</td><td>本月內因此發行的新股數目(C1)</td><td colspan=\"2\">本月內因此自庫存轉讓的庫存股份數目(C2)</td><td colspan=\"2\">本月底因此可能發行或自庫存轉讓的股份數目</td></tr><tr><td>1).</td><td colspan=\"2\">於2025年到期之零息有擔保可轉換債券</td><td>USD</td><td colspan=\"2\">182,100,000</td><td>已換股</td><td>-182,100,000</td><td></td><td>0</td><td>18,064,601</td><td colspan=\"2\">0</td><td>0</td><td></td></tr><tr><td colspan=\"3\">可換股票據類別</td><td colspan=\"3\">債券/票據</td><td rowspan=\"4\" colspan=\"8\"></td><td></td></tr><tr><td colspan=\"3\">可換股票據的證券代號(如已於香港聯交所上市)(註1)</td><td colspan=\"3\">05265</td><td></td></tr><tr><td colspan=\"3\">認購價/轉換價</td><td colspan=\"3\">HKD                78.28</td><td></td></tr><tr><td colspan=\"3\">股東大會通過日期(如適用)</td><td colspan=\"3\">2025年4月29日</td><td></td></tr></table>",
+    "md": "| 1.股份分類 | 1.股份分類 | 普通股 | 普通股 | 普通股 | 股份類別 | 股份類別 | H | H | 於香港聯交所上市(註1) | 於香港聯交所上市(註1) | 於香港聯交所上市(註1) | 是 | 是 |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 證券代號(如上市) | 證券代號(如上市) | 02359 | 02359 | 02359 | 說明 | 說明 |  |  |  |  |  |  |  |  |\n| 可換股票據的說明 | 可換股票據的說明 | 可換股票據的說明 | 發行貨幣 | 上月底已發行總額 | 上月底已發行總額 | 本月內變動 | 本月內變動 | 本月底已發行總額 | 本月底已發行總額 | 本月內因此發行的新股數目(C1) | 本月內因此自庫存轉讓的庫存股份數目(C2) | 本月內因此自庫存轉讓的庫存股份數目(C2) | 本月底因此可能發行或自庫存轉讓的股份數目 | 本月底因此可能發行或自庫存轉讓的股份數目 |\n| 1). | 於2025年到期之零息有擔保可轉換債券 | 於2025年到期之零息有擔保可轉換債券 | USD | 182,100,000 | 182,100,000 | 已換股 | -182,100,000 |  | 0 | 18,064,601 | 0 | 0 | 0 |  |\n| 可換股票據類別 | 可換股票據類別 | 可換股票據類別 | 債券/票據 | 債券/票據 | 債券/票據 |  |  |  |  |  |  |  |  |  |\n| 可換股票據的證券代號(如已於香港聯交所上市)(註1) | 可換股票據的證券代號(如已於香港聯交所上市)(註1) | 可換股票據的證券代號(如已於香港聯交所上市)(註1) | 05265 | 05265 | 05265 |  |  |  |  |  |  |  |  |  |\n| 認購價/轉換價 | 認購價/轉換價 | 認購價/轉換價 | HKD 78.28 | HKD 78.28 | HKD 78.28 |  |  |  |  |  |  |  |  |  |\n| 股東大會通過日期(如適用) | 股東大會通過日期(如適用) | 股東大會通過日期(如適用) | 2025年4月29日 | 2025年4月29日 | 2025年4月29日 |  |  |  |  |  |  |  |  |  |",
+    "perfectTable": false,
+    "table_caption": [
+      "(C). 可換股票據 (即可轉換為發行人股份)"
+    ],
+    "table_footnote": [
+      "備註：",
+      "(1)於2025年10月10日，因轉換500,000,000美元於2025年到期之零息有擔保可轉換債券而發行18,064,601股H股。",
+      "(2)於2025年10月10日，所有未償還債券已根據債券條款及條件悉數轉換為本公司H股。因此，於2025年10月10日概無任何未償還的已發行債券。撤銷債券上市已於2025年10月20日的營業時間結束後生效。"
+    ],
+    "img_path": "images/37e0cfc4aee2d284b428a4e4904602e92f8dfe73fe3331412b65bef6975c429e.jpg",
+    "file_id": "药明康德：H股公告",
+    "table_type": "其他表",
+    "standard2D": false,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "1.股份分類",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "普通股",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "股份類別",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 5
+        },
+        {
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 7
+        },
+        {
+          "text": "於香港聯交所上市(註1)",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 0,
+          "colstart": 9
+        },
+        {
+          "text": "是",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 0,
+          "colstart": 12
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 14
+        }
+      ],
+      [
+        {
+          "text": "證券代號(如上市)",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "02359",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "說明",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 1,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 7,
+          "rowstart": 1,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 14
+        }
+      ],
+      [
+        {
+          "text": "可換股票據的說明",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "發行貨幣",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 3
+        },
+        {
+          "text": "上月底已發行總額",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 4
+        },
+        {
+          "text": "本月內變動",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 6
+        },
+        {
+          "text": "本月底已發行總額",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 8
+        },
+        {
+          "text": "本月內因此發行的新股數目(C1)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 10
+        },
+        {
+          "text": "本月內因此自庫存轉讓的庫存股份數目(C2)",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 11
+        },
+        {
+          "text": "本月底因此可能發行或自庫存轉讓的股份數目",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 2,
+          "colstart": 13
+        }
+      ]
+    ],
+    "element_id": 31
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 288.0,
+      "t": 253.0,
+      "r": 654.0,
+      "b": 268.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "增加已發行股份（不包括庫存股份）： 18,064,601 普通股H(CC1)",
+    "md": "增加已發行股份（不包括庫存股份）： 18,064,601 普通股H(CC1)",
+    "file_id": "药明康德：H股公告",
+    "element_id": 32
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 379.0,
+      "t": 274.0,
+      "r": 654.0,
+      "b": 290.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "减少库存股份： 0 普通股H(CC2)",
+    "md": "减少库存股份： 0 普通股H(CC2)",
+    "file_id": "药明康德：H股公告",
+    "element_id": 33
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 758.0,
+      "t": 18.0,
+      "r": 786.0,
+      "b": 28.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "FF301",
+    "md": "FF301",
+    "file_id": "药明康德：H股公告",
+    "element_id": 34
+  },
+  {
+    "page": 6,
+    "type": "page_number",
+    "bBox": {
+      "l": 387.0,
+      "t": 537.0,
+      "r": 451.0,
+      "b": 549.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第6頁共11頁",
+    "md": "第6頁共11頁",
+    "file_id": "药明康德：H股公告",
+    "element_id": 35
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 759.0,
+      "t": 538.0,
+      "r": 787.0,
+      "b": 548.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "v 1.1.1",
+    "md": "v 1.1.1",
+    "file_id": "药明康德：H股公告",
+    "element_id": 36
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 24.0,
+      "t": 35.0,
+      "r": 229.0,
+      "b": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "(E).已發行股份及/或庫存股份的其他變動 不適用",
+    "md": "(E).已發行股份及/或庫存股份的其他變動 不適用",
+    "file_id": "药明康德：H股公告",
+    "element_id": 37
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 136.0,
+      "t": 75.0,
+      "r": 660.0,
+      "b": 90.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "本月内合共增加/減少(-)已發行股份(不包括庫存股份)總額(即AA1至EE1項的總和): 18,064,601 普通股H",
+    "md": "本月内合共增加/減少(-)已發行股份(不包括庫存股份)總額(即AA1至EE1項的總和): 18,064,601 普通股H",
+    "file_id": "药明康德：H股公告",
+    "element_id": 38
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 219.0,
+      "t": 101.0,
+      "r": 659.0,
+      "b": 119.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "本月內合共增加/減少(-)庫存股份總額(即AA2至EE2項的總和): 0 普通股H",
+    "md": "本月內合共增加/減少(-)庫存股份總額(即AA2至EE2項的總和): 0 普通股H",
+    "file_id": "药明康德：H股公告",
+    "element_id": 39
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 758.0,
+      "t": 18.0,
+      "r": 787.0,
+      "b": 29.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "FF301",
+    "md": "FF301",
+    "file_id": "药明康德：H股公告",
+    "element_id": 40
+  },
+  {
+    "page": 8,
+    "type": "page_number",
+    "bBox": {
+      "l": 387.0,
+      "t": 537.0,
+      "r": 452.0,
+      "b": 549.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第8頁共11頁",
+    "md": "第8頁共11頁",
+    "file_id": "药明康德：H股公告",
+    "element_id": 41
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 759.0,
+      "t": 538.0,
+      "r": 787.0,
+      "b": 549.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "v 1.1.1",
+    "md": "v 1.1.1",
+    "file_id": "药明康德：H股公告",
+    "element_id": 42
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 20.0,
+      "t": 46.0,
+      "r": 193.0,
+      "b": 60.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "IV. 有關香港預託證券(預託證券)的資料",
+    "md": "IV. 有關香港預託證券(預託證券)的資料",
+    "file_id": "药明康德：H股公告",
+    "element_id": 43
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 318.0,
+      "t": 48.0,
+      "r": 347.0,
+      "b": 58.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "不適用",
+    "md": "不適用",
+    "file_id": "药明康德：H股公告",
+    "element_id": 44
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 758.0,
+      "t": 18.0,
+      "r": 786.0,
+      "b": 28.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "FF301",
+    "md": "FF301",
+    "file_id": "药明康德：H股公告",
+    "element_id": 45
+  },
+  {
+    "page": 9,
+    "type": "page_number",
+    "bBox": {
+      "l": 387.0,
+      "t": 537.0,
+      "r": 451.0,
+      "b": 549.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第9頁共11頁",
+    "md": "第9頁共11頁",
+    "file_id": "药明康德：H股公告",
+    "element_id": 46
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 759.0,
+      "t": 538.0,
+      "r": 787.0,
+      "b": 548.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "v 1.1.1",
+    "md": "v 1.1.1",
+    "file_id": "药明康德：H股公告",
+    "element_id": 47
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 20.0,
+      "t": 46.0,
+      "r": 54.0,
+      "b": 59.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "V. 確認",
+    "md": "V. 確認",
+    "file_id": "药明康德：H股公告",
+    "element_id": 48
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 19.0,
+      "t": 70.0,
+      "r": 785.0,
+      "b": 115.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "根據《主板上市規則》第13.25C條/《GEM上市規則》第17.27C條，我們在此確認，據我們所知所信，發行人在本月的每項證券發行或庫存股份出售或轉讓（如第III部及第IV部所述但未曾於根據《主板上市規則》第13.25A條/《GEM上市規則》第17.27A條所刊發的報表中披露）已獲發行人董事會正式授權批准，並遵照所有適用上市規則、法律及其他監管規定進行，並在適用的情況下：(註4)",
+    "md": "根據《主板上市規則》第13.25C條/《GEM上市規則》第17.27C條，我們在此確認，據我們所知所信，發行人在本月的每項證券發行或庫存股份出售或轉讓（如第III部及第IV部所述但未曾於根據《主板上市規則》第13.25A條/《GEM上市規則》第17.27A條所刊發的報表中披露）已獲發行人董事會正式授權批准，並遵照所有適用上市規則、法律及其他監管規定進行，並在適用的情況下：(註4)",
+    "file_id": "药明康德：H股公告",
+    "element_id": 49
+  },
+  {
+    "page": 10,
+    "type": "list",
+    "sub_type": "text",
+    "list_items": [
+      "(i) 上市發行人已收取其在是次證券發行或庫存股份出售或轉讓應得的全部款項；",
+      "(ii) 《香港聯合交易所有限公司證券上市規則》「上市資格」項下所規定有關上市的一切先決條件已全部履行；",
+      "(iii) 批准證券上市買賣的正式函件內所載的所有條件（如有）已予履行；",
+      "(iv) 每類證券在各方面均屬相同（註5）；",
+      "《公司（清盤及雜項條文）條例》規定送呈公司註冊處處長存檔的全部文件已經正式存檔，而一切其他法律規定亦已全部遵行；",
+      "(vi) 確實所有權文件按照發行、出售或轉讓條款的規定經已發送/現正準備發送/正在準備中並將會發送；",
+      "(vii) 發行人的上市文件所示已由其購買或同意購買的全部物業的交易已完成；全部該等物業的購買代價已予繳付；及",
+      "(viii) 有關債券、借貸股份、票據或公司債券的信託契約/平邊契據經已製備及簽署，有關詳情已送呈公司註冊處處長存檔（如法律如此規定）。"
+    ],
+    "md": "(i) 上市發行人已收取其在是次證券發行或庫存股份出售或轉讓應得的全部款項；\n(ii) 《香港聯合交易所有限公司證券上市規則》「上市資格」項下所規定有關上市的一切先決條件已全部履行；\n(iii) 批准證券上市買賣的正式函件內所載的所有條件（如有）已予履行；\n(iv) 每類證券在各方面均屬相同（註5）；\n《公司（清盤及雜項條文）條例》規定送呈公司註冊處處長存檔的全部文件已經正式存檔，而一切其他法律規定亦已全部遵行；\n(vi) 確實所有權文件按照發行、出售或轉讓條款的規定經已發送/現正準備發送/正在準備中並將會發送；\n(vii) 發行人的上市文件所示已由其購買或同意購買的全部物業的交易已完成；全部該等物業的購買代價已予繳付；及\n(viii) 有關債券、借貸股份、票據或公司債券的信託契約/平邊契據經已製備及簽署，有關詳情已送呈公司註冊處處長存檔（如法律如此規定）。",
+    "value": "(i) 上市發行人已收取其在是次證券發行或庫存股份出售或轉讓應得的全部款項；\n(ii) 《香港聯合交易所有限公司證券上市規則》「上市資格」項下所規定有關上市的一切先決條件已全部履行；\n(iii) 批准證券上市買賣的正式函件內所載的所有條件（如有）已予履行；\n(iv) 每類證券在各方面均屬相同（註5）；\n《公司（清盤及雜項條文）條例》規定送呈公司註冊處處長存檔的全部文件已經正式存檔，而一切其他法律規定亦已全部遵行；\n(vi) 確實所有權文件按照發行、出售或轉讓條款的規定經已發送/現正準備發送/正在準備中並將會發送；\n(vii) 發行人的上市文件所示已由其購買或同意購買的全部物業的交易已完成；全部該等物業的購買代價已予繳付；及\n(viii) 有關債券、借貸股份、票據或公司債券的信託契約/平邊契據經已製備及簽署，有關詳情已送呈公司註冊處處長存檔（如法律如此規定）。",
+    "bBox": {
+      "l": 19.0,
+      "t": 127.0,
+      "r": 593.0,
+      "b": 295.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "file_id": "药明康德：H股公告",
+    "element_id": 50
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 19.0,
+      "t": 328.0,
+      "r": 147.0,
+      "b": 341.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "呈交者： 張月芬",
+    "md": "呈交者： 張月芬",
+    "file_id": "药明康德：H股公告",
+    "element_id": 51
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 19.0,
+      "t": 350.0,
+      "r": 173.0,
+      "b": 362.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "職銜： 聯席公司秘書",
+    "md": "職銜： 聯席公司秘書",
+    "file_id": "药明康德：H股公告",
+    "element_id": 52
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 124.0,
+      "t": 369.0,
+      "r": 276.0,
+      "b": 381.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "(董事、秘書或其他獲正式授權的人員)",
+    "md": "(董事、秘書或其他獲正式授權的人員)",
+    "file_id": "药明康德：H股公告",
+    "element_id": 53
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 758.0,
+      "t": 18.0,
+      "r": 786.0,
+      "b": 28.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "FF301",
+    "md": "FF301",
+    "file_id": "药明康德：H股公告",
+    "element_id": 54
+  },
+  {
+    "page": 10,
+    "type": "page_number",
+    "bBox": {
+      "l": 387.0,
+      "t": 537.0,
+      "r": 456.0,
+      "b": 549.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第10頁共11頁",
+    "md": "第10頁共11頁",
+    "file_id": "药明康德：H股公告",
+    "element_id": 55
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 759.0,
+      "t": 538.0,
+      "r": 787.0,
+      "b": 548.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "v 1.1.1",
+    "md": "v 1.1.1",
+    "file_id": "药明康德：H股公告",
+    "element_id": 56
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 20.0,
+      "t": 37.0,
+      "r": 30.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "註",
+    "md": "註",
+    "file_id": "药明康德：H股公告",
+    "element_id": 57
+  },
+  {
+    "page": 11,
+    "type": "list",
+    "sub_type": "text",
+    "list_items": [
+      "1. 香港聯交所指香港聯合交易所有限公司。",
+      "2. 在購回股份（股份購回並註銷）及贖回股份（股份贖回並註銷）的情況下，「事件發生日期」應理解為「註銷日期」。"
+    ],
+    "md": "1. 香港聯交所指香港聯合交易所有限公司。\n2. 在購回股份（股份購回並註銷）及贖回股份（股份贖回並註銷）的情況下，「事件發生日期」應理解為「註銷日期」。",
+    "value": "1. 香港聯交所指香港聯合交易所有限公司。\n2. 在購回股份（股份購回並註銷）及贖回股份（股份贖回並註銷）的情況下，「事件發生日期」應理解為「註銷日期」。",
+    "bBox": {
+      "l": 20.0,
+      "t": 59.0,
+      "r": 542.0,
+      "b": 89.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "file_id": "药明康德：H股公告",
+    "element_id": 58
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 78.0,
+      "t": 95.0,
+      "r": 559.0,
+      "b": 107.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "在購回股份（股份被持作庫存股份）的情況下，「事件發生日期」應理解為「發行人購回並以庫存方式持有股份的日期」。",
+    "md": "在購回股份（股份被持作庫存股份）的情況下，「事件發生日期」應理解為「發行人購回並以庫存方式持有股份的日期」。",
+    "file_id": "药明康德：H股公告",
+    "element_id": 59
+  },
+  {
+    "page": 11,
+    "type": "list",
+    "sub_type": "text",
+    "list_items": [
+      "3. 在購回股份（股份購回擬註銷但尚未註銷）及贖回股份（股份贖回但尚未註銷）的情況下須提供相關資料。請用負數來註明於本月或早前月份購回或贖回但截至本月底尚待註銷的股份數目。",
+      "4. (i) 至 (viii) 項為確認內容的建議格式。上市發行人可按個別情況就不適用的項目予以修訂。如發行人早前已就某證券發行或庫存股份出售或轉讓於根據《主板上市規則》第13.25A條/《GEM上市規則》第17.27A條所刊發的報表中作出有關確認，則不需要於此報表再作確認。"
+    ],
+    "md": "3. 在購回股份（股份購回擬註銷但尚未註銷）及贖回股份（股份贖回但尚未註銷）的情況下須提供相關資料。請用負數來註明於本月或早前月份購回或贖回但截至本月底尚待註銷的股份數目。\n4. (i) 至 (viii) 項為確認內容的建議格式。上市發行人可按個別情況就不適用的項目予以修訂。如發行人早前已就某證券發行或庫存股份出售或轉讓於根據《主板上市規則》第13.25A條/《GEM上市規則》第17.27A條所刊發的報表中作出有關確認，則不需要於此報表再作確認。",
+    "value": "3. 在購回股份（股份購回擬註銷但尚未註銷）及贖回股份（股份贖回但尚未註銷）的情況下須提供相關資料。請用負數來註明於本月或早前月份購回或贖回但截至本月底尚待註銷的股份數目。\n4. (i) 至 (viii) 項為確認內容的建議格式。上市發行人可按個別情況就不適用的項目予以修訂。如發行人早前已就某證券發行或庫存股份出售或轉讓於根據《主板上市規則》第13.25A條/《GEM上市規則》第17.27A條所刊發的報表中作出有關確認，則不需要於此報表再作確認。",
+    "bBox": {
+      "l": 20.0,
+      "t": 117.0,
+      "r": 792.0,
+      "b": 167.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "file_id": "药明康德：H股公告",
+    "element_id": 60
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 20.0,
+      "t": 173.0,
+      "r": 146.0,
+      "b": 184.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "5. 在此「相同」指：",
+    "md": "5. 在此「相同」指：",
+    "file_id": "药明康德：H股公告",
+    "element_id": 61
+  },
+  {
+    "page": 11,
+    "type": "list",
+    "sub_type": "text",
+    "list_items": [
+      "證券的面值相同，須繳或繳足的股款亦相同；",
+      "證券有權領取同一期間內按同一息率計算的股息/利息，下次派息時每單位應獲派發的股息/利息額亦完全相同（總額及淨額）；及",
+      "證券附有相同權益，如不受限制的轉讓、出席會議及於會上投票，並在所有其他方面享有同等權益。"
+    ],
+    "md": "證券的面值相同，須繳或繳足的股款亦相同；\n證券有權領取同一期間內按同一息率計算的股息/利息，下次派息時每單位應獲派發的股息/利息額亦完全相同（總額及淨額）；及\n證券附有相同權益，如不受限制的轉讓、出席會議及於會上投票，並在所有其他方面享有同等權益。",
+    "value": "證券的面值相同，須繳或繳足的股款亦相同；\n證券有權領取同一期間內按同一息率計算的股息/利息，下次派息時每單位應獲派發的股息/利息額亦完全相同（總額及淨額）；及\n證券附有相同權益，如不受限制的轉讓、出席會議及於會上投票，並在所有其他方面享有同等權益。",
+    "bBox": {
+      "l": 80.0,
+      "t": 191.0,
+      "r": 617.0,
+      "b": 239.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "file_id": "药明康德：H股公告",
+    "element_id": 62
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 758.0,
+      "t": 18.0,
+      "r": 786.0,
+      "b": 29.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "FF301",
+    "md": "FF301",
+    "file_id": "药明康德：H股公告",
+    "element_id": 63
+  },
+  {
+    "page": 11,
+    "type": "page_number",
+    "bBox": {
+      "l": 387.0,
+      "t": 537.0,
+      "r": 456.0,
+      "b": 549.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第11頁共11頁",
+    "md": "第11頁共11頁",
+    "file_id": "药明康德：H股公告",
+    "element_id": 64
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 759.0,
+      "t": 538.0,
+      "r": 787.0,
+      "b": 548.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "v 1.1.1",
+    "md": "v 1.1.1",
+    "file_id": "药明康德：H股公告",
+    "element_id": 65
+  }
+]

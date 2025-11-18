@@ -1,0 +1,4488 @@
+[
+  {
+    "page": 1,
+    "type": "text",
+    "textLevel": 1,
+    "bBox": {
+      "l": 221.0,
+      "t": 77.0,
+      "r": 372.0,
+      "b": 94.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中信证券股份有限公司",
+    "md": "中信证券股份有限公司",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 1
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 1,
+    "textLevel": 1,
+    "bBox": {
+      "l": 89.0,
+      "t": 110.0,
+      "r": 504.0,
+      "b": 130.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "关于牧原食品股份有限公司2024年度募集资金存放与实际使用",
+    "md": "关于牧原食品股份有限公司2024年度募集资金存放与实际使用",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 2
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 227.0,
+      "t": 141.0,
+      "r": 365.0,
+      "b": 159.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "情况的专项核查报告",
+    "md": "情况的专项核查报告",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 3
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 178.0,
+      "r": 507.0,
+      "b": 335.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中信证券股份有限公司（以下简称“中信证券”或“保荐人”）作为牧原食品股份有限公司（以下简称“牧原股份”或“公司”）的持续督导机构，根据《证券发行上市保荐业务管理办法》《上市公司监管指引第2号——上市公司募集资金管理和使用的监管要求》《深圳证券交易所股票上市规则》《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作》及《深圳证券交易所上市公司自律监管指引第13号——保荐业务》等法律法规的要求，对牧原股份2024年度募集资金存放与使用情况进行了核查，具体情况如下：",
+    "md": "中信证券股份有限公司（以下简称“中信证券”或“保荐人”）作为牧原食品股份有限公司（以下简称“牧原股份”或“公司”）的持续督导机构，根据《证券发行上市保荐业务管理办法》《上市公司监管指引第2号——上市公司募集资金管理和使用的监管要求》《深圳证券交易所股票上市规则》《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作》及《深圳证券交易所上市公司自律监管指引第13号——保荐业务》等法律法规的要求，对牧原股份2024年度募集资金存放与使用情况进行了核查，具体情况如下：",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 4
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 111.0,
+      "t": 350.0,
+      "r": 234.0,
+      "b": 365.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "一、募集资金基本情况",
+    "md": "一、募集资金基本情况",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 5
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 117.0,
+      "t": 381.0,
+      "r": 331.0,
+      "b": 395.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "（一）实际募集资金金额、资金到位时间",
+    "md": "（一）实际募集资金金额、资金到位时间",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 6
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 411.0,
+      "r": 507.0,
+      "b": 568.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "经中国证券监督管理委员会《关于核准牧原食品股份有限公司公开发行可转换公司债券的批复》（证监许可[2021]442号）核准，牧原食品股份有限公司向社会公开发行面值总额9,550,000,000.00元可转换公司债券，每张面值为人民币100元，共计9,550万张，按面值发行，期限6年，扣除承销费和保荐费等各项发行费用人民币21,315,000.00元，实际募集资金净额为人民币9,528,685,000.00元。上述募集资金已经中兴华会计师事务所（特殊普通合伙）验证，并出具中兴华验字（2021）第140001号《验资报告》。",
+    "md": "经中国证券监督管理委员会《关于核准牧原食品股份有限公司公开发行可转换公司债券的批复》（证监许可[2021]442号）核准，牧原食品股份有限公司向社会公开发行面值总额9,550,000,000.00元可转换公司债券，每张面值为人民币100元，共计9,550万张，按面值发行，期限6年，扣除承销费和保荐费等各项发行费用人民币21,315,000.00元，实际募集资金净额为人民币9,528,685,000.00元。上述募集资金已经中兴华会计师事务所（特殊普通合伙）验证，并出具中兴华验字（2021）第140001号《验资报告》。",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 7
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 583.0,
+      "r": 506.0,
+      "b": 644.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "上述募集资金总额为人民币9,550,000,000.00元，扣除承销费和保荐费人民币17,640,000.00元后的资金人民币9,532,360,000.00元，已由招商证券股份有限公司于2021年8月20日汇入公司募集资金专用账户。",
+    "md": "上述募集资金总额为人民币9,550,000,000.00元，扣除承销费和保荐费人民币17,640,000.00元后的资金人民币9,532,360,000.00元，已由招商证券股份有限公司于2021年8月20日汇入公司募集资金专用账户。",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 8
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 117.0,
+      "t": 660.0,
+      "r": 284.0,
+      "b": 676.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "（二）募集资金使用及结余情况",
+    "md": "（二）募集资金使用及结余情况",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 9
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 111.0,
+      "t": 691.0,
+      "r": 472.0,
+      "b": 707.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "截止2024年12月31日本次公开发行可转债券募集资金使用情况为：",
+    "md": "截止2024年12月31日本次公开发行可转债券募集资金使用情况为：",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 10
+  },
+  {
+    "page": 1,
+    "type": "table",
+    "bBox": {
+      "l": 87.0,
+      "t": 713.0,
+      "r": 506.0,
+      "b": 759.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "金额（元）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "实际收到募集资金金额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "9,532,360,000.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "减: 生猪养殖及屠宰项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "6,484,283,469.83",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "补充流动资金",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "2,636,206,959.30",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "偿还银行贷款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "470,660,000.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "发行费用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "1,910,000.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "银行手续费",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 0
+        },
+        {
+          "text": "243,900.72",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "加: 利息收入",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 0
+        },
+        {
+          "text": "60,944,329.85",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "截止2024年12月31日尚未使用的募集资金余额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 0
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "其中: 存放于银行募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 0
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "购买理财产品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 0
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 1
+        }
+      ]
+    ],
+    "html": "<table><tr><td>项目</td><td>金额（元）</td></tr><tr><td>实际收到募集资金金额</td><td>9,532,360,000.00</td></tr><tr><td>减: 生猪养殖及屠宰项目</td><td>6,484,283,469.83</td></tr><tr><td>补充流动资金</td><td>2,636,206,959.30</td></tr><tr><td>偿还银行贷款</td><td>470,660,000.00</td></tr><tr><td>发行费用</td><td>1,910,000.00</td></tr><tr><td>银行手续费</td><td>243,900.72</td></tr><tr><td>加: 利息收入</td><td>60,944,329.85</td></tr><tr><td>截止2024年12月31日尚未使用的募集资金余额</td><td>0.00</td></tr><tr><td>其中: 存放于银行募集资金专户</td><td>0.00</td></tr><tr><td>购买理财产品</td><td>0.00</td></tr></table>",
+    "md": "| 项目 | 金额（元） |\n| --- | --- |\n| 实际收到募集资金金额 | 9,532,360,000.00 |\n| 减: 生猪养殖及屠宰项目 | 6,484,283,469.83 |\n| 补充流动资金 | 2,636,206,959.30 |\n| 偿还银行贷款 | 470,660,000.00 |\n| 发行费用 | 1,910,000.00 |\n| 银行手续费 | 243,900.72 |\n| 加: 利息收入 | 60,944,329.85 |\n| 截止2024年12月31日尚未使用的募集资金余额 | 0.00 |\n| 其中: 存放于银行募集资金专户 | 0.00 |\n| 购买理财产品 | 0.00 |",
+    "perfectTable": false,
+    "img_path": "images/ef07182fbd41d6e88bb770f541f48924df3533e3f06acbf0dbf5d7220a1515db.jpg",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "table_type": "其他表",
+    "standard2D": true,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "金额（元）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        }
+      ]
+    ],
+    "element_id": 11
+  },
+  {
+    "page": 1,
+    "type": "page_number",
+    "bBox": {
+      "l": 293.0,
+      "t": 780.0,
+      "r": 299.0,
+      "b": 790.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "1",
+    "md": "1",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 12
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 111.0,
+      "t": 267.0,
+      "r": 271.0,
+      "b": 281.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "二、募集资金存放和管理情况",
+    "md": "二、募集资金存放和管理情况",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 13
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 117.0,
+      "t": 298.0,
+      "r": 258.0,
+      "b": 311.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "（一）募集资金的管理情况",
+    "md": "（一）募集资金的管理情况",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 14
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 329.0,
+      "r": 507.0,
+      "b": 461.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "为规范募集资金的管理和使用，提高资金使用效率，保护投资者的合法权益，公司按照《中华人民共和国公司法》《深圳证券交易所股票上市规则》等规定，修订了《牧原食品股份有限公司募集资金管理制度》，并已经公司于第四届董事会第十五次会议和2022年第三次临时股东大会审议通过。根据该管理制度，公司对募集资金实行专户存储，在银行设立募集资金专户存储，并对募集资金的使用实行严格的审批手续，以保证专款专用。",
+    "md": "为规范募集资金的管理和使用，提高资金使用效率，保护投资者的合法权益，公司按照《中华人民共和国公司法》《深圳证券交易所股票上市规则》等规定，修订了《牧原食品股份有限公司募集资金管理制度》，并已经公司于第四届董事会第十五次会议和2022年第三次临时股东大会审议通过。根据该管理制度，公司对募集资金实行专户存储，在银行设立募集资金专户存储，并对募集资金的使用实行严格的审批手续，以保证专款专用。",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 15
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 117.0,
+      "t": 475.0,
+      "r": 271.0,
+      "b": 490.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "（二）募集资金专户存储情况",
+    "md": "（二）募集资金专户存储情况",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 16
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 506.0,
+      "r": 505.0,
+      "b": 591.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司及子公司与中信证券股份有限公司、存放募集资金的银行共同签订了《募集资金三方监管协议》或《募集资金四方监管协议》，公司募集资金全部存放于募集资金专用账户中。公司充分保障保荐人、独立董事以及监事会对募集资金使用和管理的监督权，监管协议的履行情况正常。",
+    "md": "公司及子公司与中信证券股份有限公司、存放募集资金的银行共同签订了《募集资金三方监管协议》或《募集资金四方监管协议》，公司募集资金全部存放于募集资金专用账户中。公司充分保障保荐人、独立董事以及监事会对募集资金使用和管理的监督权，监管协议的履行情况正常。",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 17
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 609.0,
+      "r": 505.0,
+      "b": 647.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "截止2024年12月31日，本次募集资金已使用完毕，部分募集资金账户已销户，具体如下：",
+    "md": "截止2024年12月31日，本次募集资金已使用完毕，部分募集资金账户已销户，具体如下：",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 18
+  },
+  {
+    "page": 2,
+    "type": "table",
+    "bBox": {
+      "l": 64.0,
+      "t": 676.0,
+      "r": 530.0,
+      "b": 760.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "序号",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "开户单位",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "开户银行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "银行账号",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "账户类别",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "销户日期",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "吉林大安牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "中信银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "8111101012901351743",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 4
+        },
+        {
+          "text": "2021-12-22",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "2",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "射阳牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 1
+        },
+        {
+          "text": "交通银行南阳分",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "412101999011000",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 4
+        },
+        {
+          "text": "2021-12-7",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 1
+        },
+        {
+          "text": "行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 2
+        },
+        {
+          "text": "115033",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 3
+        },
+        {
+          "text": "专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "3",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "青岛即墨牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 1
+        },
+        {
+          "text": "招商银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 2
+        },
+        {
+          "text": "537900917310606",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 4
+        },
+        {
+          "text": "2021-12-8",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "4",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "睢宁牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 1
+        },
+        {
+          "text": "招商银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 2
+        },
+        {
+          "text": "377900194310802",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 4
+        },
+        {
+          "text": "2021-12-7",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "5",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 0
+        },
+        {
+          "text": "万荣牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 1
+        },
+        {
+          "text": "中国农业银行股份有限公司内乡县支行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 2
+        },
+        {
+          "text": "16684101040014648",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 4
+        },
+        {
+          "text": "2021-12-8",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "6",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 0
+        },
+        {
+          "text": "山西省代县牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 1
+        },
+        {
+          "text": "中国农业银行股份有限公司内乡县支行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 2
+        },
+        {
+          "text": "16684101040014622",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 4
+        },
+        {
+          "text": "2021-12-7",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "7",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 0
+        },
+        {
+          "text": "新绛牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 1
+        },
+        {
+          "text": "中国农业银行股份有限公司内乡县支行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 2
+        },
+        {
+          "text": "16684101040014630",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 4
+        },
+        {
+          "text": "2021-12-7",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "8",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 0
+        },
+        {
+          "text": "淮安金湖牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 1
+        },
+        {
+          "text": "中国农业银行股份有限公司内乡县大成支行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 2
+        },
+        {
+          "text": "16684801040004487",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 4
+        },
+        {
+          "text": "2021-12-7",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "9",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 0
+        },
+        {
+          "text": "汝州市牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 1
+        },
+        {
+          "text": "中国银行内乡支行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 2
+        },
+        {
+          "text": "261177574754",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 4
+        },
+        {
+          "text": "2021-12-7",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "10",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 0
+        },
+        {
+          "text": "固镇牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 1
+        },
+        {
+          "text": "中国农业银行股份有限公司内乡县支行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 2
+        },
+        {
+          "text": "16684101040014614",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 4
+        },
+        {
+          "text": "2021-12-27",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "11",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 0
+        },
+        {
+          "text": "宁陵县牧原肉食品有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 1
+        },
+        {
+          "text": "中信银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 2
+        },
+        {
+          "text": "8111101012301351426",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 4
+        },
+        {
+          "text": "2022-7-8",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "12",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 0
+        },
+        {
+          "text": "西平牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 1
+        },
+        {
+          "text": "中信银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 2
+        },
+        {
+          "text": "8111101012501351529",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 4
+        },
+        {
+          "text": "2023-6-2",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "13",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 0
+        },
+        {
+          "text": "吉林双辽牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 1
+        },
+        {
+          "text": "交通银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 2
+        },
+        {
+          "text": "412101999011000115358",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 4
+        },
+        {
+          "text": "2023-05-10",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "14",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 0
+        },
+        {
+          "text": "内乡县牧原现代农业综合体有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 1
+        },
+        {
+          "text": "招商银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 2
+        },
+        {
+          "text": "377900161510603",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 4
+        },
+        {
+          "text": "2023-5-19",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "15",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 0
+        },
+        {
+          "text": "商水县牧原肉食品有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 1
+        },
+        {
+          "text": "中国银行内乡支行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 2
+        },
+        {
+          "text": "253377575923",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 4
+        },
+        {
+          "text": "2023-4-7",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "16",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 0
+        },
+        {
+          "text": "铁岭牧原肉食品有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 1
+        },
+        {
+          "text": "交通银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 2
+        },
+        {
+          "text": "412101999011000115683",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 4
+        },
+        {
+          "text": "2023-7-18",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "17",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 0
+        },
+        {
+          "text": "内蒙古科右中旗牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 1
+        },
+        {
+          "text": "中信银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 2
+        },
+        {
+          "text": "8111101013101351577",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 4
+        },
+        {
+          "text": "2024-1-15",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "18",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 0
+        },
+        {
+          "text": "林甸县牧原肉食品有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 1
+        },
+        {
+          "text": "中信银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 2
+        },
+        {
+          "text": "8111101013201351458",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 4
+        },
+        {
+          "text": "2024-12-20",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "19",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 0
+        },
+        {
+          "text": "牧原食品股份有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 1
+        },
+        {
+          "text": "中国银行内乡支行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 2
+        },
+        {
+          "text": "248175463782",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 4
+        },
+        {
+          "text": "2024-12-23",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "20",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 0
+        },
+        {
+          "text": "淮安市洪泽牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 1
+        },
+        {
+          "text": "河南内乡农村商业银行股份有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 2
+        },
+        {
+          "text": "86617001800007579",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 4
+        },
+        {
+          "text": "2024-12-23",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "21",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 0
+        },
+        {
+          "text": "百色市右江区牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 1
+        },
+        {
+          "text": "河南内乡农村商业银行股份有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 2
+        },
+        {
+          "text": "866170010000075 83",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 4
+        },
+        {
+          "text": "2024-12-23",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "22",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 0
+        },
+        {
+          "text": "柘城县牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 1
+        },
+        {
+          "text": "中国农业银行股份有限公司内乡县县衙支行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 2
+        },
+        {
+          "text": "166849010400058 96",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 4
+        },
+        {
+          "text": "2024-12-24",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "23",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 0
+        },
+        {
+          "text": "牧原食品股份有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 1
+        },
+        {
+          "text": "国家开发银行河南省分行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 2
+        },
+        {
+          "text": "411015600394036 00000",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 4
+        },
+        {
+          "text": "2024-12-27",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "24",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 0
+        },
+        {
+          "text": "连云港市海州牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 1
+        },
+        {
+          "text": "交通银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 2
+        },
+        {
+          "text": "412101999011000 115282",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 4
+        },
+        {
+          "text": "2024-12-27",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "25",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 0
+        },
+        {
+          "text": "淮安市洪泽牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 1
+        },
+        {
+          "text": "交通银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 2
+        },
+        {
+          "text": "412101999011000 246953",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 3
+        },
+        {
+          "text": "理财产品专用结算账户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 4
+        },
+        {
+          "text": "2024-12-27",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 5
+        }
+      ]
+    ],
+    "html": "<table><tr><td>序号</td><td>开户单位</td><td>开户银行</td><td>银行账号</td><td>账户类别</td><td>销户日期</td></tr><tr><td>1</td><td>吉林大安牧原农牧有限公司</td><td>中信银行南阳分行营业部</td><td>8111101012901351743</td><td>募集资金专户</td><td>2021-12-22</td></tr><tr><td>2</td><td>射阳牧原农牧有限公司</td><td>交通银行南阳分</td><td>412101999011000</td><td>募集资金</td><td>2021-12-7</td></tr><tr><td></td><td></td><td>行营业部</td><td>115033</td><td>专户</td><td></td></tr><tr><td>3</td><td>青岛即墨牧原农牧有限公司</td><td>招商银行南阳分行营业部</td><td>537900917310606</td><td>募集资金专户</td><td>2021-12-8</td></tr><tr><td>4</td><td>睢宁牧原农牧有限公司</td><td>招商银行南阳分行营业部</td><td>377900194310802</td><td>募集资金专户</td><td>2021-12-7</td></tr><tr><td>5</td><td>万荣牧原农牧有限公司</td><td>中国农业银行股份有限公司内乡县支行</td><td>16684101040014648</td><td>募集资金专户</td><td>2021-12-8</td></tr><tr><td>6</td><td>山西省代县牧原农牧有限公司</td><td>中国农业银行股份有限公司内乡县支行</td><td>16684101040014622</td><td>募集资金专户</td><td>2021-12-7</td></tr><tr><td>7</td><td>新绛牧原农牧有限公司</td><td>中国农业银行股份有限公司内乡县支行</td><td>16684101040014630</td><td>募集资金专户</td><td>2021-12-7</td></tr><tr><td>8</td><td>淮安金湖牧原农牧有限公司</td><td>中国农业银行股份有限公司内乡县大成支行</td><td>16684801040004487</td><td>募集资金专户</td><td>2021-12-7</td></tr><tr><td>9</td><td>汝州市牧原农牧有限公司</td><td>中国银行内乡支行</td><td>261177574754</td><td>募集资金专户</td><td>2021-12-7</td></tr><tr><td>10</td><td>固镇牧原农牧有限公司</td><td>中国农业银行股份有限公司内乡县支行</td><td>16684101040014614</td><td>募集资金专户</td><td>2021-12-27</td></tr><tr><td>11</td><td>宁陵县牧原肉食品有限公司</td><td>中信银行南阳分行营业部</td><td>8111101012301351426</td><td>募集资金专户</td><td>2022-7-8</td></tr><tr><td>12</td><td>西平牧原农牧有限公司</td><td>中信银行南阳分行营业部</td><td>8111101012501351529</td><td>募集资金专户</td><td>2023-6-2</td></tr><tr><td>13</td><td>吉林双辽牧原农牧有限公司</td><td>交通银行南阳分行营业部</td><td>412101999011000115358</td><td>募集资金专户</td><td>2023-05-10</td></tr><tr><td>14</td><td>内乡县牧原现代农业综合体有限公司</td><td>招商银行南阳分行营业部</td><td>377900161510603</td><td>募集资金专户</td><td>2023-5-19</td></tr><tr><td>15</td><td>商水县牧原肉食品有限公司</td><td>中国银行内乡支行</td><td>253377575923</td><td>募集资金专户</td><td>2023-4-7</td></tr><tr><td>16</td><td>铁岭牧原肉食品有限公司</td><td>交通银行南阳分行营业部</td><td>412101999011000115683</td><td>募集资金专户</td><td>2023-7-18</td></tr><tr><td>17</td><td>内蒙古科右中旗牧原农牧有限公司</td><td>中信银行南阳分行营业部</td><td>8111101013101351577</td><td>募集资金专户</td><td>2024-1-15</td></tr><tr><td>18</td><td>林甸县牧原肉食品有限公司</td><td>中信银行南阳分行营业部</td><td>8111101013201351458</td><td>募集资金专户</td><td>2024-12-20</td></tr><tr><td>19</td><td>牧原食品股份有限公司</td><td>中国银行内乡支行</td><td>248175463782</td><td>募集资金专户</td><td>2024-12-23</td></tr><tr><td>20</td><td>淮安市洪泽牧原农牧有限公司</td><td>河南内乡农村商业银行股份有限公司</td><td>86617001800007579</td><td>募集资金专户</td><td>2024-12-23</td></tr><tr><td>21</td><td>百色市右江区牧原农牧有限公司</td><td>河南内乡农村商业银行股份有限公司</td><td>866170010000075 83</td><td>募集资金专户</td><td>2024-12-23</td></tr><tr><td>22</td><td>柘城县牧原农牧有限公司</td><td>中国农业银行股份有限公司内乡县县衙支行</td><td>166849010400058 96</td><td>募集资金专户</td><td>2024-12-24</td></tr><tr><td>23</td><td>牧原食品股份有限公司</td><td>国家开发银行河南省分行</td><td>411015600394036 00000</td><td>募集资金专户</td><td>2024-12-27</td></tr><tr><td>24</td><td>连云港市海州牧原农牧有限公司</td><td>交通银行南阳分行营业部</td><td>412101999011000 115282</td><td>募集资金专户</td><td>2024-12-27</td></tr><tr><td>25</td><td>淮安市洪泽牧原农牧有限公司</td><td>交通银行南阳分行营业部</td><td>412101999011000 246953</td><td>理财产品专用结算账户</td><td>2024-12-27</td></tr></table>",
+    "md": "| 序号 | 开户单位 | 开户银行 | 银行账号 | 账户类别 | 销户日期 |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 吉林大安牧原农牧有限公司 | 中信银行南阳分行营业部 | 8111101012901351743 | 募集资金专户 | 2021-12-22 |\n| 2 | 射阳牧原农牧有限公司 | 交通银行南阳分 | 412101999011000 | 募集资金 | 2021-12-7 |\n|  |  | 行营业部 | 115033 | 专户 |  |\n| 3 | 青岛即墨牧原农牧有限公司 | 招商银行南阳分行营业部 | 537900917310606 | 募集资金专户 | 2021-12-8 |\n| 4 | 睢宁牧原农牧有限公司 | 招商银行南阳分行营业部 | 377900194310802 | 募集资金专户 | 2021-12-7 |\n| 5 | 万荣牧原农牧有限公司 | 中国农业银行股份有限公司内乡县支行 | 16684101040014648 | 募集资金专户 | 2021-12-8 |\n| 6 | 山西省代县牧原农牧有限公司 | 中国农业银行股份有限公司内乡县支行 | 16684101040014622 | 募集资金专户 | 2021-12-7 |\n| 7 | 新绛牧原农牧有限公司 | 中国农业银行股份有限公司内乡县支行 | 16684101040014630 | 募集资金专户 | 2021-12-7 |\n| 8 | 淮安金湖牧原农牧有限公司 | 中国农业银行股份有限公司内乡县大成支行 | 16684801040004487 | 募集资金专户 | 2021-12-7 |\n| 9 | 汝州市牧原农牧有限公司 | 中国银行内乡支行 | 261177574754 | 募集资金专户 | 2021-12-7 |\n| 10 | 固镇牧原农牧有限公司 | 中国农业银行股份有限公司内乡县支行 | 16684101040014614 | 募集资金专户 | 2021-12-27 |\n| 11 | 宁陵县牧原肉食品有限公司 | 中信银行南阳分行营业部 | 8111101012301351426 | 募集资金专户 | 2022-7-8 |\n| 12 | 西平牧原农牧有限公司 | 中信银行南阳分行营业部 | 8111101012501351529 | 募集资金专户 | 2023-6-2 |\n| 13 | 吉林双辽牧原农牧有限公司 | 交通银行南阳分行营业部 | 412101999011000115358 | 募集资金专户 | 2023-05-10 |\n| 14 | 内乡县牧原现代农业综合体有限公司 | 招商银行南阳分行营业部 | 377900161510603 | 募集资金专户 | 2023-5-19 |\n| 15 | 商水县牧原肉食品有限公司 | 中国银行内乡支行 | 253377575923 | 募集资金专户 | 2023-4-7 |\n| 16 | 铁岭牧原肉食品有限公司 | 交通银行南阳分行营业部 | 412101999011000115683 | 募集资金专户 | 2023-7-18 |\n| 17 | 内蒙古科右中旗牧原农牧有限公司 | 中信银行南阳分行营业部 | 8111101013101351577 | 募集资金专户 | 2024-1-15 |\n| 18 | 林甸县牧原肉食品有限公司 | 中信银行南阳分行营业部 | 8111101013201351458 | 募集资金专户 | 2024-12-20 |\n| 19 | 牧原食品股份有限公司 | 中国银行内乡支行 | 248175463782 | 募集资金专户 | 2024-12-23 |\n| 20 | 淮安市洪泽牧原农牧有限公司 | 河南内乡农村商业银行股份有限公司 | 86617001800007579 | 募集资金专户 | 2024-12-23 |\n| 21 | 百色市右江区牧原农牧有限公司 | 河南内乡农村商业银行股份有限公司 | 866170010000075 83 | 募集资金专户 | 2024-12-23 |\n| 22 | 柘城县牧原农牧有限公司 | 中国农业银行股份有限公司内乡县县衙支行 | 166849010400058 96 | 募集资金专户 | 2024-12-24 |\n| 23 | 牧原食品股份有限公司 | 国家开发银行河南省分行 | 411015600394036 00000 | 募集资金专户 | 2024-12-27 |\n| 24 | 连云港市海州牧原农牧有限公司 | 交通银行南阳分行营业部 | 412101999011000 115282 | 募集资金专户 | 2024-12-27 |\n| 25 | 淮安市洪泽牧原农牧有限公司 | 交通银行南阳分行营业部 | 412101999011000 246953 | 理财产品专用结算账户 | 2024-12-27 |",
+    "perfectTable": false,
+    "img_path": "images/0fc03d88ace9de7e9244c42ac370a1cc4a48c75c5a8f7902fe3675ff78bc002b.jpg",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "table_type": "其他表",
+    "standard2D": true,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "序号",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "开户单位",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "开户银行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "银行账号",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "账户类别",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "销户日期",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 5
+        }
+      ]
+    ],
+    "element_id": 19
+  },
+  {
+    "page": 2,
+    "type": "page_number",
+    "bBox": {
+      "l": 293.0,
+      "t": 780.0,
+      "r": 299.0,
+      "b": 789.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "2",
+    "md": "2",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 20
+  },
+  {
+    "page": 3,
+    "type": "page_number",
+    "bBox": {
+      "l": 293.0,
+      "t": 780.0,
+      "r": 299.0,
+      "b": 790.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "3",
+    "md": "3",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 21
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 286.0,
+      "r": 507.0,
+      "b": 325.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "截止2024年12月31日，公司及子公司募集资金在银行专用账户存储的金额为0元，具体情况如下，截止2025年1月31日，以下募集资金账户已销户：",
+    "md": "截止2024年12月31日，公司及子公司募集资金在银行专用账户存储的金额为0元，具体情况如下，截止2025年1月31日，以下募集资金账户已销户：",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 22
+  },
+  {
+    "page": 4,
+    "type": "table",
+    "bBox": {
+      "l": 65.0,
+      "t": 332.0,
+      "r": 530.0,
+      "b": 657.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "序号",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "开户单位",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "开户银行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "银行账号",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "账户类别",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "账户余额(元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "清丰县牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "中信银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "8111101013001351516",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 4
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "2",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "康平牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 1
+        },
+        {
+          "text": "中信银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "8111101013001351548",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 4
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "3",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "内黄县牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 1
+        },
+        {
+          "text": "中国光大银行南阳中州路支行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 2
+        },
+        {
+          "text": "53780188000056674",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 4
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "4",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "洪洞牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 1
+        },
+        {
+          "text": "中国光大银行南阳中州路支行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 2
+        },
+        {
+          "text": "53780188000056592",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 4
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "5",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "牧原食品股份有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 1
+        },
+        {
+          "text": "中信银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 2
+        },
+        {
+          "text": "8111101012901283747",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 4
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "6",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 0
+        },
+        {
+          "text": "牧原食品股份有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 1
+        },
+        {
+          "text": "招商银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 2
+        },
+        {
+          "text": "371903085910307",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 4
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "7",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 0
+        },
+        {
+          "text": "乐安牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 1
+        },
+        {
+          "text": "中国农业银行股份有限公司内乡县支行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 2
+        },
+        {
+          "text": "16684101040014606",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 3
+        },
+        {
+          "text": "募集资金专户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 4
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "8",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 0
+        },
+        {
+          "text": "百色市右江区牧原农牧有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 1
+        },
+        {
+          "text": "交通银行南阳分行营业部",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 2
+        },
+        {
+          "text": "412101999011000246877",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 3
+        },
+        {
+          "text": "理财产品专用结算账户",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 4
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "合计",
+          "rowspan": 1,
+          "colspan": 5,
+          "rowstart": 9,
+          "colstart": 0
+        },
+        {
+          "text": "0.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 5
+        }
+      ]
+    ],
+    "html": "<table><tr><td>序号</td><td>开户单位</td><td>开户银行</td><td>银行账号</td><td>账户类别</td><td>账户余额(元)</td></tr><tr><td>1</td><td>清丰县牧原农牧有限公司</td><td>中信银行南阳分行营业部</td><td>8111101013001351516</td><td>募集资金专户</td><td>0.00</td></tr><tr><td>2</td><td>康平牧原农牧有限公司</td><td>中信银行南阳分行营业部</td><td>8111101013001351548</td><td>募集资金专户</td><td>0.00</td></tr><tr><td>3</td><td>内黄县牧原农牧有限公司</td><td>中国光大银行南阳中州路支行</td><td>53780188000056674</td><td>募集资金专户</td><td>0.00</td></tr><tr><td>4</td><td>洪洞牧原农牧有限公司</td><td>中国光大银行南阳中州路支行</td><td>53780188000056592</td><td>募集资金专户</td><td>0.00</td></tr><tr><td>5</td><td>牧原食品股份有限公司</td><td>中信银行南阳分行营业部</td><td>8111101012901283747</td><td>募集资金专户</td><td>0.00</td></tr><tr><td>6</td><td>牧原食品股份有限公司</td><td>招商银行南阳分行营业部</td><td>371903085910307</td><td>募集资金专户</td><td>0.00</td></tr><tr><td>7</td><td>乐安牧原农牧有限公司</td><td>中国农业银行股份有限公司内乡县支行</td><td>16684101040014606</td><td>募集资金专户</td><td>0.00</td></tr><tr><td>8</td><td>百色市右江区牧原农牧有限公司</td><td>交通银行南阳分行营业部</td><td>412101999011000246877</td><td>理财产品专用结算账户</td><td>0.00</td></tr><tr><td colspan=\"5\">合计</td><td>0.00</td></tr></table>",
+    "md": "| 序号 | 开户单位 | 开户银行 | 银行账号 | 账户类别 | 账户余额(元) |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 清丰县牧原农牧有限公司 | 中信银行南阳分行营业部 | 8111101013001351516 | 募集资金专户 | 0.00 |\n| 2 | 康平牧原农牧有限公司 | 中信银行南阳分行营业部 | 8111101013001351548 | 募集资金专户 | 0.00 |\n| 3 | 内黄县牧原农牧有限公司 | 中国光大银行南阳中州路支行 | 53780188000056674 | 募集资金专户 | 0.00 |\n| 4 | 洪洞牧原农牧有限公司 | 中国光大银行南阳中州路支行 | 53780188000056592 | 募集资金专户 | 0.00 |\n| 5 | 牧原食品股份有限公司 | 中信银行南阳分行营业部 | 8111101012901283747 | 募集资金专户 | 0.00 |\n| 6 | 牧原食品股份有限公司 | 招商银行南阳分行营业部 | 371903085910307 | 募集资金专户 | 0.00 |\n| 7 | 乐安牧原农牧有限公司 | 中国农业银行股份有限公司内乡县支行 | 16684101040014606 | 募集资金专户 | 0.00 |\n| 8 | 百色市右江区牧原农牧有限公司 | 交通银行南阳分行营业部 | 412101999011000246877 | 理财产品专用结算账户 | 0.00 |\n| 合计 | 合计 | 合计 | 合计 | 合计 | 0.00 |",
+    "perfectTable": false,
+    "img_path": "images/22f6bd72ece06284c17d7f4f36210947fce343359b6521056e4194c8121f7bc9.jpg",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "table_type": "其他表",
+    "standard2D": false,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "序号",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "开户单位",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "开户银行",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "银行账号",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "账户类别",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "账户余额(元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 5
+        }
+      ]
+    ],
+    "element_id": 23
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 111.0,
+      "t": 663.0,
+      "r": 272.0,
+      "b": 679.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "三、募集资金的实际使用情况",
+    "md": "三、募集资金的实际使用情况",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 24
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 695.0,
+      "r": 506.0,
+      "b": 733.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司2024年度募集资金的实际使用情况参见附件1“募集资金使用情况对照表”。",
+    "md": "公司2024年度募集资金的实际使用情况参见附件1“募集资金使用情况对照表”。",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 25
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 111.0,
+      "t": 749.0,
+      "r": 344.0,
+      "b": 764.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "四、变更募集资金投资项目的资金使用情况",
+    "md": "四、变更募集资金投资项目的资金使用情况",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 26
+  },
+  {
+    "page": 4,
+    "type": "page_number",
+    "bBox": {
+      "l": 293.0,
+      "t": 780.0,
+      "r": 300.0,
+      "b": 789.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "4",
+    "md": "4",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 27
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 71.0,
+      "r": 505.0,
+      "b": 109.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司2024年度变更募集资金投资项目的资金使用情况参见附件2“变更募集资金投资项目情况表”。",
+    "md": "公司2024年度变更募集资金投资项目的资金使用情况参见附件2“变更募集资金投资项目情况表”。",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 28
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 111.0,
+      "t": 125.0,
+      "r": 320.0,
+      "b": 140.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "五、募集资金使用及披露中存在的问题",
+    "md": "五、募集资金使用及披露中存在的问题",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 29
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 156.0,
+      "r": 508.0,
+      "b": 288.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司募集资金使用及披露严格按照中国证监会发布的《上市公司监管指引第2号——上市公司募集资金管理和使用的监管要求（2022年修订）》（证监会公告[2022]15号）和深圳证券交易所发布的《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作》及公司制定的《募集资金管理制度》的相关规定，及时、真实、准确、完整披露募集资金的使用及存放情况，不存在违规情形。",
+    "md": "公司募集资金使用及披露严格按照中国证监会发布的《上市公司监管指引第2号——上市公司募集资金管理和使用的监管要求（2022年修订）》（证监会公告[2022]15号）和深圳证券交易所发布的《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作》及公司制定的《募集资金管理制度》的相关规定，及时、真实、准确、完整披露募集资金的使用及存放情况，不存在违规情形。",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 30
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "headingLevel": 1,
+    "textLevel": 1,
+    "bBox": {
+      "l": 86.0,
+      "t": 304.0,
+      "r": 506.0,
+      "b": 342.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "六、会计师事务所对公司年度募集资金存放与使用情况出具的鉴证报告的结论性意见",
+    "md": "六、会计师事务所对公司年度募集资金存放与使用情况出具的鉴证报告的结论性意见",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 31
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 358.0,
+      "r": 508.0,
+      "b": 515.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "毕马威华振会计师事务所（特殊普通合伙）认为：公司《牧原食品股份有限公司募集资金2024年度存放与实际使用情况的专项报告》在所有重大方面按照证监会发布的《上市公司监管指引第2号——上市公司募集资金管理和使用的监管要求（2022年修订)》（证监会公告[2022]15号）和深圳证券交易所发布的《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作》及相关格式指引的要求编制，并在所有重大方面如实反映了公司2024年度募集资金的存放和实际使用情况。",
+    "md": "毕马威华振会计师事务所（特殊普通合伙）认为：公司《牧原食品股份有限公司募集资金2024年度存放与实际使用情况的专项报告》在所有重大方面按照证监会发布的《上市公司监管指引第2号——上市公司募集资金管理和使用的监管要求（2022年修订)》（证监会公告[2022]15号）和深圳证券交易所发布的《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作》及相关格式指引的要求编制，并在所有重大方面如实反映了公司2024年度募集资金的存放和实际使用情况。",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 32
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "headingLevel": 1,
+    "textLevel": 1,
+    "bBox": {
+      "l": 86.0,
+      "t": 530.0,
+      "r": 506.0,
+      "b": 568.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "七、保荐人对公司年度募集资金存放与使用情况所出具专项核查报告的结论性意见",
+    "md": "七、保荐人对公司年度募集资金存放与使用情况所出具专项核查报告的结论性意见",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 33
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 111.0,
+      "t": 584.0,
+      "r": 227.0,
+      "b": 599.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "经核查，保荐人认为：",
+    "md": "经核查，保荐人认为：",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 34
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 616.0,
+      "r": 507.0,
+      "b": 748.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "牧原股份2024年度募集资金存放与实际使用情况符合《上市公司监管指引第2号——上市公司募集资金管理和使用的监管要求（2022年修订）》《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作》等法律法规、规范性文件的规定，对募集资金进行了专户存储和专项使用，募集资金具体使用情况与已披露情况一致，不存在变相改变募集资金投向和损害股东利益的情况，也不存在其他违规使用募集资金的情形。",
+    "md": "牧原股份2024年度募集资金存放与实际使用情况符合《上市公司监管指引第2号——上市公司募集资金管理和使用的监管要求（2022年修订）》《深圳证券交易所上市公司自律监管指引第1号——主板上市公司规范运作》等法律法规、规范性文件的规定，对募集资金进行了专户存储和专项使用，募集资金具体使用情况与已披露情况一致，不存在变相改变募集资金投向和损害股东利益的情况，也不存在其他违规使用募集资金的情形。",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 35
+  },
+  {
+    "page": 5,
+    "type": "page_number",
+    "bBox": {
+      "l": 293.0,
+      "t": 780.0,
+      "r": 300.0,
+      "b": 790.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "5",
+    "md": "5",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 36
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 117.0,
+      "t": 71.0,
+      "r": 192.0,
+      "b": 85.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "（以下无正文）",
+    "md": "（以下无正文）",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 37
+  },
+  {
+    "page": 6,
+    "type": "page_number",
+    "bBox": {
+      "l": 293.0,
+      "t": 780.0,
+      "r": 299.0,
+      "b": 789.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "6",
+    "md": "6",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 38
+  },
+  {
+    "page": 7,
+    "type": "table",
+    "bBox": {
+      "l": 70.0,
+      "t": 184.0,
+      "r": 769.0,
+      "b": 450.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "募集资金总额",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "952,868.50",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "本年度投入募集资金总额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 6
+        },
+        {
+          "text": "76,364.85",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 0,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "报告期内变更用途的募集资金总额",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "57,819.88",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "已累计投入募集资金总额",
+          "rowspan": 3,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 6
+        },
+        {
+          "text": "959,115.04",
+          "rowspan": 3,
+          "colspan": 3,
+          "rowstart": 1,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "累计变更用途的募集资金总额",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "57,819.88",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "累计变更用途的募集资金总额比例",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "6.07%",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 3,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "承诺投资项目和超募资金投向",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "是否已变更项目(含部分变更)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 1
+        },
+        {
+          "text": "募集资金承诺投资总额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 2
+        },
+        {
+          "text": "调整后投资总额(1)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 3
+        },
+        {
+          "text": "本年度投入金额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 4
+        },
+        {
+          "text": "截至期末累计投入金额(2)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 5
+        },
+        {
+          "text": "截至期末投资进度(%)(3)=(2)/(1)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 6
+        },
+        {
+          "text": "项目达到预定可使用状态日期(或截止日项目完成进度)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 7
+        },
+        {
+          "text": "本报告期实现的效益",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 8
+        },
+        {
+          "text": "是否达到预计效益",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 9
+        },
+        {
+          "text": "项目可行性是否发生重大变化",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "承诺投资项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 10,
+          "rowstart": 5,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "1.生猪养殖及屠宰项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 0
+        },
+        {
+          "text": "是",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 1
+        },
+        {
+          "text": "700,000.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 2
+        },
+        {
+          "text": "647,206.93",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 3
+        },
+        {
+          "text": "18,544.97",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 4
+        },
+        {
+          "text": "648,428.35",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 5
+        },
+        {
+          "text": "100.19%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 6
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 7
+        },
+        {
+          "text": "113,037.06",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 8
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 9
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "2.偿还银行贷款及补充流动资金",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 0
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 1
+        },
+        {
+          "text": "252,868.50",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 2
+        },
+        {
+          "text": "252,868.50",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 3
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 4
+        },
+        {
+          "text": "252,866.81",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 5
+        },
+        {
+          "text": "100.00%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 6
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 7
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 8
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 9
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "3.变更为永久补充流动资金1",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 0
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 1
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 2
+        },
+        {
+          "text": "57,682.27",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 3
+        },
+        {
+          "text": "57,819.88",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 4
+        },
+        {
+          "text": "57,819.88",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 5
+        },
+        {
+          "text": "100.24%1",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 6
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 7
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 8
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 9
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "合计",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 1
+        },
+        {
+          "text": "952,868.50",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 2
+        },
+        {
+          "text": "957,757.701",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 3
+        },
+        {
+          "text": "76,364.85",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 4
+        },
+        {
+          "text": "959,115.04",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "未达到计划进度或预计收益的情况和原因（分具体项目）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 0
+        },
+        {
+          "text": "相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。",
+          "rowspan": 1,
+          "colspan": 10,
+          "rowstart": 10,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "项目可行性发生重大变化的情况说明",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 0
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 10,
+          "rowstart": 11,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "超募资金的金额、用途及使用进展情况",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 0
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 10,
+          "rowstart": 12,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "募集资金投资项目实施地点变更情况",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 0
+        },
+        {
+          "text": "公司第三届董事会第四十三次会议审议通过《关于变更部分募投项目实施主体的议案》，同意将原募投项目中“右江18万头生猪养殖建设项目”等项目的实施主体由牧原食品股份有限公司变更至公司全资子公司，具体情况如下：右江18万头生猪养殖建设项目变更后实施主体为百色市右江区牧原农牧有限公司，内乡综合体210万头生猪养殖建设项目变更后实施主体为内乡县牧原现代农业综合体有限公司，内黄65万头生猪养殖建设项目变更后实施主体为内黄县牧原农牧有限公司，清丰18.75万头生猪养殖建设项目变更后实施主体为清丰县牧原农牧有限公司，海州20万头生猪养殖建设项目变更后实施主体为连云港市海州牧原农牧有限公司，射阳20万头生猪养殖建设项目变更后实施主体为射阳牧原农牧有限公司，金湖6万头生猪养殖建设项目变更后实施主体为淮安金湖牧原农牧有限公司，洪泽20万头生猪养殖建设项目变更后实施主体为淮安市洪泽牧原农牧有限公司，科右中旗12万头生猪养殖建设项目变更后实施主体为内蒙古科右中旗牧原农牧有限公司，睢宁18万头生猪养殖建设项目变更后实施主体为睢宁牧原农牧有限公司。公司第四届董事会第十九次会议、第四届监事会第十七次会议审议通过《关于新增募集资金投资项目实施地点的议案》，同意将“乐安10万头生猪养殖建设项目”增加项目实施地点“乐安二场”。经过公司相关部门考察，以上场区符合项目建设的各项条件，已经国家发改委备案确认，同时已取得环评批复，符合开工建设的条件。",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "募集资金投资项目实施方式调整情况",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 0
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "募集资金投资项目先期投入及置换情况",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 0
+        },
+        {
+          "text": "公司第三届董事会第四十三次会议审议通过了《关于使用可转换公司债券募集资金置换预先投入自筹资金的议案》，同意公司使用公开发行可转换公司债券募集资金置换预先投入募投项目的自筹资金共计368,744.15万元。上述议案已经公司监事会、独立董事审议通过，公司保荐人招商证券股份有限公司出具了核查意见，并经中兴华会计师事务所（特殊普通合伙）审核，出具了《牧原食品股份有限公司关于使用募集资金置换预先投入自筹资金的专项说明的鉴证报告》（中兴华核字（2021）第140004号）。",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "用闲置募集资金补充流动资金情况",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 0
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "用闲置募集资金进行现金管理情况",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 0
+        },
+        {
+          "text": "公司于2024年7月11日召开的第四届董事会第二十七次会议审议通过了《关于使用部分闲置募集资金购买理财产品的议案》。在不影响公司正常经营和募集资金使用的情况下，公司及子公司拟使用闲置募集资金不超过5亿元人民币（含）投资安全性高、流动性好、期限在12个月以内（含）的保本理财产品。",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "项目实施出现募集资金结余的金额及原因",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 0
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "尚未使用的募集资金用途及去向",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 0
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "募集资金使用的其他情况",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 0
+        },
+        {
+          "text": "公司第四届董事会第三十一次会议、第四届监事会第二十七次会议、2024年第一次临时股东大会、“牧原转债”2024年第一次债券持有人会议通过了《关于变更部分募集资金用途的议案》，同意公司变更部分募集资金用途用于永久补充流动资金，将剩余募集资金共计57,682.27万元（包括利息收入、发行费用剩余资金等）永久补充流动资金，用于公司日常经营和业务发展。截至2024年12月31日公司已将募集资金57,819.88万元（含股东大会后收到的利息收入）用于永久补充流动资金。",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "募集资金使用及披露中存在的问题或其他情况",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 0
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 1
+        }
+      ]
+    ],
+    "html": "<table><tr><td colspan=\"3\">募集资金总额</td><td colspan=\"3\">952,868.50</td><td>本年度投入募集资金总额</td><td colspan=\"3\">76,364.85</td><td></td></tr><tr><td colspan=\"3\">报告期内变更用途的募集资金总额</td><td colspan=\"3\">57,819.88</td><td rowspan=\"3\">已累计投入募集资金总额</td><td colspan=\"3\" rowspan=\"3\">959,115.04</td><td></td></tr><tr><td colspan=\"3\">累计变更用途的募集资金总额</td><td colspan=\"3\">57,819.88</td><td></td></tr><tr><td colspan=\"3\">累计变更用途的募集资金总额比例</td><td colspan=\"3\">6.07%</td><td></td></tr><tr><td>承诺投资项目和超募资金投向</td><td>是否已变更项目(含部分变更)</td><td>募集资金承诺投资总额</td><td>调整后投资总额(1)</td><td>本年度投入金额</td><td>截至期末累计投入金额(2)</td><td>截至期末投资进度(%)(3)=(2)/(1)</td><td>项目达到预定可使用状态日期(或截止日项目完成进度)</td><td>本报告期实现的效益</td><td>是否达到预计效益</td><td>项目可行性是否发生重大变化</td></tr><tr><td>承诺投资项目</td><td colspan=\"10\"></td></tr><tr><td>1.生猪养殖及屠宰项目</td><td>是</td><td>700,000.00</td><td>647,206.93</td><td>18,544.97</td><td>648,428.35</td><td>100.19%</td><td>不适用</td><td>113,037.06</td><td>否</td><td>否</td></tr><tr><td>2.偿还银行贷款及补充流动资金</td><td>否</td><td>252,868.50</td><td>252,868.50</td><td>-</td><td>252,866.81</td><td>100.00%</td><td>不适用</td><td>不适用</td><td>不适用</td><td>不适用</td></tr><tr><td>3.变更为永久补充流动资金1</td><td>否</td><td>-</td><td>57,682.27</td><td>57,819.88</td><td>57,819.88</td><td>100.24%1</td><td>不适用</td><td>不适用</td><td>不适用</td><td>不适用</td></tr><tr><td>合计</td><td></td><td>952,868.50</td><td>957,757.701</td><td>76,364.85</td><td>959,115.04</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>未达到计划进度或预计收益的情况和原因（分具体项目）</td><td colspan=\"10\">相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。</td></tr><tr><td>项目可行性发生重大变化的情况说明</td><td colspan=\"10\">不适用</td></tr><tr><td>超募资金的金额、用途及使用进展情况</td><td colspan=\"10\">不适用</td></tr><tr><td>募集资金投资项目实施地点变更情况</td><td>公司第三届董事会第四十三次会议审议通过《关于变更部分募投项目实施主体的议案》，同意将原募投项目中“右江18万头生猪养殖建设项目”等项目的实施主体由牧原食品股份有限公司变更至公司全资子公司，具体情况如下：右江18万头生猪养殖建设项目变更后实施主体为百色市右江区牧原农牧有限公司，内乡综合体210万头生猪养殖建设项目变更后实施主体为内乡县牧原现代农业综合体有限公司，内黄65万头生猪养殖建设项目变更后实施主体为内黄县牧原农牧有限公司，清丰18.75万头生猪养殖建设项目变更后实施主体为清丰县牧原农牧有限公司，海州20万头生猪养殖建设项目变更后实施主体为连云港市海州牧原农牧有限公司，射阳20万头生猪养殖建设项目变更后实施主体为射阳牧原农牧有限公司，金湖6万头生猪养殖建设项目变更后实施主体为淮安金湖牧原农牧有限公司，洪泽20万头生猪养殖建设项目变更后实施主体为淮安市洪泽牧原农牧有限公司，科右中旗12万头生猪养殖建设项目变更后实施主体为内蒙古科右中旗牧原农牧有限公司，睢宁18万头生猪养殖建设项目变更后实施主体为睢宁牧原农牧有限公司。公司第四届董事会第十九次会议、第四届监事会第十七次会议审议通过《关于新增募集资金投资项目实施地点的议案》，同意将“乐安10万头生猪养殖建设项目”增加项目实施地点“乐安二场”。经过公司相关部门考察，以上场区符合项目建设的各项条件，已经国家发改委备案确认，同时已取得环评批复，符合开工建设的条件。</td></tr><tr><td>募集资金投资项目实施方式调整情况</td><td>不适用</td></tr><tr><td>募集资金投资项目先期投入及置换情况</td><td>公司第三届董事会第四十三次会议审议通过了《关于使用可转换公司债券募集资金置换预先投入自筹资金的议案》，同意公司使用公开发行可转换公司债券募集资金置换预先投入募投项目的自筹资金共计368,744.15万元。上述议案已经公司监事会、独立董事审议通过，公司保荐人招商证券股份有限公司出具了核查意见，并经中兴华会计师事务所（特殊普通合伙）审核，出具了《牧原食品股份有限公司关于使用募集资金置换预先投入自筹资金的专项说明的鉴证报告》（中兴华核字（2021）第140004号）。</td></tr><tr><td>用闲置募集资金补充流动资金情况</td><td>不适用</td></tr><tr><td>用闲置募集资金进行现金管理情况</td><td>公司于2024年7月11日召开的第四届董事会第二十七次会议审议通过了《关于使用部分闲置募集资金购买理财产品的议案》。在不影响公司正常经营和募集资金使用的情况下，公司及子公司拟使用闲置募集资金不超过5亿元人民币（含）投资安全性高、流动性好、期限在12个月以内（含）的保本理财产品。</td></tr><tr><td>项目实施出现募集资金结余的金额及原因</td><td>不适用</td></tr><tr><td>尚未使用的募集资金用途及去向</td><td>不适用</td></tr><tr><td>募集资金使用的其他情况</td><td>公司第四届董事会第三十一次会议、第四届监事会第二十七次会议、2024年第一次临时股东大会、“牧原转债”2024年第一次债券持有人会议通过了《关于变更部分募集资金用途的议案》，同意公司变更部分募集资金用途用于永久补充流动资金，将剩余募集资金共计57,682.27万元（包括利息收入、发行费用剩余资金等）永久补充流动资金，用于公司日常经营和业务发展。截至2024年12月31日公司已将募集资金57,819.88万元（含股东大会后收到的利息收入）用于永久补充流动资金。</td></tr><tr><td>募集资金使用及披露中存在的问题或其他情况</td><td>不适用</td></tr></table>",
+    "md": "| 募集资金总额 | 募集资金总额 | 募集资金总额 | 952,868.50 | 952,868.50 | 952,868.50 | 本年度投入募集资金总额 | 76,364.85 | 76,364.85 | 76,364.85 |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 报告期内变更用途的募集资金总额 | 报告期内变更用途的募集资金总额 | 报告期内变更用途的募集资金总额 | 57,819.88 | 57,819.88 | 57,819.88 | 已累计投入募集资金总额 | 959,115.04 | 959,115.04 | 959,115.04 |  |\n| 累计变更用途的募集资金总额 | 累计变更用途的募集资金总额 | 累计变更用途的募集资金总额 | 57,819.88 | 57,819.88 | 57,819.88 | 已累计投入募集资金总额 | 959,115.04 | 959,115.04 | 959,115.04 |  |\n| 累计变更用途的募集资金总额比例 | 累计变更用途的募集资金总额比例 | 累计变更用途的募集资金总额比例 | 6.07% | 6.07% | 6.07% | 已累计投入募集资金总额 | 959,115.04 | 959,115.04 | 959,115.04 |  |\n| 承诺投资项目和超募资金投向 | 是否已变更项目(含部分变更) | 募集资金承诺投资总额 | 调整后投资总额(1) | 本年度投入金额 | 截至期末累计投入金额(2) | 截至期末投资进度(%)(3)=(2)/(1) | 项目达到预定可使用状态日期(或截止日项目完成进度) | 本报告期实现的效益 | 是否达到预计效益 | 项目可行性是否发生重大变化 |\n| 承诺投资项目 |  |  |  |  |  |  |  |  |  |  |\n| 1.生猪养殖及屠宰项目 | 是 | 700,000.00 | 647,206.93 | 18,544.97 | 648,428.35 | 100.19% | 不适用 | 113,037.06 | 否 | 否 |\n| 2.偿还银行贷款及补充流动资金 | 否 | 252,868.50 | 252,868.50 | - | 252,866.81 | 100.00% | 不适用 | 不适用 | 不适用 | 不适用 |\n| 3.变更为永久补充流动资金1 | 否 | - | 57,682.27 | 57,819.88 | 57,819.88 | 100.24%1 | 不适用 | 不适用 | 不适用 | 不适用 |\n| 合计 |  | 952,868.50 | 957,757.701 | 76,364.85 | 959,115.04 |  |  |  |  |  |\n| 未达到计划进度或预计收益的情况和原因（分具体项目） | 相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 | 相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 | 相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 | 相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 | 相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 | 相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 | 相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 | 相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 | 相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 | 相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 |\n| 项目可行性发生重大变化的情况说明 | 不适用 | 不适用 | 不适用 | 不适用 | 不适用 | 不适用 | 不适用 | 不适用 | 不适用 | 不适用 |\n| 超募资金的金额、用途及使用进展情况 | 不适用 | 不适用 | 不适用 | 不适用 | 不适用 | 不适用 | 不适用 | 不适用 | 不适用 | 不适用 |\n| 募集资金投资项目实施地点变更情况 | 公司第三届董事会第四十三次会议审议通过《关于变更部分募投项目实施主体的议案》，同意将原募投项目中“右江18万头生猪养殖建设项目”等项目的实施主体由牧原食品股份有限公司变更至公司全资子公司，具体情况如下：右江18万头生猪养殖建设项目变更后实施主体为百色市右江区牧原农牧有限公司，内乡综合体210万头生猪养殖建设项目变更后实施主体为内乡县牧原现代农业综合体有限公司，内黄65万头生猪养殖建设项目变更后实施主体为内黄县牧原农牧有限公司，清丰18.75万头生猪养殖建设项目变更后实施主体为清丰县牧原农牧有限公司，海州20万头生猪养殖建设项目变更后实施主体为连云港市海州牧原农牧有限公司，射阳20万头生猪养殖建设项目变更后实施主体为射阳牧原农牧有限公司，金湖6万头生猪养殖建设项目变更后实施主体为淮安金湖牧原农牧有限公司，洪泽20万头生猪养殖建设项目变更后实施主体为淮安市洪泽牧原农牧有限公司，科右中旗12万头生猪养殖建设项目变更后实施主体为内蒙古科右中旗牧原农牧有限公司，睢宁18万头生猪养殖建设项目变更后实施主体为睢宁牧原农牧有限公司。公司第四届董事会第十九次会议、第四届监事会第十七次会议审议通过《关于新增募集资金投资项目实施地点的议案》，同意将“乐安10万头生猪养殖建设项目”增加项目实施地点“乐安二场”。经过公司相关部门考察，以上场区符合项目建设的各项条件，已经国家发改委备案确认，同时已取得环评批复，符合开工建设的条件。 |  |  |  |  |  |  |  |  |  |\n| 募集资金投资项目实施方式调整情况 | 不适用 |  |  |  |  |  |  |  |  |  |\n| 募集资金投资项目先期投入及置换情况 | 公司第三届董事会第四十三次会议审议通过了《关于使用可转换公司债券募集资金置换预先投入自筹资金的议案》，同意公司使用公开发行可转换公司债券募集资金置换预先投入募投项目的自筹资金共计368,744.15万元。上述议案已经公司监事会、独立董事审议通过，公司保荐人招商证券股份有限公司出具了核查意见，并经中兴华会计师事务所（特殊普通合伙）审核，出具了《牧原食品股份有限公司关于使用募集资金置换预先投入自筹资金的专项说明的鉴证报告》（中兴华核字（2021）第140004号）。 |  |  |  |  |  |  |  |  |  |\n| 用闲置募集资金补充流动资金情况 | 不适用 |  |  |  |  |  |  |  |  |  |\n| 用闲置募集资金进行现金管理情况 | 公司于2024年7月11日召开的第四届董事会第二十七次会议审议通过了《关于使用部分闲置募集资金购买理财产品的议案》。在不影响公司正常经营和募集资金使用的情况下，公司及子公司拟使用闲置募集资金不超过5亿元人民币（含）投资安全性高、流动性好、期限在12个月以内（含）的保本理财产品。 |  |  |  |  |  |  |  |  |  |\n| 项目实施出现募集资金结余的金额及原因 | 不适用 |  |  |  |  |  |  |  |  |  |\n| 尚未使用的募集资金用途及去向 | 不适用 |  |  |  |  |  |  |  |  |  |\n| 募集资金使用的其他情况 | 公司第四届董事会第三十一次会议、第四届监事会第二十七次会议、2024年第一次临时股东大会、“牧原转债”2024年第一次债券持有人会议通过了《关于变更部分募集资金用途的议案》，同意公司变更部分募集资金用途用于永久补充流动资金，将剩余募集资金共计57,682.27万元（包括利息收入、发行费用剩余资金等）永久补充流动资金，用于公司日常经营和业务发展。截至2024年12月31日公司已将募集资金57,819.88万元（含股东大会后收到的利息收入）用于永久补充流动资金。 |  |  |  |  |  |  |  |  |  |\n| 募集资金使用及披露中存在的问题或其他情况 | 不适用 |  |  |  |  |  |  |  |  |  |",
+    "perfectTable": false,
+    "table_caption": [
+      "单位：万元",
+      "募集资金使用情况对照表"
+    ],
+    "img_path": "images/48b348dcc0e0f7ac5347289a83129cc8ff08f17a01a5f5737176952ac31faa1b.jpg",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "table_type": "其他表",
+    "standard2D": false,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "募集资金总额",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "952,868.50",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "本年度投入募集资金总额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 6
+        },
+        {
+          "text": "76,364.85",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 0,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "报告期内变更用途的募集资金总额",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "57,819.88",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "已累计投入募集资金总额",
+          "rowspan": 3,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 6
+        },
+        {
+          "text": "959,115.04",
+          "rowspan": 3,
+          "colspan": 3,
+          "rowstart": 1,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "累计变更用途的募集资金总额",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "57,819.88",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "累计变更用途的募集资金总额比例",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "6.07%",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 3,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 10
+        }
+      ]
+    ],
+    "element_id": 39
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 71.0,
+      "t": 98.0,
+      "r": 109.0,
+      "b": 111.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "附件1：",
+    "md": "附件1：",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 40
+  },
+  {
+    "page": 7,
+    "type": "page_number",
+    "bBox": {
+      "l": 416.0,
+      "t": 536.0,
+      "r": 422.0,
+      "b": 543.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "7",
+    "md": "7",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 41
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 70.0,
+      "t": 490.0,
+      "r": 279.0,
+      "b": 505.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "1 请见“募集资金使用的其他情况”相关说明",
+    "md": "1 请见“募集资金使用的其他情况”相关说明",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 42
+  },
+  {
+    "page": 8,
+    "type": "page_number",
+    "bBox": {
+      "l": 415.0,
+      "t": 535.0,
+      "r": 422.0,
+      "b": 544.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "8",
+    "md": "8",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 43
+  },
+  {
+    "page": 9,
+    "type": "page_number",
+    "bBox": {
+      "l": 415.0,
+      "t": 535.0,
+      "r": 422.0,
+      "b": 544.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "9",
+    "md": "9",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 44
+  },
+  {
+    "page": 10,
+    "type": "page_number",
+    "bBox": {
+      "l": 415.0,
+      "t": 535.0,
+      "r": 425.0,
+      "b": 543.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "10",
+    "md": "10",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 45
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 71.0,
+      "t": 90.0,
+      "r": 109.0,
+      "b": 104.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "附件2：",
+    "md": "附件2：",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 46
+  },
+  {
+    "page": 11,
+    "type": "table",
+    "bBox": {
+      "l": 65.0,
+      "t": 186.0,
+      "r": 775.0,
+      "b": 493.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "变更后的项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "对应的原承诺项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "变更后项目拟投入募集资金总额(1)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "本年度实际投入金额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "截至期末实际累计投入金额(2)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "截至期末投资进度(%)(3= (2) / (1)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 5
+        },
+        {
+          "text": "项目达到预定可使用状态日期",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 6
+        },
+        {
+          "text": "本年度实现的效益",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 7
+        },
+        {
+          "text": "是否达到预计效益",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 8
+        },
+        {
+          "text": "变更后的项目可行性是否发生重大变化",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "右江 18万头生猪养殖建设项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "右江 18万头生猪养殖建设项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "14,786.09",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "2,401.84",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "14,786.09",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 4
+        },
+        {
+          "text": "100.00%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 5
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 6
+        },
+        {
+          "text": "1,832.20",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 7
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 8
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "洪洞 15万头生猪养殖建设项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "洪洞 15万头生猪养殖建设项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 1
+        },
+        {
+          "text": "11,454.54",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "4,073.57",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 3
+        },
+        {
+          "text": "11,454.54",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 4
+        },
+        {
+          "text": "100.00%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 5
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 6
+        },
+        {
+          "text": "1,524.99",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 7
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 8
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "柘城 14.5万头生猪养殖建设项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "柘城 14.5万头生猪养殖建设项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 1
+        },
+        {
+          "text": "8,513.81",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 2
+        },
+        {
+          "text": "209.05",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 3
+        },
+        {
+          "text": "8,513.81",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 4
+        },
+        {
+          "text": "100.00%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 5
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 6
+        },
+        {
+          "text": "1,075.30",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 7
+        },
+        {
+          "text": "是",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 8
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "海州 20万头生猪养殖建设项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "海州 20万头生猪养殖建设项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 1
+        },
+        {
+          "text": "8,077.82",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 2
+        },
+        {
+          "text": "476.88",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 3
+        },
+        {
+          "text": "8,077.82",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 4
+        },
+        {
+          "text": "100.00%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 5
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 6
+        },
+        {
+          "text": "480.38",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 7
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 8
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "乐安 10万头生猪养殖建设项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "乐安 10万头生猪养殖建设项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 1
+        },
+        {
+          "text": "11,742.4",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 2
+        },
+        {
+          "text": "2,163.56",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 3
+        },
+        {
+          "text": "11,742.4",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 4
+        },
+        {
+          "text": "100.00%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 5
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 6
+        },
+        {
+          "text": "714.18",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 7
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 8
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "康平 36万头生猪养殖建设项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 0
+        },
+        {
+          "text": "康平 36万头生猪养殖建设项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 1
+        },
+        {
+          "text": "19,405.03",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 2
+        },
+        {
+          "text": "1,529.19",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 3
+        },
+        {
+          "text": "19,405.03",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 4
+        },
+        {
+          "text": "100.00%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 5
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 6
+        },
+        {
+          "text": "2,792.84",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 7
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 8
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "洪泽 20万头生猪养殖建设项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 0
+        },
+        {
+          "text": "洪泽 20万头生猪养殖建设项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 1
+        },
+        {
+          "text": "2,227.24",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 2
+        },
+        {
+          "text": "1,260.18",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 3
+        },
+        {
+          "text": "2,227.24",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 4
+        },
+        {
+          "text": "100.00%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 5
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 6
+        },
+        {
+          "text": "56.02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 7
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 8
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "变更为永久补充流动资金2",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 0
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 1
+        },
+        {
+          "text": "57,682.27",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 2
+        },
+        {
+          "text": "57,819.88",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 3
+        },
+        {
+          "text": "57,819.88",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 4
+        },
+        {
+          "text": "100.24%2",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 5
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 6
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 7
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 8
+        },
+        {
+          "text": "否",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "合计",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 0
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 1
+        },
+        {
+          "text": "133,889.20",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 2
+        },
+        {
+          "text": "69,934.15",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 3
+        },
+        {
+          "text": "134,026.81",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 4
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 5
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 6
+        },
+        {
+          "text": "8,475.91",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 7
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 8
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 9
+        }
+      ],
+      [
+        {
+          "text": "变更原因、决策程序及信息披露情况说明（分具体项目）",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 10,
+          "colstart": 0
+        },
+        {
+          "text": "公司第四届董事会第三十一次会议、第四届监事会第二十七次会议、2024年第一次临时股东大会和“牧原转债”2024年第一次债券持有人会议通过了《关于变更部分募集资金用途的议案》，同意公司变更部分募集资金用途用于永久补充流动资金，将剩余募集资金（包括利息收入、发行费用剩余资金等）57,682.27万元永久补充流动资金，用于公司日常经营和业务发展。截至2024年12月31日公司已将募集资金57,819.88万元（含股东大会后收到的利息收入）用于永久补充流动资金。",
+          "rowspan": 1,
+          "colspan": 8,
+          "rowstart": 10,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "未达到计划进度或预计收益的情况和原因（分具体项目）",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 11,
+          "colstart": 0
+        },
+        {
+          "text": "2021年度公开发行可转换公司债券募集资金：相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。",
+          "rowspan": 1,
+          "colspan": 8,
+          "rowstart": 11,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "变更后的项目可行性发生重大变化的情况说明",
+          "rowspan": 1,
+          "colspan": 2,
+          "rowstart": 12,
+          "colstart": 0
+        },
+        {
+          "text": "不适用",
+          "rowspan": 1,
+          "colspan": 8,
+          "rowstart": 12,
+          "colstart": 2
+        }
+      ]
+    ],
+    "html": "<table><tr><td>变更后的项目</td><td>对应的原承诺项目</td><td>变更后项目拟投入募集资金总额(1)</td><td>本年度实际投入金额</td><td>截至期末实际累计投入金额(2)</td><td>截至期末投资进度(%)(3= (2) / (1)</td><td>项目达到预定可使用状态日期</td><td>本年度实现的效益</td><td>是否达到预计效益</td><td>变更后的项目可行性是否发生重大变化</td></tr><tr><td>右江 18万头生猪养殖建设项目</td><td>右江 18万头生猪养殖建设项目</td><td>14,786.09</td><td>2,401.84</td><td>14,786.09</td><td>100.00%</td><td>-</td><td>1,832.20</td><td>否</td><td>否</td></tr><tr><td>洪洞 15万头生猪养殖建设项目</td><td>洪洞 15万头生猪养殖建设项目</td><td>11,454.54</td><td>4,073.57</td><td>11,454.54</td><td>100.00%</td><td>-</td><td>1,524.99</td><td>否</td><td>否</td></tr><tr><td>柘城 14.5万头生猪养殖建设项目</td><td>柘城 14.5万头生猪养殖建设项目</td><td>8,513.81</td><td>209.05</td><td>8,513.81</td><td>100.00%</td><td>-</td><td>1,075.30</td><td>是</td><td>否</td></tr><tr><td>海州 20万头生猪养殖建设项目</td><td>海州 20万头生猪养殖建设项目</td><td>8,077.82</td><td>476.88</td><td>8,077.82</td><td>100.00%</td><td>-</td><td>480.38</td><td>否</td><td>否</td></tr><tr><td>乐安 10万头生猪养殖建设项目</td><td>乐安 10万头生猪养殖建设项目</td><td>11,742.4</td><td>2,163.56</td><td>11,742.4</td><td>100.00%</td><td>-</td><td>714.18</td><td>否</td><td>否</td></tr><tr><td>康平 36万头生猪养殖建设项目</td><td>康平 36万头生猪养殖建设项目</td><td>19,405.03</td><td>1,529.19</td><td>19,405.03</td><td>100.00%</td><td>-</td><td>2,792.84</td><td>否</td><td>否</td></tr><tr><td>洪泽 20万头生猪养殖建设项目</td><td>洪泽 20万头生猪养殖建设项目</td><td>2,227.24</td><td>1,260.18</td><td>2,227.24</td><td>100.00%</td><td>-</td><td>56.02</td><td>否</td><td>否</td></tr><tr><td>变更为永久补充流动资金2</td><td>-</td><td>57,682.27</td><td>57,819.88</td><td>57,819.88</td><td>100.24%2</td><td>-</td><td>不适用</td><td>不适用</td><td>否</td></tr><tr><td>合计</td><td>-</td><td>133,889.20</td><td>69,934.15</td><td>134,026.81</td><td>-</td><td>-</td><td>8,475.91</td><td>-</td><td>-</td></tr><tr><td colspan=\"2\">变更原因、决策程序及信息披露情况说明（分具体项目）</td><td colspan=\"8\">公司第四届董事会第三十一次会议、第四届监事会第二十七次会议、2024年第一次临时股东大会和“牧原转债”2024年第一次债券持有人会议通过了《关于变更部分募集资金用途的议案》，同意公司变更部分募集资金用途用于永久补充流动资金，将剩余募集资金（包括利息收入、发行费用剩余资金等）57,682.27万元永久补充流动资金，用于公司日常经营和业务发展。截至2024年12月31日公司已将募集资金57,819.88万元（含股东大会后收到的利息收入）用于永久补充流动资金。</td></tr><tr><td colspan=\"2\">未达到计划进度或预计收益的情况和原因（分具体项目）</td><td colspan=\"8\">2021年度公开发行可转换公司债券募集资金：相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。</td></tr><tr><td colspan=\"2\">变更后的项目可行性发生重大变化的情况说明</td><td colspan=\"8\">不适用</td></tr></table>",
+    "md": "| 变更后的项目 | 对应的原承诺项目 | 变更后项目拟投入募集资金总额(1) | 本年度实际投入金额 | 截至期末实际累计投入金额(2) | 截至期末投资进度(%)(3= (2) / (1) | 项目达到预定可使用状态日期 | 本年度实现的效益 | 是否达到预计效益 | 变更后的项目可行性是否发生重大变化 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 右江 18万头生猪养殖建设项目 | 右江 18万头生猪养殖建设项目 | 14,786.09 | 2,401.84 | 14,786.09 | 100.00% | - | 1,832.20 | 否 | 否 |\n| 洪洞 15万头生猪养殖建设项目 | 洪洞 15万头生猪养殖建设项目 | 11,454.54 | 4,073.57 | 11,454.54 | 100.00% | - | 1,524.99 | 否 | 否 |\n| 柘城 14.5万头生猪养殖建设项目 | 柘城 14.5万头生猪养殖建设项目 | 8,513.81 | 209.05 | 8,513.81 | 100.00% | - | 1,075.30 | 是 | 否 |\n| 海州 20万头生猪养殖建设项目 | 海州 20万头生猪养殖建设项目 | 8,077.82 | 476.88 | 8,077.82 | 100.00% | - | 480.38 | 否 | 否 |\n| 乐安 10万头生猪养殖建设项目 | 乐安 10万头生猪养殖建设项目 | 11,742.4 | 2,163.56 | 11,742.4 | 100.00% | - | 714.18 | 否 | 否 |\n| 康平 36万头生猪养殖建设项目 | 康平 36万头生猪养殖建设项目 | 19,405.03 | 1,529.19 | 19,405.03 | 100.00% | - | 2,792.84 | 否 | 否 |\n| 洪泽 20万头生猪养殖建设项目 | 洪泽 20万头生猪养殖建设项目 | 2,227.24 | 1,260.18 | 2,227.24 | 100.00% | - | 56.02 | 否 | 否 |\n| 变更为永久补充流动资金2 | - | 57,682.27 | 57,819.88 | 57,819.88 | 100.24%2 | - | 不适用 | 不适用 | 否 |\n| 合计 | - | 133,889.20 | 69,934.15 | 134,026.81 | - | - | 8,475.91 | - | - |\n| 变更原因、决策程序及信息披露情况说明（分具体项目） | 变更原因、决策程序及信息披露情况说明（分具体项目） | 公司第四届董事会第三十一次会议、第四届监事会第二十七次会议、2024年第一次临时股东大会和“牧原转债”2024年第一次债券持有人会议通过了《关于变更部分募集资金用途的议案》，同意公司变更部分募集资金用途用于永久补充流动资金，将剩余募集资金（包括利息收入、发行费用剩余资金等）57,682.27万元永久补充流动资金，用于公司日常经营和业务发展。截至2024年12月31日公司已将募集资金57,819.88万元（含股东大会后收到的利息收入）用于永久补充流动资金。 | 公司第四届董事会第三十一次会议、第四届监事会第二十七次会议、2024年第一次临时股东大会和“牧原转债”2024年第一次债券持有人会议通过了《关于变更部分募集资金用途的议案》，同意公司变更部分募集资金用途用于永久补充流动资金，将剩余募集资金（包括利息收入、发行费用剩余资金等）57,682.27万元永久补充流动资金，用于公司日常经营和业务发展。截至2024年12月31日公司已将募集资金57,819.88万元（含股东大会后收到的利息收入）用于永久补充流动资金。 | 公司第四届董事会第三十一次会议、第四届监事会第二十七次会议、2024年第一次临时股东大会和“牧原转债”2024年第一次债券持有人会议通过了《关于变更部分募集资金用途的议案》，同意公司变更部分募集资金用途用于永久补充流动资金，将剩余募集资金（包括利息收入、发行费用剩余资金等）57,682.27万元永久补充流动资金，用于公司日常经营和业务发展。截至2024年12月31日公司已将募集资金57,819.88万元（含股东大会后收到的利息收入）用于永久补充流动资金。 | 公司第四届董事会第三十一次会议、第四届监事会第二十七次会议、2024年第一次临时股东大会和“牧原转债”2024年第一次债券持有人会议通过了《关于变更部分募集资金用途的议案》，同意公司变更部分募集资金用途用于永久补充流动资金，将剩余募集资金（包括利息收入、发行费用剩余资金等）57,682.27万元永久补充流动资金，用于公司日常经营和业务发展。截至2024年12月31日公司已将募集资金57,819.88万元（含股东大会后收到的利息收入）用于永久补充流动资金。 | 公司第四届董事会第三十一次会议、第四届监事会第二十七次会议、2024年第一次临时股东大会和“牧原转债”2024年第一次债券持有人会议通过了《关于变更部分募集资金用途的议案》，同意公司变更部分募集资金用途用于永久补充流动资金，将剩余募集资金（包括利息收入、发行费用剩余资金等）57,682.27万元永久补充流动资金，用于公司日常经营和业务发展。截至2024年12月31日公司已将募集资金57,819.88万元（含股东大会后收到的利息收入）用于永久补充流动资金。 | 公司第四届董事会第三十一次会议、第四届监事会第二十七次会议、2024年第一次临时股东大会和“牧原转债”2024年第一次债券持有人会议通过了《关于变更部分募集资金用途的议案》，同意公司变更部分募集资金用途用于永久补充流动资金，将剩余募集资金（包括利息收入、发行费用剩余资金等）57,682.27万元永久补充流动资金，用于公司日常经营和业务发展。截至2024年12月31日公司已将募集资金57,819.88万元（含股东大会后收到的利息收入）用于永久补充流动资金。 | 公司第四届董事会第三十一次会议、第四届监事会第二十七次会议、2024年第一次临时股东大会和“牧原转债”2024年第一次债券持有人会议通过了《关于变更部分募集资金用途的议案》，同意公司变更部分募集资金用途用于永久补充流动资金，将剩余募集资金（包括利息收入、发行费用剩余资金等）57,682.27万元永久补充流动资金，用于公司日常经营和业务发展。截至2024年12月31日公司已将募集资金57,819.88万元（含股东大会后收到的利息收入）用于永久补充流动资金。 | 公司第四届董事会第三十一次会议、第四届监事会第二十七次会议、2024年第一次临时股东大会和“牧原转债”2024年第一次债券持有人会议通过了《关于变更部分募集资金用途的议案》，同意公司变更部分募集资金用途用于永久补充流动资金，将剩余募集资金（包括利息收入、发行费用剩余资金等）57,682.27万元永久补充流动资金，用于公司日常经营和业务发展。截至2024年12月31日公司已将募集资金57,819.88万元（含股东大会后收到的利息收入）用于永久补充流动资金。 |\n| 未达到计划进度或预计收益的情况和原因（分具体项目） | 未达到计划进度或预计收益的情况和原因（分具体项目） | 2021年度公开发行可转换公司债券募集资金：相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 | 2021年度公开发行可转换公司债券募集资金：相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 | 2021年度公开发行可转换公司债券募集资金：相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 | 2021年度公开发行可转换公司债券募集资金：相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 | 2021年度公开发行可转换公司债券募集资金：相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 | 2021年度公开发行可转换公司债券募集资金：相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 | 2021年度公开发行可转换公司债券募集资金：相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 | 2021年度公开发行可转换公司债券募集资金：相关项目产能释放需要周期，且报告期内受生猪价格周期性波动影响，未能达到预期收益。 |\n| 变更后的项目可行性发生重大变化的情况说明 | 变更后的项目可行性发生重大变化的情况说明 | 不适用 | 不适用 | 不适用 | 不适用 | 不适用 | 不适用 | 不适用 | 不适用 |",
+    "perfectTable": false,
+    "table_caption": [
+      "单位：万元",
+      "变更募集资金投资项目情况表"
+    ],
+    "img_path": "images/c55762b1fcc0d40a73ce1d814b3100f556eb78c384e5120de917fa1be7d45687.jpg",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "table_type": "其他表",
+    "standard2D": false,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "变更后的项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "对应的原承诺项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "变更后项目拟投入募集资金总额(1)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "本年度实际投入金额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "截至期末实际累计投入金额(2)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "截至期末投资进度(%)(3= (2) / (1)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 5
+        },
+        {
+          "text": "项目达到预定可使用状态日期",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 6
+        },
+        {
+          "text": "本年度实现的效益",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 7
+        },
+        {
+          "text": "是否达到预计效益",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 8
+        },
+        {
+          "text": "变更后的项目可行性是否发生重大变化",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 9
+        }
+      ]
+    ],
+    "element_id": 47
+  },
+  {
+    "page": 11,
+    "type": "page_number",
+    "bBox": {
+      "l": 415.0,
+      "t": 536.0,
+      "r": 422.0,
+      "b": 544.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "11",
+    "md": "11",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 48
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 67.0,
+      "t": 490.0,
+      "r": 422.0,
+      "b": 505.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "2 请见“变更原因、决策程序及信息披露情况说明（分具体项目）”相关说明",
+    "md": "2 请见“变更原因、决策程序及信息披露情况说明（分具体项目）”相关说明",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 49
+  },
+  {
+    "page": 12,
+    "type": "page_number",
+    "bBox": {
+      "l": 414.0,
+      "t": 535.0,
+      "r": 425.0,
+      "b": 544.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "12",
+    "md": "12",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 50
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 87.0,
+      "t": 70.0,
+      "r": 508.0,
+      "b": 109.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "（本页无正文，为《中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告》之签字盖章页）",
+    "md": "（本页无正文，为《中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告》之签字盖章页）",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 51
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 102.0,
+      "t": 166.0,
+      "r": 171.0,
+      "b": 182.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "保荐代表人：",
+    "md": "保荐代表人：",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 52
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 209.0,
+      "t": 166.0,
+      "r": 328.0,
+      "b": 218.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "郑浩宇",
+    "md": "郑浩宇",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 53
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 380.0,
+      "t": 167.0,
+      "r": 497.0,
+      "b": 218.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "孙向信孙向威",
+    "md": "孙向信孙向威",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 54
+  },
+  {
+    "page": 13,
+    "type": "image",
+    "bBox": {
+      "l": 383.0,
+      "t": 294.0,
+      "r": 505.0,
+      "b": 415.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/b13ee97b5dd6e9d88d6c74fcb996238b6578a1b68c13c4814216dbf7f1b837bf.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 55
+  },
+  {
+    "page": 13,
+    "type": "page_number",
+    "bBox": {
+      "l": 288.0,
+      "t": 775.0,
+      "r": 298.0,
+      "b": 785.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "13",
+    "md": "13",
+    "file_id": "牧原股份：中信证券股份有限公司关于牧原食品股份有限公司2024年度募集资金存放与实际使用情况的专项核查报告",
+    "element_id": 56
+  }
+]

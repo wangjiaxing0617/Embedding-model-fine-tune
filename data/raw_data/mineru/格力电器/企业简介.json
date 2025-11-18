@@ -1,0 +1,1617 @@
+[
+  {
+    "page": 1,
+    "type": "image",
+    "bBox": {
+      "l": 27.0,
+      "t": 27.0,
+      "r": 569.0,
+      "b": 225.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/c43c37dbdc2f88aca3b56bd94f463452b087e17f1b2459a6a781380d545aac6a.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "企业简介",
+    "element_id": 1
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 191.0,
+      "t": 237.0,
+      "r": 402.0,
+      "b": 267.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "格力电器企业简介",
+    "md": "格力电器企业简介",
+    "file_id": "企业简介",
+    "element_id": 2
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 25.0,
+      "t": 326.0,
+      "r": 569.0,
+      "b": 383.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "珠海格力电器股份有限公司成立于1991年，1996年11月在深交所挂牌上市。公司成立初期，主要依靠组装生产家用空调，现已发展成为多元化、科技型的全球工业制造集团，产业覆盖家用消费品和工业装备两大领域，产品远销190多个国家和地区。",
+    "md": "珠海格力电器股份有限公司成立于1991年，1996年11月在深交所挂牌上市。公司成立初期，主要依靠组装生产家用空调，现已发展成为多元化、科技型的全球工业制造集团，产业覆盖家用消费品和工业装备两大领域，产品远销190多个国家和地区。",
+    "file_id": "企业简介",
+    "element_id": 3
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 25.0,
+      "t": 406.0,
+      "r": 565.0,
+      "b": 463.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司在国内外建有77个生产基地，坐落于广东、重庆、安徽、河北、河南、湖北、湖南、江苏、浙江、天津、四川、江西、山东以及巴西、巴基斯坦；同时建有长沙、郑州、石家庄、芜湖、天津、珠海6个再生资源基地，覆盖从上游生产到下游回收全产业链，实现了绿色、循环、可持续发展。",
+    "md": "公司在国内外建有77个生产基地，坐落于广东、重庆、安徽、河北、河南、湖北、湖南、江苏、浙江、天津、四川、江西、山东以及巴西、巴基斯坦；同时建有长沙、郑州、石家庄、芜湖、天津、珠海6个再生资源基地，覆盖从上游生产到下游回收全产业链，实现了绿色、循环、可持续发展。",
+    "file_id": "企业简介",
+    "element_id": 4
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 25.0,
+      "t": 485.0,
+      "r": 569.0,
+      "b": 606.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司现有16个研究院，分别是：制冷技术研究院、机电技术研究院、家电技术研究院（两个）、新能源环境技术研究院、健康技术研究院、通信技术研究院、智能装备技术研究院、机器人研究院、物联网研究院、装备动力技术研究院、电机系统技术研究院、洗涤技术研究院、冷冻冷藏技术研究院、建筑环境与节能研究院、电工电材研究院。共有152个研究所、1411个实验室、1个院士工作站（电机与控制），拥有国家工程技术研究中心、国家级工业设计中心、国家认定企业技术中心、机器人工程技术研发中心各1个，同时成为国家通报咨询中心制冷设备研究评议基地、国家标准验证点（制冷设备节能）。",
+    "md": "公司现有16个研究院，分别是：制冷技术研究院、机电技术研究院、家电技术研究院（两个）、新能源环境技术研究院、健康技术研究院、通信技术研究院、智能装备技术研究院、机器人研究院、物联网研究院、装备动力技术研究院、电机系统技术研究院、洗涤技术研究院、冷冻冷藏技术研究院、建筑环境与节能研究院、电工电材研究院。共有152个研究所、1411个实验室、1个院士工作站（电机与控制），拥有国家工程技术研究中心、国家级工业设计中心、国家认定企业技术中心、机器人工程技术研发中心各1个，同时成为国家通报咨询中心制冷设备研究评议基地、国家标准验证点（制冷设备节能）。",
+    "file_id": "企业简介",
+    "element_id": 5
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 25.0,
+      "t": 628.0,
+      "r": 569.0,
+      "b": 728.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "坚持创新驱动。提出研发经费“按需投入、不设上限”。经过长期沉淀积累，截至2025年10月，格力电器累计申请专利135290件，其中发明专利申请74588件；累计发明专利授权30530件。是唯一一家连续八年进入中国发明专利授权量前十的家电企业，现拥有50项“国际领先”技术，累计获得国家科技进步奖2项、国家技术发明奖2项、中国专利金奖3项（包含“格力钛”1项）、中国外观设计金奖3项、日内瓦发明展金奖16项、纽伦堡发明展金奖12项。根据i传媒《暖通空调与热泵》发布的数据，格力中央空调连续13年占有率全国第一。",
+    "md": "坚持创新驱动。提出研发经费“按需投入、不设上限”。经过长期沉淀积累，截至2025年10月，格力电器累计申请专利135290件，其中发明专利申请74588件；累计发明专利授权30530件。是唯一一家连续八年进入中国发明专利授权量前十的家电企业，现拥有50项“国际领先”技术，累计获得国家科技进步奖2项、国家技术发明奖2项、中国专利金奖3项（包含“格力钛”1项）、中国外观设计金奖3项、日内瓦发明展金奖16项、纽伦堡发明展金奖12项。根据i传媒《暖通空调与热泵》发布的数据，格力中央空调连续13年占有率全国第一。",
+    "file_id": "企业简介",
+    "element_id": 6
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 25.0,
+      "t": 752.0,
+      "r": 565.0,
+      "b": 808.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "坚持质量为先。恪守诚信经营的宗旨，以客户需求为导向，严抓质量源头控制和体系建设。自2010年以来，格力空调顾客满意度连续16年保持行业第一。2018年，公司荣获第三届“中国质量奖”。2019年，格力电器参与起草的《质量管理基于顾客需求引领的创新循环指南》获批成为国家标准。",
+    "md": "坚持质量为先。恪守诚信经营的宗旨，以客户需求为导向，严抓质量源头控制和体系建设。自2010年以来，格力空调顾客满意度连续16年保持行业第一。2018年，公司荣获第三届“中国质量奖”。2019年，格力电器参与起草的《质量管理基于顾客需求引领的创新循环指南》获批成为国家标准。",
+    "file_id": "企业简介",
+    "element_id": 7
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 25.0,
+      "t": 30.0,
+      "r": 565.0,
+      "b": 87.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "坚持转型升级。落实供给侧结构性改革，调整优化产业布局，积极推进智能制造升级，努力实现高质量发展。2013年起，格力相继进军智能装备、通信设备、模具等领域，已经从专业空调生产延伸至多元化的高端技术产业。目前，格力智能装备不仅为自身自动化改造提供先进设备，同时也为家电、汽车、食品、3C数码、建材卫浴等众多行业提供服务。",
+    "md": "坚持转型升级。落实供给侧结构性改革，调整优化产业布局，积极推进智能制造升级，努力实现高质量发展。2013年起，格力相继进军智能装备、通信设备、模具等领域，已经从专业空调生产延伸至多元化的高端技术产业。目前，格力智能装备不仅为自身自动化改造提供先进设备，同时也为家电、汽车、食品、3C数码、建材卫浴等众多行业提供服务。",
+    "file_id": "企业简介",
+    "element_id": 8
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 25.0,
+      "t": 110.0,
+      "r": 563.0,
+      "b": 145.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "2025年上半年，格力电器营业总收入976.16亿元、归母净利润144.12亿元；工业制品及绿色能源、智能装备营收分别增长  $17.13\\%$  、  $20.90\\%$  ；海外业务收入163.35亿元，同比增长  $10.19\\%$  。",
+    "md": "2025年上半年，格力电器营业总收入976.16亿元、归母净利润144.12亿元；工业制品及绿色能源、智能装备营收分别增长  $17.13\\%$  、  $20.90\\%$  ；海外业务收入163.35亿元，同比增长  $10.19\\%$  。",
+    "file_id": "企业简介",
+    "element_id": 9
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 25.0,
+      "t": 170.0,
+      "r": 563.0,
+      "b": 246.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "格力坚持以习近平新时代中国特色社会主义思想为指引，不忘初心、牢记使命，坚守实体经济，坚持走自力更生、自主创新发展道路，加快实现管理信息化、生产自动化、产品智能化，继续引领全球暖通行业技术发展，在智能装备、通信设备、模具等领域持续发力，创造更多的领先技术，不断满足全球消费者对美好生活的向往，在智能化时代扬帆再启航、谱写新篇章！",
+    "md": "格力坚持以习近平新时代中国特色社会主义思想为指引，不忘初心、牢记使命，坚守实体经济，坚持走自力更生、自主创新发展道路，加快实现管理信息化、生产自动化、产品智能化，继续引领全球暖通行业技术发展，在智能装备、通信设备、模具等领域持续发力，创造更多的领先技术，不断满足全球消费者对美好生活的向往，在智能化时代扬帆再启航、谱写新篇章！",
+    "file_id": "企业简介",
+    "element_id": 10
+  },
+  {
+    "page": 2,
+    "type": "image",
+    "bBox": {
+      "l": 37.0,
+      "t": 250.0,
+      "r": 402.0,
+      "b": 792.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/5f0bb0984707cabda22ea7156cf980636174f295124a66131529173de59a33e8.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "企业简介",
+    "element_id": 11
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 402.0,
+      "t": 251.0,
+      "r": 450.0,
+      "b": 258.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "(/about/technology)",
+    "md": "(/about/technology)",
+    "file_id": "企业简介",
+    "element_id": 12
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "headingLevel": 1,
+    "textLevel": 1,
+    "bBox": {
+      "l": 159.0,
+      "t": 241.0,
+      "r": 280.0,
+      "b": 353.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "品牌发展",
+    "md": "品牌发展",
+    "file_id": "企业简介",
+    "element_id": 13
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 402.0,
+      "t": 27.0,
+      "r": 430.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "(/single/32)",
+    "md": "(/single/32)",
+    "file_id": "企业简介",
+    "element_id": 14
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 402.0,
+      "t": 27.0,
+      "r": 438.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "(labout/honor)",
+    "md": "(labout/honor)",
+    "file_id": "企业简介",
+    "element_id": 15
+  },
+  {
+    "page": 4,
+    "type": "image",
+    "bBox": {
+      "l": 37.0,
+      "t": 25.0,
+      "r": 400.0,
+      "b": 569.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/8025514ad975e4f2c3e009a64b648b2ea3bbfa1b156367bb579f56815a6d1c46.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "企业简介",
+    "element_id": 16
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "headingLevel": 1,
+    "textLevel": 1,
+    "bBox": {
+      "l": 159.0,
+      "t": 239.0,
+      "r": 280.0,
+      "b": 352.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "文化",
+    "md": "文化",
+    "file_id": "企业简介",
+    "element_id": 17
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 244.0,
+      "t": 710.0,
+      "r": 350.0,
+      "b": 730.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "格力董明珠店",
+    "md": "格力董明珠店",
+    "file_id": "企业简介",
+    "element_id": 18
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 264.0,
+      "t": 738.0,
+      "r": 331.0,
+      "b": 752.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "格力官方商城",
+    "md": "格力官方商城",
+    "file_id": "企业简介",
+    "element_id": 19
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 270.0,
+      "t": 754.0,
+      "r": 325.0,
+      "b": 762.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "(https://mall.gree.com)",
+    "md": "(https://mall.gree.com)",
+    "file_id": "企业简介",
+    "element_id": 20
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 402.0,
+      "t": 27.0,
+      "r": 434.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "(labout/idea)",
+    "md": "(labout/idea)",
+    "file_id": "企业简介",
+    "element_id": 21
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 227.0,
+      "t": 156.0,
+      "r": 367.0,
+      "b": 178.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "格力电器子品牌",
+    "md": "格力电器子品牌",
+    "file_id": "企业简介",
+    "element_id": 22
+  },
+  {
+    "page": 6,
+    "type": "image",
+    "bBox": {
+      "l": 52.0,
+      "t": 229.0,
+      "r": 76.0,
+      "b": 252.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/52de7c969262269036b094d43d18f9237101f7dc3cb933915efb139045ad9f20.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "企业简介",
+    "element_id": 23
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 77.0,
+      "t": 233.0,
+      "r": 111.0,
+      "b": 249.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "晶弘",
+    "md": "晶弘",
+    "file_id": "企业简介",
+    "element_id": 24
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 55.0,
+      "t": 288.0,
+      "r": 108.0,
+      "b": 302.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "TOSOT",
+    "md": "TOSOT",
+    "file_id": "企业简介",
+    "element_id": 25
+  },
+  {
+    "page": 6,
+    "type": "image",
+    "bBox": {
+      "l": 48.0,
+      "t": 341.0,
+      "r": 65.0,
+      "b": 357.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/2f43cd6ca9b64cda1c7d7ff02a1cb1a0ce3ad8682a5d7ea0f2344dba869d856d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "企业简介",
+    "element_id": 26
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 65.0,
+      "t": 344.0,
+      "r": 114.0,
+      "b": 355.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "LAMDA",
+    "md": "LAMDA",
+    "file_id": "企业简介",
+    "element_id": 27
+  },
+  {
+    "page": 6,
+    "type": "image",
+    "bBox": {
+      "l": 46.0,
+      "t": 394.0,
+      "r": 64.0,
+      "b": 411.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/220dba5cc731c58f6b95bf0cf78b24d410e4a09cb286de6a0c402b10eb0bc72a.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "企业简介",
+    "element_id": 28
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 67.0,
+      "t": 397.0,
+      "r": 115.0,
+      "b": 409.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "凯邦电机",
+    "md": "凯邦电机",
+    "file_id": "企业简介",
+    "element_id": 29
+  },
+  {
+    "page": 6,
+    "type": "image",
+    "bBox": {
+      "l": 48.0,
+      "t": 445.0,
+      "r": 65.0,
+      "b": 459.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/20f73ed42d9860f126a351bf5a33bdcc092e7426f0730110fcb35d43bfffef26.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "企业简介",
+    "element_id": 30
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 65.0,
+      "t": 447.0,
+      "r": 112.0,
+      "b": 458.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "GREE",
+    "md": "GREE",
+    "file_id": "企业简介",
+    "element_id": 31
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 59.0,
+      "t": 459.0,
+      "r": 103.0,
+      "b": 469.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "精密铸造",
+    "md": "精密铸造",
+    "file_id": "企业简介",
+    "element_id": 32
+  },
+  {
+    "page": 6,
+    "type": "image",
+    "bBox": {
+      "l": 49.0,
+      "t": 499.0,
+      "r": 65.0,
+      "b": 512.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/08db004bb045bc9ca5535734c4ecf10a9792cd379af8cca52cba479f828c320f.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "企业简介",
+    "element_id": 33
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 65.0,
+      "t": 500.0,
+      "r": 112.0,
+      "b": 512.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "GREE",
+    "md": "GREE",
+    "file_id": "企业简介",
+    "element_id": 34
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 60.0,
+      "t": 514.0,
+      "r": 103.0,
+      "b": 522.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "格力电工",
+    "md": "格力电工",
+    "file_id": "企业简介",
+    "element_id": 35
+  },
+  {
+    "page": 6,
+    "type": "image",
+    "bBox": {
+      "l": 39.0,
+      "t": 556.0,
+      "r": 64.0,
+      "b": 574.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/3a8030380b741ac010eefd45cf4b3740483a559ac4a90c1c03197a32f289f6d8.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "企业简介",
+    "element_id": 36
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 65.0,
+      "t": 554.0,
+      "r": 123.0,
+      "b": 575.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "新立电子",
+    "md": "新立电子",
+    "file_id": "企业简介",
+    "element_id": 37
+  },
+  {
+    "page": 6,
+    "type": "image",
+    "bBox": {
+      "l": 49.0,
+      "t": 606.0,
+      "r": 65.0,
+      "b": 621.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/75724f587ef4dec347c6fd6c2c25d51e18611a1d02cd23e5312ca8769ef0c4b6.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "企业简介",
+    "element_id": 38
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 67.0,
+      "t": 609.0,
+      "r": 112.0,
+      "b": 621.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "GREE",
+    "md": "GREE",
+    "file_id": "企业简介",
+    "element_id": 39
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 59.0,
+      "t": 621.0,
+      "r": 103.0,
+      "b": 631.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "精密模具",
+    "md": "精密模具",
+    "file_id": "企业简介",
+    "element_id": 40
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 52.0,
+      "t": 660.0,
+      "r": 109.0,
+      "b": 678.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "Luentech",
+    "md": "Luentech",
+    "file_id": "企业简介",
+    "element_id": 41
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 67.0,
+      "t": 678.0,
+      "r": 105.0,
+      "b": 685.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "联云科技",
+    "md": "联云科技",
+    "file_id": "企业简介",
+    "element_id": 42
+  },
+  {
+    "page": 6,
+    "type": "image",
+    "bBox": {
+      "l": 43.0,
+      "t": 713.0,
+      "r": 58.0,
+      "b": 728.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/0cdabb7c8643f86ef439d76e236e391f03f847dd9269597ec185439e5887c23b.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "企业简介",
+    "element_id": 43
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 59.0,
+      "t": 713.0,
+      "r": 117.0,
+      "b": 728.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "GREEN",
+    "md": "GREEN",
+    "file_id": "企业简介",
+    "element_id": 44
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 55.0,
+      "t": 730.0,
+      "r": 107.0,
+      "b": 741.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "格力钛新能源",
+    "md": "格力钛新能源",
+    "file_id": "企业简介",
+    "element_id": 45
+  },
+  {
+    "page": 6,
+    "type": "image",
+    "bBox": {
+      "l": 48.0,
+      "t": 769.0,
+      "r": 65.0,
+      "b": 783.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/b8cba9bb4f4213935f566a7c066e0d884815e2e6e7472df2d752a47f559c117d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "企业简介",
+    "element_id": 46
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 67.0,
+      "t": 770.0,
+      "r": 114.0,
+      "b": 781.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "GREE",
+    "md": "GREE",
+    "file_id": "企业简介",
+    "element_id": 47
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 59.0,
+      "t": 783.0,
+      "r": 106.0,
+      "b": 792.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "格力机电",
+    "md": "格力机电",
+    "file_id": "企业简介",
+    "element_id": 48
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 236.0,
+      "t": 40.0,
+      "r": 361.0,
+      "b": 61.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "查找附近专卖店",
+    "md": "查找附近专卖店",
+    "file_id": "企业简介",
+    "element_id": 49
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 237.0,
+      "t": 69.0,
+      "r": 359.0,
+      "b": 83.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "快速前往附近专卖店购买",
+    "md": "快速前往附近专卖店购买",
+    "file_id": "企业简介",
+    "element_id": 50
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 275.0,
+      "t": 85.0,
+      "r": 321.0,
+      "b": 93.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "(/server/saleStore)",
+    "md": "(/server/saleStore)",
+    "file_id": "企业简介",
+    "element_id": 51
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 54.0,
+      "t": 115.0,
+      "r": 90.0,
+      "b": 125.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "家庭用户",
+    "md": "家庭用户",
+    "file_id": "企业简介",
+    "element_id": 52
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 130.0,
+      "r": 118.0,
+      "b": 138.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "空调(/cmsProduct/list/41)",
+    "md": "空调(/cmsProduct/list/41)",
+    "file_id": "企业简介",
+    "element_id": 53
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 143.0,
+      "r": 142.0,
+      "b": 151.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "家庭中央空调(/cmsProduct/list/161)",
+    "md": "家庭中央空调(/cmsProduct/list/161)",
+    "file_id": "企业简介",
+    "element_id": 54
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 156.0,
+      "r": 129.0,
+      "b": 164.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生活电器 (/cmsProduct/list/44)",
+    "md": "生活电器 (/cmsProduct/list/44)",
+    "file_id": "企业简介",
+    "element_id": 55
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 168.0,
+      "r": 117.0,
+      "b": 177.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "冰箱(/cmsProduct/list/45)",
+    "md": "冰箱(/cmsProduct/list/45)",
+    "file_id": "企业简介",
+    "element_id": 56
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 182.0,
+      "r": 129.0,
+      "b": 189.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "洗衣机 (/cmsProduct/list/3068)",
+    "md": "洗衣机 (/cmsProduct/list/3068)",
+    "file_id": "企业简介",
+    "element_id": 57
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 194.0,
+      "r": 123.0,
+      "b": 203.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "热水器(/cmsProduct/list/43)",
+    "md": "热水器(/cmsProduct/list/43)",
+    "file_id": "企业简介",
+    "element_id": 58
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 208.0,
+      "r": 128.0,
+      "b": 215.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "智能产品(/cmsProduct/list/46)",
+    "md": "智能产品(/cmsProduct/list/46)",
+    "file_id": "企业简介",
+    "element_id": 59
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 220.0,
+      "r": 97.0,
+      "b": 229.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "零碳健康家（Iftkj）",
+    "md": "零碳健康家（Iftkj）",
+    "file_id": "企业简介",
+    "element_id": 60
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 54.0,
+      "t": 231.0,
+      "r": 90.0,
+      "b": 242.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "商业用户",
+    "md": "商业用户",
+    "file_id": "企业简介",
+    "element_id": 61
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 246.0,
+      "r": 139.0,
+      "b": 254.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "商业中央空调 (/cmsProduct/list/51)",
+    "md": "商业中央空调 (/cmsProduct/list/51)",
+    "file_id": "企业简介",
+    "element_id": 62
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 258.0,
+      "r": 155.0,
+      "b": 267.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "商业空气能热水器 (/cmsProduct/list/7110)",
+    "md": "商业空气能热水器 (/cmsProduct/list/7110)",
+    "file_id": "企业简介",
+    "element_id": 63
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 272.0,
+      "r": 139.0,
+      "b": 279.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "商业饮水机(/cmsProduct/list/7200)",
+    "md": "商业饮水机(/cmsProduct/list/7200)",
+    "file_id": "企业简介",
+    "element_id": 64
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 284.0,
+      "r": 107.0,
+      "b": 292.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "工业制品 (industries)",
+    "md": "工业制品 (industries)",
+    "file_id": "企业简介",
+    "element_id": 65
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 298.0,
+      "r": 133.0,
+      "b": 305.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "格力泰山(http://gbms.gree.com)",
+    "md": "格力泰山(http://gbms.gree.com)",
+    "file_id": "企业简介",
+    "element_id": 66
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 54.0,
+      "t": 308.0,
+      "r": 90.0,
+      "b": 319.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "新闻中心",
+    "md": "新闻中心",
+    "file_id": "企业简介",
+    "element_id": 67
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 321.0,
+      "r": 111.0,
+      "b": 330.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "格力新闻(/about/news)",
+    "md": "格力新闻(/about/news)",
+    "file_id": "企业简介",
+    "element_id": 68
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 335.0,
+      "r": 140.0,
+      "b": 342.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "格力发布(/about/news#greePublic)",
+    "md": "格力发布(/about/news#greePublic)",
+    "file_id": "企业简介",
+    "element_id": 69
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 348.0,
+      "r": 147.0,
+      "b": 356.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "媒体报道(/about/news#recentlyNews)",
+    "md": "媒体报道(/about/news#recentlyNews)",
+    "file_id": "企业简介",
+    "element_id": 70
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 54.0,
+      "t": 358.0,
+      "r": 99.0,
+      "b": 369.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "投资者关系",
+    "md": "投资者关系",
+    "file_id": "企业简介",
+    "element_id": 71
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 373.0,
+      "r": 137.0,
+      "b": 381.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "定期报告(/about/investor#regular)",
+    "md": "定期报告(/about/investor#regular)",
+    "file_id": "企业简介",
+    "element_id": 72
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 385.0,
+      "r": 133.0,
+      "b": 394.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "临时公告(/about/investor#temp)",
+    "md": "临时公告(/about/investor#temp)",
+    "file_id": "企业简介",
+    "element_id": 73
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 399.0,
+      "r": 134.0,
+      "b": 406.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "格力股票(/about/investor#stock)",
+    "md": "格力股票(/about/investor#stock)",
+    "file_id": "企业简介",
+    "element_id": 74
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 411.0,
+      "r": 134.0,
+      "b": 419.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司概况(/about/investor#about)",
+    "md": "公司概况(/about/investor#about)",
+    "file_id": "企业简介",
+    "element_id": 75
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 425.0,
+      "r": 136.0,
+      "b": 432.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "分红配股(/about/investor#bonus)",
+    "md": "分红配股(/about/investor#bonus)",
+    "file_id": "企业简介",
+    "element_id": 76
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 437.0,
+      "r": 133.0,
+      "b": 445.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司章程 (/about/investor#rules)",
+    "md": "公司章程 (/about/investor#rules)",
+    "file_id": "企业简介",
+    "element_id": 77
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 450.0,
+      "r": 134.0,
+      "b": 458.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公平在身边 (about/investor#fair)",
+    "md": "公平在身边 (about/investor#fair)",
+    "file_id": "企业简介",
+    "element_id": 78
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 54.0,
+      "t": 462.0,
+      "r": 99.0,
+      "b": 472.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "能源新生态",
+    "md": "能源新生态",
+    "file_id": "企业简介",
+    "element_id": 79
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 475.0,
+      "r": 145.0,
+      "b": 483.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "光伏空调系统（IcmsProduct/list/7030）",
+    "md": "光伏空调系统（IcmsProduct/list/7030）",
+    "file_id": "企业简介",
+    "element_id": 80
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 489.0,
+      "r": 97.0,
+      "b": 496.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "零碳健康家（ltjki）",
+    "md": "零碳健康家（ltjki）",
+    "file_id": "企业简介",
+    "element_id": 81
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 54.0,
+      "t": 500.0,
+      "r": 82.0,
+      "b": 510.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "专卖店",
+    "md": "专卖店",
+    "file_id": "企业简介",
+    "element_id": 82
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 512.0,
+      "r": 129.0,
+      "b": 521.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "专卖店查询 (/server/saleStore)",
+    "md": "专卖店查询 (/server/saleStore)",
+    "file_id": "企业简介",
+    "element_id": 83
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 526.0,
+      "r": 140.0,
+      "b": 533.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "售后服务门店(/server/serviceStore)",
+    "md": "售后服务门店(/server/serviceStore)",
+    "file_id": "企业简介",
+    "element_id": 84
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 538.0,
+      "r": 120.0,
+      "b": 547.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "营销网络(/server/network)",
+    "md": "营销网络(/server/network)",
+    "file_id": "企业简介",
+    "element_id": 85
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 54.0,
+      "t": 549.0,
+      "r": 90.0,
+      "b": 559.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "官方商城",
+    "md": "官方商城",
+    "file_id": "企业简介",
+    "element_id": 86
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 564.0,
+      "r": 143.0,
+      "b": 572.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "格力董明珠店 (https://mall.gree.com)",
+    "md": "格力董明珠店 (https://mall.gree.com)",
+    "file_id": "企业简介",
+    "element_id": 87
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 577.0,
+      "r": 140.0,
+      "b": 584.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "天猫旗舰店 (https://gree.tmall.com/)",
+    "md": "天猫旗舰店 (https://gree.tmall.com/)",
+    "file_id": "企业简介",
+    "element_id": 88
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 590.0,
+      "r": 272.0,
+      "b": 598.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "国美旗舰店 (http://pinpai.gome.com.cn/10000968/index.html?intcmp=shop-9000000002-2)",
+    "md": "国美旗舰店 (http://pinpai.gome.com.cn/10000968/index.html?intcmp=shop-9000000002-2)",
+    "file_id": "企业简介",
+    "element_id": 89
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 54.0,
+      "t": 600.0,
+      "r": 90.0,
+      "b": 611.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "服务中心",
+    "md": "服务中心",
+    "file_id": "企业简介",
+    "element_id": 90
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 615.0,
+      "r": 77.0,
+      "b": 621.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "服务预约",
+    "md": "服务预约",
+    "file_id": "企业简介",
+    "element_id": 91
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 627.0,
+      "r": 119.0,
+      "b": 635.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "品类服务标准 (/afterSales)",
+    "md": "品类服务标准 (/afterSales)",
+    "file_id": "企业简介",
+    "element_id": 92
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 641.0,
+      "r": 165.0,
+      "b": 648.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "供应商自荐(http://scmcloud.gree.com/source)",
+    "md": "供应商自荐(http://scmcloud.gree.com/source)",
+    "file_id": "企业简介",
+    "element_id": 93
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 653.0,
+      "r": 139.0,
+      "b": 660.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "再生资源(http://recycle.gree.com/)",
+    "md": "再生资源(http://recycle.gree.com/)",
+    "file_id": "企业简介",
+    "element_id": 94
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 665.0,
+      "r": 214.0,
+      "b": 674.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "合格评定查询 (http://sellsupports.gree.com:8085/dist/index.html#/",
+    "md": "合格评定查询 (http://sellsupports.gree.com:8085/dist/index.html#/",
+    "file_id": "企业简介",
+    "element_id": 95
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 679.0,
+      "r": 223.0,
+      "b": 686.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "十环认证查询 (http://sellsupports.gree.com:8085/distTen/index.html#/)",
+    "md": "十环认证查询 (http://sellsupports.gree.com:8085/distTen/index.html#/)",
+    "file_id": "企业简介",
+    "element_id": 96
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 54.0,
+      "t": 690.0,
+      "r": 90.0,
+      "b": 701.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "关于格力",
+    "md": "关于格力",
+    "file_id": "企业简介",
+    "element_id": 97
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 705.0,
+      "r": 115.0,
+      "b": 712.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "品牌故事(/about/history)",
+    "md": "品牌故事(/about/history)",
+    "file_id": "企业简介",
+    "element_id": 98
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 717.0,
+      "r": 111.0,
+      "b": 725.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "格力新闻(/about/news)",
+    "md": "格力新闻(/about/news)",
+    "file_id": "企业简介",
+    "element_id": 99
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 730.0,
+      "r": 111.0,
+      "b": 738.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "视频中心 (/about/video)",
+    "md": "视频中心 (/about/video)",
+    "file_id": "企业简介",
+    "element_id": 100
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 743.0,
+      "r": 123.0,
+      "b": 750.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "投资者关系(/about/investor)",
+    "md": "投资者关系(/about/investor)",
+    "file_id": "企业简介",
+    "element_id": 101
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 755.0,
+      "r": 100.0,
+      "b": 764.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "格力+ (/about/app)",
+    "md": "格力+ (/about/app)",
+    "file_id": "企业简介",
+    "element_id": 102
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 46.0,
+      "t": 41.0,
+      "r": 117.0,
+      "b": 66.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "GREE绿色再生",
+    "md": "GREE绿色再生",
+    "file_id": "企业简介",
+    "element_id": 103
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 27.0,
+      "t": 81.0,
+      "r": 48.0,
+      "b": 88.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "底部->",
+    "md": "底部->",
+    "file_id": "企业简介",
+    "element_id": 104
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 75.0,
+      "t": 781.0,
+      "r": 296.0,
+      "b": 791.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "总机:0756-8614883 + 传真:0756-8614998 中央空调咨询电话:(0756)8614883",
+    "md": "总机:0756-8614883 + 传真:0756-8614998 中央空调咨询电话:(0756)8614883",
+    "file_id": "企业简介",
+    "element_id": 105
+  }
+]

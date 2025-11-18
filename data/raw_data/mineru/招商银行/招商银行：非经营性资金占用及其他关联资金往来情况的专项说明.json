@@ -1,0 +1,2256 @@
+[
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 1,
+    "textLevel": 1,
+    "bBox": {
+      "l": 162.0,
+      "t": 134.0,
+      "r": 430.0,
+      "b": 149.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "非经营性资金占用及其他关联资金往来情况的专项说明",
+    "md": "非经营性资金占用及其他关联资金往来情况的专项说明",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 1
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 293.0,
+      "t": 161.0,
+      "r": 506.0,
+      "b": 173.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "安永华明（2025）专字第70023674_H03号",
+    "md": "安永华明（2025）专字第70023674_H03号",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 2
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 393.0,
+      "t": 176.0,
+      "r": 506.0,
+      "b": 189.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "招商银行股份有限公司",
+    "md": "招商银行股份有限公司",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 3
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 214.0,
+      "r": 238.0,
+      "b": 229.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "招商银行股份有限公司董事会：",
+    "md": "招商银行股份有限公司董事会：",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 4
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 241.0,
+      "r": 506.0,
+      "b": 299.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "我们审计了招商银行股份有限公司（以下简称“贵行”）的2024年度财务报表，包括2024年12月31日的合并及公司资产负债表，2024年度的合并及公司利润表、股东权益变动表和现金流量表以及相关财务报表附注，并于2025年3月25日出具了编号为安永华明（2025）审字第70023674_H01号的无保留意见审计报告。",
+    "md": "我们审计了招商银行股份有限公司（以下简称“贵行”）的2024年度财务报表，包括2024年12月31日的合并及公司资产负债表，2024年度的合并及公司利润表、股东权益变动表和现金流量表以及相关财务报表附注，并于2025年3月25日出具了编号为安永华明（2025）审字第70023674_H01号的无保留意见审计报告。",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 5
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 311.0,
+      "r": 506.0,
+      "b": 353.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "按照《上市公司监管指引第8号——上市公司资金往来、对外担保的监管要求》的要求，贵行编制了后附的2024年度非经营性资金占用及其他关联资金往来情况汇总表（以下简称“汇总表”）。",
+    "md": "按照《上市公司监管指引第8号——上市公司资金往来、对外担保的监管要求》的要求，贵行编制了后附的2024年度非经营性资金占用及其他关联资金往来情况汇总表（以下简称“汇总表”）。",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 6
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 367.0,
+      "r": 506.0,
+      "b": 438.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "如实编制和对外披露汇总表，并确保其真实性、合法性、完整性是贵行管理层的责任。我们对汇总表所载资料与我们审计贵行2024年度财务报表时所复核的会计资料和经审计的财务报表的相关内容进行了核对，在所有重大方面没有发现不一致之处。除了对贵行2024年度财务报表出具审计报告而执行的审计程序外，我们并未对汇总表所载资料执行额外的审计程序。",
+    "md": "如实编制和对外披露汇总表，并确保其真实性、合法性、完整性是贵行管理层的责任。我们对汇总表所载资料与我们审计贵行2024年度财务报表时所复核的会计资料和经审计的财务报表的相关内容进行了核对，在所有重大方面没有发现不一致之处。除了对贵行2024年度财务报表出具审计报告而执行的审计程序外，我们并未对汇总表所载资料执行额外的审计程序。",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 7
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 451.0,
+      "r": 505.0,
+      "b": 479.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "为了更好地理解贵行2024年度非经营性资金占用及其他关联资金往来情况，汇总表应当与经审计的财务报表一并阅读。",
+    "md": "为了更好地理解贵行2024年度非经营性资金占用及其他关联资金往来情况，汇总表应当与经审计的财务报表一并阅读。",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 8
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 108.0,
+      "t": 492.0,
+      "r": 439.0,
+      "b": 505.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "本专项说明仅供贵行为2024年度报告披露使用，不适用于其他用途。",
+    "md": "本专项说明仅供贵行为2024年度报告披露使用，不适用于其他用途。",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 9
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 18.0,
+      "r": 131.0,
+      "b": 78.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "EY安永",
+    "md": "EY安永",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 10
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 162.0,
+      "t": 35.0,
+      "r": 262.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "Ernst & Young Hua Ming LLP",
+    "md": "Ernst & Young Hua Ming LLP",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 11
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 162.0,
+      "t": 45.0,
+      "r": 268.0,
+      "b": 53.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "Level 17, Ernst & Young Tower",
+    "md": "Level 17, Ernst & Young Tower",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 12
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 162.0,
+      "t": 54.0,
+      "r": 300.0,
+      "b": 62.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "Oriental Plaza, 1 East Chang An Avenue",
+    "md": "Oriental Plaza, 1 East Chang An Avenue",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 13
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 162.0,
+      "t": 62.0,
+      "r": 230.0,
+      "b": 71.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "Dongcheng District",
+    "md": "Dongcheng District",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 14
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 162.0,
+      "t": 72.0,
+      "r": 241.0,
+      "b": 81.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "Beijing, China 100738",
+    "md": "Beijing, China 100738",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 15
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 311.0,
+      "t": 34.0,
+      "r": 444.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "安永华明会计师事务所（特殊普通合伙）",
+    "md": "安永华明会计师事务所（特殊普通合伙）",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 16
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 311.0,
+      "t": 45.0,
+      "r": 419.0,
+      "b": 56.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中国北京市东城区东长安街1号",
+    "md": "中国北京市东城区东长安街1号",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 17
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 311.0,
+      "t": 56.0,
+      "r": 394.0,
+      "b": 66.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "东方广场安永大楼17层",
+    "md": "东方广场安永大楼17层",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 18
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 311.0,
+      "t": 67.0,
+      "r": 375.0,
+      "b": 77.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "邮政编码：100738",
+    "md": "邮政编码：100738",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 19
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 455.0,
+      "t": 34.0,
+      "r": 558.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "Tel 电话：+86 10 5815 3000",
+    "md": "Tel 电话：+86 10 5815 3000",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 20
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 455.0,
+      "t": 46.0,
+      "r": 559.0,
+      "b": 56.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "Fax传真：+861085188298",
+    "md": "Fax传真：+861085188298",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 21
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 456.0,
+      "t": 57.0,
+      "r": 483.0,
+      "b": 66.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "ey.com",
+    "md": "ey.com",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 22
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 48.0,
+      "t": 823.0,
+      "r": 155.0,
+      "b": 831.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "A member firm of Ernst & Young Global Limited",
+    "md": "A member firm of Ernst & Young Global Limited",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 23
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 196.0,
+      "t": 806.0,
+      "r": 519.0,
+      "b": 829.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "此码用于证明该审计报告是否由具有执业许可的会计师事务所出具，您可使用手机“扫一扫”或进入“注册会计师行业统一监管平台（http://acc.mof.gov.cn）”进行查验。报告编码：京25MSLARG7M",
+    "md": "此码用于证明该审计报告是否由具有执业许可的会计师事务所出具，您可使用手机“扫一扫”或进入“注册会计师行业统一监管平台（http://acc.mof.gov.cn）”进行查验。报告编码：京25MSLARG7M",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 24
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 526.0,
+      "t": 774.0,
+      "r": 580.0,
+      "b": 828.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "国",
+    "md": "国",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 25
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 144.0,
+      "t": 140.0,
+      "r": 441.0,
+      "b": 155.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "非经营性资金占用及其他关联资金往来情况的专项说明（续）",
+    "md": "非经营性资金占用及其他关联资金往来情况的专项说明（续）",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 26
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 293.0,
+      "t": 168.0,
+      "r": 505.0,
+      "b": 183.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "安永华明（2025）专字第70023674_H03号",
+    "md": "安永华明（2025）专字第70023674_H03号",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 27
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 394.0,
+      "t": 184.0,
+      "r": 505.0,
+      "b": 197.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "招商银行股份有限公司",
+    "md": "招商银行股份有限公司",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 28
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 115.0,
+      "t": 225.0,
+      "r": 183.0,
+      "b": 239.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "（本页无正文）",
+    "md": "（本页无正文）",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 29
+  },
+  {
+    "page": 2,
+    "type": "image",
+    "bBox": {
+      "l": 87.0,
+      "t": 360.0,
+      "r": 281.0,
+      "b": 480.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/08ab05c36affbd93f07f4d59daf9954d52c465a91210b6814cbaf2dc3c40b7cd.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 30
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 190.0,
+      "t": 573.0,
+      "r": 243.0,
+      "b": 585.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中国北京",
+    "md": "中国北京",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 31
+  },
+  {
+    "page": 2,
+    "type": "image",
+    "bBox": {
+      "l": 347.0,
+      "t": 351.0,
+      "r": 412.0,
+      "b": 410.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/d931d6ca19be1f572a939455e503cabe40ea2a1c054699c3bc41b5458ef139cc.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 32
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 415.0,
+      "t": 358.0,
+      "r": 516.0,
+      "b": 405.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "设",
+    "md": "设",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 33
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 383.0,
+      "t": 416.0,
+      "r": 505.0,
+      "b": 431.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中国注册会计师：冯所腾",
+    "md": "中国注册会计师：冯所腾",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 34
+  },
+  {
+    "page": 2,
+    "type": "image",
+    "bBox": {
+      "l": 349.0,
+      "t": 453.0,
+      "r": 411.0,
+      "b": 514.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/fae2e8be4e40508cac855c323ea47739e12f75194373b676493b8ae4e10128ae.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 35
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 436.0,
+      "t": 456.0,
+      "r": 496.0,
+      "b": 510.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "个",
+    "md": "个",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 36
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 383.0,
+      "t": 520.0,
+      "r": 505.0,
+      "b": 532.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中国注册会计师：范勋",
+    "md": "中国注册会计师：范勋",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 37
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 414.0,
+      "t": 573.0,
+      "r": 504.0,
+      "b": 585.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "2025年3月25日",
+    "md": "2025年3月25日",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 38
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 18.0,
+      "r": 133.0,
+      "b": 78.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "EY安永",
+    "md": "EY安永",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 39
+  },
+  {
+    "page": 2,
+    "type": "page_number",
+    "bBox": {
+      "l": 484.0,
+      "t": 807.0,
+      "r": 505.0,
+      "b": 817.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "-2-",
+    "md": "-2-",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 40
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 48.0,
+      "t": 823.0,
+      "r": 155.0,
+      "b": 831.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "A member firm of Ernst & Young Global Limited",
+    "md": "A member firm of Ernst & Young Global Limited",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 41
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 526.0,
+      "t": 774.0,
+      "r": 580.0,
+      "b": 828.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "国",
+    "md": "国",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 42
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 84.0,
+      "t": 49.0,
+      "r": 125.0,
+      "b": 797.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "19联册张明书电强中日21由02王平已“不要孤明月联立普明不亚 置时但每海半强甲回本关其 一置业”与联明韵明国中蜀韵“不要援 明月联立普明则不亚置时但每海半强甲回本文“Y佛卿添王身文”若不要孤明尹固晕员“身不思明申于乐",
+    "md": "19联册张明书电强中日21由02王平已“不要孤明月联立普明不亚 置时但每海半强甲回本关其 一置业”与联明韵明国中蜀韵“不要援 明月联立普明则不亚置时但每海半强甲回本文“Y佛卿添王身文”若不要孤明尹固晕员“身不思明申于乐",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 43
+  },
+  {
+    "page": 3,
+    "type": "image",
+    "bBox": {
+      "l": 152.0,
+      "t": 659.0,
+      "r": 273.0,
+      "b": 789.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/85b5fe2326bc745319343ea7441ae58f3339b2e85e13e47ce1e3fbb8f7e6c759.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 44
+  },
+  {
+    "page": 3,
+    "type": "image",
+    "bBox": {
+      "l": 152.0,
+      "t": 512.0,
+      "r": 224.0,
+      "b": 616.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/a51a5cd26d463dca8a777c76ccb6329cdd85d85620c6f1ae1628534e48953c9a.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 45
+  },
+  {
+    "page": 3,
+    "type": "image",
+    "bBox": {
+      "l": 162.0,
+      "t": 503.0,
+      "r": 224.0,
+      "b": 616.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/9bba04b33603cc207bcd676547c5d758d350fcaf134324002062f2161a7fdc43.jpg",
+    "image_caption": [
+      "甲基甲基甲基甲 勾结 课作业帮一课"
+    ],
+    "image_footnote": [],
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 46
+  },
+  {
+    "page": 3,
+    "type": "list",
+    "sub_type": "text",
+    "list_items": [
+      "#",
+      "7"
+    ],
+    "md": "#\n7",
+    "value": "#\n7",
+    "bBox": {
+      "l": 162.0,
+      "t": 392.0,
+      "r": 189.0,
+      "b": 429.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 47
+  },
+  {
+    "page": 3,
+    "type": "table",
+    "bBox": {
+      "l": 256.0,
+      "t": 48.0,
+      "r": 521.0,
+      "b": 805.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 5
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 6
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 7
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 8
+        },
+        {
+          "text": "共赏",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "米形斜悬弱非",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "田寧业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 5
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 6
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 7
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 8
+        },
+        {
+          "text": "不亚智俐班豆豆独关明详",
+          "rowspan": 2,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "米形斜悬弱非",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "田寧业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 5
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 6
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 7
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "米形斜悬弱非",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "田寧业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 5
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 6
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 7
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 8
+        },
+        {
+          "text": "丫月独关",
+          "rowspan": 2,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "米形斜悬弱非",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "田寧业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 5
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 6
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 7
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "米形斜悬弱非",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "田寧业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 5
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 6
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 7
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 8
+        },
+        {
+          "text": "不亚智俐班豆豆去明但去电于",
+          "rowspan": 2,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "米形斜悬弱非",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 0
+        },
+        {
+          "text": "田寧业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 5
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 6
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 7
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "(五)米形斜悬弱",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 0
+        },
+        {
+          "text": "田寧业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 5
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 6
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 7
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 8
+        },
+        {
+          "text": "不亚智俐班豆豆强丫",
+          "rowspan": 2,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "(五)米形斜悬弱",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 0
+        },
+        {
+          "text": "田寧业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 5
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 6
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 7
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "望斜兴",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 0
+        },
+        {
+          "text": "田寧神往米井",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 1
+        },
+        {
+          "text": "溪亭等语 米井半由b202",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 2
+        },
+        {
+          "text": "溪亭玉亭长 溪井斜直由b202",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 3
+        },
+        {
+          "text": "(县时)晋陆朝琴 溪井斜直由b202",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 4
+        },
+        {
+          "text": "(晋陆昌业)溪亭玉亭 溪井斜直由b202",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 5
+        },
+        {
+          "text": "溪亭等语 溪井直由b202",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 6
+        },
+        {
+          "text": "目持寺寺 明藏斜直由电于",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 7
+        },
+        {
+          "text": "溪亭关明恒 电于与电来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 8
+        },
+        {
+          "text": "溪亭东米井等语",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 9
+        },
+        {
+          "text": "米井等语关明",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 0
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 5
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 6
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 7
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 8
+        },
+        {
+          "text": "共赏",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 0
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 5
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 6
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 7
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 8
+        },
+        {
+          "text": "共赏",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "田早斜悬弱非",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 0
+        },
+        {
+          "text": "田寧业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 5
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 6
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 7
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 8
+        },
+        {
+          "text": "不亚智俐班豆豆强丫",
+          "rowspan": 2,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "田早斜悬弱非",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 0
+        },
+        {
+          "text": "田寧业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 5
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 6
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 7
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 0
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 5
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 6
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 7
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 8
+        },
+        {
+          "text": "共赏",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "田早斜悬弱非",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 0
+        },
+        {
+          "text": "田寧业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 5
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 6
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 7
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 8
+        },
+        {
+          "text": "不亚智俐班豆豆强丫",
+          "rowspan": 2,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "田早斜悬弱非",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 0
+        },
+        {
+          "text": "田寧业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 5
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 6
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 7
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "望斜田早",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 0
+        },
+        {
+          "text": "田寧神往田早",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 1
+        },
+        {
+          "text": "溪亭等语 田早半由b202",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 2
+        },
+        {
+          "text": "溪亭玉亭长 溪井斜直由b202",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 3
+        },
+        {
+          "text": "(县时)晋陆朝琴 溪井直由b202",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 4
+        },
+        {
+          "text": "(晋陆昌业)溪亭玉亭 溪井直由b202",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 5
+        },
+        {
+          "text": "溪亭等语 溪井直由b202",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 6
+        },
+        {
+          "text": "目持寺寺 明藏斜直由电于",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 7
+        },
+        {
+          "text": "溪亭关明恒 电于与电来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 8
+        },
+        {
+          "text": "溪亭东米井等语",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 9
+        },
+        {
+          "text": "田早等语关弱非",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 10
+        }
+      ]
+    ],
+    "html": "<table><tr><td></td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>-</td><td>-</td><td>-</td><td>共赏</td><td></td></tr><tr><td>米形斜悬弱非</td><td>田寧业</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td rowspan=\"2\">不亚智俐班豆豆独关明详</td><td></td></tr><tr><td>米形斜悬弱非</td><td>田寧业</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td></td></tr><tr><td>米形斜悬弱非</td><td>田寧业</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td rowspan=\"2\">丫月独关</td><td></td></tr><tr><td>米形斜悬弱非</td><td>田寧业</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td></td></tr><tr><td>米形斜悬弱非</td><td>田寧业</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td rowspan=\"2\">不亚智俐班豆豆去明但去电于</td><td></td></tr><tr><td>米形斜悬弱非</td><td>田寧业</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td></td></tr><tr><td>(五)米形斜悬弱</td><td>田寧业</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td rowspan=\"2\">不亚智俐班豆豆强丫</td><td></td></tr><tr><td>(五)米形斜悬弱</td><td>田寧业</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td></td></tr><tr><td>望斜兴</td><td>田寧神往米井</td><td>溪亭等语\n米井半由b202</td><td>溪亭玉亭长\n溪井斜直由b202</td><td>(县时)晋陆朝琴\n溪井斜直由b202</td><td>(晋陆昌业)溪亭玉亭\n溪井斜直由b202</td><td>溪亭等语\n溪井直由b202</td><td>目持寺寺\n明藏斜直由电于</td><td>溪亭关明恒\n电于与电来</td><td>溪亭东米井等语</td><td>米井等语关明</td></tr><tr><td>-</td><td>-</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>-</td><td>-</td><td>共赏</td><td></td></tr><tr><td>-</td><td>-</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>-</td><td>-</td><td>共赏</td><td></td></tr><tr><td>田早斜悬弱非</td><td>田寧业</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td rowspan=\"2\">不亚智俐班豆豆强丫</td><td></td></tr><tr><td>田早斜悬弱非</td><td>田寧业</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td></td></tr><tr><td>-</td><td>-</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>-</td><td>-</td><td>共赏</td><td></td></tr><tr><td>田早斜悬弱非</td><td>田寧业</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td rowspan=\"2\">不亚智俐班豆豆强丫</td><td></td></tr><tr><td>田早斜悬弱非</td><td>田寧业</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td>王</td><td></td></tr><tr><td>望斜田早</td><td>田寧神往田早</td><td>溪亭等语\n田早半由b202</td><td>溪亭玉亭长\n溪井斜直由b202</td><td>(县时)晋陆朝琴\n溪井直由b202</td><td>(晋陆昌业)溪亭玉亭\n溪井直由b202</td><td>溪亭等语\n溪井直由b202</td><td>目持寺寺\n明藏斜直由电于</td><td>溪亭关明恒\n电于与电来</td><td>溪亭东米井等语</td><td>田早等语关弱非</td></tr></table>",
+    "md": "|  | 王 | 王 | 王 | 王 | 王 | - | - | - | 共赏 |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 米形斜悬弱非 | 田寧业 | 王 | 王 | 王 | 王 | 王 | 王 | 王 | 不亚智俐班豆豆独关明详 |  |\n| 米形斜悬弱非 | 田寧业 | 王 | 王 | 王 | 王 | 王 | 王 | 王 | 不亚智俐班豆豆独关明详 |  |\n| 米形斜悬弱非 | 田寧业 | 王 | 王 | 王 | 王 | 王 | 王 | 王 | 丫月独关 |  |\n| 米形斜悬弱非 | 田寧业 | 王 | 王 | 王 | 王 | 王 | 王 | 王 | 丫月独关 |  |\n| 米形斜悬弱非 | 田寧业 | 王 | 王 | 王 | 王 | 王 | 王 | 王 | 不亚智俐班豆豆去明但去电于 |  |\n| 米形斜悬弱非 | 田寧业 | 王 | 王 | 王 | 王 | 王 | 王 | 王 | 不亚智俐班豆豆去明但去电于 |  |\n| (五)米形斜悬弱 | 田寧业 | 王 | 王 | 王 | 王 | 王 | 王 | 王 | 不亚智俐班豆豆强丫 |  |\n| (五)米形斜悬弱 | 田寧业 | 王 | 王 | 王 | 王 | 王 | 王 | 王 | 不亚智俐班豆豆强丫 |  |\n| 望斜兴 | 田寧神往米井 | 溪亭等语 米井半由b202 | 溪亭玉亭长 溪井斜直由b202 | (县时)晋陆朝琴 溪井斜直由b202 | (晋陆昌业)溪亭玉亭 溪井斜直由b202 | 溪亭等语 溪井直由b202 | 目持寺寺 明藏斜直由电于 | 溪亭关明恒 电于与电来 | 溪亭东米井等语 | 米井等语关明 |\n| - | - | 王 | 王 | 王 | 王 | 王 | - | - | 共赏 |  |\n| - | - | 王 | 王 | 王 | 王 | 王 | - | - | 共赏 |  |\n| 田早斜悬弱非 | 田寧业 | 王 | 王 | 王 | 王 | 王 | 王 | 王 | 不亚智俐班豆豆强丫 |  |\n| 田早斜悬弱非 | 田寧业 | 王 | 王 | 王 | 王 | 王 | 王 | 王 | 不亚智俐班豆豆强丫 |  |\n| - | - | 王 | 王 | 王 | 王 | 王 | - | - | 共赏 |  |\n| 田早斜悬弱非 | 田寧业 | 王 | 王 | 王 | 王 | 王 | 王 | 王 | 不亚智俐班豆豆强丫 |  |\n| 田早斜悬弱非 | 田寧业 | 王 | 王 | 王 | 王 | 王 | 王 | 王 | 不亚智俐班豆豆强丫 |  |\n| 望斜田早 | 田寧神往田早 | 溪亭等语 田早半由b202 | 溪亭玉亭长 溪井斜直由b202 | (县时)晋陆朝琴 溪井直由b202 | (晋陆昌业)溪亭玉亭 溪井直由b202 | 溪亭等语 溪井直由b202 | 目持寺寺 明藏斜直由电于 | 溪亭关明恒 电于与电来 | 溪亭东米井等语 | 田早等语关弱非 |",
+    "perfectTable": false,
+    "table_footnote": [
+      "·"
+    ],
+    "img_path": "images/e4d9a9db8e190b0dda8bd0d6a499f985d1171958077dd8b715761b443f90a682.jpg",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "table_type": "其他表",
+    "standard2D": false,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "王",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 5
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 6
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 7
+        },
+        {
+          "text": "-",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 8
+        },
+        {
+          "text": "共赏",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 10
+        }
+      ]
+    ],
+    "element_id": 48
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "textLevel": 1,
+    "bBox": {
+      "l": 536.0,
+      "t": 229.0,
+      "r": 550.0,
+      "b": 668.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "举京飞歌鼎米形要援关贝由与要援磊非蜀由207但韵身份",
+    "md": "举京飞歌鼎米形要援关贝由与要援磊非蜀由207但韵身份",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 49
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 522.0,
+      "t": 775.0,
+      "r": 580.0,
+      "b": 828.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "国",
+    "md": "国",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 50
+  },
+  {
+    "page": 3,
+    "type": "page_number",
+    "bBox": {
+      "l": 50.0,
+      "t": 784.0,
+      "r": 60.0,
+      "b": 806.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "-ε-",
+    "md": "-ε-",
+    "file_id": "招商银行：非经营性资金占用及其他关联资金往来情况的专项说明",
+    "element_id": 51
+  }
+]

@@ -1,0 +1,7348 @@
+[
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 1,
+    "textLevel": 1,
+    "bBox": {
+      "l": 162.0,
+      "t": 210.0,
+      "r": 431.0,
+      "b": 290.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "法人和非法人组织公共信用信息报告",
+    "md": "法人和非法人组织公共信用信息报告",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 1
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 256.0,
+      "t": 312.0,
+      "r": 336.0,
+      "b": 329.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "版本号V2.0",
+    "md": "版本号V2.0",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 2
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 124.0,
+      "t": 381.0,
+      "r": 375.0,
+      "b": 397.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "机构名称： 顺丰控股股份有限公司",
+    "md": "机构名称： 顺丰控股股份有限公司",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 3
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 124.0,
+      "t": 407.0,
+      "r": 386.0,
+      "b": 421.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "统一社会信用代码： 91340500150660397M",
+    "md": "统一社会信用代码： 91340500150660397M",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 4
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 124.0,
+      "t": 430.0,
+      "r": 411.0,
+      "b": 446.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号： 20251112181700093V0736",
+    "md": "报告编号： 20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 5
+  },
+  {
+    "page": 1,
+    "type": "table",
+    "bBox": {
+      "l": 112.0,
+      "t": 661.0,
+      "r": 477.0,
+      "b": 743.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "报告生成日期",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "2025年11月12日",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "报告出具单位",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "国家公共信用和地理空间信息中心",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        }
+      ]
+    ],
+    "html": "<table><tr><td>报告生成日期</td><td>2025年11月12日</td></tr><tr><td>报告出具单位</td><td>国家公共信用和地理空间信息中心</td></tr></table>",
+    "md": "| 报告生成日期 | 2025年11月12日 |\n| --- | --- |\n| 报告出具单位 | 国家公共信用和地理空间信息中心 |",
+    "perfectTable": false,
+    "img_path": "images/dc06fb0ada6603de7111e310c12862cc8ee5c8836cfb070ed9ff68c004302e09.jpg",
+    "file_id": "顺丰控股股份有限公司",
+    "table_type": "其他表",
+    "standard2D": true,
+    "hasHeader": false,
+    "element_id": 6
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 34.0,
+      "t": 29.0,
+      "r": 86.0,
+      "b": 84.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "★★",
+    "md": "★★",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 7
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 93.0,
+      "t": 32.0,
+      "r": 222.0,
+      "b": 65.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 8
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 96.0,
+      "t": 68.0,
+      "r": 221.0,
+      "b": 78.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN ",
+    "md": "WWW.CREDITCHINA.GOV.CN ",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 9
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 519.0,
+      "t": 19.0,
+      "r": 544.0,
+      "b": 29.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "扫一扫",
+    "md": "扫一扫",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 10
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 508.0,
+      "t": 30.0,
+      "r": 555.0,
+      "b": 78.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "日",
+    "md": "日",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 11
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 519.0,
+      "t": 82.0,
+      "r": 544.0,
+      "b": 92.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "核验码",
+    "md": "核验码",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 12
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 187.0,
+      "t": 97.0,
+      "r": 407.0,
+      "b": 129.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公共信用信息概览",
+    "md": "公共信用信息概览",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 13
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 519.0,
+      "t": 76.0,
+      "r": 544.0,
+      "b": 86.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "扫一扫",
+    "md": "扫一扫",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 14
+  },
+  {
+    "page": 2,
+    "type": "image",
+    "bBox": {
+      "l": 508.0,
+      "t": 88.0,
+      "r": 555.0,
+      "b": 136.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/3ebb1d289a6e05e7f535378f23be1389d88268d175f6db7a1678cd06dc09ba0d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 15
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 519.0,
+      "t": 137.0,
+      "r": 544.0,
+      "b": 147.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "核验码",
+    "md": "核验码",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 16
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 33.0,
+      "t": 167.0,
+      "r": 216.0,
+      "b": 189.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "顺丰控股股份有限公司",
+    "md": "顺丰控股股份有限公司",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 17
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 466.0,
+      "t": 173.0,
+      "r": 484.0,
+      "b": 183.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "存续",
+    "md": "存续",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 18
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 504.0,
+      "t": 173.0,
+      "r": 552.0,
+      "b": 182.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "守信激励对象",
+    "md": "守信激励对象",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 19
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 209.0,
+      "r": 121.0,
+      "b": 222.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "登记注册基本信息",
+    "md": "登记注册基本信息",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 20
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 43.0,
+      "t": 232.0,
+      "r": 84.0,
+      "b": 244.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "基础信息",
+    "md": "基础信息",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 21
+  },
+  {
+    "page": 2,
+    "type": "table",
+    "bBox": {
+      "l": 33.0,
+      "t": 251.0,
+      "r": 560.0,
+      "b": 379.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "统一社会信用代码",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "91340500150660397M",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "法定代表人/负责人/执行事务合伙人",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "王卫",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "企业类型",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "其他股份有限公司(上市)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "成立日期",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "2003-05-22",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "住所",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "深圳市宝安区航城街道草围社区深圳机场航站四路1111号顺丰华南转运中心综合楼三层",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 2,
+          "colstart": 1
+        }
+      ]
+    ],
+    "html": "<table><tr><td>统一社会信用代码</td><td>91340500150660397M</td><td>法定代表人/负责人/执行事务合伙人</td><td>王卫</td></tr><tr><td>企业类型</td><td>其他股份有限公司(上市)</td><td>成立日期</td><td>2003-05-22</td></tr><tr><td>住所</td><td colspan=\"3\">深圳市宝安区航城街道草围社区深圳机场航站四路1111号顺丰华南转运中心综合楼三层</td></tr></table>",
+    "md": "| 统一社会信用代码 | 91340500150660397M | 法定代表人/负责人/执行事务合伙人 | 王卫 |\n| --- | --- | --- | --- |\n| 企业类型 | 其他股份有限公司(上市) | 成立日期 | 2003-05-22 |\n| 住所 | 深圳市宝安区航城街道草围社区深圳机场航站四路1111号顺丰华南转运中心综合楼三层 | 深圳市宝安区航城街道草围社区深圳机场航站四路1111号顺丰华南转运中心综合楼三层 | 深圳市宝安区航城街道草围社区深圳机场航站四路1111号顺丰华南转运中心综合楼三层 |",
+    "perfectTable": false,
+    "img_path": "images/49dba954fd1f55a46163cce908c08de704d23f4bc6c3589dd05d11de35792178.jpg",
+    "file_id": "顺丰控股股份有限公司",
+    "table_type": "其他表",
+    "standard2D": false,
+    "hasHeader": false,
+    "element_id": 22
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 398.0,
+      "r": 99.0,
+      "b": 413.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用信息概要",
+    "md": "信用信息概要",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 23
+  },
+  {
+    "page": 2,
+    "type": "table",
+    "bBox": {
+      "l": 33.0,
+      "t": 419.0,
+      "r": 560.0,
+      "b": 560.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "行政管理",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "19条",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "诚实守信",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "4条",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "严重失信",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "0条",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "经营异常",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "0条",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "信用承诺",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "1条",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 1
+        },
+        {
+          "text": "信用评价",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "0条",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "司法判决",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "0条",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 1
+        },
+        {
+          "text": "其他",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 2
+        },
+        {
+          "text": "0条",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 3
+        }
+      ]
+    ],
+    "html": "<table><tr><td>行政管理</td><td>19条</td><td>诚实守信</td><td>4条</td></tr><tr><td>严重失信</td><td>0条</td><td>经营异常</td><td>0条</td></tr><tr><td>信用承诺</td><td>1条</td><td>信用评价</td><td>0条</td></tr><tr><td>司法判决</td><td>0条</td><td>其他</td><td>0条</td></tr></table>",
+    "md": "| 行政管理 | 19条 | 诚实守信 | 4条 |\n| --- | --- | --- | --- |\n| 严重失信 | 0条 | 经营异常 | 0条 |\n| 信用承诺 | 1条 | 信用评价 | 0条 |\n| 司法判决 | 0条 | 其他 | 0条 |",
+    "perfectTable": false,
+    "img_path": "images/59426cde256dd6811f6c652f5ce531aeee3f5570443bad94494d893ece533c96.jpg",
+    "file_id": "顺丰控股股份有限公司",
+    "table_type": "其他表",
+    "standard2D": true,
+    "hasHeader": false,
+    "element_id": 24
+  },
+  {
+    "page": 2,
+    "type": "table",
+    "bBox": {
+      "l": 33.0,
+      "t": 566.0,
+      "r": 560.0,
+      "b": 603.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "报告生成日期",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "2025年11月12日",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "报告出具单位",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "国家公共信用和地理空间信息中心",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        }
+      ]
+    ],
+    "html": "<table><tr><td>报告生成日期</td><td>2025年11月12日</td><td>报告出具单位</td><td>国家公共信用和地理空间信息中心</td></tr></table>",
+    "md": "| 报告生成日期 | 2025年11月12日 | 报告出具单位 | 国家公共信用和地理空间信息中心 |",
+    "perfectTable": false,
+    "img_path": "images/09a89ef6e6a981749e34216ca1e129bf6e3bd44f91d0d8bcf89e0809bfd7b9de.jpg",
+    "file_id": "顺丰控股股份有限公司",
+    "table_type": "其他表",
+    "standard2D": true,
+    "hasHeader": false,
+    "element_id": 25
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 14.0,
+      "r": 62.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中",
+    "md": "中",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 26
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 17.0,
+      "r": 140.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 27
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 38.0,
+      "r": 140.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN",
+    "md": "WWW.CREDITCHINA.GOV.CN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 28
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 25.0,
+      "r": 558.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号：20251112181700093V0736",
+    "md": "报告编号：20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 29
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 430.0,
+      "t": 36.0,
+      "r": 551.0,
+      "b": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生成时间：2025年11月12日 18:17:00",
+    "md": "生成时间：2025年11月12日 18:17:00",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 30
+  },
+  {
+    "page": 2,
+    "type": "page_number",
+    "bBox": {
+      "l": 271.0,
+      "t": 789.0,
+      "r": 328.0,
+      "b": 798.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第1页 共16页",
+    "md": "第1页 共16页",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 31
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 240.0,
+      "t": 86.0,
+      "r": 352.0,
+      "b": 118.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告说明",
+    "md": "报告说明",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 32
+  },
+  {
+    "page": 3,
+    "type": "image",
+    "bBox": {
+      "l": 507.0,
+      "t": 88.0,
+      "r": 556.0,
+      "b": 136.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/d09edb91e57f0d42c9e9bc699ebc2afc37502ab05bc1256ee776f0be216f9085.jpg",
+    "image_caption": [
+      "扫一扫",
+      "核验码"
+    ],
+    "image_footnote": [],
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 33
+  },
+  {
+    "page": 3,
+    "type": "list",
+    "sub_type": "text",
+    "list_items": [
+      "1. 本报告所展示的数据和资料为公共信用信息，“信用中国”网站承诺在数据汇总、加工、整合的过程中保持客观中立，不主动编辑或修改信息的内容。",
+      "2.受限于现有技术水平等原因，对此报告信息的展示，并不视为“信用中国”对其内容的真实性、准确性、完整性、时效性作出任何形式的确认或担保。请在依据本报告信息作出判断或决策前，自行进一步核实此类信息的完整或准确性，并自行承担使用后果。",
+      "3. 如认为本报告所展示信息存在错误、遗漏、重复公示、不应公示、超期公示或与认定机关信息不一致等情况，请以数据源单位的信息为准，并可按照网站“信用信息异议申诉指南”提出异议申诉；如需对相关行政处罚信息进行信用修复，可按照网站“行政处罚信息信用修复流程指引”提出信用修复申请；如需对相关严重失信主体名单进行信用修复，请咨询名单认定单位。",
+      "4. 本报告已添加“信用中国”水印、生成唯一的报告编号和报告核验码。如需对内容的真实性进行核验，可通过扫一扫报告首页“核验码”，查看本报告生成时的内容与纸质版报告内容是否一致。",
+      "5. 本报告展示行政管理、诚实守信、严重失信、经营异常、信用承诺、信用评价、司法判决以及其他类等信息，因篇幅有限，单类信息仅按更新程度展示最近日期的100条。如有特殊需求，请与我们联系。"
+    ],
+    "md": "1. 本报告所展示的数据和资料为公共信用信息，“信用中国”网站承诺在数据汇总、加工、整合的过程中保持客观中立，不主动编辑或修改信息的内容。\n2.受限于现有技术水平等原因，对此报告信息的展示，并不视为“信用中国”对其内容的真实性、准确性、完整性、时效性作出任何形式的确认或担保。请在依据本报告信息作出判断或决策前，自行进一步核实此类信息的完整或准确性，并自行承担使用后果。\n3. 如认为本报告所展示信息存在错误、遗漏、重复公示、不应公示、超期公示或与认定机关信息不一致等情况，请以数据源单位的信息为准，并可按照网站“信用信息异议申诉指南”提出异议申诉；如需对相关行政处罚信息进行信用修复，可按照网站“行政处罚信息信用修复流程指引”提出信用修复申请；如需对相关严重失信主体名单进行信用修复，请咨询名单认定单位。\n4. 本报告已添加“信用中国”水印、生成唯一的报告编号和报告核验码。如需对内容的真实性进行核验，可通过扫一扫报告首页“核验码”，查看本报告生成时的内容与纸质版报告内容是否一致。\n5. 本报告展示行政管理、诚实守信、严重失信、经营异常、信用承诺、信用评价、司法判决以及其他类等信息，因篇幅有限，单类信息仅按更新程度展示最近日期的100条。如有特殊需求，请与我们联系。",
+    "value": "1. 本报告所展示的数据和资料为公共信用信息，“信用中国”网站承诺在数据汇总、加工、整合的过程中保持客观中立，不主动编辑或修改信息的内容。\n2.受限于现有技术水平等原因，对此报告信息的展示，并不视为“信用中国”对其内容的真实性、准确性、完整性、时效性作出任何形式的确认或担保。请在依据本报告信息作出判断或决策前，自行进一步核实此类信息的完整或准确性，并自行承担使用后果。\n3. 如认为本报告所展示信息存在错误、遗漏、重复公示、不应公示、超期公示或与认定机关信息不一致等情况，请以数据源单位的信息为准，并可按照网站“信用信息异议申诉指南”提出异议申诉；如需对相关行政处罚信息进行信用修复，可按照网站“行政处罚信息信用修复流程指引”提出信用修复申请；如需对相关严重失信主体名单进行信用修复，请咨询名单认定单位。\n4. 本报告已添加“信用中国”水印、生成唯一的报告编号和报告核验码。如需对内容的真实性进行核验，可通过扫一扫报告首页“核验码”，查看本报告生成时的内容与纸质版报告内容是否一致。\n5. 本报告展示行政管理、诚实守信、严重失信、经营异常、信用承诺、信用评价、司法判决以及其他类等信息，因篇幅有限，单类信息仅按更新程度展示最近日期的100条。如有特殊需求，请与我们联系。",
+    "bBox": {
+      "l": 67.0,
+      "t": 203.0,
+      "r": 533.0,
+      "b": 566.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 34
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 14.0,
+      "r": 64.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "",
+    "md": "",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 35
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 16.0,
+      "r": 142.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 36
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 38.0,
+      "r": 140.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN",
+    "md": "WWW.CREDITCHINA.GOV.CN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 37
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 25.0,
+      "r": 558.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号：20251112181700093V0736",
+    "md": "报告编号：20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 38
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 36.0,
+      "r": 552.0,
+      "b": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生成时间：2025年11月12日 18:17:00",
+    "md": "生成时间：2025年11月12日 18:17:00",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 39
+  },
+  {
+    "page": 3,
+    "type": "page_number",
+    "bBox": {
+      "l": 271.0,
+      "t": 789.0,
+      "r": 328.0,
+      "b": 798.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第2页 共16页",
+    "md": "第2页 共16页",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 40
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 268.0,
+      "t": 87.0,
+      "r": 325.0,
+      "b": 116.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "正文",
+    "md": "正文",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 41
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 519.0,
+      "t": 76.0,
+      "r": 544.0,
+      "b": 86.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "扫一扫",
+    "md": "扫一扫",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 42
+  },
+  {
+    "page": 4,
+    "type": "image",
+    "bBox": {
+      "l": 507.0,
+      "t": 88.0,
+      "r": 556.0,
+      "b": 136.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/2220705649e5898ac41ed52ab6815cbdee73493b00a9d663d84645d6d1e597a5.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 43
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 519.0,
+      "t": 137.0,
+      "r": 544.0,
+      "b": 147.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "核验码",
+    "md": "核验码",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 44
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 464.0,
+      "t": 152.0,
+      "r": 481.0,
+      "b": 163.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "存续",
+    "md": "存续",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 45
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 501.0,
+      "t": 152.0,
+      "r": 549.0,
+      "b": 163.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "守信激励对象",
+    "md": "守信激励对象",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 46
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 33.0,
+      "t": 147.0,
+      "r": 218.0,
+      "b": 169.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "顺丰控股股份有限公司",
+    "md": "顺丰控股股份有限公司",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 47
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 33.0,
+      "t": 188.0,
+      "r": 142.0,
+      "b": 201.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "一、登记注册基础信息",
+    "md": "一、登记注册基础信息",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 48
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 228.0,
+      "r": 107.0,
+      "b": 242.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "基础信息",
+    "md": "基础信息",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 49
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 253.0,
+      "r": 283.0,
+      "b": 267.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "企业名称：顺丰控股股份有限公司",
+    "md": "企业名称：顺丰控股股份有限公司",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 50
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 276.0,
+      "r": 290.0,
+      "b": 290.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "统一社会信用代码： 91340500150660397M",
+    "md": "统一社会信用代码： 91340500150660397M",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 51
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 301.0,
+      "r": 209.0,
+      "b": 324.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "法定代表人/负责人/执行事务 王卫合伙人：",
+    "md": "法定代表人/负责人/执行事务 王卫合伙人：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 52
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 334.0,
+      "r": 288.0,
+      "b": 349.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "企业类型： 其他股份有限公司(上市)",
+    "md": "企业类型： 其他股份有限公司(上市)",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 53
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 359.0,
+      "r": 242.0,
+      "b": 371.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "成立日期： 2003-05-22",
+    "md": "成立日期： 2003-05-22",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 54
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 382.0,
+      "r": 530.0,
+      "b": 407.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "深圳市宝安区航城街道草围社区深圳机场航站四路1111号顺丰华南转运中心综合楼三层",
+    "md": "深圳市宝安区航城街道草围社区深圳机场航站四路1111号顺丰华南转运中心综合楼三层",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 55
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 33.0,
+      "t": 445.0,
+      "r": 165.0,
+      "b": 459.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "二、行政管理信息 (共19条)",
+    "md": "二、行政管理信息 (共19条)",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 56
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 485.0,
+      "r": 111.0,
+      "b": 498.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 57
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 510.0,
+      "r": 250.0,
+      "b": 523.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号： 22511908899",
+    "md": "行政许可决定文书号： 22511908899",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 58
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 534.0,
+      "r": 250.0,
+      "b": 546.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 22511908899",
+    "md": "行政许可决定文书名称： 22511908899",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 59
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 557.0,
+      "r": 278.0,
+      "b": 571.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称： 商事变更登记（备案）",
+    "md": "许可证书名称： 商事变更登记（备案）",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 60
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 581.0,
+      "r": 209.0,
+      "b": 594.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别：登记",
+    "md": "许可类别：登记",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 61
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 605.0,
+      "r": 214.0,
+      "b": 617.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号：",
+    "md": "许可编号：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 62
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 627.0,
+      "r": 242.0,
+      "b": 641.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2025-09-29",
+    "md": "许可决定日期： 2025-09-29",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 63
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 652.0,
+      "r": 242.0,
+      "b": 664.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2025-09-29",
+    "md": "有效期自： 2025-09-29",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 64
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 675.0,
+      "r": 242.0,
+      "b": 688.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 65
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 699.0,
+      "r": 528.0,
+      "b": 723.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容：商事变更登记（备案）：注册资本（注册资金、资金数额等）（万元）；投资人（包括出资额、出资方式、出资日期、投资人名称等）；章程或章程修正案通过日期",
+    "md": "许可内容：商事变更登记（备案）：注册资本（注册资金、资金数额等）（万元）；投资人（包括出资额、出资方式、出资日期、投资人名称等）；章程或章程修正案通过日期",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 66
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 733.0,
+      "r": 283.0,
+      "b": 745.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市市场监督管理局",
+    "md": "许可机关： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 67
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 14.0,
+      "r": 64.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "",
+    "md": "",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 68
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 16.0,
+      "r": 142.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 69
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 36.0,
+      "r": 142.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN",
+    "md": "WWW.CREDITCHINA.GOV.CN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 70
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 24.0,
+      "r": 558.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号：20251112181700093V0736",
+    "md": "报告编号：20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 71
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 36.0,
+      "r": 552.0,
+      "b": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生成时间：2025年11月12日 18:17:00",
+    "md": "生成时间：2025年11月12日 18:17:00",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 72
+  },
+  {
+    "page": 4,
+    "type": "page_number",
+    "bBox": {
+      "l": 271.0,
+      "t": 789.0,
+      "r": 330.0,
+      "b": 798.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第3页 共16页",
+    "md": "第3页 共16页",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 73
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 99.0,
+      "r": 292.0,
+      "b": 114.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 11440300MB2C927392",
+    "md": "许可机关统一社会信用代码： 11440300MB2C927392",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 74
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 124.0,
+      "r": 283.0,
+      "b": 137.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市市场监督管理局",
+    "md": "数据来源单位： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 75
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 147.0,
+      "r": 292.0,
+      "b": 171.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码： 11440300MB2C927392",
+    "md": "数据来源单位统一社会信用代码： 11440300MB2C927392",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 76
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 59.0,
+      "t": 215.0,
+      "r": 111.0,
+      "b": 228.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 77
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 240.0,
+      "r": 250.0,
+      "b": 253.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号： 22511242065",
+    "md": "行政许可决定文书号： 22511242065",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 78
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 507.0,
+      "t": 240.0,
+      "r": 534.0,
+      "b": 251.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第2条",
+    "md": "第2条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 79
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 264.0,
+      "r": 250.0,
+      "b": 276.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 22511242065",
+    "md": "行政许可决定文书名称： 22511242065",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 80
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 286.0,
+      "r": 278.0,
+      "b": 300.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称： 商事变更登记（备案）",
+    "md": "许可证书名称： 商事变更登记（备案）",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 81
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 311.0,
+      "r": 211.0,
+      "b": 323.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别：登记",
+    "md": "许可类别：登记",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 82
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 334.0,
+      "r": 214.0,
+      "b": 347.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号：",
+    "md": "许可编号：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 83
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 358.0,
+      "r": 242.0,
+      "b": 370.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2025-08-28",
+    "md": "许可决定日期： 2025-08-28",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 84
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 381.0,
+      "r": 242.0,
+      "b": 393.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2025-08-28",
+    "md": "有效期自： 2025-08-28",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 85
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 404.0,
+      "r": 242.0,
+      "b": 418.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 86
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 429.0,
+      "r": 528.0,
+      "b": 451.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容：商事变更登记（备案）：注册资本（注册资金、资金数额等）（万元）；投资人（包括出资额、出资方式、出资日期、投资人名称等）；章程或章程修正案通过日期",
+    "md": "许可内容：商事变更登记（备案）：注册资本（注册资金、资金数额等）（万元）；投资人（包括出资额、出资方式、出资日期、投资人名称等）；章程或章程修正案通过日期",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 87
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 462.0,
+      "r": 281.0,
+      "b": 476.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市市场监督管理局",
+    "md": "许可机关： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 88
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 487.0,
+      "r": 292.0,
+      "b": 499.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 11440300MB2C927392",
+    "md": "许可机关统一社会信用代码： 11440300MB2C927392",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 89
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 510.0,
+      "r": 281.0,
+      "b": 523.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市市场监督管理局",
+    "md": "数据来源单位： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 90
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 534.0,
+      "r": 292.0,
+      "b": 557.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码 11440300MB2C927392 码：",
+    "md": "数据来源单位统一社会信用代码 11440300MB2C927392 码：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 91
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 59.0,
+      "t": 601.0,
+      "r": 111.0,
+      "b": 614.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 92
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 626.0,
+      "r": 306.0,
+      "b": 638.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号：深宝排水许字第20250091号",
+    "md": "行政许可决定文书号：深宝排水许字第20250091号",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 93
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 507.0,
+      "t": 626.0,
+      "r": 534.0,
+      "b": 637.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第3条",
+    "md": "第3条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 94
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 649.0,
+      "r": 309.0,
+      "b": 662.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 城镇污水排入排水管网许可证",
+    "md": "行政许可决定文书名称： 城镇污水排入排水管网许可证",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 95
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 674.0,
+      "r": 214.0,
+      "b": 685.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称：",
+    "md": "许可证书名称：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 96
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 696.0,
+      "r": 211.0,
+      "b": 709.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别： 普通",
+    "md": "许可类别： 普通",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 97
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 721.0,
+      "r": 214.0,
+      "b": 733.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号：",
+    "md": "许可编号：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 98
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 14.0,
+      "r": 64.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "#",
+    "md": "#",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 99
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 16.0,
+      "r": 142.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 100
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 36.0,
+      "r": 142.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN",
+    "md": "WWW.CREDITCHINA.GOV.CN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 101
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 24.0,
+      "r": 558.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号：20251112181700093V0736",
+    "md": "报告编号：20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 102
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 36.0,
+      "r": 552.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生成时间：2025年11月12日 18:17:00",
+    "md": "生成时间：2025年11月12日 18:17:00",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 103
+  },
+  {
+    "page": 5,
+    "type": "page_number",
+    "bBox": {
+      "l": 271.0,
+      "t": 789.0,
+      "r": 328.0,
+      "b": 798.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第4页 共16页",
+    "md": "第4页 共16页",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 104
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 131.0,
+      "r": 242.0,
+      "b": 142.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2025-03-18",
+    "md": "许可决定日期： 2025-03-18",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 105
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 153.0,
+      "r": 242.0,
+      "b": 166.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2025-03-18",
+    "md": "有效期自： 2025-03-18",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 106
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 178.0,
+      "r": 242.0,
+      "b": 189.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2026-11-27",
+    "md": "有效期至： 2026-11-27",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 107
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 201.0,
+      "r": 534.0,
+      "b": 226.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容：排水总量（立方米/日）：污水40、雨水318，排水口数量（个）：2，排水户性质：一般。",
+    "md": "许可内容：排水总量（立方米/日）：污水40、雨水318，排水口数量（个）：2，排水户性质：一般。",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 108
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 236.0,
+      "r": 273.0,
+      "b": 248.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市宝安区水务局",
+    "md": "许可机关： 深圳市宝安区水务局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 109
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 258.0,
+      "r": 294.0,
+      "b": 272.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 11440306MB2D24294X",
+    "md": "许可机关统一社会信用代码： 11440306MB2D24294X",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 110
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 283.0,
+      "r": 273.0,
+      "b": 296.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市宝安区水务局",
+    "md": "数据来源单位： 深圳市宝安区水务局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 111
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 306.0,
+      "r": 294.0,
+      "b": 329.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码： 11440306MB2D24294X",
+    "md": "数据来源单位统一社会信用代码： 11440306MB2D24294X",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 112
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 68.0,
+      "t": 374.0,
+      "r": 109.0,
+      "b": 386.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 113
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 398.0,
+      "r": 250.0,
+      "b": 411.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号： 22410594663",
+    "md": "行政许可决定文书号： 22410594663",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 114
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 507.0,
+      "t": 398.0,
+      "r": 534.0,
+      "b": 409.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第4条",
+    "md": "第4条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 115
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 422.0,
+      "r": 250.0,
+      "b": 434.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 22410594663",
+    "md": "行政许可决定文书名称： 22410594663",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 116
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 445.0,
+      "r": 278.0,
+      "b": 459.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称： 商事变更登记（备案）",
+    "md": "许可证书名称： 商事变更登记（备案）",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 117
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 469.0,
+      "r": 211.0,
+      "b": 482.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别：登记",
+    "md": "许可类别：登记",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 118
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 493.0,
+      "r": 214.0,
+      "b": 505.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号：",
+    "md": "许可编号：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 119
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 515.0,
+      "r": 242.0,
+      "b": 529.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2024-11-12",
+    "md": "许可决定日期： 2024-11-12",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 120
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 541.0,
+      "r": 242.0,
+      "b": 552.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2024-11-12",
+    "md": "有效期自： 2024-11-12",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 121
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 563.0,
+      "r": 242.0,
+      "b": 576.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 122
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 588.0,
+      "r": 530.0,
+      "b": 622.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容：商事变更登记（备案）：地址；注册资本（注册资金、资金数额等）（万元）；投资人（包括出资额、出资方式、出资日期、投资人名称等）；章程或章程修正案通过日期；其他董事信息；监事信息",
+    "md": "许可内容：商事变更登记（备案）：地址；注册资本（注册资金、资金数额等）（万元）；投资人（包括出资额、出资方式、出资日期、投资人名称等）；章程或章程修正案通过日期；其他董事信息；监事信息",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 123
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 632.0,
+      "r": 281.0,
+      "b": 645.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市市场监督管理局",
+    "md": "许可机关： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 124
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 656.0,
+      "r": 291.0,
+      "b": 668.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 11440300MB2C927392",
+    "md": "许可机关统一社会信用代码： 11440300MB2C927392",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 125
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 679.0,
+      "r": 281.0,
+      "b": 691.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市市场监督管理局",
+    "md": "数据来源单位： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 126
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 702.0,
+      "r": 291.0,
+      "b": 727.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码： 11440300MB2C927392",
+    "md": "数据来源单位统一社会信用代码： 11440300MB2C927392",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 127
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 14.0,
+      "r": 64.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "#",
+    "md": "#",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 128
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 16.0,
+      "r": 142.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 129
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 38.0,
+      "r": 142.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN",
+    "md": "WWW.CREDITCHINA.GOV.CN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 130
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 24.0,
+      "r": 558.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号：20251112181700093V0736",
+    "md": "报告编号：20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 131
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 430.0,
+      "t": 36.0,
+      "r": 552.0,
+      "b": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生成时间：2025年11月12日 18:17:00",
+    "md": "生成时间：2025年11月12日 18:17:00",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 132
+  },
+  {
+    "page": 6,
+    "type": "page_number",
+    "bBox": {
+      "l": 271.0,
+      "t": 789.0,
+      "r": 328.0,
+      "b": 798.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第5页 共16页",
+    "md": "第5页 共16页",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 133
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 58.0,
+      "t": 118.0,
+      "r": 112.0,
+      "b": 131.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 134
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 142.0,
+      "r": 536.0,
+      "b": 157.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号：深宝住建消审字〔2024〕第0168号 第5条",
+    "md": "行政许可决定文书号：深宝住建消审字〔2024〕第0168号 第5条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 135
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 167.0,
+      "r": 327.0,
+      "b": 180.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 特殊建设工程消防设计审查意见书",
+    "md": "行政许可决定文书名称： 特殊建设工程消防设计审查意见书",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 136
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 190.0,
+      "r": 327.0,
+      "b": 203.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称： 特殊建设工程消防设计审查意见书",
+    "md": "许可证书名称： 特殊建设工程消防设计审查意见书",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 137
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 214.0,
+      "r": 211.0,
+      "b": 227.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别： 核准",
+    "md": "许可类别： 核准",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 138
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 237.0,
+      "r": 334.0,
+      "b": 249.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号： 深宝住建消审字〔2024〕第0168号",
+    "md": "许可编号： 深宝住建消审字〔2024〕第0168号",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 139
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 260.0,
+      "r": 242.0,
+      "b": 274.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2024-10-22",
+    "md": "许可决定日期： 2024-10-22",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 140
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 285.0,
+      "r": 242.0,
+      "b": 297.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2024-10-22",
+    "md": "有效期自： 2024-10-22",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 141
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 308.0,
+      "r": 242.0,
+      "b": 322.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 142
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 332.0,
+      "r": 535.0,
+      "b": 355.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容：依据《中华人民共和国消防法》、《建设工程消防监督管理规定》及国家工程建设消防技术标准审查，该工程消防设计审查合格。",
+    "md": "许可内容：依据《中华人民共和国消防法》、《建设工程消防监督管理规定》及国家工程建设消防技术标准审查，该工程消防设计审查合格。",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 143
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 366.0,
+      "r": 300.0,
+      "b": 379.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市宝安区住房和建设局",
+    "md": "许可机关： 深圳市宝安区住房和建设局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 144
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 390.0,
+      "r": 289.0,
+      "b": 402.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 1144030600755054XN",
+    "md": "许可机关统一社会信用代码： 1144030600755054XN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 145
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 413.0,
+      "r": 300.0,
+      "b": 425.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市宝安区住房和建设局",
+    "md": "数据来源单位： 深圳市宝安区住房和建设局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 146
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 437.0,
+      "r": 289.0,
+      "b": 461.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码： 1144030600755054XN",
+    "md": "数据来源单位统一社会信用代码： 1144030600755054XN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 147
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 58.0,
+      "t": 504.0,
+      "r": 112.0,
+      "b": 518.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 148
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 529.0,
+      "r": 535.0,
+      "b": 542.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号： 2024-1196 第6条",
+    "md": "行政许可决定文书号： 2024-1196 第6条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 149
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 553.0,
+      "r": 291.0,
+      "b": 566.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 建筑工程施工许可证核发",
+    "md": "行政许可决定文书名称： 建筑工程施工许可证核发",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 150
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 577.0,
+      "r": 214.0,
+      "b": 589.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称：",
+    "md": "许可证书名称：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 151
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 600.0,
+      "r": 209.0,
+      "b": 611.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别： 认可",
+    "md": "许可类别： 认可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 152
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 624.0,
+      "r": 214.0,
+      "b": 636.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号：",
+    "md": "许可编号：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 153
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 647.0,
+      "r": 242.0,
+      "b": 659.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2024-08-29",
+    "md": "许可决定日期： 2024-08-29",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 154
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 670.0,
+      "r": 242.0,
+      "b": 683.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2024-08-29",
+    "md": "有效期自： 2024-08-29",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 155
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 695.0,
+      "r": 242.0,
+      "b": 706.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 156
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 718.0,
+      "r": 291.0,
+      "b": 731.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容： 建筑工程施工许可证核发",
+    "md": "许可内容： 建筑工程施工许可证核发",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 157
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 14.0,
+      "r": 64.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "#",
+    "md": "#",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 158
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 16.0,
+      "r": 142.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 159
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 38.0,
+      "r": 142.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN",
+    "md": "WWW.CREDITCHINA.GOV.CN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 160
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 24.0,
+      "r": 558.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号：20251112181700093V0736",
+    "md": "报告编号：20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 161
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 430.0,
+      "t": 36.0,
+      "r": 552.0,
+      "b": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生成时间：2025年11月12日 18:17:00",
+    "md": "生成时间：2025年11月12日 18:17:00",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 162
+  },
+  {
+    "page": 7,
+    "type": "page_number",
+    "bBox": {
+      "l": 271.0,
+      "t": 789.0,
+      "r": 328.0,
+      "b": 798.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第6页 共16页",
+    "md": "第6页 共16页",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 163
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 115.0,
+      "r": 300.0,
+      "b": 130.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市宝安区住房和建设局",
+    "md": "许可机关： 深圳市宝安区住房和建设局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 164
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 137.0,
+      "r": 290.0,
+      "b": 152.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 1144030600755054XN",
+    "md": "许可机关统一社会信用代码： 1144030600755054XN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 165
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 163.0,
+      "r": 274.0,
+      "b": 176.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市住房和建设局",
+    "md": "数据来源单位： 深圳市住房和建设局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 166
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 185.0,
+      "r": 287.0,
+      "b": 210.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码：11440300693981103B",
+    "md": "数据来源单位统一社会信用代码：11440300693981103B",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 167
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 68.0,
+      "t": 253.0,
+      "r": 111.0,
+      "b": 267.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 168
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 278.0,
+      "r": 239.0,
+      "b": 291.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号： 2024-1076",
+    "md": "行政许可决定文书号： 2024-1076",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 169
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 507.0,
+      "t": 279.0,
+      "r": 534.0,
+      "b": 290.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第7条",
+    "md": "第7条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 170
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 301.0,
+      "r": 274.0,
+      "b": 315.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 建筑工程施工许可证",
+    "md": "行政许可决定文书名称： 建筑工程施工许可证",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 171
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 326.0,
+      "r": 215.0,
+      "b": 338.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称：",
+    "md": "许可证书名称：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 172
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 349.0,
+      "r": 209.0,
+      "b": 361.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别：普通",
+    "md": "许可类别：普通",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 173
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 372.0,
+      "r": 215.0,
+      "b": 386.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号：",
+    "md": "许可编号：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 174
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 397.0,
+      "r": 242.0,
+      "b": 409.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2024-08-02",
+    "md": "许可决定日期： 2024-08-02",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 175
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 421.0,
+      "r": 242.0,
+      "b": 432.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2024-08-02",
+    "md": "有效期自： 2024-08-02",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 176
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 444.0,
+      "r": 242.0,
+      "b": 456.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 177
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 467.0,
+      "r": 280.0,
+      "b": 480.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容： 基础；基坑支护；土石方；",
+    "md": "许可内容： 基础；基坑支护；土石方；",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 178
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 491.0,
+      "r": 300.0,
+      "b": 504.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市宝安区住房和建设局",
+    "md": "许可机关： 深圳市宝安区住房和建设局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 179
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 514.0,
+      "r": 289.0,
+      "b": 526.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 1144030600755054XN",
+    "md": "许可机关统一社会信用代码： 1144030600755054XN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 180
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 537.0,
+      "r": 300.0,
+      "b": 551.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市宝安区住房和建设局",
+    "md": "数据来源单位： 深圳市宝安区住房和建设局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 181
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 562.0,
+      "r": 289.0,
+      "b": 584.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码 1144030600755054XN 码：",
+    "md": "数据来源单位统一社会信用代码 1144030600755054XN 码：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 182
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 68.0,
+      "t": 629.0,
+      "r": 111.0,
+      "b": 642.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 183
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 653.0,
+      "r": 239.0,
+      "b": 665.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号： 2024-1075",
+    "md": "行政许可决定文书号： 2024-1075",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 184
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 507.0,
+      "t": 653.0,
+      "r": 534.0,
+      "b": 665.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第8条",
+    "md": "第8条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 185
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 677.0,
+      "r": 274.0,
+      "b": 690.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 建筑工程施工许可证",
+    "md": "行政许可决定文书名称： 建筑工程施工许可证",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 186
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 701.0,
+      "r": 215.0,
+      "b": 713.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称：",
+    "md": "许可证书名称：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 187
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 723.0,
+      "r": 209.0,
+      "b": 737.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别： 普通",
+    "md": "许可类别： 普通",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 188
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 14.0,
+      "r": 64.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "#",
+    "md": "#",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 189
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 16.0,
+      "r": 142.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 190
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 36.0,
+      "r": 142.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN",
+    "md": "WWW.CREDITCHINA.GOV.CN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 191
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 24.0,
+      "r": 558.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号：20251112181700093V0736",
+    "md": "报告编号：20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 192
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 430.0,
+      "t": 36.0,
+      "r": 552.0,
+      "b": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生成时间：2025年11月12日 18:17:00",
+    "md": "生成时间：2025年11月12日 18:17:00",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 193
+  },
+  {
+    "page": 8,
+    "type": "page_number",
+    "bBox": {
+      "l": 271.0,
+      "t": 789.0,
+      "r": 328.0,
+      "b": 798.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第7页 共16页",
+    "md": "第7页 共16页",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 194
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 100.0,
+      "r": 215.0,
+      "b": 113.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号：",
+    "md": "许可编号：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 195
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 124.0,
+      "r": 242.0,
+      "b": 136.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2024-08-02",
+    "md": "许可决定日期： 2024-08-02",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 196
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 147.0,
+      "r": 242.0,
+      "b": 160.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2024-08-02",
+    "md": "有效期自： 2024-08-02",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 197
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 171.0,
+      "r": 242.0,
+      "b": 184.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 198
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 195.0,
+      "r": 280.0,
+      "b": 208.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容： 基础；基坑支护；土石方；",
+    "md": "许可内容： 基础；基坑支护；土石方；",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 199
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 217.0,
+      "r": 300.0,
+      "b": 232.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市宝安区住房和建设局",
+    "md": "许可机关： 深圳市宝安区住房和建设局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 200
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 242.0,
+      "r": 289.0,
+      "b": 254.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 1144030600755054XN",
+    "md": "许可机关统一社会信用代码： 1144030600755054XN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 201
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 265.0,
+      "r": 300.0,
+      "b": 279.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市宝安区住房和建设局",
+    "md": "数据来源单位： 深圳市宝安区住房和建设局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 202
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 289.0,
+      "r": 289.0,
+      "b": 312.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码 1144030600755054XN 码：",
+    "md": "数据来源单位统一社会信用代码 1144030600755054XN 码：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 203
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 68.0,
+      "t": 356.0,
+      "r": 111.0,
+      "b": 370.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 204
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 381.0,
+      "r": 255.0,
+      "b": 393.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号： BMFH2023040",
+    "md": "行政许可决定文书号： BMFH2023040",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 205
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 404.0,
+      "r": 327.0,
+      "b": 418.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 深圳市人防工程建设项目核准意见",
+    "md": "行政许可决定文书名称： 深圳市人防工程建设项目核准意见",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 206
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 429.0,
+      "r": 215.0,
+      "b": 440.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称：",
+    "md": "许可证书名称：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 207
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 451.0,
+      "r": 209.0,
+      "b": 465.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别： 普通",
+    "md": "许可类别： 普通",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 208
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 476.0,
+      "r": 215.0,
+      "b": 487.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号：",
+    "md": "许可编号：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 209
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 499.0,
+      "r": 242.0,
+      "b": 512.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2023-07-12",
+    "md": "许可决定日期： 2023-07-12",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 210
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 523.0,
+      "r": 242.0,
+      "b": 536.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2023-07-12",
+    "md": "有效期自： 2023-07-12",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 211
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 546.0,
+      "r": 242.0,
+      "b": 558.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 212
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 569.0,
+      "r": 336.0,
+      "b": 583.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容： 应建防空地下室的民用建筑项目许可",
+    "md": "许可内容： 应建防空地下室的民用建筑项目许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 213
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 594.0,
+      "r": 300.0,
+      "b": 606.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市宝安区住房和建设局",
+    "md": "许可机关： 深圳市宝安区住房和建设局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 214
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 617.0,
+      "r": 289.0,
+      "b": 630.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 1144030600755054XN",
+    "md": "许可机关统一社会信用代码： 1144030600755054XN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 215
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 641.0,
+      "r": 300.0,
+      "b": 653.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市宝安区住房和建设局",
+    "md": "数据来源单位： 深圳市宝安区住房和建设局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 216
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 664.0,
+      "r": 289.0,
+      "b": 688.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码： 1144030600755054XN",
+    "md": "数据来源单位统一社会信用代码： 1144030600755054XN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 217
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 68.0,
+      "t": 731.0,
+      "r": 111.0,
+      "b": 744.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 218
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 14.0,
+      "r": 64.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "",
+    "md": "",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 219
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 16.0,
+      "r": 142.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 220
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 38.0,
+      "r": 140.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN",
+    "md": "WWW.CREDITCHINA.GOV.CN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 221
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 24.0,
+      "r": 558.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号：20251112181700093V0736",
+    "md": "报告编号：20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 222
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 430.0,
+      "t": 36.0,
+      "r": 552.0,
+      "b": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生成时间：2025年11月12日 18:17:00",
+    "md": "生成时间：2025年11月12日 18:17:00",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 223
+  },
+  {
+    "page": 9,
+    "type": "page_number",
+    "bBox": {
+      "l": 271.0,
+      "t": 789.0,
+      "r": 328.0,
+      "b": 798.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第8页 共16页",
+    "md": "第8页 共16页",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 224
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 153.0,
+      "r": 250.0,
+      "b": 168.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号： 22307980518",
+    "md": "行政许可决定文书号： 22307980518",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 225
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 502.0,
+      "t": 155.0,
+      "r": 534.0,
+      "b": 166.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第10条",
+    "md": "第10条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 226
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 179.0,
+      "r": 250.0,
+      "b": 190.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 22307980518",
+    "md": "行政许可决定文书名称： 22307980518",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 227
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 201.0,
+      "r": 278.0,
+      "b": 216.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称： 商事变更登记（备案）",
+    "md": "许可证书名称： 商事变更登记（备案）",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 228
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 226.0,
+      "r": 211.0,
+      "b": 238.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别：登记",
+    "md": "许可类别：登记",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 229
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 249.0,
+      "r": 214.0,
+      "b": 262.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号：",
+    "md": "许可编号：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 230
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 273.0,
+      "r": 241.0,
+      "b": 285.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2023-02-01",
+    "md": "许可决定日期： 2023-02-01",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 231
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 297.0,
+      "r": 241.0,
+      "b": 308.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2023-02-01",
+    "md": "有效期自： 2023-02-01",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 232
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 320.0,
+      "r": 241.0,
+      "b": 333.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 233
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 344.0,
+      "r": 530.0,
+      "b": 366.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容： 主体类型:其他股份有限公司(上市);住所:深圳市宝安区福永街道怀德社区怀德南路46号101室;法定代表人:王卫;成立日期:2003-05-22",
+    "md": "许可内容： 主体类型:其他股份有限公司(上市);住所:深圳市宝安区福永街道怀德社区怀德南路46号101室;法定代表人:王卫;成立日期:2003-05-22",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 234
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 377.0,
+      "r": 281.0,
+      "b": 391.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市市场监督管理局",
+    "md": "许可机关： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 235
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 402.0,
+      "r": 292.0,
+      "b": 414.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 11440300MB2C927392",
+    "md": "许可机关统一社会信用代码： 11440300MB2C927392",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 236
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 425.0,
+      "r": 281.0,
+      "b": 438.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市市场监督管理局",
+    "md": "数据来源单位： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 237
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 449.0,
+      "r": 292.0,
+      "b": 472.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码 11440300MB2C927392 码：",
+    "md": "数据来源单位统一社会信用代码 11440300MB2C927392 码：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 238
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 58.0,
+      "t": 515.0,
+      "r": 111.0,
+      "b": 530.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 239
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 541.0,
+      "r": 250.0,
+      "b": 553.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号： 22207238606",
+    "md": "行政许可决定文书号： 22207238606",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 240
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 502.0,
+      "t": 541.0,
+      "r": 534.0,
+      "b": 552.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第11条",
+    "md": "第11条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 241
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 565.0,
+      "r": 250.0,
+      "b": 577.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 22207238606",
+    "md": "行政许可决定文书名称： 22207238606",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 242
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 589.0,
+      "r": 278.0,
+      "b": 601.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称： 商事变更登记（备案）",
+    "md": "许可证书名称： 商事变更登记（备案）",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 243
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 611.0,
+      "r": 211.0,
+      "b": 625.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别：登记",
+    "md": "许可类别：登记",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 244
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 636.0,
+      "r": 214.0,
+      "b": 647.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号：",
+    "md": "许可编号：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 245
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 659.0,
+      "r": 241.0,
+      "b": 670.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2022-06-28",
+    "md": "许可决定日期： 2022-06-28",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 246
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 683.0,
+      "r": 241.0,
+      "b": 695.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2022-06-28",
+    "md": "有效期自： 2022-06-28",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 247
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 706.0,
+      "r": 241.0,
+      "b": 718.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 248
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 729.0,
+      "r": 513.0,
+      "b": 743.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容： 主体类型:其他股份有限公司(上市);住所:深圳市宝安区福永大道303号万福大厦8楼",
+    "md": "许可内容： 主体类型:其他股份有限公司(上市);住所:深圳市宝安区福永大道303号万福大厦8楼",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 249
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 14.0,
+      "r": 64.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "#",
+    "md": "#",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 250
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 16.0,
+      "r": 142.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 251
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 38.0,
+      "r": 140.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN",
+    "md": "WWW.CREDITCHINA.GOV.CN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 252
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 24.0,
+      "r": 558.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号：20251112181700093V0736",
+    "md": "报告编号：20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 253
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 430.0,
+      "t": 36.0,
+      "r": 552.0,
+      "b": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生成时间：2025年11月12日 18:17:00",
+    "md": "生成时间：2025年11月12日 18:17:00",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 254
+  },
+  {
+    "page": 10,
+    "type": "page_number",
+    "bBox": {
+      "l": 271.0,
+      "t": 789.0,
+      "r": 328.0,
+      "b": 798.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第9页 共16页",
+    "md": "第9页 共16页",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 255
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 189.0,
+      "t": 100.0,
+      "r": 375.0,
+      "b": 114.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "801室;法定代表人:王卫;成立日期:2003-05-22",
+    "md": "801室;法定代表人:王卫;成立日期:2003-05-22",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 256
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 124.0,
+      "r": 283.0,
+      "b": 137.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市市场监督管理局",
+    "md": "许可机关： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 257
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 147.0,
+      "r": 292.0,
+      "b": 161.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 11440300MB2C927392",
+    "md": "许可机关统一社会信用代码： 11440300MB2C927392",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 258
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 171.0,
+      "r": 283.0,
+      "b": 184.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市市场监督管理局",
+    "md": "数据来源单位： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 259
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 195.0,
+      "r": 292.0,
+      "b": 217.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码 11440300MB2C927392 码：",
+    "md": "数据来源单位统一社会信用代码 11440300MB2C927392 码：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 260
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 59.0,
+      "t": 262.0,
+      "r": 111.0,
+      "b": 276.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 261
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 286.0,
+      "r": 250.0,
+      "b": 300.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号： 22206786498",
+    "md": "行政许可决定文书号： 22206786498",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 262
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 502.0,
+      "t": 286.0,
+      "r": 534.0,
+      "b": 299.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第12条",
+    "md": "第12条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 263
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 311.0,
+      "r": 250.0,
+      "b": 323.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 22206786498",
+    "md": "行政许可决定文书名称： 22206786498",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 264
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 334.0,
+      "r": 280.0,
+      "b": 348.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称： 商事变更登记（备案）",
+    "md": "许可证书名称： 商事变更登记（备案）",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 265
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 358.0,
+      "r": 211.0,
+      "b": 370.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别：登记",
+    "md": "许可类别：登记",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 266
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 381.0,
+      "r": 215.0,
+      "b": 393.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号：",
+    "md": "许可编号：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 267
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 404.0,
+      "r": 242.0,
+      "b": 418.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2022-01-25",
+    "md": "许可决定日期： 2022-01-25",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 268
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 429.0,
+      "r": 242.0,
+      "b": 440.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2022-01-25",
+    "md": "有效期自： 2022-01-25",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 269
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 451.0,
+      "r": 242.0,
+      "b": 464.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 270
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 476.0,
+      "r": 513.0,
+      "b": 498.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容： 主体类型:其他股份有限公司(上市);住所:深圳市宝安区福永大道303号万福大厦8楼801室;法定代表人:王卫;成立日期:2003-05-22",
+    "md": "许可内容： 主体类型:其他股份有限公司(上市);住所:深圳市宝安区福永大道303号万福大厦8楼801室;法定代表人:王卫;成立日期:2003-05-22",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 271
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 509.0,
+      "r": 283.0,
+      "b": 523.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市市场监督管理局",
+    "md": "许可机关： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 272
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 533.0,
+      "r": 292.0,
+      "b": 546.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 11440300MB2C927392",
+    "md": "许可机关统一社会信用代码： 11440300MB2C927392",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 273
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 557.0,
+      "r": 283.0,
+      "b": 571.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市市场监督管理局",
+    "md": "数据来源单位： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 274
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 581.0,
+      "r": 292.0,
+      "b": 605.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码： 11440300MB2C927392",
+    "md": "数据来源单位统一社会信用代码： 11440300MB2C927392",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 275
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 59.0,
+      "t": 647.0,
+      "r": 111.0,
+      "b": 662.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 276
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 673.0,
+      "r": 299.0,
+      "b": 685.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号：深宝水水保备〔2022〕3号",
+    "md": "行政许可决定文书号：深宝水水保备〔2022〕3号",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 277
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 502.0,
+      "t": 673.0,
+      "r": 534.0,
+      "b": 685.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第13条",
+    "md": "第13条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 278
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 696.0,
+      "r": 391.0,
+      "b": 710.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 宝安智慧物流科技产业基地水土保持方案备案回执",
+    "md": "行政许可决定文书名称： 宝安智慧物流科技产业基地水土保持方案备案回执",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 279
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 720.0,
+      "r": 283.0,
+      "b": 733.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称： 水土保持方案备案回执",
+    "md": "许可证书名称： 水土保持方案备案回执",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 280
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 14.0,
+      "r": 64.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "#",
+    "md": "#",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 281
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 16.0,
+      "r": 142.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 282
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 38.0,
+      "r": 140.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN",
+    "md": "WWW.CREDITCHINA.GOV.CN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 283
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 24.0,
+      "r": 558.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号：20251112181700093V0736",
+    "md": "报告编号：20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 284
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 430.0,
+      "t": 36.0,
+      "r": 552.0,
+      "b": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生成时间：2025年11月12日 18:17:00",
+    "md": "生成时间：2025年11月12日 18:17:00",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 285
+  },
+  {
+    "page": 11,
+    "type": "page_number",
+    "bBox": {
+      "l": 268.0,
+      "t": 789.0,
+      "r": 330.0,
+      "b": 798.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第10页共16页",
+    "md": "第10页共16页",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 286
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 131.0,
+      "r": 211.0,
+      "b": 142.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别： 普通",
+    "md": "许可类别： 普通",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 287
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 153.0,
+      "r": 299.0,
+      "b": 167.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号： 深宝水水保备〔2022〕3号",
+    "md": "许可编号： 深宝水水保备〔2022〕3号",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 288
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 178.0,
+      "r": 242.0,
+      "b": 190.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2022-01-24",
+    "md": "许可决定日期： 2022-01-24",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 289
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 201.0,
+      "r": 242.0,
+      "b": 214.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2022-01-24",
+    "md": "有效期自： 2022-01-24",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 290
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 225.0,
+      "r": 242.0,
+      "b": 237.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 291
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 248.0,
+      "r": 534.0,
+      "b": 272.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容：顺丰控股股份有限公司：你单位申请的（项目代码：），水土保持方案备案资料已收悉。经核，申请资料齐备，我局接收该项目水土保持方案备案。",
+    "md": "许可内容：顺丰控股股份有限公司：你单位申请的（项目代码：），水土保持方案备案资料已收悉。经核，申请资料齐备，我局接收该项目水土保持方案备案。",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 292
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 283.0,
+      "r": 273.0,
+      "b": 296.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市宝安区水务局",
+    "md": "许可机关： 深圳市宝安区水务局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 293
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 306.0,
+      "r": 293.0,
+      "b": 318.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 11440306MB2D24294X",
+    "md": "许可机关统一社会信用代码： 11440306MB2D24294X",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 294
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 329.0,
+      "r": 273.0,
+      "b": 343.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市宝安区水务局",
+    "md": "数据来源单位： 深圳市宝安区水务局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 295
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 354.0,
+      "r": 293.0,
+      "b": 377.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码： 11440306MB2D24294X",
+    "md": "数据来源单位统一社会信用代码： 11440306MB2D24294X",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 296
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 59.0,
+      "t": 421.0,
+      "r": 111.0,
+      "b": 434.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 297
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 445.0,
+      "r": 239.0,
+      "b": 457.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号： 2021-1849",
+    "md": "行政许可决定文书号： 2021-1849",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 298
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 469.0,
+      "r": 291.0,
+      "b": 482.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 建筑工程施工许可证核发",
+    "md": "行政许可决定文书名称： 建筑工程施工许可证核发",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 299
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 493.0,
+      "r": 214.0,
+      "b": 505.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称：",
+    "md": "许可证书名称：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 300
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 517.0,
+      "r": 209.0,
+      "b": 529.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别： 认可",
+    "md": "许可类别： 认可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 301
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 541.0,
+      "r": 214.0,
+      "b": 552.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号：",
+    "md": "许可编号：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 302
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 563.0,
+      "r": 241.0,
+      "b": 576.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2021-12-03",
+    "md": "许可决定日期： 2021-12-03",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 303
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 588.0,
+      "r": 241.0,
+      "b": 600.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2021-12-03",
+    "md": "有效期自： 2021-12-03",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 304
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 611.0,
+      "r": 241.0,
+      "b": 622.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 305
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 635.0,
+      "r": 291.0,
+      "b": 647.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容： 建筑工程施工许可证核发",
+    "md": "许可内容： 建筑工程施工许可证核发",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 306
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 658.0,
+      "r": 273.0,
+      "b": 670.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市住房和建设局",
+    "md": "许可机关： 深圳市住房和建设局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 307
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 681.0,
+      "r": 287.0,
+      "b": 694.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 11440300693981103B",
+    "md": "许可机关统一社会信用代码： 11440300693981103B",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 308
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 706.0,
+      "r": 273.0,
+      "b": 717.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市住房和建设局",
+    "md": "数据来源单位： 深圳市住房和建设局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 309
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 729.0,
+      "r": 287.0,
+      "b": 741.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代 11440300693981103B",
+    "md": "数据来源单位统一社会信用代 11440300693981103B",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 310
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 502.0,
+      "t": 445.0,
+      "r": 534.0,
+      "b": 457.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第14条",
+    "md": "第14条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 311
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 14.0,
+      "r": 64.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "",
+    "md": "",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 312
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 16.0,
+      "r": 142.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 313
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 38.0,
+      "r": 142.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN",
+    "md": "WWW.CREDITCHINA.GOV.CN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 314
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 24.0,
+      "r": 558.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号：20251112181700093V0736",
+    "md": "报告编号：20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 315
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 430.0,
+      "t": 36.0,
+      "r": 552.0,
+      "b": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生成时间：2025年11月12日 18:17:00",
+    "md": "生成时间：2025年11月12日 18:17:00",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 316
+  },
+  {
+    "page": 12,
+    "type": "page_number",
+    "bBox": {
+      "l": 268.0,
+      "t": 789.0,
+      "r": 328.0,
+      "b": 798.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第11页共16页",
+    "md": "第11页共16页",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 317
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "textLevel": 1,
+    "bBox": {
+      "l": 58.0,
+      "t": 100.0,
+      "r": 77.0,
+      "b": 112.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "码：",
+    "md": "码：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 318
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 58.0,
+      "t": 157.0,
+      "r": 111.0,
+      "b": 169.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 319
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 180.0,
+      "r": 535.0,
+      "b": 195.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号：深规划资源行许BA（2021）L00164 第15条",
+    "md": "行政许可决定文书号：深规划资源行许BA（2021）L00164 第15条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 320
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 205.0,
+      "r": 274.0,
+      "b": 219.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 准予行政许可决定书",
+    "md": "行政许可决定文书名称： 准予行政许可决定书",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 321
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 228.0,
+      "r": 215.0,
+      "b": 242.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称：",
+    "md": "许可证书名称：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 322
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 253.0,
+      "r": 211.0,
+      "b": 265.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别： 核准",
+    "md": "许可类别： 核准",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 323
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 276.0,
+      "r": 215.0,
+      "b": 289.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号：",
+    "md": "许可编号：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 324
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 299.0,
+      "r": 243.0,
+      "b": 312.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2021-04-26",
+    "md": "许可决定日期： 2021-04-26",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 325
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 323.0,
+      "r": 242.0,
+      "b": 336.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2021-04-26",
+    "md": "有效期自： 2021-04-26",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 326
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 347.0,
+      "r": 242.0,
+      "b": 360.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 327
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 370.0,
+      "r": 410.0,
+      "b": 384.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容： 地字第440306202100049号《建设用地规划许可证》。",
+    "md": "许可内容： 地字第440306202100049号《建设用地规划许可证》。",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 328
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 393.0,
+      "r": 337.0,
+      "b": 408.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市规划和自然资源局宝安管理局",
+    "md": "许可机关： 深圳市规划和自然资源局宝安管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 329
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 418.0,
+      "r": 289.0,
+      "b": 430.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 11440300G347861160",
+    "md": "许可机关统一社会信用代码： 11440300G347861160",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 330
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 441.0,
+      "r": 291.0,
+      "b": 454.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市规划和自然资源局",
+    "md": "数据来源单位： 深圳市规划和自然资源局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 331
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 465.0,
+      "r": 289.0,
+      "b": 488.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码 11440300695550622A 码：",
+    "md": "数据来源单位统一社会信用代码 11440300695550622A 码：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 332
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 58.0,
+      "t": 531.0,
+      "r": 111.0,
+      "b": 546.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 333
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 557.0,
+      "r": 535.0,
+      "b": 569.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号： 22105719037 第16条",
+    "md": "行政许可决定文书号： 22105719037 第16条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 334
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 579.0,
+      "r": 250.0,
+      "b": 593.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 22105719037",
+    "md": "行政许可决定文书名称： 22105719037",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 335
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 604.0,
+      "r": 278.0,
+      "b": 617.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称： 商事变更登记（备案）",
+    "md": "许可证书名称： 商事变更登记（备案）",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 336
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 627.0,
+      "r": 211.0,
+      "b": 640.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别：登记",
+    "md": "许可类别：登记",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 337
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 652.0,
+      "r": 215.0,
+      "b": 663.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号：",
+    "md": "许可编号：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 338
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 674.0,
+      "r": 242.0,
+      "b": 686.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2021-04-02",
+    "md": "许可决定日期： 2021-04-02",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 339
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 699.0,
+      "r": 242.0,
+      "b": 711.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2021-04-02",
+    "md": "有效期自： 2021-04-02",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 340
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 722.0,
+      "r": 242.0,
+      "b": 734.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 341
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 14.0,
+      "r": 64.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "#",
+    "md": "#",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 342
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 16.0,
+      "r": 142.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 343
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 36.0,
+      "r": 142.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN",
+    "md": "WWW.CREDITCHINA.GOV.CN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 344
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 24.0,
+      "r": 558.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号：20251112181700093V0736",
+    "md": "报告编号：20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 345
+  },
+  {
+    "page": 13,
+    "type": "text",
+    "bBox": {
+      "l": 430.0,
+      "t": 36.0,
+      "r": 552.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生成时间：2025年11月12日 18:17:00",
+    "md": "生成时间：2025年11月12日 18:17:00",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 346
+  },
+  {
+    "page": 13,
+    "type": "page_number",
+    "bBox": {
+      "l": 268.0,
+      "t": 789.0,
+      "r": 330.0,
+      "b": 798.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第12页共16页",
+    "md": "第12页共16页",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 347
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 131.0,
+      "r": 515.0,
+      "b": 155.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容： 主体类型：其他股份有限公司(上市)；住所：深圳市宝安区福永大道303号万福大厦8楼801室；法定代表人：王卫；成立日期：2003-05-22",
+    "md": "许可内容： 主体类型：其他股份有限公司(上市)；住所：深圳市宝安区福永大道303号万福大厦8楼801室；法定代表人：王卫；成立日期：2003-05-22",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 348
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 164.0,
+      "r": 283.0,
+      "b": 179.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市市场监督管理局",
+    "md": "许可机关： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 349
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 189.0,
+      "r": 292.0,
+      "b": 201.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码：11440300MB2C927392",
+    "md": "许可机关统一社会信用代码：11440300MB2C927392",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 350
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 212.0,
+      "r": 283.0,
+      "b": 226.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市市场监督管理局",
+    "md": "数据来源单位： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 351
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 236.0,
+      "r": 292.0,
+      "b": 259.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码： 11440300MB2C927392",
+    "md": "数据来源单位统一社会信用代码： 11440300MB2C927392",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 352
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 59.0,
+      "t": 302.0,
+      "r": 111.0,
+      "b": 317.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 353
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 328.0,
+      "r": 250.0,
+      "b": 340.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号： 21902782459",
+    "md": "行政许可决定文书号： 21902782459",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 354
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 350.0,
+      "r": 250.0,
+      "b": 364.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 21902782459",
+    "md": "行政许可决定文书名称： 21902782459",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 355
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 375.0,
+      "r": 281.0,
+      "b": 388.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称： 股份有限公司变更登记",
+    "md": "许可证书名称： 股份有限公司变更登记",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 356
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 398.0,
+      "r": 209.0,
+      "b": 411.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别：登记",
+    "md": "许可类别：登记",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 357
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 423.0,
+      "r": 214.0,
+      "b": 434.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号：",
+    "md": "许可编号：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 358
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 445.0,
+      "r": 242.0,
+      "b": 457.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2019-06-24",
+    "md": "许可决定日期： 2019-06-24",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 359
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 470.0,
+      "r": 242.0,
+      "b": 482.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2019-06-24",
+    "md": "有效期自： 2019-06-24",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 360
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 493.0,
+      "r": 242.0,
+      "b": 505.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 361
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 515.0,
+      "r": 513.0,
+      "b": 540.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容： 主体类型:其他股份有限公司(上市);住所:深圳市宝安区福永大道303号万福大厦8楼 801室;法定代表人:王卫;成立日期:2003-05-22",
+    "md": "许可内容： 主体类型:其他股份有限公司(上市);住所:深圳市宝安区福永大道303号万福大厦8楼 801室;法定代表人:王卫;成立日期:2003-05-22",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 362
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 551.0,
+      "r": 281.0,
+      "b": 563.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市市场监督管理局",
+    "md": "许可机关： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 363
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 574.0,
+      "r": 292.0,
+      "b": 587.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 11440300MB2C927392",
+    "md": "许可机关统一社会信用代码： 11440300MB2C927392",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 364
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 599.0,
+      "r": 281.0,
+      "b": 610.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市市场监督管理局",
+    "md": "数据来源单位： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 365
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 621.0,
+      "r": 292.0,
+      "b": 645.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码 11440300MB2C927392 码：",
+    "md": "数据来源单位统一社会信用代码 11440300MB2C927392 码：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 366
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 59.0,
+      "t": 689.0,
+      "r": 111.0,
+      "b": 702.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 367
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 713.0,
+      "r": 271.0,
+      "b": 727.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定书文号： 340521000002878",
+    "md": "行政许可决定书文号： 340521000002878",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 368
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 503.0,
+      "t": 328.0,
+      "r": 534.0,
+      "b": 339.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第17条",
+    "md": "第17条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 369
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 503.0,
+      "t": 713.0,
+      "r": 534.0,
+      "b": 725.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第18条",
+    "md": "第18条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 370
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 14.0,
+      "r": 64.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "#",
+    "md": "#",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 371
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 16.0,
+      "r": 142.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 372
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 38.0,
+      "r": 142.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN",
+    "md": "WWW.CREDITCHINA.GOV.CN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 373
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 24.0,
+      "r": 558.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号：20251112181700093V0736",
+    "md": "报告编号：20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 374
+  },
+  {
+    "page": 14,
+    "type": "text",
+    "bBox": {
+      "l": 430.0,
+      "t": 36.0,
+      "r": 552.0,
+      "b": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生成时间：2025年11月12日 18:17:00",
+    "md": "生成时间：2025年11月12日 18:17:00",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 375
+  },
+  {
+    "page": 14,
+    "type": "page_number",
+    "bBox": {
+      "l": 268.0,
+      "t": 789.0,
+      "r": 330.0,
+      "b": 798.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第13页共16页",
+    "md": "第13页共16页",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 376
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 100.0,
+      "r": 215.0,
+      "b": 114.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可有效期：",
+    "md": "许可有效期：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 377
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 124.0,
+      "r": 242.0,
+      "b": 136.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2003-05-22",
+    "md": "许可决定日期： 2003-05-22",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 378
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 147.0,
+      "r": 215.0,
+      "b": 161.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可截止日期：",
+    "md": "许可截止日期：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 379
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 171.0,
+      "r": 535.0,
+      "b": 227.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容：投资兴办实业（具体项目另行申报）；市场营销策划、投资咨询及其他信息咨询（不含人才中介服务、证券及限制项目）；供应链管理；资产管理、资本管理、投资管理（不得从事信托、金融资产管理、证券资产管理等业务）；汽车租赁（不含带驾驶人员的汽车出租）；道路普通货运；企业总部管理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "md": "许可内容：投资兴办实业（具体项目另行申报）；市场营销策划、投资咨询及其他信息咨询（不含人才中介服务、证券及限制项目）；供应链管理；资产管理、资本管理、投资管理（不得从事信托、金融资产管理、证券资产管理等业务）；汽车租赁（不含带驾驶人员的汽车出租）；道路普通货运；企业总部管理。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 380
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 237.0,
+      "r": 255.0,
+      "b": 251.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 马鞍山市工商局",
+    "md": "许可机关： 马鞍山市工商局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 381
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 262.0,
+      "r": 211.0,
+      "b": 274.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "审核类型： 登记",
+    "md": "审核类型： 登记",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 382
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 317.0,
+      "r": 111.0,
+      "b": 331.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可",
+    "md": "行政许可",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 383
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 343.0,
+      "r": 319.0,
+      "b": 356.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书号： 440300000012018011917437",
+    "md": "行政许可决定文书号： 440300000012018011917437",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 384
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 366.0,
+      "r": 319.0,
+      "b": 379.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "行政许可决定文书名称： 440300000012018011917437",
+    "md": "行政许可决定文书名称： 440300000012018011917437",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 385
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 390.0,
+      "r": 283.0,
+      "b": 402.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可证书名称： 股份有限公司设立登记",
+    "md": "许可证书名称： 股份有限公司设立登记",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 386
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 413.0,
+      "r": 211.0,
+      "b": 425.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可类别：登记",
+    "md": "许可类别：登记",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 387
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 438.0,
+      "r": 215.0,
+      "b": 450.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可编号：",
+    "md": "许可编号：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 388
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 461.0,
+      "r": 242.0,
+      "b": 473.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可决定日期： 2003-05-22",
+    "md": "许可决定日期： 2003-05-22",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 389
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 483.0,
+      "r": 242.0,
+      "b": 497.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期自： 2003-05-22",
+    "md": "有效期自： 2003-05-22",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 390
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 508.0,
+      "r": 242.0,
+      "b": 520.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "有效期至： 2099-12-31",
+    "md": "有效期至： 2099-12-31",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 391
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 531.0,
+      "r": 513.0,
+      "b": 555.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可内容： 主体类型:其他股份有限公司(上市);住所:深圳市宝安区福永大道303号万福大厦8楼801室;法定代表人:王卫;成立日期:2003-05-22",
+    "md": "许可内容： 主体类型:其他股份有限公司(上市);住所:深圳市宝安区福永大道303号万福大厦8楼801室;法定代表人:王卫;成立日期:2003-05-22",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 392
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 566.0,
+      "r": 283.0,
+      "b": 578.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关： 深圳市市场监督管理局",
+    "md": "许可机关： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 393
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 589.0,
+      "r": 292.0,
+      "b": 601.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "许可机关统一社会信用代码： 11440300MB2C927392",
+    "md": "许可机关统一社会信用代码： 11440300MB2C927392",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 394
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 613.0,
+      "r": 283.0,
+      "b": 626.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位： 深圳市市场监督管理局",
+    "md": "数据来源单位： 深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 395
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 637.0,
+      "r": 292.0,
+      "b": 659.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源单位统一社会信用代码 11440300MB2C927392 码：",
+    "md": "数据来源单位统一社会信用代码 11440300MB2C927392 码：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 396
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 33.0,
+      "t": 697.0,
+      "r": 202.0,
+      "b": 713.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "三、诚实守信相关荣誉信息 (共4条)",
+    "md": "三、诚实守信相关荣誉信息 (共4条)",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 397
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 734.0,
+      "r": 156.0,
+      "b": 749.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "纳税信用A级纳税人",
+    "md": "纳税信用A级纳税人",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 398
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 14.0,
+      "r": 64.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "#",
+    "md": "#",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 399
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 16.0,
+      "r": 142.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 400
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 38.0,
+      "r": 142.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN",
+    "md": "WWW.CREDITCHINA.GOV.CN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 401
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 24.0,
+      "r": 558.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号：20251112181700093V0736",
+    "md": "报告编号：20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 402
+  },
+  {
+    "page": 15,
+    "type": "text",
+    "bBox": {
+      "l": 430.0,
+      "t": 36.0,
+      "r": 552.0,
+      "b": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生成时间：2025年11月12日 18:17:00",
+    "md": "生成时间：2025年11月12日 18:17:00",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 403
+  },
+  {
+    "page": 15,
+    "type": "page_number",
+    "bBox": {
+      "l": 267.0,
+      "t": 789.0,
+      "r": 330.0,
+      "b": 798.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第14页 共16页",
+    "md": "第14页 共16页",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 404
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 125.0,
+      "r": 283.0,
+      "b": 137.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "纳税人名称： 顺丰控股股份有限公司",
+    "md": "纳税人名称： 顺丰控股股份有限公司",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 405
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 507.0,
+      "t": 125.0,
+      "r": 534.0,
+      "b": 136.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第1条",
+    "md": "第1条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 406
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 148.0,
+      "r": 290.0,
+      "b": 161.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "纳税人识别号： 91340500150660397M",
+    "md": "纳税人识别号： 91340500150660397M",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 407
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 173.0,
+      "r": 212.0,
+      "b": 184.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "评价年度： 2019",
+    "md": "评价年度： 2019",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 408
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 196.0,
+      "r": 246.0,
+      "b": 208.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源：国家税务总局",
+    "md": "数据来源：国家税务总局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 409
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 68.0,
+      "t": 253.0,
+      "r": 156.0,
+      "b": 265.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "纳税信用A级纳税人",
+    "md": "纳税信用A级纳税人",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 410
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 278.0,
+      "r": 281.0,
+      "b": 290.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "纳税人名称： 顺丰控股股份有限公司",
+    "md": "纳税人名称： 顺丰控股股份有限公司",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 411
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 507.0,
+      "t": 278.0,
+      "r": 534.0,
+      "b": 289.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第2条",
+    "md": "第2条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 412
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 301.0,
+      "r": 290.0,
+      "b": 312.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "纳税人识别号： 91340500150660397M",
+    "md": "纳税人识别号： 91340500150660397M",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 413
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 324.0,
+      "r": 212.0,
+      "b": 337.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "评价年度： 2017",
+    "md": "评价年度： 2017",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 414
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 349.0,
+      "r": 246.0,
+      "b": 360.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源：国家税务总局",
+    "md": "数据来源：国家税务总局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 415
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 68.0,
+      "t": 404.0,
+      "r": 156.0,
+      "b": 418.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "纳税信用A级纳税人",
+    "md": "纳税信用A级纳税人",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 416
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 430.0,
+      "r": 281.0,
+      "b": 441.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "纳税人名称： 顺丰控股股份有限公司",
+    "md": "纳税人名称： 顺丰控股股份有限公司",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 417
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 507.0,
+      "t": 430.0,
+      "r": 534.0,
+      "b": 440.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第3条",
+    "md": "第3条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 418
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 453.0,
+      "r": 290.0,
+      "b": 465.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "纳税人识别号： 91340500150660397M",
+    "md": "纳税人识别号： 91340500150660397M",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 419
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 477.0,
+      "r": 212.0,
+      "b": 488.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "评价年度： 2020",
+    "md": "评价年度： 2020",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 420
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 499.0,
+      "r": 246.0,
+      "b": 513.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源：国家税务总局",
+    "md": "数据来源：国家税务总局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 421
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 68.0,
+      "t": 557.0,
+      "r": 156.0,
+      "b": 569.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "纳税信用A级纳税人",
+    "md": "纳税信用A级纳税人",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 422
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 582.0,
+      "r": 281.0,
+      "b": 594.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "纳税人名称： 顺丰控股股份有限公司",
+    "md": "纳税人名称： 顺丰控股股份有限公司",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 423
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 507.0,
+      "t": 582.0,
+      "r": 534.0,
+      "b": 593.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第4条",
+    "md": "第4条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 424
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 605.0,
+      "r": 271.0,
+      "b": 617.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "纳税人识别号： 340521150660397",
+    "md": "纳税人识别号： 340521150660397",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 425
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 629.0,
+      "r": 212.0,
+      "b": 641.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "评价年度： 2016",
+    "md": "评价年度： 2016",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 426
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 653.0,
+      "r": 246.0,
+      "b": 664.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据来源：国家税务总局",
+    "md": "数据来源：国家税务总局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 427
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "textLevel": 1,
+    "bBox": {
+      "l": 33.0,
+      "t": 702.0,
+      "r": 159.0,
+      "b": 717.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "四、严重失信信息（共0条）",
+    "md": "四、严重失信信息（共0条）",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 428
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 250.0,
+      "t": 737.0,
+      "r": 341.0,
+      "b": 750.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "查询期内无相关记录",
+    "md": "查询期内无相关记录",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 429
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 14.0,
+      "r": 64.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "",
+    "md": "",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 430
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 16.0,
+      "r": 142.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 431
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 36.0,
+      "r": 142.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN",
+    "md": "WWW.CREDITCHINA.GOV.CN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 432
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 24.0,
+      "r": 558.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号：20251112181700093V0736",
+    "md": "报告编号：20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 433
+  },
+  {
+    "page": 16,
+    "type": "text",
+    "bBox": {
+      "l": 430.0,
+      "t": 36.0,
+      "r": 552.0,
+      "b": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生成时间：2025年11月12日 18:17:00",
+    "md": "生成时间：2025年11月12日 18:17:00",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 434
+  },
+  {
+    "page": 16,
+    "type": "page_number",
+    "bBox": {
+      "l": 267.0,
+      "t": 789.0,
+      "r": 330.0,
+      "b": 798.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第15页共16页",
+    "md": "第15页共16页",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 435
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "textLevel": 1,
+    "bBox": {
+      "l": 32.0,
+      "t": 94.0,
+      "r": 267.0,
+      "b": 110.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "五、经营（活动）异常名录（状态）信息（共0条）",
+    "md": "五、经营（活动）异常名录（状态）信息（共0条）",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 436
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 249.0,
+      "t": 130.0,
+      "r": 342.0,
+      "b": 142.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "查询期内无相关记录",
+    "md": "查询期内无相关记录",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 437
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 32.0,
+      "t": 174.0,
+      "r": 161.0,
+      "b": 189.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "六、信用承诺信息（共1条）",
+    "md": "六、信用承诺信息（共1条）",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 438
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 215.0,
+      "r": 151.0,
+      "b": 228.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "企业信用承诺信息",
+    "md": "企业信用承诺信息",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 439
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 240.0,
+      "r": 105.0,
+      "b": 253.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "承诺类型：",
+    "md": "承诺类型：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 440
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 189.0,
+      "t": 241.0,
+      "r": 220.0,
+      "b": 253.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "主动型",
+    "md": "主动型",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 441
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 507.0,
+      "t": 241.0,
+      "r": 534.0,
+      "b": 252.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第1条",
+    "md": "第1条",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 442
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 264.0,
+      "r": 104.0,
+      "b": 276.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "承诺事由：",
+    "md": "承诺事由：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 443
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 189.0,
+      "t": 264.0,
+      "r": 228.0,
+      "b": 276.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "商事登记",
+    "md": "商事登记",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 444
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 288.0,
+      "r": 122.0,
+      "b": 301.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "承诺作出日期：",
+    "md": "承诺作出日期：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 445
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 189.0,
+      "t": 288.0,
+      "r": 242.0,
+      "b": 300.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "2003-05-22",
+    "md": "2003-05-22",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 446
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 312.0,
+      "r": 122.0,
+      "b": 324.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "承诺受理单位：",
+    "md": "承诺受理单位：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 447
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 189.0,
+      "t": 312.0,
+      "r": 281.0,
+      "b": 324.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "深圳市市场监督管理局",
+    "md": "深圳市市场监督管理局",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 448
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 58.0,
+      "t": 334.0,
+      "r": 122.0,
+      "b": 348.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "承诺履行状态：",
+    "md": "承诺履行状态：",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 449
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 189.0,
+      "t": 338.0,
+      "r": 214.0,
+      "b": 344.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "--",
+    "md": "--",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 450
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 33.0,
+      "t": 386.0,
+      "r": 161.0,
+      "b": 400.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "七、信用评价信息（共0条）",
+    "md": "七、信用评价信息（共0条）",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 451
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 234.0,
+      "t": 419.0,
+      "r": 357.0,
+      "b": 434.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "此项信息相关部门暂未提供",
+    "md": "此项信息相关部门暂未提供",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 452
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 33.0,
+      "t": 465.0,
+      "r": 192.0,
+      "b": 478.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "八、司法判决及执行信息（共0条）",
+    "md": "八、司法判决及执行信息（共0条）",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 453
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 234.0,
+      "t": 498.0,
+      "r": 357.0,
+      "b": 512.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "此项信息相关部门暂未提供",
+    "md": "此项信息相关部门暂未提供",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 454
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 33.0,
+      "t": 544.0,
+      "r": 140.0,
+      "b": 557.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "九、其他信息（共0条）",
+    "md": "九、其他信息（共0条）",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 455
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 250.0,
+      "t": 578.0,
+      "r": 342.0,
+      "b": 590.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "查询期内无相关记录",
+    "md": "查询期内无相关记录",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 456
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 33.0,
+      "t": 622.0,
+      "r": 142.0,
+      "b": 637.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "十、信用状况提升建议",
+    "md": "十、信用状况提升建议",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 457
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 64.0,
+      "t": 656.0,
+      "r": 256.0,
+      "b": 669.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "建议秉持诚信理念，合法有序开展经营活动。",
+    "md": "建议秉持诚信理念，合法有序开展经营活动。",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 458
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 33.0,
+      "t": 14.0,
+      "r": 64.0,
+      "b": 48.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "",
+    "md": "",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 459
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 16.0,
+      "r": 142.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "信用中国",
+    "md": "信用中国",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 460
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 68.0,
+      "t": 38.0,
+      "r": 140.0,
+      "b": 45.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WWW.CREDITCHINA.GOV.CN",
+    "md": "WWW.CREDITCHINA.GOV.CN",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 461
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 429.0,
+      "t": 24.0,
+      "r": 558.0,
+      "b": 35.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "报告编号：20251112181700093V0736",
+    "md": "报告编号：20251112181700093V0736",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 462
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 430.0,
+      "t": 36.0,
+      "r": 552.0,
+      "b": 46.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "生成时间：2025年11月12日 18:17:00",
+    "md": "生成时间：2025年11月12日 18:17:00",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 463
+  },
+  {
+    "page": 17,
+    "type": "text",
+    "bBox": {
+      "l": 284.0,
+      "t": 709.0,
+      "r": 309.0,
+      "b": 722.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "结束",
+    "md": "结束",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 464
+  },
+  {
+    "page": 17,
+    "type": "page_number",
+    "bBox": {
+      "l": 268.0,
+      "t": 789.0,
+      "r": 330.0,
+      "b": 798.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第16页共16页",
+    "md": "第16页共16页",
+    "file_id": "顺丰控股股份有限公司",
+    "element_id": 465
+  }
+]

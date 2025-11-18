@@ -1,0 +1,7236 @@
+[
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 1,
+    "textLevel": 1,
+    "bBox": {
+      "l": 152.0,
+      "t": 245.0,
+      "r": 456.0,
+      "b": 332.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "关于珠海格力电器股份有限公司非经营性资金占用及其他关联资金往来情况汇总表的专项审核报告",
+    "md": "关于珠海格力电器股份有限公司非经营性资金占用及其他关联资金往来情况汇总表的专项审核报告",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 1
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 221.0,
+      "t": 342.0,
+      "r": 384.0,
+      "b": 360.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "众环专字(2025)0500075号",
+    "md": "众环专字(2025)0500075号",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 2
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "textLevel": 1,
+    "bBox": {
+      "l": 287.0,
+      "t": 542.0,
+      "r": 321.0,
+      "b": 559.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "目录",
+    "md": "目录",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 3
+  },
+  {
+    "page": 1,
+    "type": "list",
+    "sub_type": "text",
+    "list_items": [
+      "1、专项审核报告",
+      "2、上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表 2"
+    ],
+    "md": "1、专项审核报告\n2、上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表 2",
+    "value": "1、专项审核报告\n2、上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表 2",
+    "bBox": {
+      "l": 86.0,
+      "t": 567.0,
+      "r": 519.0,
+      "b": 604.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 4
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 126.0,
+      "t": 97.0,
+      "r": 483.0,
+      "b": 152.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "关于珠海格力电器股份有限公司非经营性资金占用及其他关联资金往来情况汇总表的专项审核报告",
+    "md": "关于珠海格力电器股份有限公司非经营性资金占用及其他关联资金往来情况汇总表的专项审核报告",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 5
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 396.0,
+      "t": 157.0,
+      "r": 519.0,
+      "b": 172.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "众环专字(2025)0500075号",
+    "md": "众环专字(2025)0500075号",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 6
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "textLevel": 1,
+    "bBox": {
+      "l": 86.0,
+      "t": 198.0,
+      "r": 263.0,
+      "b": 210.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "珠海格力电器股份有限公司全体股东：",
+    "md": "珠海格力电器股份有限公司全体股东：",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 7
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 225.0,
+      "r": 521.0,
+      "b": 356.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "我们接受委托，在审计了珠海格力电器股份有限公司（以下简称“贵公司”）2024年12月31日合并及公司的资产负债表，2024年度合并及公司的利润表、合并及公司的现金流量表和合并及公司的股东权益变动表以及财务报表附注的基础上，对后附的《上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表》（以下简称“汇总表”）进行了专项审核。按照中国证券监督管理委员会印发的《上市公司监管指引第8号——上市公司资金往来、对外担保的监管要求》的规定，编制和披露汇总表、提供真实、合法、完整的审核证据是贵公司管理层的责任，我们的责任是在执行审核工作的基础上对汇总表发表专项审核意见。",
+    "md": "我们接受委托，在审计了珠海格力电器股份有限公司（以下简称“贵公司”）2024年12月31日合并及公司的资产负债表，2024年度合并及公司的利润表、合并及公司的现金流量表和合并及公司的股东权益变动表以及财务报表附注的基础上，对后附的《上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表》（以下简称“汇总表”）进行了专项审核。按照中国证券监督管理委员会印发的《上市公司监管指引第8号——上市公司资金往来、对外担保的监管要求》的规定，编制和披露汇总表、提供真实、合法、完整的审核证据是贵公司管理层的责任，我们的责任是在执行审核工作的基础上对汇总表发表专项审核意见。",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 8
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 361.0,
+      "r": 519.0,
+      "b": 432.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "我们按照中国注册会计师审计准则的相关规定执行了审核工作。中国注册会计师审计准则要求我们遵守中国注册会计师职业道德守则，计划和执行审核工作以对汇总表是否不存在重大错报获取合理保证。在审核过程中，我们实施了包括检查会计记录、重新计算相关项目金额等我们认为必要的程序。我们相信，我们的审核工作为发表审核意见提供了合理的基础。",
+    "md": "我们按照中国注册会计师审计准则的相关规定执行了审核工作。中国注册会计师审计准则要求我们遵守中国注册会计师职业道德守则，计划和执行审核工作以对汇总表是否不存在重大错报获取合理保证。在审核过程中，我们实施了包括检查会计记录、重新计算相关项目金额等我们认为必要的程序。我们相信，我们的审核工作为发表审核意见提供了合理的基础。",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 9
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 438.0,
+      "r": 519.0,
+      "b": 472.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "我们认为，后附汇总表所载资料与我们审计贵公司2024年度财务报表时所复核的会计资料和经审计的财务报表的相关内容，在所有重大方面没有发现不一致。",
+    "md": "我们认为，后附汇总表所载资料与我们审计贵公司2024年度财务报表时所复核的会计资料和经审计的财务报表的相关内容，在所有重大方面没有发现不一致。",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 10
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 479.0,
+      "r": 519.0,
+      "b": 510.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "为了更好地理解贵公司2024年度非经营性资金占用及其他关联资金往来情况，后附汇总表应当与已审的财务报表一并阅读。",
+    "md": "为了更好地理解贵公司2024年度非经营性资金占用及其他关联资金往来情况，后附汇总表应当与已审的财务报表一并阅读。",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 11
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 517.0,
+      "r": 519.0,
+      "b": 549.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "本审核报告仅供珠海格力电器股份有限公司2024年度年报披露之目的使用，不得用作任何其他目的。",
+    "md": "本审核报告仅供珠海格力电器股份有限公司2024年度年报披露之目的使用，不得用作任何其他目的。",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 12
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 87.0,
+      "t": 596.0,
+      "r": 274.0,
+      "b": 610.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中审众环会计师事务所（特殊普通合伙）",
+    "md": "中审众环会计师事务所（特殊普通合伙）",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 13
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 336.0,
+      "t": 596.0,
+      "r": 506.0,
+      "b": 611.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中国注册会计师：",
+    "md": "中国注册会计师：",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 14
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 455.0,
+      "t": 616.0,
+      "r": 490.0,
+      "b": 630.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "邱以武",
+    "md": "邱以武",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 15
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 336.0,
+      "t": 657.0,
+      "r": 506.0,
+      "b": 670.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中国注册会计师：",
+    "md": "中国注册会计师：",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 16
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 455.0,
+      "t": 676.0,
+      "r": 488.0,
+      "b": 689.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "王慧军",
+    "md": "王慧军",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 17
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 161.0,
+      "t": 717.0,
+      "r": 209.0,
+      "b": 728.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中国·武汉",
+    "md": "中国·武汉",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 18
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 378.0,
+      "t": 717.0,
+      "r": 453.0,
+      "b": 728.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "2025年04月25日",
+    "md": "2025年04月25日",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 19
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 92.0,
+      "t": 46.0,
+      "r": 124.0,
+      "b": 77.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "C",
+    "md": "C",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 20
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 126.0,
+      "t": 49.0,
+      "r": 194.0,
+      "b": 75.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中审众环ZHONGSHENZHONGHUAN",
+    "md": "中审众环ZHONGSHENZHONGHUAN",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 21
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 205.0,
+      "t": 50.0,
+      "r": 309.0,
+      "b": 75.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中审众环会计师事务所（特殊普通合伙）  \n武汉市中北路166号长江产业大厦17-18楼  \n邮政编码：430077",
+    "md": "中审众环会计师事务所（特殊普通合伙）  \n武汉市中北路166号长江产业大厦17-18楼  \n邮政编码：430077",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 22
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 317.0,
+      "t": 50.0,
+      "r": 431.0,
+      "b": 75.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "Zhongshenzhenhuan Certified Public Accountants LLP  \n17-18/F, Yangtze River Industry Building, No. 166 Zhongbei Road, Wuhan, 430077",
+    "md": "Zhongshenzhenhuan Certified Public Accountants LLP  \n17-18/F, Yangtze River Industry Building, No. 166 Zhongbei Road, Wuhan, 430077",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 23
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 436.0,
+      "t": 50.0,
+      "r": 507.0,
+      "b": 67.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "电话Tel：027-86791215传真Fax：027-85424329",
+    "md": "电话Tel：027-86791215传真Fax：027-85424329",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 24
+  },
+  {
+    "page": 2,
+    "type": "page_number",
+    "bBox": {
+      "l": 289.0,
+      "t": 768.0,
+      "r": 317.0,
+      "b": 780.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第1页",
+    "md": "第1页",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 25
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 205.0,
+      "t": 83.0,
+      "r": 635.0,
+      "b": 99.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "md": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 26
+  },
+  {
+    "page": 3,
+    "type": "table",
+    "bBox": {
+      "l": 69.0,
+      "t": 155.0,
+      "r": 770.0,
+      "b": 419.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "非经营性资金占用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "资金占用方名称",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "占用方与上市公司的关联关系",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "上市公司核算的会计科目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "2024年初占用资金余额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "2024年度占用累计发生金额（不含利息）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 5
+        },
+        {
+          "text": "2024年度占年度占用资金的利息（如有）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 6
+        },
+        {
+          "text": "2024年度偿还累计发生金额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 7
+        },
+        {
+          "text": "2024年末占用资金余额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 8
+        },
+        {
+          "text": "占用形成原因",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 9
+        },
+        {
+          "text": "占用性质",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "控股股东、实际控制人及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "无",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "小计",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "前控股股东、实际控制人及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "无",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "小计",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "其他关联方及附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "盾安（天津）节能系统有限公司及其控股公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 1
+        },
+        {
+          "text": "联营企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 3
+        },
+        {
+          "text": "17,232.58",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 6
+        },
+        {
+          "text": "153.46",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 7
+        },
+        {
+          "text": "17,079.12",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 8
+        },
+        {
+          "text": "出售子公司形成的占用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性占用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "小计",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 3
+        },
+        {
+          "text": "17,232.58",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 6
+        },
+        {
+          "text": "153.46",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 7
+        },
+        {
+          "text": "17,079.12",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "总计",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 3
+        },
+        {
+          "text": "17,232.58",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 6
+        },
+        {
+          "text": "153.46",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 7
+        },
+        {
+          "text": "17,079.12",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "其他关联资金往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 0
+        },
+        {
+          "text": "资金往来方名称",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 1
+        },
+        {
+          "text": "往来方与上市公司的关联关系",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 2
+        },
+        {
+          "text": "上市公司核算的会计科目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 3
+        },
+        {
+          "text": "2024年初往来资金余额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 4
+        },
+        {
+          "text": "2024年度往来累计发生金额（不含利息）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 5
+        },
+        {
+          "text": "2024年度往来资金的利息（如有）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 6
+        },
+        {
+          "text": "2024年度偿还累计发生额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 7
+        },
+        {
+          "text": "2024年末往来资金余额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 8
+        },
+        {
+          "text": "往来形成原因",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 9
+        },
+        {
+          "text": "往来性质（经营性往来、非经营性往来）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "控股股东、实际控制人及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 0
+        },
+        {
+          "text": "无",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "上市公司的子公司及其附属企业",
+          "rowspan": 9,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 0
+        },
+        {
+          "text": "格力钛新能源股份有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 3
+        },
+        {
+          "text": "312,110.50",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 4
+        },
+        {
+          "text": "78,000.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 5
+        },
+        {
+          "text": "15,791.47",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 6
+        },
+        {
+          "text": "8,000.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 7
+        },
+        {
+          "text": "397,901.97",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "格力电器（重庆）有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 3
+        },
+        {
+          "text": "184.20",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 4
+        },
+        {
+          "text": "122,202.88",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 6
+        },
+        {
+          "text": "42.21",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 7
+        },
+        {
+          "text": "122,344.87",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "江西锦润置业有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 3
+        },
+        {
+          "text": "135,921.32",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 4
+        },
+        {
+          "text": "11,999.99",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 5
+        },
+        {
+          "text": "6,182.49",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 6
+        },
+        {
+          "text": "44,058.06",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 7
+        },
+        {
+          "text": "110,045.74",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "成都格力钛新能源有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 3
+        },
+        {
+          "text": "87,030.81",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 5
+        },
+        {
+          "text": "3,759.13",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 7
+        },
+        {
+          "text": "90,789.94",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "珠海格力物资供应有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 1
+        },
+        {
+          "text": "全资子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 4
+        },
+        {
+          "text": "76,594.40",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 7
+        },
+        {
+          "text": "76,594.40",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "武汉钰力润珠置业有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 3
+        },
+        {
+          "text": "51,529.34",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 4
+        },
+        {
+          "text": "7,800.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 5
+        },
+        {
+          "text": "4,633.12",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 7
+        },
+        {
+          "text": "63,962.46",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "珠海广通汽车有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 4
+        },
+        {
+          "text": "59,800.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 5
+        },
+        {
+          "text": "1,320.17",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 7
+        },
+        {
+          "text": "61,120.17",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "河北格力钛新能源有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 4
+        },
+        {
+          "text": "58,000.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 5
+        },
+        {
+          "text": "1,280.43",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 7
+        },
+        {
+          "text": "59,280.43",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "洛阳联袂置业有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 3
+        },
+        {
+          "text": "108,716.82",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 4
+        },
+        {
+          "text": "2,920.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 5
+        },
+        {
+          "text": "7,213.61",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 6
+        },
+        {
+          "text": "70,778.58",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 7
+        },
+        {
+          "text": "48,071.85",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "上市公司的子公司及其附属企业",
+          "rowspan": 10,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 0
+        },
+        {
+          "text": "珠海格力电子元器件有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 1
+        },
+        {
+          "text": "全资子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 4
+        },
+        {
+          "text": "46,530.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 7
+        },
+        {
+          "text": "46,530.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "珠海凌达压缩机有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 1
+        },
+        {
+          "text": "全资子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 4
+        },
+        {
+          "text": "76,831.64",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 6
+        },
+        {
+          "text": "41,055.49",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 7
+        },
+        {
+          "text": "35,776.15",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "天津绿色再生资源利用有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 1
+        },
+        {
+          "text": "全资子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 3
+        },
+        {
+          "text": "25,340.31",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 4
+        },
+        {
+          "text": "22.72",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 7
+        },
+        {
+          "text": "25,363.03",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "郑州格力绿色再生资源有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 1
+        },
+        {
+          "text": "全资子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 3
+        },
+        {
+          "text": "19,520.51",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 4
+        },
+        {
+          "text": "2,881.98",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 6
+        },
+        {
+          "text": "2,500.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 7
+        },
+        {
+          "text": "19,902.49",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "格力暖通制冷设备（武汉）有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 1
+        },
+        {
+          "text": "全资子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 3
+        },
+        {
+          "text": "17,361.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 4
+        },
+        {
+          "text": "0.01",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 7
+        },
+        {
+          "text": "17,361.01",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "珠海横琴格力材料供应有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 1
+        },
+        {
+          "text": "全资子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 4
+        },
+        {
+          "text": "5,469.62",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 7
+        },
+        {
+          "text": "5,469.62",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "湖南绿色再生资源有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 1
+        },
+        {
+          "text": "全资子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 3
+        },
+        {
+          "text": "1,660.10",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 4
+        },
+        {
+          "text": "106.94",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 7
+        },
+        {
+          "text": "1,767.04",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "芜湖绿色再生资源有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 1
+        },
+        {
+          "text": "全资子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 3
+        },
+        {
+          "text": "1,138.29",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 4
+        },
+        {
+          "text": "68.95",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 7
+        },
+        {
+          "text": "1,207.24",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "广东国创智能科技有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 27,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 27,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 27,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 27,
+          "colstart": 4
+        },
+        {
+          "text": "282.26",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 27,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 27,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 27,
+          "colstart": 7
+        },
+        {
+          "text": "282.26",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 27,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 27,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 27,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "珠海格力集团财务有限责任公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 28,
+          "colstart": 1
+        },
+        {
+          "text": "全资子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 28,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 28,
+          "colstart": 3
+        },
+        {
+          "text": "267.81",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 28,
+          "colstart": 4
+        },
+        {
+          "text": "79.79",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 28,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 28,
+          "colstart": 6
+        },
+        {
+          "text": "97.82",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 28,
+          "colstart": 7
+        },
+        {
+          "text": "249.78",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 28,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 28,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 28,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "上市公司的子公司及其附属企业",
+          "rowspan": 9,
+          "colspan": 1,
+          "rowstart": 29,
+          "colstart": 0
+        },
+        {
+          "text": "珠海横琴格力华钛能源发展有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 29,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 29,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 29,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 29,
+          "colstart": 4
+        },
+        {
+          "text": "80.97",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 29,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 29,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 29,
+          "colstart": 7
+        },
+        {
+          "text": "80.97",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 29,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 29,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 29,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "珠海格力绿色再生资源有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 30,
+          "colstart": 1
+        },
+        {
+          "text": "全资子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 30,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 30,
+          "colstart": 3
+        },
+        {
+          "text": "15.85",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 30,
+          "colstart": 4
+        },
+        {
+          "text": "6,029.94",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 30,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 30,
+          "colstart": 6
+        },
+        {
+          "text": "6,000.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 30,
+          "colstart": 7
+        },
+        {
+          "text": "45.79",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 30,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 30,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 30,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "湖南盾安制冷设备有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 31,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 31,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 31,
+          "colstart": 3
+        },
+        {
+          "text": "11.92",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 31,
+          "colstart": 4
+        },
+        {
+          "text": "50.66",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 31,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 31,
+          "colstart": 6
+        },
+        {
+          "text": "36.94",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 31,
+          "colstart": 7
+        },
+        {
+          "text": "25.64",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 31,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 31,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 31,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "格力（武安）精密装备制造有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 32,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 32,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 32,
+          "colstart": 3
+        },
+        {
+          "text": "120.48",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 32,
+          "colstart": 4
+        },
+        {
+          "text": "21.73",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 32,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 32,
+          "colstart": 6
+        },
+        {
+          "text": "128.53",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 32,
+          "colstart": 7
+        },
+        {
+          "text": "13.68",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 32,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 32,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 32,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "浙江盾安禾田金属有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 33,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 33,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 33,
+          "colstart": 3
+        },
+        {
+          "text": "2.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 33,
+          "colstart": 4
+        },
+        {
+          "text": "10.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 33,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 33,
+          "colstart": 6
+        },
+        {
+          "text": "3.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 33,
+          "colstart": 7
+        },
+        {
+          "text": "9.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 33,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 33,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 33,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "珠海华宇金属有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 34,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 34,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 34,
+          "colstart": 3
+        },
+        {
+          "text": "5.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 34,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 34,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 34,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 34,
+          "colstart": 7
+        },
+        {
+          "text": "5.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 34,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 34,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 34,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "苏州清展环境科技有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 35,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 35,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 35,
+          "colstart": 3
+        },
+        {
+          "text": "2.55",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 35,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 35,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 35,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 35,
+          "colstart": 7
+        },
+        {
+          "text": "2.55",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 35,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 35,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 35,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "石家庄绿色再生资源有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 36,
+          "colstart": 1
+        },
+        {
+          "text": "全资子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 36,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 36,
+          "colstart": 3
+        },
+        {
+          "text": "1,387.58",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 36,
+          "colstart": 4
+        },
+        {
+          "text": "77.81",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 36,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 36,
+          "colstart": 6
+        },
+        {
+          "text": "1,465.39",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 36,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 36,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 36,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 36,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "珠海格力大金机电设备有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 37,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 37,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 37,
+          "colstart": 3
+        },
+        {
+          "text": "2.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 37,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 37,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 37,
+          "colstart": 6
+        },
+        {
+          "text": "2.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 37,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 37,
+          "colstart": 8
+        },
+        {
+          "text": "往来款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 37,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 37,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "上市公司的子公司及其附属企业",
+          "rowspan": 10,
+          "colspan": 1,
+          "rowstart": 38,
+          "colstart": 0
+        },
+        {
+          "text": "珠海广通汽车有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 38,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 38,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 38,
+          "colstart": 3
+        },
+        {
+          "text": "118,056.41",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 38,
+          "colstart": 4
+        },
+        {
+          "text": "27,669.96",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 38,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 38,
+          "colstart": 6
+        },
+        {
+          "text": "53,593.97",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 38,
+          "colstart": 7
+        },
+        {
+          "text": "92,132.40",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 38,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 38,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 38,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "成都广通汽车有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 39,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 39,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 39,
+          "colstart": 3
+        },
+        {
+          "text": "60,009.81",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 39,
+          "colstart": 4
+        },
+        {
+          "text": "30,877.40",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 39,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 39,
+          "colstart": 6
+        },
+        {
+          "text": "13,800.72",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 39,
+          "colstart": 7
+        },
+        {
+          "text": "77,086.49",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 39,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 39,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 39,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "格力钛新能源股份有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 40,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 40,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 40,
+          "colstart": 3
+        },
+        {
+          "text": "50,188.58",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 40,
+          "colstart": 4
+        },
+        {
+          "text": "24,364.24",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 40,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 40,
+          "colstart": 6
+        },
+        {
+          "text": "19,815.36",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 40,
+          "colstart": 7
+        },
+        {
+          "text": "54,737.46",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 40,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 40,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 40,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "天津广通汽车有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 41,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 41,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 41,
+          "colstart": 3
+        },
+        {
+          "text": "45,315.01",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 41,
+          "colstart": 4
+        },
+        {
+          "text": "13,388.05",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 41,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 41,
+          "colstart": 6
+        },
+        {
+          "text": "5,433.54",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 41,
+          "colstart": 7
+        },
+        {
+          "text": "53,269.52",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 41,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 41,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 41,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "成都格力钛新能源有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 42,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 42,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 42,
+          "colstart": 3
+        },
+        {
+          "text": "41,353.12",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 42,
+          "colstart": 4
+        },
+        {
+          "text": "4,627.85",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 42,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 42,
+          "colstart": 6
+        },
+        {
+          "text": "231.79",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 42,
+          "colstart": 7
+        },
+        {
+          "text": "45,749.18",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 42,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 42,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 42,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "河北格力钛新能源有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 43,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 43,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 43,
+          "colstart": 3
+        },
+        {
+          "text": "22,254.75",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 43,
+          "colstart": 4
+        },
+        {
+          "text": "9,731.97",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 43,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 43,
+          "colstart": 6
+        },
+        {
+          "text": "17,236.18",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 43,
+          "colstart": 7
+        },
+        {
+          "text": "14,750.54",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 43,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 43,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 43,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "珠海格力钛电器有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 44,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 44,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 44,
+          "colstart": 3
+        },
+        {
+          "text": "9,748.27",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 44,
+          "colstart": 4
+        },
+        {
+          "text": "8,248.64",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 44,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 44,
+          "colstart": 6
+        },
+        {
+          "text": "4,788.49",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 44,
+          "colstart": 7
+        },
+        {
+          "text": "13,208.42",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 44,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 44,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 44,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "石家庄中博汽车有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 45,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 45,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 45,
+          "colstart": 3
+        },
+        {
+          "text": "11,712.23",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 45,
+          "colstart": 4
+        },
+        {
+          "text": "2,004.94",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 45,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 45,
+          "colstart": 6
+        },
+        {
+          "text": "5,061.29",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 45,
+          "colstart": 7
+        },
+        {
+          "text": "8,655.88",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 45,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 45,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 45,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "北方奥钛纳米技术有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 46,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 46,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 46,
+          "colstart": 3
+        },
+        {
+          "text": "17,159.46",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 46,
+          "colstart": 4
+        },
+        {
+          "text": "2,239.05",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 46,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 46,
+          "colstart": 6
+        },
+        {
+          "text": "11,547.10",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 46,
+          "colstart": 7
+        },
+        {
+          "text": "7,851.41",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 46,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 46,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 46,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "天津格力钛新能源有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 47,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 47,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 47,
+          "colstart": 3
+        },
+        {
+          "text": "1,969.56",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 47,
+          "colstart": 4
+        },
+        {
+          "text": "5,067.68",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 47,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 47,
+          "colstart": 6
+        },
+        {
+          "text": "201.35",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 47,
+          "colstart": 7
+        },
+        {
+          "text": "6,835.89",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 47,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 47,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 47,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "上市公司的子公司及其附属企业",
+          "rowspan": 9,
+          "colspan": 1,
+          "rowstart": 48,
+          "colstart": 0
+        },
+        {
+          "text": "格力电器（重庆）有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 48,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 48,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 48,
+          "colstart": 3
+        },
+        {
+          "text": "2,987.09",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 48,
+          "colstart": 4
+        },
+        {
+          "text": "4,979.95",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 48,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 48,
+          "colstart": 6
+        },
+        {
+          "text": "1,895.91",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 48,
+          "colstart": 7
+        },
+        {
+          "text": "6,071.13",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 48,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 48,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 48,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "珠海励高精工制造有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 49,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 49,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 49,
+          "colstart": 3
+        },
+        {
+          "text": "4,228.86",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 49,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 49,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 49,
+          "colstart": 6
+        },
+        {
+          "text": "44.78",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 49,
+          "colstart": 7
+        },
+        {
+          "text": "4,184.08",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 49,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 49,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 49,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "格力（武安）精密装备制造有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 50,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 50,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 50,
+          "colstart": 3
+        },
+        {
+          "text": "523.98",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 50,
+          "colstart": 4
+        },
+        {
+          "text": "1,108.35",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 50,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 50,
+          "colstart": 6
+        },
+        {
+          "text": "10.02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 50,
+          "colstart": 7
+        },
+        {
+          "text": "1,622.31",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 50,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 50,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 50,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "洛阳广通汽车有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 51,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 51,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 51,
+          "colstart": 3
+        },
+        {
+          "text": "975.38",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 51,
+          "colstart": 4
+        },
+        {
+          "text": "364.96",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 51,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 51,
+          "colstart": 6
+        },
+        {
+          "text": "25.53",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 51,
+          "colstart": 7
+        },
+        {
+          "text": "1,314.81",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 51,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 51,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 51,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "国创能源互联网创新中心（广东）有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 52,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 52,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 52,
+          "colstart": 3
+        },
+        {
+          "text": "116.09",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 52,
+          "colstart": 4
+        },
+        {
+          "text": "50.21",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 52,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 52,
+          "colstart": 6
+        },
+        {
+          "text": "0.31",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 52,
+          "colstart": 7
+        },
+        {
+          "text": "165.99",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 52,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 52,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 52,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "广东国创智能科技有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 53,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 53,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 53,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 53,
+          "colstart": 4
+        },
+        {
+          "text": "132.29",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 53,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 53,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 53,
+          "colstart": 7
+        },
+        {
+          "text": "132.29",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 53,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 53,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 53,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "珠海格力大金精密模具有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 54,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 54,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 54,
+          "colstart": 3
+        },
+        {
+          "text": "31.28",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 54,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 54,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 54,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 54,
+          "colstart": 7
+        },
+        {
+          "text": "31.28",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 54,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 54,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 54,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "洛阳联袂置业有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 55,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 55,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 55,
+          "colstart": 3
+        },
+        {
+          "text": "49.50",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 55,
+          "colstart": 4
+        },
+        {
+          "text": "11.61",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 55,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 55,
+          "colstart": 6
+        },
+        {
+          "text": "42.66",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 55,
+          "colstart": 7
+        },
+        {
+          "text": "18.45",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 55,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 55,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 55,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "浙江盾安热工科技有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 56,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 56,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 56,
+          "colstart": 3
+        },
+        {
+          "text": "2.19",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 56,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 56,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 56,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 56,
+          "colstart": 7
+        },
+        {
+          "text": "2.19",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 56,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 56,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 56,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "上市公司的子公司及其附属企业",
+          "rowspan": 7,
+          "colspan": 1,
+          "rowstart": 57,
+          "colstart": 0
+        },
+        {
+          "text": "格力（武安）精密装备制造有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 57,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 57,
+          "colstart": 2
+        },
+        {
+          "text": "预付款项",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 57,
+          "colstart": 3
+        },
+        {
+          "text": "37,731.15",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 57,
+          "colstart": 4
+        },
+        {
+          "text": "25,311.74",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 57,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 57,
+          "colstart": 6
+        },
+        {
+          "text": "563.65",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 57,
+          "colstart": 7
+        },
+        {
+          "text": "62,479.24",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 57,
+          "colstart": 8
+        },
+        {
+          "text": "采购商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 57,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 57,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "珠海格力大金精密模具有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 58,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 58,
+          "colstart": 2
+        },
+        {
+          "text": "预付款项",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 58,
+          "colstart": 3
+        },
+        {
+          "text": "12.25",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 58,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 58,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 58,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 58,
+          "colstart": 7
+        },
+        {
+          "text": "12.25",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 58,
+          "colstart": 8
+        },
+        {
+          "text": "采购商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 58,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 58,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "湖南盾安制冷设备有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 59,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 59,
+          "colstart": 2
+        },
+        {
+          "text": "预付款项",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 59,
+          "colstart": 3
+        },
+        {
+          "text": "5.93",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 59,
+          "colstart": 4
+        },
+        {
+          "text": "4.66",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 59,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 59,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 59,
+          "colstart": 7
+        },
+        {
+          "text": "10.59",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 59,
+          "colstart": 8
+        },
+        {
+          "text": "采购商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 59,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 59,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "广东国创智能科技有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 60,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 60,
+          "colstart": 2
+        },
+        {
+          "text": "合同资产",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 60,
+          "colstart": 3
+        },
+        {
+          "text": "5,519.36",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 60,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 60,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 60,
+          "colstart": 6
+        },
+        {
+          "text": "113.57",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 60,
+          "colstart": 7
+        },
+        {
+          "text": "5,405.79",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 60,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 60,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 60,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "格力（武安）精密装备制造有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 61,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 61,
+          "colstart": 2
+        },
+        {
+          "text": "合同资产",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 61,
+          "colstart": 3
+        },
+        {
+          "text": "2,367.80",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 61,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 61,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 61,
+          "colstart": 6
+        },
+        {
+          "text": "836.41",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 61,
+          "colstart": 7
+        },
+        {
+          "text": "1,531.39",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 61,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 61,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 61,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "格力电器（重庆）有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 62,
+          "colstart": 1
+        },
+        {
+          "text": "控股子公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 62,
+          "colstart": 2
+        },
+        {
+          "text": "合同资产",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 62,
+          "colstart": 3
+        },
+        {
+          "text": "283.59",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 62,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 62,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 62,
+          "colstart": 6
+        },
+        {
+          "text": "60.65",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 62,
+          "colstart": 7
+        },
+        {
+          "text": "222.94",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 62,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 62,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 62,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "小计",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 63,
+          "colstart": 1
+        },
+        {
+          "text": "1,194,930.04",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 63,
+          "colstart": 4
+        },
+        {
+          "text": "716,045.84",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 63,
+          "colstart": 5
+        },
+        {
+          "text": "40,180.42",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 63,
+          "colstart": 6
+        },
+        {
+          "text": "309,471.30",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 63,
+          "colstart": 7
+        },
+        {
+          "text": "1,641,685.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 63,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 63,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 63,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "其他关联方及其附属企业",
+          "rowspan": 3,
+          "colspan": 1,
+          "rowstart": 64,
+          "colstart": 0
+        },
+        {
+          "text": "上海海立（集团）股份有限公司及其控股公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 64,
+          "colstart": 1
+        },
+        {
+          "text": "本公司持有其5%以上股份的公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 64,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 64,
+          "colstart": 3
+        },
+        {
+          "text": "24,654.31",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 64,
+          "colstart": 4
+        },
+        {
+          "text": "101,104.55",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 64,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 64,
+          "colstart": 6
+        },
+        {
+          "text": "98,924.12",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 64,
+          "colstart": 7
+        },
+        {
+          "text": "26,834.74",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 64,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 64,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 64,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "兰州广通新能源汽车有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 65,
+          "colstart": 1
+        },
+        {
+          "text": "联营企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 65,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 65,
+          "colstart": 3
+        },
+        {
+          "text": "16,826.79",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 65,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 65,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 65,
+          "colstart": 6
+        },
+        {
+          "text": "110.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 65,
+          "colstart": 7
+        },
+        {
+          "text": "16,716.79",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 65,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 65,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 65,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "芜湖格润再生资源回收有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 66,
+          "colstart": 1
+        },
+        {
+          "text": "本公司对其有重大影响的公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 66,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 66,
+          "colstart": 3
+        },
+        {
+          "text": "226.35",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 66,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 66,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 66,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 66,
+          "colstart": 7
+        },
+        {
+          "text": "226.35",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 66,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 66,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 66,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "其他关联方及其附属企业",
+          "rowspan": 10,
+          "colspan": 1,
+          "rowstart": 67,
+          "colstart": 0
+        },
+        {
+          "text": "河南格力安装工程有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 67,
+          "colstart": 1
+        },
+        {
+          "text": "本公司董事控股的公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 67,
+          "colstart": 2
+        },
+        {
+          "text": "应收款项融资",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 67,
+          "colstart": 3
+        },
+        {
+          "text": "997.25",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 67,
+          "colstart": 4
+        },
+        {
+          "text": "59,758.80",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 67,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 67,
+          "colstart": 6
+        },
+        {
+          "text": "37,166.42",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 67,
+          "colstart": 7
+        },
+        {
+          "text": "23,589.63",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 67,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 67,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 67,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "浙江盛世欣兴格力贸易有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 68,
+          "colstart": 1
+        },
+        {
+          "text": "本公司董事担任执行董事兼总经理的公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 68,
+          "colstart": 2
+        },
+        {
+          "text": "应收款项融资",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 68,
+          "colstart": 3
+        },
+        {
+          "text": "18,947.28",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 68,
+          "colstart": 4
+        },
+        {
+          "text": "395,372.18",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 68,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 68,
+          "colstart": 6
+        },
+        {
+          "text": "400,324.24",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 68,
+          "colstart": 7
+        },
+        {
+          "text": "13,995.22",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 68,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 68,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 68,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "浙江通诚格力电器有限公司及其控股公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 69,
+          "colstart": 1
+        },
+        {
+          "text": "本公司董事持股及担任董事长的公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 69,
+          "colstart": 2
+        },
+        {
+          "text": "应收款项融资",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 69,
+          "colstart": 3
+        },
+        {
+          "text": "563.44",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 69,
+          "colstart": 4
+        },
+        {
+          "text": "14,747.68",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 69,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 69,
+          "colstart": 6
+        },
+        {
+          "text": "12,155.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 69,
+          "colstart": 7
+        },
+        {
+          "text": "3,156.12",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 69,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 69,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 69,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "上海海立（集团）股份有限公司及其控股公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 70,
+          "colstart": 1
+        },
+        {
+          "text": "本公司持有其5%以上股份的公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 70,
+          "colstart": 2
+        },
+        {
+          "text": "应收款项融资",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 70,
+          "colstart": 3
+        },
+        {
+          "text": "12,420.69",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 70,
+          "colstart": 4
+        },
+        {
+          "text": "26,781.97",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 70,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 70,
+          "colstart": 6
+        },
+        {
+          "text": "36,839.40",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 70,
+          "colstart": 7
+        },
+        {
+          "text": "2,363.26",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 70,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 70,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 70,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "河南盛世欣兴格力贸易有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 71,
+          "colstart": 1
+        },
+        {
+          "text": "本公司董事担任执行董事的公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 71,
+          "colstart": 2
+        },
+        {
+          "text": "应收款项融资",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 71,
+          "colstart": 3
+        },
+        {
+          "text": "43,529.73",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 71,
+          "colstart": 4
+        },
+        {
+          "text": "146,877.66",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 71,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 71,
+          "colstart": 6
+        },
+        {
+          "text": "190,407.39",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 71,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 71,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 71,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 71,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "山东捷瑞物流有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 72,
+          "colstart": 1
+        },
+        {
+          "text": "本公司监事控股的公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 72,
+          "colstart": 2
+        },
+        {
+          "text": "应收款项融资",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 72,
+          "colstart": 3
+        },
+        {
+          "text": "17,623.36",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 72,
+          "colstart": 4
+        },
+        {
+          "text": "2,515.64",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 72,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 72,
+          "colstart": 6
+        },
+        {
+          "text": "20,139.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 72,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 72,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 72,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 72,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "山东红四月电器销售有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 73,
+          "colstart": 1
+        },
+        {
+          "text": "本公司监事控股的公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 73,
+          "colstart": 2
+        },
+        {
+          "text": "应收款项融资",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 73,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 73,
+          "colstart": 4
+        },
+        {
+          "text": "200.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 73,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 73,
+          "colstart": 6
+        },
+        {
+          "text": "200.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 73,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 73,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 73,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 73,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "上海海立（集团）股份有限公司及其控股公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 74,
+          "colstart": 1
+        },
+        {
+          "text": "本公司持有其5%以上股份的公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 74,
+          "colstart": 2
+        },
+        {
+          "text": "应收票据",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 74,
+          "colstart": 3
+        },
+        {
+          "text": "1,600.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 74,
+          "colstart": 4
+        },
+        {
+          "text": "1,382.82",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 74,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 74,
+          "colstart": 6
+        },
+        {
+          "text": "2,982.82",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 74,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 74,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 74,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 74,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "四川金石租赁股份有限公司及其控股公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 75,
+          "colstart": 1
+        },
+        {
+          "text": "联营企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 75,
+          "colstart": 2
+        },
+        {
+          "text": "预付款项",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 75,
+          "colstart": 3
+        },
+        {
+          "text": "608.22",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 75,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 75,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 75,
+          "colstart": 6
+        },
+        {
+          "text": "364.93",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 75,
+          "colstart": 7
+        },
+        {
+          "text": "243.29",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 75,
+          "colstart": 8
+        },
+        {
+          "text": "采购商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 75,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 75,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "上海海立（集团）股份有限公司及其控股公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 76,
+          "colstart": 1
+        },
+        {
+          "text": "本公司持有其5%以上股份的公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 76,
+          "colstart": 2
+        },
+        {
+          "text": "预付款项",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 76,
+          "colstart": 3
+        },
+        {
+          "text": "564.19",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 76,
+          "colstart": 4
+        },
+        {
+          "text": "2.35",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 76,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 76,
+          "colstart": 6
+        },
+        {
+          "text": "565.54",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 76,
+          "colstart": 7
+        },
+        {
+          "text": "1.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 76,
+          "colstart": 8
+        },
+        {
+          "text": "采购商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 76,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 76,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "其他关联方及其附属企业",
+          "rowspan": 7,
+          "colspan": 1,
+          "rowstart": 77,
+          "colstart": 0
+        },
+        {
+          "text": "上海海立（集团）股份有限公司及其控股公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 77,
+          "colstart": 1
+        },
+        {
+          "text": "本公司持有其5%以上股份的公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 77,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 77,
+          "colstart": 3
+        },
+        {
+          "text": "33.83",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 77,
+          "colstart": 4
+        },
+        {
+          "text": "6.34",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 77,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 77,
+          "colstart": 6
+        },
+        {
+          "text": "26.41",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 77,
+          "colstart": 7
+        },
+        {
+          "text": "13.76",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 77,
+          "colstart": 8
+        },
+        {
+          "text": "提供劳务",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 77,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 77,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "上海海立（集团）股份有限公司及其控股公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 78,
+          "colstart": 1
+        },
+        {
+          "text": "本公司持有其5%以上股份的公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 78,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 78,
+          "colstart": 3
+        },
+        {
+          "text": "0.50",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 78,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 78,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 78,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 78,
+          "colstart": 7
+        },
+        {
+          "text": "0.50",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 78,
+          "colstart": 8
+        },
+        {
+          "text": "保证金",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 78,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 78,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "珠海嘉肴食品科技有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 79,
+          "colstart": 1
+        },
+        {
+          "text": "联营企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 79,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 79,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 79,
+          "colstart": 4
+        },
+        {
+          "text": "14.02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 79,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 79,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 79,
+          "colstart": 7
+        },
+        {
+          "text": "14.02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 79,
+          "colstart": 8
+        },
+        {
+          "text": "房屋租赁",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 79,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 79,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "四川金石租赁股份有限公司及其控股公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 80,
+          "colstart": 1
+        },
+        {
+          "text": "联营企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 80,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 80,
+          "colstart": 3
+        },
+        {
+          "text": "1,951.94",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 80,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 80,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 80,
+          "colstart": 6
+        },
+        {
+          "text": "1,951.94",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 80,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 80,
+          "colstart": 8
+        },
+        {
+          "text": "保证金",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 80,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 80,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "珠海嘉肴食品科技有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 81,
+          "colstart": 1
+        },
+        {
+          "text": "联营企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 81,
+          "colstart": 2
+        },
+        {
+          "text": "合同资产",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 81,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 81,
+          "colstart": 4
+        },
+        {
+          "text": "98.96",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 81,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 81,
+          "colstart": 6
+        },
+        {
+          "text": "96.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 81,
+          "colstart": 7
+        },
+        {
+          "text": "2.96",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 81,
+          "colstart": 8
+        },
+        {
+          "text": "销售商品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 81,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 81,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "四川金石租赁股份有限公司及其控股公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 82,
+          "colstart": 1
+        },
+        {
+          "text": "联营企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 82,
+          "colstart": 2
+        },
+        {
+          "text": "其他非流动资产",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 82,
+          "colstart": 3
+        },
+        {
+          "text": "1,850.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 82,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 82,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 82,
+          "colstart": 6
+        },
+        {
+          "text": "1,850.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 82,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 82,
+          "colstart": 8
+        },
+        {
+          "text": "保证金",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 82,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 82,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "小计",
+          "rowspan": 1,
+          "colspan": 3,
+          "rowstart": 83,
+          "colstart": 1
+        },
+        {
+          "text": "142,397.88",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 83,
+          "colstart": 4
+        },
+        {
+          "text": "748,862.97",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 83,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 83,
+          "colstart": 6
+        },
+        {
+          "text": "804,103.21",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 83,
+          "colstart": 7
+        },
+        {
+          "text": "87,157.64",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 83,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 83,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 83,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "总计",
+          "rowspan": 1,
+          "colspan": 4,
+          "rowstart": 84,
+          "colstart": 0
+        },
+        {
+          "text": "1,337,327.92",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 84,
+          "colstart": 4
+        },
+        {
+          "text": "1,464,908.81",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 84,
+          "colstart": 5
+        },
+        {
+          "text": "40,180.42",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 84,
+          "colstart": 6
+        },
+        {
+          "text": "1,113,574.51",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 84,
+          "colstart": 7
+        },
+        {
+          "text": "1,728,842.64",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 84,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 84,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 84,
+          "colstart": 10
+        }
+      ]
+    ],
+    "html": "<table><tr><td>非经营性资金占用</td><td>资金占用方名称</td><td>占用方与上市公司的关联关系</td><td>上市公司核算的会计科目</td><td>2024年初占用资金余额</td><td>2024年度占用累计发生金额（不含利息）</td><td>2024年度占年度占用资金的利息（如有）</td><td>2024年度偿还累计发生金额</td><td>2024年末占用资金余额</td><td>占用形成原因</td><td>占用性质</td></tr><tr><td>控股股东、实际控制人及其附属企业</td><td>无</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>小计</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>前控股股东、实际控制人及其附属企业</td><td>无</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>小计</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>其他关联方及附属企业</td><td>盾安（天津）节能系统有限公司及其控股公司</td><td>联营企业</td><td>其他应收款</td><td>17,232.58</td><td></td><td></td><td>153.46</td><td>17,079.12</td><td>出售子公司形成的占用</td><td>非经营性占用</td></tr><tr><td>小计</td><td></td><td></td><td></td><td>17,232.58</td><td></td><td></td><td>153.46</td><td>17,079.12</td><td></td><td></td></tr><tr><td>总计</td><td></td><td></td><td></td><td>17,232.58</td><td></td><td></td><td>153.46</td><td>17,079.12</td><td></td><td></td></tr><tr><td>其他关联资金往来</td><td>资金往来方名称</td><td>往来方与上市公司的关联关系</td><td>上市公司核算的会计科目</td><td>2024年初往来资金余额</td><td>2024年度往来累计发生金额（不含利息）</td><td>2024年度往来资金的利息（如有）</td><td>2024年度偿还累计发生额</td><td>2024年末往来资金余额</td><td>往来形成原因</td><td>往来性质（经营性往来、非经营性往来）</td></tr><tr><td>控股股东、实际控制人及其附属企业</td><td>无</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"9\">上市公司的子公司及其附属企业</td><td>格力钛新能源股份有限公司</td><td>控股子公司</td><td>其他应收款</td><td>312,110.50</td><td>78,000.00</td><td>15,791.47</td><td>8,000.00</td><td>397,901.97</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>格力电器（重庆）有限公司</td><td>控股子公司</td><td>其他应收款</td><td>184.20</td><td>122,202.88</td><td></td><td>42.21</td><td>122,344.87</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>江西锦润置业有限公司</td><td>控股子公司</td><td>其他应收款</td><td>135,921.32</td><td>11,999.99</td><td>6,182.49</td><td>44,058.06</td><td>110,045.74</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>成都格力钛新能源有限公司</td><td>控股子公司</td><td>其他应收款</td><td>87,030.81</td><td></td><td>3,759.13</td><td></td><td>90,789.94</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>珠海格力物资供应有限公司</td><td>全资子公司</td><td>其他应收款</td><td></td><td>76,594.40</td><td></td><td></td><td>76,594.40</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>武汉钰力润珠置业有限公司</td><td>控股子公司</td><td>其他应收款</td><td>51,529.34</td><td>7,800.00</td><td>4,633.12</td><td></td><td>63,962.46</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>珠海广通汽车有限公司</td><td>控股子公司</td><td>其他应收款</td><td></td><td>59,800.00</td><td>1,320.17</td><td></td><td>61,120.17</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>河北格力钛新能源有限公司</td><td>控股子公司</td><td>其他应收款</td><td></td><td>58,000.00</td><td>1,280.43</td><td></td><td>59,280.43</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>洛阳联袂置业有限公司</td><td>控股子公司</td><td>其他应收款</td><td>108,716.82</td><td>2,920.00</td><td>7,213.61</td><td>70,778.58</td><td>48,071.85</td><td>往来款</td><td>非经营性往来</td></tr><tr><td rowspan=\"10\">上市公司的子公司及其附属企业</td><td>珠海格力电子元器件有限公司</td><td>全资子公司</td><td>其他应收款</td><td></td><td>46,530.00</td><td></td><td></td><td>46,530.00</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>珠海凌达压缩机有限公司</td><td>全资子公司</td><td>其他应收款</td><td></td><td>76,831.64</td><td></td><td>41,055.49</td><td>35,776.15</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>天津绿色再生资源利用有限公司</td><td>全资子公司</td><td>其他应收款</td><td>25,340.31</td><td>22.72</td><td></td><td></td><td>25,363.03</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>郑州格力绿色再生资源有限公司</td><td>全资子公司</td><td>其他应收款</td><td>19,520.51</td><td>2,881.98</td><td></td><td>2,500.00</td><td>19,902.49</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>格力暖通制冷设备（武汉）有限公司</td><td>全资子公司</td><td>其他应收款</td><td>17,361.00</td><td>0.01</td><td></td><td></td><td>17,361.01</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>珠海横琴格力材料供应有限公司</td><td>全资子公司</td><td>其他应收款</td><td></td><td>5,469.62</td><td></td><td></td><td>5,469.62</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>湖南绿色再生资源有限公司</td><td>全资子公司</td><td>其他应收款</td><td>1,660.10</td><td>106.94</td><td></td><td></td><td>1,767.04</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>芜湖绿色再生资源有限公司</td><td>全资子公司</td><td>其他应收款</td><td>1,138.29</td><td>68.95</td><td></td><td></td><td>1,207.24</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>广东国创智能科技有限公司</td><td>控股子公司</td><td>其他应收款</td><td></td><td>282.26</td><td></td><td></td><td>282.26</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>珠海格力集团财务有限责任公司</td><td>全资子公司</td><td>其他应收款</td><td>267.81</td><td>79.79</td><td></td><td>97.82</td><td>249.78</td><td>往来款</td><td>非经营性往来</td></tr><tr><td rowspan=\"9\">上市公司的子公司及其附属企业</td><td>珠海横琴格力华钛能源发展有限公司</td><td>控股子公司</td><td>其他应收款</td><td></td><td>80.97</td><td></td><td></td><td>80.97</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>珠海格力绿色再生资源有限公司</td><td>全资子公司</td><td>其他应收款</td><td>15.85</td><td>6,029.94</td><td></td><td>6,000.00</td><td>45.79</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>湖南盾安制冷设备有限公司</td><td>控股子公司</td><td>其他应收款</td><td>11.92</td><td>50.66</td><td></td><td>36.94</td><td>25.64</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>格力（武安）精密装备制造有限公司</td><td>控股子公司</td><td>其他应收款</td><td>120.48</td><td>21.73</td><td></td><td>128.53</td><td>13.68</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>浙江盾安禾田金属有限公司</td><td>控股子公司</td><td>其他应收款</td><td>2.00</td><td>10.00</td><td></td><td>3.00</td><td>9.00</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>珠海华宇金属有限公司</td><td>控股子公司</td><td>其他应收款</td><td>5.00</td><td></td><td></td><td></td><td>5.00</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>苏州清展环境科技有限公司</td><td>控股子公司</td><td>其他应收款</td><td>2.55</td><td></td><td></td><td></td><td>2.55</td><td>往来款</td><td>非经营性往来</td></tr><tr><td>石家庄绿色再生资源有限公司</td><td>全资子公司</td><td>其他应收款</td><td>1,387.58</td><td>77.81</td><td></td><td>1,465.39</td><td></td><td>往来款</td><td>非经营性往来</td></tr><tr><td>珠海格力大金机电设备有限公司</td><td>控股子公司</td><td>其他应收款</td><td>2.00</td><td></td><td></td><td>2.00</td><td></td><td>往来款</td><td>非经营性往来</td></tr><tr><td rowspan=\"10\">上市公司的子公司及其附属企业</td><td>珠海广通汽车有限公司</td><td>控股子公司</td><td>应收账款</td><td>118,056.41</td><td>27,669.96</td><td></td><td>53,593.97</td><td>92,132.40</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>成都广通汽车有限公司</td><td>控股子公司</td><td>应收账款</td><td>60,009.81</td><td>30,877.40</td><td></td><td>13,800.72</td><td>77,086.49</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>格力钛新能源股份有限公司</td><td>控股子公司</td><td>应收账款</td><td>50,188.58</td><td>24,364.24</td><td></td><td>19,815.36</td><td>54,737.46</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>天津广通汽车有限公司</td><td>控股子公司</td><td>应收账款</td><td>45,315.01</td><td>13,388.05</td><td></td><td>5,433.54</td><td>53,269.52</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>成都格力钛新能源有限公司</td><td>控股子公司</td><td>应收账款</td><td>41,353.12</td><td>4,627.85</td><td></td><td>231.79</td><td>45,749.18</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>河北格力钛新能源有限公司</td><td>控股子公司</td><td>应收账款</td><td>22,254.75</td><td>9,731.97</td><td></td><td>17,236.18</td><td>14,750.54</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>珠海格力钛电器有限公司</td><td>控股子公司</td><td>应收账款</td><td>9,748.27</td><td>8,248.64</td><td></td><td>4,788.49</td><td>13,208.42</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>石家庄中博汽车有限公司</td><td>控股子公司</td><td>应收账款</td><td>11,712.23</td><td>2,004.94</td><td></td><td>5,061.29</td><td>8,655.88</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>北方奥钛纳米技术有限公司</td><td>控股子公司</td><td>应收账款</td><td>17,159.46</td><td>2,239.05</td><td></td><td>11,547.10</td><td>7,851.41</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>天津格力钛新能源有限公司</td><td>控股子公司</td><td>应收账款</td><td>1,969.56</td><td>5,067.68</td><td></td><td>201.35</td><td>6,835.89</td><td>销售商品</td><td>经营性往来</td></tr><tr><td rowspan=\"9\">上市公司的子公司及其附属企业</td><td>格力电器（重庆）有限公司</td><td>控股子公司</td><td>应收账款</td><td>2,987.09</td><td>4,979.95</td><td></td><td>1,895.91</td><td>6,071.13</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>珠海励高精工制造有限公司</td><td>控股子公司</td><td>应收账款</td><td>4,228.86</td><td></td><td></td><td>44.78</td><td>4,184.08</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>格力（武安）精密装备制造有限公司</td><td>控股子公司</td><td>应收账款</td><td>523.98</td><td>1,108.35</td><td></td><td>10.02</td><td>1,622.31</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>洛阳广通汽车有限公司</td><td>控股子公司</td><td>应收账款</td><td>975.38</td><td>364.96</td><td></td><td>25.53</td><td>1,314.81</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>国创能源互联网创新中心（广东）有限公司</td><td>控股子公司</td><td>应收账款</td><td>116.09</td><td>50.21</td><td></td><td>0.31</td><td>165.99</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>广东国创智能科技有限公司</td><td>控股子公司</td><td>应收账款</td><td></td><td>132.29</td><td></td><td></td><td>132.29</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>珠海格力大金精密模具有限公司</td><td>控股子公司</td><td>应收账款</td><td>31.28</td><td></td><td></td><td></td><td>31.28</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>洛阳联袂置业有限公司</td><td>控股子公司</td><td>应收账款</td><td>49.50</td><td>11.61</td><td></td><td>42.66</td><td>18.45</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>浙江盾安热工科技有限公司</td><td>控股子公司</td><td>应收账款</td><td>2.19</td><td></td><td></td><td></td><td>2.19</td><td>销售商品</td><td>经营性往来</td></tr><tr><td rowspan=\"7\">上市公司的子公司及其附属企业</td><td>格力（武安）精密装备制造有限公司</td><td>控股子公司</td><td>预付款项</td><td>37,731.15</td><td>25,311.74</td><td></td><td>563.65</td><td>62,479.24</td><td>采购商品</td><td>经营性往来</td></tr><tr><td>珠海格力大金精密模具有限公司</td><td>控股子公司</td><td>预付款项</td><td>12.25</td><td></td><td></td><td></td><td>12.25</td><td>采购商品</td><td>经营性往来</td></tr><tr><td>湖南盾安制冷设备有限公司</td><td>控股子公司</td><td>预付款项</td><td>5.93</td><td>4.66</td><td></td><td></td><td>10.59</td><td>采购商品</td><td>经营性往来</td></tr><tr><td>广东国创智能科技有限公司</td><td>控股子公司</td><td>合同资产</td><td>5,519.36</td><td></td><td></td><td>113.57</td><td>5,405.79</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>格力（武安）精密装备制造有限公司</td><td>控股子公司</td><td>合同资产</td><td>2,367.80</td><td></td><td></td><td>836.41</td><td>1,531.39</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>格力电器（重庆）有限公司</td><td>控股子公司</td><td>合同资产</td><td>283.59</td><td></td><td></td><td>60.65</td><td>222.94</td><td>销售商品</td><td>经营性往来</td></tr><tr><td colspan=\"3\">小计</td><td>1,194,930.04</td><td>716,045.84</td><td>40,180.42</td><td>309,471.30</td><td>1,641,685.00</td><td></td><td></td></tr><tr><td rowspan=\"3\">其他关联方及其附属企业</td><td>上海海立（集团）股份有限公司及其控股公司</td><td>本公司持有其5%以上股份的公司</td><td>应收账款</td><td>24,654.31</td><td>101,104.55</td><td></td><td>98,924.12</td><td>26,834.74</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>兰州广通新能源汽车有限公司</td><td>联营企业</td><td>应收账款</td><td>16,826.79</td><td></td><td></td><td>110.00</td><td>16,716.79</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>芜湖格润再生资源回收有限公司</td><td>本公司对其有重大影响的公司</td><td>应收账款</td><td>226.35</td><td></td><td></td><td></td><td>226.35</td><td>销售商品</td><td>经营性往来</td></tr><tr><td rowspan=\"10\">其他关联方及其附属企业</td><td>河南格力安装工程有限公司</td><td>本公司董事控股的公司</td><td>应收款项融资</td><td>997.25</td><td>59,758.80</td><td></td><td>37,166.42</td><td>23,589.63</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>浙江盛世欣兴格力贸易有限公司</td><td>本公司董事担任执行董事兼总经理的公司</td><td>应收款项融资</td><td>18,947.28</td><td>395,372.18</td><td></td><td>400,324.24</td><td>13,995.22</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>浙江通诚格力电器有限公司及其控股公司</td><td>本公司董事持股及担任董事长的公司</td><td>应收款项融资</td><td>563.44</td><td>14,747.68</td><td></td><td>12,155.00</td><td>3,156.12</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>上海海立（集团）股份有限公司及其控股公司</td><td>本公司持有其5%以上股份的公司</td><td>应收款项融资</td><td>12,420.69</td><td>26,781.97</td><td></td><td>36,839.40</td><td>2,363.26</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>河南盛世欣兴格力贸易有限公司</td><td>本公司董事担任执行董事的公司</td><td>应收款项融资</td><td>43,529.73</td><td>146,877.66</td><td></td><td>190,407.39</td><td></td><td>销售商品</td><td>经营性往来</td></tr><tr><td>山东捷瑞物流有限公司</td><td>本公司监事控股的公司</td><td>应收款项融资</td><td>17,623.36</td><td>2,515.64</td><td></td><td>20,139.00</td><td></td><td>销售商品</td><td>经营性往来</td></tr><tr><td>山东红四月电器销售有限公司</td><td>本公司监事控股的公司</td><td>应收款项融资</td><td></td><td>200.00</td><td></td><td>200.00</td><td></td><td>销售商品</td><td>经营性往来</td></tr><tr><td>上海海立（集团）股份有限公司及其控股公司</td><td>本公司持有其5%以上股份的公司</td><td>应收票据</td><td>1,600.00</td><td>1,382.82</td><td></td><td>2,982.82</td><td></td><td>销售商品</td><td>经营性往来</td></tr><tr><td>四川金石租赁股份有限公司及其控股公司</td><td>联营企业</td><td>预付款项</td><td>608.22</td><td></td><td></td><td>364.93</td><td>243.29</td><td>采购商品</td><td>经营性往来</td></tr><tr><td>上海海立（集团）股份有限公司及其控股公司</td><td>本公司持有其5%以上股份的公司</td><td>预付款项</td><td>564.19</td><td>2.35</td><td></td><td>565.54</td><td>1.00</td><td>采购商品</td><td>经营性往来</td></tr><tr><td rowspan=\"7\">其他关联方及其附属企业</td><td>上海海立（集团）股份有限公司及其控股公司</td><td>本公司持有其5%以上股份的公司</td><td>其他应收款</td><td>33.83</td><td>6.34</td><td></td><td>26.41</td><td>13.76</td><td>提供劳务</td><td>经营性往来</td></tr><tr><td>上海海立（集团）股份有限公司及其控股公司</td><td>本公司持有其5%以上股份的公司</td><td>其他应收款</td><td>0.50</td><td></td><td></td><td></td><td>0.50</td><td>保证金</td><td>经营性往来</td></tr><tr><td>珠海嘉肴食品科技有限公司</td><td>联营企业</td><td>其他应收款</td><td></td><td>14.02</td><td></td><td></td><td>14.02</td><td>房屋租赁</td><td>经营性往来</td></tr><tr><td>四川金石租赁股份有限公司及其控股公司</td><td>联营企业</td><td>其他应收款</td><td>1,951.94</td><td></td><td></td><td>1,951.94</td><td></td><td>保证金</td><td>经营性往来</td></tr><tr><td>珠海嘉肴食品科技有限公司</td><td>联营企业</td><td>合同资产</td><td></td><td>98.96</td><td></td><td>96.00</td><td>2.96</td><td>销售商品</td><td>经营性往来</td></tr><tr><td>四川金石租赁股份有限公司及其控股公司</td><td>联营企业</td><td>其他非流动资产</td><td>1,850.00</td><td></td><td></td><td>1,850.00</td><td></td><td>保证金</td><td>经营性往来</td></tr><tr><td colspan=\"3\">小计</td><td>142,397.88</td><td>748,862.97</td><td></td><td>804,103.21</td><td>87,157.64</td><td></td><td></td></tr><tr><td colspan=\"4\">总计</td><td>1,337,327.92</td><td>1,464,908.81</td><td>40,180.42</td><td>1,113,574.51</td><td>1,728,842.64</td><td></td><td></td></tr></table>",
+    "md": "| 非经营性资金占用 | 资金占用方名称 | 占用方与上市公司的关联关系 | 上市公司核算的会计科目 | 2024年初占用资金余额 | 2024年度占用累计发生金额（不含利息） | 2024年度占年度占用资金的利息（如有） | 2024年度偿还累计发生金额 | 2024年末占用资金余额 | 占用形成原因 | 占用性质 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 控股股东、实际控制人及其附属企业 | 无 |  |  |  |  |  |  |  |  |  |\n| 小计 |  |  |  |  |  |  |  |  |  |  |\n| 前控股股东、实际控制人及其附属企业 | 无 |  |  |  |  |  |  |  |  |  |\n| 小计 |  |  |  |  |  |  |  |  |  |  |\n| 其他关联方及附属企业 | 盾安（天津）节能系统有限公司及其控股公司 | 联营企业 | 其他应收款 | 17,232.58 |  |  | 153.46 | 17,079.12 | 出售子公司形成的占用 | 非经营性占用 |\n| 小计 |  |  |  | 17,232.58 |  |  | 153.46 | 17,079.12 |  |  |\n| 总计 |  |  |  | 17,232.58 |  |  | 153.46 | 17,079.12 |  |  |\n| 其他关联资金往来 | 资金往来方名称 | 往来方与上市公司的关联关系 | 上市公司核算的会计科目 | 2024年初往来资金余额 | 2024年度往来累计发生金额（不含利息） | 2024年度往来资金的利息（如有） | 2024年度偿还累计发生额 | 2024年末往来资金余额 | 往来形成原因 | 往来性质（经营性往来、非经营性往来） |\n| 控股股东、实际控制人及其附属企业 | 无 |  |  |  |  |  |  |  |  |  |\n| 上市公司的子公司及其附属企业 | 格力钛新能源股份有限公司 | 控股子公司 | 其他应收款 | 312,110.50 | 78,000.00 | 15,791.47 | 8,000.00 | 397,901.97 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 格力电器（重庆）有限公司 | 控股子公司 | 其他应收款 | 184.20 | 122,202.88 |  | 42.21 | 122,344.87 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 江西锦润置业有限公司 | 控股子公司 | 其他应收款 | 135,921.32 | 11,999.99 | 6,182.49 | 44,058.06 | 110,045.74 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 成都格力钛新能源有限公司 | 控股子公司 | 其他应收款 | 87,030.81 |  | 3,759.13 |  | 90,789.94 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 珠海格力物资供应有限公司 | 全资子公司 | 其他应收款 |  | 76,594.40 |  |  | 76,594.40 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 武汉钰力润珠置业有限公司 | 控股子公司 | 其他应收款 | 51,529.34 | 7,800.00 | 4,633.12 |  | 63,962.46 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 珠海广通汽车有限公司 | 控股子公司 | 其他应收款 |  | 59,800.00 | 1,320.17 |  | 61,120.17 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 河北格力钛新能源有限公司 | 控股子公司 | 其他应收款 |  | 58,000.00 | 1,280.43 |  | 59,280.43 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 洛阳联袂置业有限公司 | 控股子公司 | 其他应收款 | 108,716.82 | 2,920.00 | 7,213.61 | 70,778.58 | 48,071.85 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 珠海格力电子元器件有限公司 | 全资子公司 | 其他应收款 |  | 46,530.00 |  |  | 46,530.00 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 珠海凌达压缩机有限公司 | 全资子公司 | 其他应收款 |  | 76,831.64 |  | 41,055.49 | 35,776.15 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 天津绿色再生资源利用有限公司 | 全资子公司 | 其他应收款 | 25,340.31 | 22.72 |  |  | 25,363.03 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 郑州格力绿色再生资源有限公司 | 全资子公司 | 其他应收款 | 19,520.51 | 2,881.98 |  | 2,500.00 | 19,902.49 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 格力暖通制冷设备（武汉）有限公司 | 全资子公司 | 其他应收款 | 17,361.00 | 0.01 |  |  | 17,361.01 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 珠海横琴格力材料供应有限公司 | 全资子公司 | 其他应收款 |  | 5,469.62 |  |  | 5,469.62 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 湖南绿色再生资源有限公司 | 全资子公司 | 其他应收款 | 1,660.10 | 106.94 |  |  | 1,767.04 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 芜湖绿色再生资源有限公司 | 全资子公司 | 其他应收款 | 1,138.29 | 68.95 |  |  | 1,207.24 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 广东国创智能科技有限公司 | 控股子公司 | 其他应收款 |  | 282.26 |  |  | 282.26 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 珠海格力集团财务有限责任公司 | 全资子公司 | 其他应收款 | 267.81 | 79.79 |  | 97.82 | 249.78 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 珠海横琴格力华钛能源发展有限公司 | 控股子公司 | 其他应收款 |  | 80.97 |  |  | 80.97 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 珠海格力绿色再生资源有限公司 | 全资子公司 | 其他应收款 | 15.85 | 6,029.94 |  | 6,000.00 | 45.79 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 湖南盾安制冷设备有限公司 | 控股子公司 | 其他应收款 | 11.92 | 50.66 |  | 36.94 | 25.64 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 格力（武安）精密装备制造有限公司 | 控股子公司 | 其他应收款 | 120.48 | 21.73 |  | 128.53 | 13.68 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 浙江盾安禾田金属有限公司 | 控股子公司 | 其他应收款 | 2.00 | 10.00 |  | 3.00 | 9.00 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 珠海华宇金属有限公司 | 控股子公司 | 其他应收款 | 5.00 |  |  |  | 5.00 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 苏州清展环境科技有限公司 | 控股子公司 | 其他应收款 | 2.55 |  |  |  | 2.55 | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 石家庄绿色再生资源有限公司 | 全资子公司 | 其他应收款 | 1,387.58 | 77.81 |  | 1,465.39 |  | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 珠海格力大金机电设备有限公司 | 控股子公司 | 其他应收款 | 2.00 |  |  | 2.00 |  | 往来款 | 非经营性往来 |\n| 上市公司的子公司及其附属企业 | 珠海广通汽车有限公司 | 控股子公司 | 应收账款 | 118,056.41 | 27,669.96 |  | 53,593.97 | 92,132.40 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 成都广通汽车有限公司 | 控股子公司 | 应收账款 | 60,009.81 | 30,877.40 |  | 13,800.72 | 77,086.49 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 格力钛新能源股份有限公司 | 控股子公司 | 应收账款 | 50,188.58 | 24,364.24 |  | 19,815.36 | 54,737.46 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 天津广通汽车有限公司 | 控股子公司 | 应收账款 | 45,315.01 | 13,388.05 |  | 5,433.54 | 53,269.52 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 成都格力钛新能源有限公司 | 控股子公司 | 应收账款 | 41,353.12 | 4,627.85 |  | 231.79 | 45,749.18 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 河北格力钛新能源有限公司 | 控股子公司 | 应收账款 | 22,254.75 | 9,731.97 |  | 17,236.18 | 14,750.54 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 珠海格力钛电器有限公司 | 控股子公司 | 应收账款 | 9,748.27 | 8,248.64 |  | 4,788.49 | 13,208.42 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 石家庄中博汽车有限公司 | 控股子公司 | 应收账款 | 11,712.23 | 2,004.94 |  | 5,061.29 | 8,655.88 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 北方奥钛纳米技术有限公司 | 控股子公司 | 应收账款 | 17,159.46 | 2,239.05 |  | 11,547.10 | 7,851.41 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 天津格力钛新能源有限公司 | 控股子公司 | 应收账款 | 1,969.56 | 5,067.68 |  | 201.35 | 6,835.89 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 格力电器（重庆）有限公司 | 控股子公司 | 应收账款 | 2,987.09 | 4,979.95 |  | 1,895.91 | 6,071.13 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 珠海励高精工制造有限公司 | 控股子公司 | 应收账款 | 4,228.86 |  |  | 44.78 | 4,184.08 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 格力（武安）精密装备制造有限公司 | 控股子公司 | 应收账款 | 523.98 | 1,108.35 |  | 10.02 | 1,622.31 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 洛阳广通汽车有限公司 | 控股子公司 | 应收账款 | 975.38 | 364.96 |  | 25.53 | 1,314.81 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 国创能源互联网创新中心（广东）有限公司 | 控股子公司 | 应收账款 | 116.09 | 50.21 |  | 0.31 | 165.99 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 广东国创智能科技有限公司 | 控股子公司 | 应收账款 |  | 132.29 |  |  | 132.29 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 珠海格力大金精密模具有限公司 | 控股子公司 | 应收账款 | 31.28 |  |  |  | 31.28 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 洛阳联袂置业有限公司 | 控股子公司 | 应收账款 | 49.50 | 11.61 |  | 42.66 | 18.45 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 浙江盾安热工科技有限公司 | 控股子公司 | 应收账款 | 2.19 |  |  |  | 2.19 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 格力（武安）精密装备制造有限公司 | 控股子公司 | 预付款项 | 37,731.15 | 25,311.74 |  | 563.65 | 62,479.24 | 采购商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 珠海格力大金精密模具有限公司 | 控股子公司 | 预付款项 | 12.25 |  |  |  | 12.25 | 采购商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 湖南盾安制冷设备有限公司 | 控股子公司 | 预付款项 | 5.93 | 4.66 |  |  | 10.59 | 采购商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 广东国创智能科技有限公司 | 控股子公司 | 合同资产 | 5,519.36 |  |  | 113.57 | 5,405.79 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 格力（武安）精密装备制造有限公司 | 控股子公司 | 合同资产 | 2,367.80 |  |  | 836.41 | 1,531.39 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 格力电器（重庆）有限公司 | 控股子公司 | 合同资产 | 283.59 |  |  | 60.65 | 222.94 | 销售商品 | 经营性往来 |\n| 上市公司的子公司及其附属企业 | 小计 | 小计 | 小计 | 1,194,930.04 | 716,045.84 | 40,180.42 | 309,471.30 | 1,641,685.00 |  |  |\n| 其他关联方及其附属企业 | 上海海立（集团）股份有限公司及其控股公司 | 本公司持有其5%以上股份的公司 | 应收账款 | 24,654.31 | 101,104.55 |  | 98,924.12 | 26,834.74 | 销售商品 | 经营性往来 |\n| 其他关联方及其附属企业 | 兰州广通新能源汽车有限公司 | 联营企业 | 应收账款 | 16,826.79 |  |  | 110.00 | 16,716.79 | 销售商品 | 经营性往来 |\n| 其他关联方及其附属企业 | 芜湖格润再生资源回收有限公司 | 本公司对其有重大影响的公司 | 应收账款 | 226.35 |  |  |  | 226.35 | 销售商品 | 经营性往来 |\n| 其他关联方及其附属企业 | 河南格力安装工程有限公司 | 本公司董事控股的公司 | 应收款项融资 | 997.25 | 59,758.80 |  | 37,166.42 | 23,589.63 | 销售商品 | 经营性往来 |\n| 其他关联方及其附属企业 | 浙江盛世欣兴格力贸易有限公司 | 本公司董事担任执行董事兼总经理的公司 | 应收款项融资 | 18,947.28 | 395,372.18 |  | 400,324.24 | 13,995.22 | 销售商品 | 经营性往来 |\n| 其他关联方及其附属企业 | 浙江通诚格力电器有限公司及其控股公司 | 本公司董事持股及担任董事长的公司 | 应收款项融资 | 563.44 | 14,747.68 |  | 12,155.00 | 3,156.12 | 销售商品 | 经营性往来 |\n| 其他关联方及其附属企业 | 上海海立（集团）股份有限公司及其控股公司 | 本公司持有其5%以上股份的公司 | 应收款项融资 | 12,420.69 | 26,781.97 |  | 36,839.40 | 2,363.26 | 销售商品 | 经营性往来 |\n| 其他关联方及其附属企业 | 河南盛世欣兴格力贸易有限公司 | 本公司董事担任执行董事的公司 | 应收款项融资 | 43,529.73 | 146,877.66 |  | 190,407.39 |  | 销售商品 | 经营性往来 |\n| 其他关联方及其附属企业 | 山东捷瑞物流有限公司 | 本公司监事控股的公司 | 应收款项融资 | 17,623.36 | 2,515.64 |  | 20,139.00 |  | 销售商品 | 经营性往来 |\n| 其他关联方及其附属企业 | 山东红四月电器销售有限公司 | 本公司监事控股的公司 | 应收款项融资 |  | 200.00 |  | 200.00 |  | 销售商品 | 经营性往来 |\n| 其他关联方及其附属企业 | 上海海立（集团）股份有限公司及其控股公司 | 本公司持有其5%以上股份的公司 | 应收票据 | 1,600.00 | 1,382.82 |  | 2,982.82 |  | 销售商品 | 经营性往来 |\n| 其他关联方及其附属企业 | 四川金石租赁股份有限公司及其控股公司 | 联营企业 | 预付款项 | 608.22 |  |  | 364.93 | 243.29 | 采购商品 | 经营性往来 |\n| 其他关联方及其附属企业 | 上海海立（集团）股份有限公司及其控股公司 | 本公司持有其5%以上股份的公司 | 预付款项 | 564.19 | 2.35 |  | 565.54 | 1.00 | 采购商品 | 经营性往来 |\n| 其他关联方及其附属企业 | 上海海立（集团）股份有限公司及其控股公司 | 本公司持有其5%以上股份的公司 | 其他应收款 | 33.83 | 6.34 |  | 26.41 | 13.76 | 提供劳务 | 经营性往来 |\n| 其他关联方及其附属企业 | 上海海立（集团）股份有限公司及其控股公司 | 本公司持有其5%以上股份的公司 | 其他应收款 | 0.50 |  |  |  | 0.50 | 保证金 | 经营性往来 |\n| 其他关联方及其附属企业 | 珠海嘉肴食品科技有限公司 | 联营企业 | 其他应收款 |  | 14.02 |  |  | 14.02 | 房屋租赁 | 经营性往来 |\n| 其他关联方及其附属企业 | 四川金石租赁股份有限公司及其控股公司 | 联营企业 | 其他应收款 | 1,951.94 |  |  | 1,951.94 |  | 保证金 | 经营性往来 |\n| 其他关联方及其附属企业 | 珠海嘉肴食品科技有限公司 | 联营企业 | 合同资产 |  | 98.96 |  | 96.00 | 2.96 | 销售商品 | 经营性往来 |\n| 其他关联方及其附属企业 | 四川金石租赁股份有限公司及其控股公司 | 联营企业 | 其他非流动资产 | 1,850.00 |  |  | 1,850.00 |  | 保证金 | 经营性往来 |\n| 其他关联方及其附属企业 | 小计 | 小计 | 小计 | 142,397.88 | 748,862.97 |  | 804,103.21 | 87,157.64 |  |  |\n| 总计 | 总计 | 总计 | 总计 | 1,337,327.92 | 1,464,908.81 | 40,180.42 | 1,113,574.51 | 1,728,842.64 |  |  |",
+    "perfectTable": false,
+    "table_caption": [
+      "编制单位：珠海格力电器股份有限公司",
+      "单位：人民币万元"
+    ],
+    "table_footnote": [
+      "本表于2025年04月25日获董事会批准。"
+    ],
+    "img_path": "images/7629d5a86ed94e144d0b2dd63a86df6dd81f46ad776493e1de322cae6af5f639.jpg",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "table_type": "非经常性损益项目及金额表",
+    "standard2D": false,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "非经营性资金占用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "资金占用方名称",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "占用方与上市公司的关联关系",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "上市公司核算的会计科目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "2024年初占用资金余额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "2024年度占用累计发生金额（不含利息）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 5
+        },
+        {
+          "text": "2024年度占年度占用资金的利息（如有）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 6
+        },
+        {
+          "text": "2024年度偿还累计发生金额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 7
+        },
+        {
+          "text": "2024年末占用资金余额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 8
+        },
+        {
+          "text": "占用形成原因",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 9
+        },
+        {
+          "text": "占用性质",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 10
+        }
+      ]
+    ],
+    "element_id": 27
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 71.0,
+      "t": 30.0,
+      "r": 183.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "GREE",
+    "md": "GREE",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 28
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 493.0,
+      "t": 43.0,
+      "r": 769.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "md": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 29
+  },
+  {
+    "page": 3,
+    "type": "page_number",
+    "bBox": {
+      "l": 405.0,
+      "t": 519.0,
+      "r": 434.0,
+      "b": 530.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第2页",
+    "md": "第2页",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 30
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 71.0,
+      "t": 30.0,
+      "r": 182.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "GREE",
+    "md": "GREE",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 31
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 493.0,
+      "t": 43.0,
+      "r": 769.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "md": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 32
+  },
+  {
+    "page": 4,
+    "type": "page_number",
+    "bBox": {
+      "l": 405.0,
+      "t": 519.0,
+      "r": 434.0,
+      "b": 530.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第3页",
+    "md": "第3页",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 33
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 71.0,
+      "t": 30.0,
+      "r": 184.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "GREE",
+    "md": "GREE",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 34
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 492.0,
+      "t": 43.0,
+      "r": 769.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "md": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 35
+  },
+  {
+    "page": 5,
+    "type": "page_number",
+    "bBox": {
+      "l": 405.0,
+      "t": 519.0,
+      "r": 434.0,
+      "b": 530.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第4页",
+    "md": "第4页",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 36
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 71.0,
+      "t": 30.0,
+      "r": 182.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "GREE",
+    "md": "GREE",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 37
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 493.0,
+      "t": 43.0,
+      "r": 769.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "md": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 38
+  },
+  {
+    "page": 6,
+    "type": "page_number",
+    "bBox": {
+      "l": 405.0,
+      "t": 519.0,
+      "r": 434.0,
+      "b": 530.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第5页",
+    "md": "第5页",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 39
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 71.0,
+      "t": 30.0,
+      "r": 184.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "GREE",
+    "md": "GREE",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 40
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 492.0,
+      "t": 43.0,
+      "r": 769.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "md": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 41
+  },
+  {
+    "page": 7,
+    "type": "page_number",
+    "bBox": {
+      "l": 405.0,
+      "t": 519.0,
+      "r": 434.0,
+      "b": 530.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第6页",
+    "md": "第6页",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 42
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 71.0,
+      "t": 30.0,
+      "r": 184.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "GREE",
+    "md": "GREE",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 43
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 492.0,
+      "t": 43.0,
+      "r": 769.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "md": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 44
+  },
+  {
+    "page": 8,
+    "type": "page_number",
+    "bBox": {
+      "l": 405.0,
+      "t": 519.0,
+      "r": 434.0,
+      "b": 530.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第7页",
+    "md": "第7页",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 45
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 71.0,
+      "t": 30.0,
+      "r": 184.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "GREE",
+    "md": "GREE",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 46
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 492.0,
+      "t": 43.0,
+      "r": 769.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "md": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 47
+  },
+  {
+    "page": 9,
+    "type": "page_number",
+    "bBox": {
+      "l": 405.0,
+      "t": 519.0,
+      "r": 434.0,
+      "b": 530.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第8页",
+    "md": "第8页",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 48
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 71.0,
+      "t": 30.0,
+      "r": 184.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "GREE",
+    "md": "GREE",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 49
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 493.0,
+      "t": 43.0,
+      "r": 769.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "md": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 50
+  },
+  {
+    "page": 10,
+    "type": "page_number",
+    "bBox": {
+      "l": 405.0,
+      "t": 519.0,
+      "r": 434.0,
+      "b": 530.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第9页",
+    "md": "第9页",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 51
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 71.0,
+      "t": 30.0,
+      "r": 184.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "GREE",
+    "md": "GREE",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 52
+  },
+  {
+    "page": 11,
+    "type": "text",
+    "bBox": {
+      "l": 492.0,
+      "t": 43.0,
+      "r": 769.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "md": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 53
+  },
+  {
+    "page": 11,
+    "type": "page_number",
+    "bBox": {
+      "l": 403.0,
+      "t": 519.0,
+      "r": 436.0,
+      "b": 530.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第10页",
+    "md": "第10页",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 54
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 73.0,
+      "t": 77.0,
+      "r": 604.0,
+      "b": 90.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "（以下无正文，为《关于珠海格力电器股份有限公司非经营性资金占用及其他关联资金往来情况汇总表》之签署页）",
+    "md": "（以下无正文，为《关于珠海格力电器股份有限公司非经营性资金占用及其他关联资金往来情况汇总表》之签署页）",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 55
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 67.0,
+      "t": 170.0,
+      "r": 130.0,
+      "b": 184.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "法定代表人：",
+    "md": "法定代表人：",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 56
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 258.0,
+      "t": 170.0,
+      "r": 369.0,
+      "b": 184.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "主管会计工作的负责人：",
+    "md": "主管会计工作的负责人：",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 57
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 500.0,
+      "t": 170.0,
+      "r": 579.0,
+      "b": 184.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "会计机构负责人：",
+    "md": "会计机构负责人：",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 58
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 71.0,
+      "t": 30.0,
+      "r": 184.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "GREE",
+    "md": "GREE",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 59
+  },
+  {
+    "page": 12,
+    "type": "text",
+    "bBox": {
+      "l": 492.0,
+      "t": 43.0,
+      "r": 770.0,
+      "b": 52.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "md": "上市公司2024年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 60
+  },
+  {
+    "page": 12,
+    "type": "page_number",
+    "bBox": {
+      "l": 402.0,
+      "t": 519.0,
+      "r": 436.0,
+      "b": 530.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第11页",
+    "md": "第11页",
+    "file_id": "格力电器：年度关联方资金占用专项审计报告",
+    "element_id": 61
+  }
+]

@@ -1,0 +1,666 @@
+[
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 1,
+    "textLevel": 1,
+    "bBox": {
+      "l": 95.0,
+      "t": 118.0,
+      "r": 147.0,
+      "b": 130.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "投资者关系",
+    "md": "投资者关系",
+    "file_id": "主要财务指标",
+    "element_id": 1
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 147.0,
+      "r": 120.0,
+      "b": 157.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司简介",
+    "md": "公司简介",
+    "file_id": "主要财务指标",
+    "element_id": 2
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 176.0,
+      "r": 129.0,
+      "b": 184.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司治理",
+    "md": "公司治理",
+    "file_id": "主要财务指标",
+    "element_id": 3
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 204.0,
+      "r": 129.0,
+      "b": 213.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司公告",
+    "md": "公司公告",
+    "file_id": "主要财务指标",
+    "element_id": 4
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 231.0,
+      "r": 129.0,
+      "b": 241.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "财务信息",
+    "md": "财务信息",
+    "file_id": "主要财务指标",
+    "element_id": 5
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 258.0,
+      "r": 133.0,
+      "b": 267.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "主要财务指标",
+    "md": "主要财务指标",
+    "file_id": "主要财务指标",
+    "element_id": 6
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 283.0,
+      "r": 147.0,
+      "b": 293.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "利润及利润分配表",
+    "md": "利润及利润分配表",
+    "file_id": "主要财务指标",
+    "element_id": 7
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 309.0,
+      "r": 126.0,
+      "b": 318.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "现金流量表",
+    "md": "现金流量表",
+    "file_id": "主要财务指标",
+    "element_id": 8
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 332.0,
+      "r": 126.0,
+      "b": 342.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "资产负债表",
+    "md": "资产负债表",
+    "file_id": "主要财务指标",
+    "element_id": 9
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 360.0,
+      "r": 120.0,
+      "b": 368.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "股票信息",
+    "md": "股票信息",
+    "file_id": "主要财务指标",
+    "element_id": 10
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 388.0,
+      "r": 120.0,
+      "b": 397.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "投资者沟",
+    "md": "投资者沟",
+    "file_id": "主要财务指标",
+    "element_id": 11
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 231.0,
+      "t": 119.0,
+      "r": 273.0,
+      "b": 131.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "财务信息",
+    "md": "财务信息",
+    "file_id": "主要财务指标",
+    "element_id": 12
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 231.0,
+      "t": 161.0,
+      "r": 275.0,
+      "b": 171.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "主要财务指标",
+    "md": "主要财务指标",
+    "file_id": "主要财务指标",
+    "element_id": 13
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 302.0,
+      "t": 161.0,
+      "r": 360.0,
+      "b": 171.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "利润及利润分配表",
+    "md": "利润及利润分配表",
+    "file_id": "主要财务指标",
+    "element_id": 14
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 386.0,
+      "t": 161.0,
+      "r": 422.0,
+      "b": 171.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "现金流量表",
+    "md": "现金流量表",
+    "file_id": "主要财务指标",
+    "element_id": 15
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 447.0,
+      "t": 161.0,
+      "r": 484.0,
+      "b": 171.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "资产负债表",
+    "md": "资产负债表",
+    "file_id": "主要财务指标",
+    "element_id": 16
+  },
+  {
+    "page": 1,
+    "type": "table",
+    "bBox": {
+      "l": 223.0,
+      "t": 191.0,
+      "r": 569.0,
+      "b": 330.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "指标",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "2025年三季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "2024年三季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "营业收入(亿元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "169.89",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "148.5",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "净利润(亿元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "-0.83",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 1
+        },
+        {
+          "text": "-4.23",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "归属于母公司所有者的净利润(万元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "-6667.54",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 1
+        },
+        {
+          "text": "-34370.42",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "基本每股收益(元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "-0.03",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 1
+        },
+        {
+          "text": "-0.15",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "经营活动现金流(亿元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "1.23",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 1
+        },
+        {
+          "text": "-8.21",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 2
+        }
+      ],
+      [
+        {
+          "text": "毛利率(%)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 0
+        },
+        {
+          "text": "40.28",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 1
+        },
+        {
+          "text": "40.45",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 2
+        }
+      ]
+    ],
+    "html": "<table><tr><td>指标</td><td>2025年三季报</td><td>2024年三季报</td></tr><tr><td>营业收入(亿元)</td><td>169.89</td><td>148.5</td></tr><tr><td>净利润(亿元)</td><td>-0.83</td><td>-4.23</td></tr><tr><td>归属于母公司所有者的净利润(万元)</td><td>-6667.54</td><td>-34370.42</td></tr><tr><td>基本每股收益(元)</td><td>-0.03</td><td>-0.15</td></tr><tr><td>经营活动现金流(亿元)</td><td>1.23</td><td>-8.21</td></tr><tr><td>毛利率(%)</td><td>40.28</td><td>40.45</td></tr></table>",
+    "md": "| 指标 | 2025年三季报 | 2024年三季报 |\n| --- | --- | --- |\n| 营业收入(亿元) | 169.89 | 148.5 |\n| 净利润(亿元) | -0.83 | -4.23 |\n| 归属于母公司所有者的净利润(万元) | -6667.54 | -34370.42 |\n| 基本每股收益(元) | -0.03 | -0.15 |\n| 经营活动现金流(亿元) | 1.23 | -8.21 |\n| 毛利率(%) | 40.28 | 40.45 |",
+    "perfectTable": false,
+    "img_path": "images/3cdb9331e561833462e1f1b05c05fa1d66ce6ea4d3e01440fb65a52316db8188.jpg",
+    "file_id": "主要财务指标",
+    "table_type": "主要会计数据和财务指标表",
+    "standard2D": true,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "指标",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "2025年三季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "2024年三季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        }
+      ]
+    ],
+    "element_id": 17
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 48.0,
+      "t": 443.0,
+      "r": 99.0,
+      "b": 455.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "投资者联系",
+    "md": "投资者联系",
+    "file_id": "主要财务指标",
+    "element_id": 18
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 39.0,
+      "t": 464.0,
+      "r": 90.0,
+      "b": 473.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司董秘：江涛",
+    "md": "公司董秘：江涛",
+    "file_id": "主要财务指标",
+    "element_id": 19
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 54.0,
+      "t": 480.0,
+      "r": 125.0,
+      "b": 489.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "传真：0551-65331802",
+    "md": "传真：0551-65331802",
+    "file_id": "主要财务指标",
+    "element_id": 20
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 39.0,
+      "t": 495.0,
+      "r": 125.0,
+      "b": 504.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "联系电话：0551-67892230",
+    "md": "联系电话：0551-67892230",
+    "file_id": "主要财务指标",
+    "element_id": 21
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 39.0,
+      "t": 511.0,
+      "r": 140.0,
+      "b": 521.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "电子邮箱：taojiang@iflytek.com",
+    "md": "电子邮箱：taojiang@iflytek.com",
+    "file_id": "主要财务指标",
+    "element_id": 22
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 39.0,
+      "t": 526.0,
+      "r": 181.0,
+      "b": 536.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司地址：安徽省合肥市高新开发区望江西路",
+    "md": "公司地址：安徽省合肥市高新开发区望江西路",
+    "file_id": "主要财务指标",
+    "element_id": 23
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 75.0,
+      "t": 538.0,
+      "r": 95.0,
+      "b": 546.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "666号",
+    "md": "666号",
+    "file_id": "主要财务指标",
+    "element_id": 24
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 156.0,
+      "t": 50.0,
+      "r": 178.0,
+      "b": 70.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "X",
+    "md": "X",
+    "file_id": "主要财务指标",
+    "element_id": 25
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 180.0,
+      "t": 51.0,
+      "r": 220.0,
+      "b": 61.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "科大讯飞",
+    "md": "科大讯飞",
+    "file_id": "主要财务指标",
+    "element_id": 26
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 180.0,
+      "t": 61.0,
+      "r": 219.0,
+      "b": 67.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "IFLYTEK",
+    "md": "IFLYTEK",
+    "file_id": "主要财务指标",
+    "element_id": 27
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 225.0,
+      "t": 50.0,
+      "r": 280.0,
+      "b": 62.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "投资者关系",
+    "md": "投资者关系",
+    "file_id": "主要财务指标",
+    "element_id": 28
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 226.0,
+      "t": 62.0,
+      "r": 278.0,
+      "b": 69.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "INVESTOR RELATIONS",
+    "md": "INVESTOR RELATIONS",
+    "file_id": "主要财务指标",
+    "element_id": 29
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 60.0,
+      "t": 590.0,
+      "r": 90.0,
+      "b": 600.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "技术支持",
+    "md": "技术支持",
+    "file_id": "主要财务指标",
+    "element_id": 30
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 117.0,
+      "t": 590.0,
+      "r": 162.0,
+      "b": 599.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "400=830=3630",
+    "md": "400=830=3630",
+    "file_id": "主要财务指标",
+    "element_id": 31
+  }
+]

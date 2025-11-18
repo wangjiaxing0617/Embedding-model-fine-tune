@@ -1,0 +1,969 @@
+[
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 26.0,
+      "t": 207.0,
+      "r": 65.0,
+      "b": 215.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "ABOUT US",
+    "md": "ABOUT US",
+    "file_id": "介绍",
+    "element_id": 1
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 1,
+    "textLevel": 1,
+    "bBox": {
+      "l": 26.0,
+      "t": 218.0,
+      "r": 90.0,
+      "b": 233.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "关于碧水源",
+    "md": "关于碧水源",
+    "file_id": "介绍",
+    "element_id": 2
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 34.0,
+      "t": 249.0,
+      "r": 68.0,
+      "b": 260.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司介绍",
+    "md": "公司介绍",
+    "file_id": "介绍",
+    "element_id": 3
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 34.0,
+      "t": 272.0,
+      "r": 68.0,
+      "b": 283.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "发展历程",
+    "md": "发展历程",
+    "file_id": "介绍",
+    "element_id": 4
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 34.0,
+      "t": 297.0,
+      "r": 84.0,
+      "b": 308.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "商业模式创新",
+    "md": "商业模式创新",
+    "file_id": "介绍",
+    "element_id": 5
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 34.0,
+      "t": 321.0,
+      "r": 68.0,
+      "b": 332.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "企业文化",
+    "md": "企业文化",
+    "file_id": "介绍",
+    "element_id": 6
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 34.0,
+      "t": 345.0,
+      "r": 68.0,
+      "b": 356.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "资质荣誉",
+    "md": "资质荣誉",
+    "file_id": "介绍",
+    "element_id": 7
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 488.0,
+      "t": 219.0,
+      "r": 569.0,
+      "b": 229.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "主页  $\\rightharpoondown$  关于碧水源  $\\rightharpoonup$  公司",
+    "md": "主页  $\\rightharpoondown$  关于碧水源  $\\rightharpoonup$  公司",
+    "file_id": "介绍",
+    "element_id": 8
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 144.0,
+      "t": 218.0,
+      "r": 195.0,
+      "b": 233.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司介绍",
+    "md": "公司介绍",
+    "file_id": "介绍",
+    "element_id": 9
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 314.0,
+      "t": 277.0,
+      "r": 405.0,
+      "b": 287.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "世界一流的膜技术企业之一；",
+    "md": "世界一流的膜技术企业之一；",
+    "file_id": "介绍",
+    "element_id": 10
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 309.0,
+      "t": 289.0,
+      "r": 419.0,
+      "b": 300.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中国环保行业、水务行业标杆企业；",
+    "md": "中国环保行业、水务行业标杆企业；",
+    "file_id": "介绍",
+    "element_id": 11
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 315.0,
+      "t": 310.0,
+      "r": 405.0,
+      "b": 320.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "创业板上市公司龙头股之一；",
+    "md": "创业板上市公司龙头股之一；",
+    "file_id": "介绍",
+    "element_id": 12
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 322.0,
+      "t": 324.0,
+      "r": 405.0,
+      "b": 332.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中关村自主创新知名品牌。",
+    "md": "中关村自主创新知名品牌。",
+    "file_id": "介绍",
+    "element_id": 13
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 143.0,
+      "t": 344.0,
+      "r": 569.0,
+      "b": 381.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "碧水源(300070.SZ)创办于2001年，是中关村国家自主创新示范区高新技术企业，于2010年作为中关村自主创新知名品牌在深交所创业板上市，成为创业板上市公司龙头股之一。2020年9月，中央企业、全球领先的特大型基础设施综合服务商中交集团全资子公司中国城乡控股碧水源，国务院国资委成为实控人，碧水源的发展开启崭新篇章。目前公司总资产逾816亿元。",
+    "md": "碧水源(300070.SZ)创办于2001年，是中关村国家自主创新示范区高新技术企业，于2010年作为中关村自主创新知名品牌在深交所创业板上市，成为创业板上市公司龙头股之一。2020年9月，中央企业、全球领先的特大型基础设施综合服务商中交集团全资子公司中国城乡控股碧水源，国务院国资委成为实控人，碧水源的发展开启崭新篇章。目前公司总资产逾816亿元。",
+    "file_id": "介绍",
+    "element_id": 14
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 143.0,
+      "t": 398.0,
+      "r": 569.0,
+      "b": 447.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "碧水源坚定服务国家生态文明发展战略，坚持以自主研发的膜技术解决水环境污染、水资源短缺、水生态保护面临的世界性难题，持续为城乡生态环境建设提供整体解决方案。作为世界一流的膜技术企业之一，公司坚定科技创新和高质量发展两条主线，凭借集膜材料研发、膜装备制造、膜工艺应用于一体和数字化水务运营两大优势，已发展为中国环保行业、水务行业标杆企业、全球领先的膜装备生产制造商供应商之一，位列“全球水务50强”第36名。",
+    "md": "碧水源坚定服务国家生态文明发展战略，坚持以自主研发的膜技术解决水环境污染、水资源短缺、水生态保护面临的世界性难题，持续为城乡生态环境建设提供整体解决方案。作为世界一流的膜技术企业之一，公司坚定科技创新和高质量发展两条主线，凭借集膜材料研发、膜装备制造、膜工艺应用于一体和数字化水务运营两大优势，已发展为中国环保行业、水务行业标杆企业、全球领先的膜装备生产制造商供应商之一，位列“全球水务50强”第36名。",
+    "file_id": "介绍",
+    "element_id": 15
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 143.0,
+      "t": 458.0,
+      "r": 569.0,
+      "b": 521.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司在北京、天津、南京、昆明和无锡等地建有膜研发、制造基地，核心技术包括微滤膜(MF)、超滤膜(UF)、超低压选择性纳滤膜(D和反渗透膜(RO)等，年生产能力为微滤膜和超滤膜2000万m²、纳滤膜和反渗透膜1900万m²。依托自主研发的核心膜技术，公司开发出了系列超微滤膜产品、工业纳滤膜产品、工业反渗透膜产品、工业零排放膜产品和系列一体化产品，其中，高性能低能耗膜生物反应器（MBR）、双膜新水源工艺（MBR-DF）、智能一体化污水净化系统（ICWT）等污水深度净化技术和产品已获得广泛认可和应用。公司已形成污水资源化、高品质饮用水、海水淡化、工业零排、盐湖提锂五大主要业务板块。",
+    "md": "公司在北京、天津、南京、昆明和无锡等地建有膜研发、制造基地，核心技术包括微滤膜(MF)、超滤膜(UF)、超低压选择性纳滤膜(D和反渗透膜(RO)等，年生产能力为微滤膜和超滤膜2000万m²、纳滤膜和反渗透膜1900万m²。依托自主研发的核心膜技术，公司开发出了系列超微滤膜产品、工业纳滤膜产品、工业反渗透膜产品、工业零排放膜产品和系列一体化产品，其中，高性能低能耗膜生物反应器（MBR）、双膜新水源工艺（MBR-DF）、智能一体化污水净化系统（ICWT）等污水深度净化技术和产品已获得广泛认可和应用。公司已形成污水资源化、高品质饮用水、海水淡化、工业零排、盐湖提锂五大主要业务板块。",
+    "file_id": "介绍",
+    "element_id": 16
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 143.0,
+      "t": 530.0,
+      "r": 569.0,
+      "b": 580.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "截至目前，碧水源参与了长江流域、黄河流域、首都水系、海河流域、太湖流域、巢湖流域、滇池流域、洱海流域、南水北调丹江口水源地等多个水环境敏感地区的治理，建成数千项膜法水处理工程、数百个国家水环境重点治理工程、数十座地下式再生水厂、多个高品质用水工程和海水淡化工程。碧水源MBR膜占中国膜法水处理市场份额的70%以上，日水处理总规模超过2200万吨，每年可为国家新增高品再生水超过70亿吨。近年来，积极拓展盐湖提锂新能源赛道，亦成为“一带一路”的积极参与者，发力布局国际市场。",
+    "md": "截至目前，碧水源参与了长江流域、黄河流域、首都水系、海河流域、太湖流域、巢湖流域、滇池流域、洱海流域、南水北调丹江口水源地等多个水环境敏感地区的治理，建成数千项膜法水处理工程、数百个国家水环境重点治理工程、数十座地下式再生水厂、多个高品质用水工程和海水淡化工程。碧水源MBR膜占中国膜法水处理市场份额的70%以上，日水处理总规模超过2200万吨，每年可为国家新增高品再生水超过70亿吨。近年来，积极拓展盐湖提锂新能源赛道，亦成为“一带一路”的积极参与者，发力布局国际市场。",
+    "file_id": "介绍",
+    "element_id": 17
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 143.0,
+      "t": 590.0,
+      "r": 568.0,
+      "b": 614.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "自上市以来，碧水源受到资本市场持续青睐，具有强大的融资能力和资金实力，亦是北京市首家民营银行中关村银行的发起人和创立者。",
+    "md": "自上市以来，碧水源受到资本市场持续青睐，具有强大的融资能力和资金实力，亦是北京市首家民营银行中关村银行的发起人和创立者。",
+    "file_id": "介绍",
+    "element_id": 18
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 143.0,
+      "t": 623.0,
+      "r": 569.0,
+      "b": 686.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "碧水源每年将归属母公司净利润的10%投入技术研发，拥有强大的研发团队，并于2009年和2017年两次获得国家科学技术进步奖二等奖。碧水源承担了国家科技重大水专项、863计划、科技支撑计划、重点研发计划等国家课题，公司建有院士专家工作站、博士后工作站、国工程院院士DavidWaite教授工作站、李锁定创新工作室、国家工程技术中心，并先后与清华大学、澳大利亚新南威尔士大学等成立联合研究中心，落户中国境外首个火炬创新园区——澳大利亚新南威尔士大学火炬创新园，并牵头组建了膜生物反应器（MBR）产业技术联盟、水处理膜材料及装备产业技术创新战略联盟等。",
+    "md": "碧水源每年将归属母公司净利润的10%投入技术研发，拥有强大的研发团队，并于2009年和2017年两次获得国家科学技术进步奖二等奖。碧水源承担了国家科技重大水专项、863计划、科技支撑计划、重点研发计划等国家课题，公司建有院士专家工作站、博士后工作站、国工程院院士DavidWaite教授工作站、李锁定创新工作室、国家工程技术中心，并先后与清华大学、澳大利亚新南威尔士大学等成立联合研究中心，落户中国境外首个火炬创新园区——澳大利亚新南威尔士大学火炬创新园，并牵头组建了膜生物反应器（MBR）产业技术联盟、水处理膜材料及装备产业技术创新战略联盟等。",
+    "file_id": "介绍",
+    "element_id": 19
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 143.0,
+      "t": 696.0,
+      "r": 544.0,
+      "b": 718.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "放眼未来，碧水源将秉承“承担社会责任，建设生态文明”的企业宗旨，通过强化战略引领、创新驱动，为治理水环境、开为保障饮水安全以及城乡生态环境建设作出积极贡献，不断开拓新领域新赛道，在全球视野中彰显中国企业的巨大创新力量。",
+    "md": "放眼未来，碧水源将秉承“承担社会责任，建设生态文明”的企业宗旨，通过强化战略引领、创新驱动，为治理水环境、开为保障饮水安全以及城乡生态环境建设作出积极贡献，不断开拓新领域新赛道，在全球视野中彰显中国企业的巨大创新力量。",
+    "file_id": "介绍",
+    "element_id": 20
+  },
+  {
+    "page": 1,
+    "type": "image",
+    "bBox": {
+      "l": 541.0,
+      "t": 711.0,
+      "r": 568.0,
+      "b": 738.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/26544719f8cddb5c935596ac23b157c53b5568a48d9ca89ba3327f432bb494fc.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "介绍",
+    "element_id": 21
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 26.0,
+      "t": 32.0,
+      "r": 117.0,
+      "b": 41.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "欢迎您访问碧水源集团网站！",
+    "md": "欢迎您访问碧水源集团网站！",
+    "file_id": "介绍",
+    "element_id": 22
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 389.0,
+      "t": 32.0,
+      "r": 563.0,
+      "b": 43.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "股票代码：300070 碧水源集团子公司 English",
+    "md": "股票代码：300070 碧水源集团子公司 English",
+    "file_id": "介绍",
+    "element_id": 23
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 26.0,
+      "t": 57.0,
+      "r": 55.0,
+      "b": 88.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "#",
+    "md": "#",
+    "file_id": "介绍",
+    "element_id": 24
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 56.0,
+      "t": 57.0,
+      "r": 112.0,
+      "b": 77.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "碧水源",
+    "md": "碧水源",
+    "file_id": "介绍",
+    "element_id": 25
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 57.0,
+      "t": 77.0,
+      "r": 109.0,
+      "b": 87.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "OriginWater",
+    "md": "OriginWater",
+    "file_id": "介绍",
+    "element_id": 26
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 196.0,
+      "t": 66.0,
+      "r": 215.0,
+      "b": 77.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "首页",
+    "md": "首页",
+    "file_id": "介绍",
+    "element_id": 27
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 230.0,
+      "t": 66.0,
+      "r": 273.0,
+      "b": 77.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "关于碧水源",
+    "md": "关于碧水源",
+    "file_id": "介绍",
+    "element_id": 28
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 288.0,
+      "t": 66.0,
+      "r": 322.0,
+      "b": 77.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "新闻中心",
+    "md": "新闻中心",
+    "file_id": "介绍",
+    "element_id": 29
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 338.0,
+      "t": 66.0,
+      "r": 381.0,
+      "b": 77.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "产品与技术",
+    "md": "产品与技术",
+    "file_id": "介绍",
+    "element_id": 30
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 396.0,
+      "t": 66.0,
+      "r": 431.0,
+      "b": 77.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "业务领域",
+    "md": "业务领域",
+    "file_id": "介绍",
+    "element_id": 31
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 446.0,
+      "t": 66.0,
+      "r": 481.0,
+      "b": 77.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "公司业绩",
+    "md": "公司业绩",
+    "file_id": "介绍",
+    "element_id": 32
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 496.0,
+      "t": 66.0,
+      "r": 538.0,
+      "b": 77.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "投资者关系",
+    "md": "投资者关系",
+    "file_id": "介绍",
+    "element_id": 33
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 554.0,
+      "t": 66.0,
+      "r": 569.0,
+      "b": 77.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "加入",
+    "md": "加入",
+    "file_id": "介绍",
+    "element_id": 34
+  },
+  {
+    "page": 2,
+    "type": "image",
+    "bBox": {
+      "l": 145.0,
+      "t": 27.0,
+      "r": 569.0,
+      "b": 319.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/329c75f1b7e866ef319ee08f7d33099ce21793d863d688492708be7c08039789.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "介绍",
+    "element_id": 35
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 536.0,
+      "t": 332.0,
+      "r": 569.0,
+      "b": 342.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "收起更多 >",
+    "md": "收起更多 >",
+    "file_id": "介绍",
+    "element_id": 36
+  },
+  {
+    "page": 2,
+    "type": "table",
+    "bBox": {
+      "l": 51.0,
+      "t": 398.0,
+      "r": 571.0,
+      "b": 521.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "关于碧水源",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "产品与技术",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "业务领域",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "公司新闻",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "加入碧水源",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "关",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "公司介绍",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "污水处理与资源化产品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "治理水环境",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "公司要闻",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "人才战略",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "发展历程",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "新水源产品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 1
+        },
+        {
+          "text": "开发新水源",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "媒体聚焦",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 3
+        },
+        {
+          "text": "求职者",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "商业模式创新",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "高品质饮用水产品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 1
+        },
+        {
+          "text": "保障饮水安全",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 2
+        },
+        {
+          "text": "采访预约",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 3
+        },
+        {
+          "text": "联系我们",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "企业文化",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "海水淡化产品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 1
+        },
+        {
+          "text": "城市生态环境建设",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 2
+        },
+        {
+          "text": "项目公示",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "资质荣誉",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "工业脱盐水产品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 0
+        },
+        {
+          "text": "催化剂产品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 5
+        }
+      ],
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 0
+        },
+        {
+          "text": "一体化产品",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 5
+        }
+      ]
+    ],
+    "html": "<table><tr><td>关于碧水源</td><td>产品与技术</td><td>业务领域</td><td>公司新闻</td><td>加入碧水源</td><td>关</td></tr><tr><td>公司介绍</td><td>污水处理与资源化产品</td><td>治理水环境</td><td>公司要闻</td><td>人才战略</td><td></td></tr><tr><td>发展历程</td><td>新水源产品</td><td>开发新水源</td><td>媒体聚焦</td><td>求职者</td><td></td></tr><tr><td>商业模式创新</td><td>高品质饮用水产品</td><td>保障饮水安全</td><td>采访预约</td><td>联系我们</td><td></td></tr><tr><td>企业文化</td><td>海水淡化产品</td><td>城市生态环境建设</td><td>项目公示</td><td></td><td></td></tr><tr><td>资质荣誉</td><td>工业脱盐水产品</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>催化剂产品</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>一体化产品</td><td></td><td></td><td></td><td></td></tr></table>",
+    "md": "| 关于碧水源 | 产品与技术 | 业务领域 | 公司新闻 | 加入碧水源 | 关 |\n| --- | --- | --- | --- | --- | --- |\n| 公司介绍 | 污水处理与资源化产品 | 治理水环境 | 公司要闻 | 人才战略 |  |\n| 发展历程 | 新水源产品 | 开发新水源 | 媒体聚焦 | 求职者 |  |\n| 商业模式创新 | 高品质饮用水产品 | 保障饮水安全 | 采访预约 | 联系我们 |  |\n| 企业文化 | 海水淡化产品 | 城市生态环境建设 | 项目公示 |  |  |\n| 资质荣誉 | 工业脱盐水产品 |  |  |  |  |\n|  | 催化剂产品 |  |  |  |  |\n|  | 一体化产品 |  |  |  |  |",
+    "perfectTable": false,
+    "img_path": "images/504136f2b33d5c6bae4f82c3e3aecf17e32c433e21cb7ddb523bc4120c0e79fa.jpg",
+    "file_id": "介绍",
+    "table_type": "其他表",
+    "standard2D": true,
+    "hasHeader": false,
+    "element_id": 37
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 26.0,
+      "t": 548.0,
+      "r": 569.0,
+      "b": 561.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "地址：北京市海淀区生命科学园路23-2号碧水源大厦.电话：010-80768888.传真：010-88434847.京ICP备06005295号-1.京公网安备11010802030623号.技术支持：蒲公英长沙",
+    "md": "地址：北京市海淀区生命科学园路23-2号碧水源大厦.电话：010-80768888.传真：010-88434847.京ICP备06005295号-1.京公网安备11010802030623号.技术支持：蒲公英长沙",
+    "file_id": "介绍",
+    "element_id": 38
+  },
+  {
+    "page": 2,
+    "type": "image",
+    "bBox": {
+      "l": 540.0,
+      "t": 632.0,
+      "r": 569.0,
+      "b": 660.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/2258243f97c7e3152bea307db1f78e73b69d9d0076f9f7ac906356c7c3fd62cb.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "介绍",
+    "element_id": 39
+  },
+  {
+    "page": 2,
+    "type": "image",
+    "bBox": {
+      "l": 541.0,
+      "t": 711.0,
+      "r": 569.0,
+      "b": 738.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/1088cd0d5109ef99f8a20477a9554a87b8ed3c37bc6f70a58e18987f7b7fa2df.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "介绍",
+    "element_id": 40
+  }
+]

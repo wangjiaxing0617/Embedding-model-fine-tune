@@ -1,0 +1,2367 @@
+[
+  {
+    "page": 1,
+    "type": "text",
+    "textLevel": 1,
+    "bBox": {
+      "l": 95.0,
+      "t": 87.0,
+      "r": 330.0,
+      "b": 118.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "顺丰控股 (002352)",
+    "md": "顺丰控股 (002352)",
+    "file_id": "季报解读",
+    "element_id": 1
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "textLevel": 1,
+    "bBox": {
+      "l": 96.0,
+      "t": 128.0,
+      "r": 289.0,
+      "b": 157.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "2025年三季报简",
+    "md": "2025年三季报简",
+    "file_id": "季报解读",
+    "element_id": 2
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "textLevel": 1,
+    "bBox": {
+      "l": 96.0,
+      "t": 167.0,
+      "r": 331.0,
+      "b": 198.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "析：营收净利润同比",
+    "md": "析：营收净利润同比",
+    "file_id": "季报解读",
+    "element_id": 3
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "textLevel": 1,
+    "bBox": {
+      "l": 96.0,
+      "t": 208.0,
+      "r": 331.0,
+      "b": 237.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "双双增长，公司应收",
+    "md": "双双增长，公司应收",
+    "file_id": "季报解读",
+    "element_id": 4
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "textLevel": 1,
+    "bBox": {
+      "l": 96.0,
+      "t": 247.0,
+      "r": 253.0,
+      "b": 278.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "账款体量较大",
+    "md": "账款体量较大",
+    "file_id": "季报解读",
+    "element_id": 5
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "textLevel": 1,
+    "bBox": {
+      "l": 125.0,
+      "t": 299.0,
+      "r": 167.0,
+      "b": 310.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "证券之星",
+    "md": "证券之星",
+    "file_id": "季报解读",
+    "element_id": 6
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 96.0,
+      "t": 309.0,
+      "r": 284.0,
+      "b": 332.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "证券代码：601328证券简称：*ST金证公告编号：临2025-010 2025-11-01 06:43 发布于上海证券之星 官方账号\n",
+    "md": "证券代码：601328证券简称：*ST金证公告编号：临2025-010 2025-11-01 06:43 发布于上海证券之星 官方账号\n",
+    "file_id": "季报解读",
+    "element_id": 7
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 306.0,
+      "t": 309.0,
+      "r": 328.0,
+      "b": 321.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "关注",
+    "md": "关注",
+    "file_id": "季报解读",
+    "element_id": 8
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 355.0,
+      "r": 325.0,
+      "b": 373.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "据证券之星公开数据整理，近期顺丰控",
+    "md": "据证券之星公开数据整理，近期顺丰控",
+    "file_id": "季报解读",
+    "element_id": 9
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 377.0,
+      "r": 325.0,
+      "b": 394.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "股（002352）发布2025年三季报。截",
+    "md": "股（002352）发布2025年三季报。截",
+    "file_id": "季报解读",
+    "element_id": 10
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 398.0,
+      "r": 334.0,
+      "b": 415.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "至本报告期末，公司营业总收入2252.61",
+    "md": "至本报告期末，公司营业总收入2252.61",
+    "file_id": "季报解读",
+    "element_id": 11
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 420.0,
+      "r": 311.0,
+      "b": 437.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "亿元，同比上升8.89%，归母净利润",
+    "md": "亿元，同比上升8.89%，归母净利润",
+    "file_id": "季报解读",
+    "element_id": 12
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 442.0,
+      "r": 333.0,
+      "b": 459.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "83.08亿元，同比上升9.07%。按单季度",
+    "md": "83.08亿元，同比上升9.07%。按单季度",
+    "file_id": "季报解读",
+    "headingLevel": 1,
+    "element_id": 13
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 463.0,
+      "r": 328.0,
+      "b": 480.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "数据看，第三季度营业总收入784.03亿",
+    "md": "数据看，第三季度营业总收入784.03亿",
+    "file_id": "季报解读",
+    "element_id": 14
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 484.0,
+      "r": 337.0,
+      "b": 501.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "元，同比上升8.21%，第三季度归母净利",
+    "md": "元，同比上升8.21%，第三季度归母净利",
+    "file_id": "季报解读",
+    "element_id": 15
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 506.0,
+      "r": 333.0,
+      "b": 522.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "润25.71亿元，同比下降8.53%。本报告",
+    "md": "润25.71亿元，同比下降8.53%。本报告",
+    "file_id": "季报解读",
+    "element_id": 16
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 527.0,
+      "r": 325.0,
+      "b": 545.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "期顺丰控股公司应收账款体量较大，当",
+    "md": "期顺丰控股公司应收账款体量较大，当",
+    "file_id": "季报解读",
+    "element_id": 17
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 549.0,
+      "r": 325.0,
+      "b": 566.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "期应收账款占最新年报归母净利润比达",
+    "md": "期应收账款占最新年报归母净利润比达",
+    "file_id": "季报解读",
+    "element_id": 18
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 570.0,
+      "r": 158.0,
+      "b": 588.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "288.69%。",
+    "md": "288.69%。",
+    "file_id": "季报解读",
+    "headingLevel": 1,
+    "element_id": 19
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 607.0,
+      "r": 311.0,
+      "b": 626.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "本次财报公布的各项数据指标表现尚",
+    "md": "本次财报公布的各项数据指标表现尚",
+    "file_id": "季报解读",
+    "element_id": 20
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 630.0,
+      "r": 305.0,
+      "b": 647.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "佳。其中，毛利率12.96%，同比减",
+    "md": "佳。其中，毛利率12.96%，同比减",
+    "file_id": "季报解读",
+    "element_id": 21
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 652.0,
+      "r": 320.0,
+      "b": 669.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "7.1%，净利率3.87%，同比增4.32%，",
+    "md": "7.1%，净利率3.87%，同比增4.32%，",
+    "file_id": "季报解读",
+    "headingLevel": 1,
+    "element_id": 22
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 673.0,
+      "r": 311.0,
+      "b": 690.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "销售费用、管理费用、财务费用总计",
+    "md": "销售费用、管理费用、财务费用总计",
+    "file_id": "季报解读",
+    "element_id": 23
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 695.0,
+      "r": 327.0,
+      "b": 712.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "180.73亿元，三费占营收比  $8.02\\%$  ，同",
+    "md": "180.73亿元，三费占营收比  $8.02\\%$  ，同",
+    "file_id": "季报解读",
+    "headingLevel": 1,
+    "element_id": 24
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 717.0,
+      "r": 333.0,
+      "b": 733.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "比减3.47%，每股净资产19.49元，同比",
+    "md": "比减3.47%，每股净资产19.49元，同比",
+    "file_id": "季报解读",
+    "element_id": 25
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 738.0,
+      "r": 317.0,
+      "b": 754.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "增3.59%，每股经营性现金流3.85元，",
+    "md": "增3.59%，每股经营性现金流3.85元，",
+    "file_id": "季报解读",
+    "element_id": 26
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 759.0,
+      "r": 333.0,
+      "b": 776.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "同比减  $17.73\\%$  ，每股收益1.67元，同比",
+    "md": "同比减  $17.73\\%$  ，每股收益1.67元，同比",
+    "file_id": "季报解读",
+    "element_id": 27
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 781.0,
+      "r": 143.0,
+      "b": 797.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "增5.7%",
+    "md": "增5.7%",
+    "file_id": "季报解读",
+    "element_id": 28
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 439.0,
+      "t": 108.0,
+      "r": 481.0,
+      "b": 122.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "点击下载",
+    "md": "点击下载",
+    "file_id": "季报解读",
+    "element_id": 29
+  },
+  {
+    "page": 1,
+    "type": "image",
+    "bBox": {
+      "l": 522.0,
+      "t": 533.0,
+      "r": 540.0,
+      "b": 551.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/c56aa02ad32d6dc6abf8f1d6613cf7fea4872e72a652e50ca46139521cca1b14.jpg",
+    "image_caption": [
+      "首页"
+    ],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 30
+  },
+  {
+    "page": 1,
+    "type": "image",
+    "bBox": {
+      "l": 522.0,
+      "t": 583.0,
+      "r": 540.0,
+      "b": 600.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/7fd88799c7c993f76db9dc63bfffc5fbb45bded83c2c35af3246288e8cfb5a47.jpg",
+    "image_caption": [
+      "刷新"
+    ],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 31
+  },
+  {
+    "page": 1,
+    "type": "image",
+    "bBox": {
+      "l": 522.0,
+      "t": 632.0,
+      "r": 540.0,
+      "b": 648.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/80eb625f3a4f270081573f14bf48a3b785c454045169a7dced6d6d04c42c31d7.jpg",
+    "image_caption": [
+      "反馈"
+    ],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 32
+  },
+  {
+    "page": 1,
+    "type": "image",
+    "bBox": {
+      "l": 522.0,
+      "t": 681.0,
+      "r": 540.0,
+      "b": 697.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/f52cb1a0b49295ec9f6e41b1cd71e20bfce62ef93408112c681c8b7cd9f249f9.jpg",
+    "image_caption": [
+      "更多"
+    ],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 33
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 142.0,
+      "t": 44.0,
+      "r": 178.0,
+      "b": 59.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "更多",
+    "md": "更多",
+    "file_id": "季报解读",
+    "element_id": 34
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 203.0,
+      "t": 44.0,
+      "r": 248.0,
+      "b": 57.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "游戏",
+    "md": "游戏",
+    "file_id": "季报解读",
+    "element_id": 35
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 259.0,
+      "t": 45.0,
+      "r": 297.0,
+      "b": 57.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "无障碍",
+    "md": "无障碍",
+    "file_id": "季报解读",
+    "element_id": 36
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 327.0,
+      "t": 45.0,
+      "r": 352.0,
+      "b": 59.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "登录",
+    "md": "登录",
+    "file_id": "季报解读",
+    "element_id": 37
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 410.0,
+      "t": 44.0,
+      "r": 504.0,
+      "b": 59.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "点一点下载电脑版",
+    "md": "点一点下载电脑版",
+    "file_id": "季报解读",
+    "element_id": 38
+  },
+  {
+    "page": 2,
+    "type": "table",
+    "bBox": {
+      "l": 97.0,
+      "t": 40.0,
+      "r": 337.0,
+      "b": 176.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "2024年三季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "2025年三季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "同比增幅",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "营业总收入(元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "2068.61亿",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "2252.61亿",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "8.89%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "归母净利润（元）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "76.17亿",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 1
+        },
+        {
+          "text": "83.08亿",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "9.07%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "扣非净利润(元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "67.43亿",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 1
+        },
+        {
+          "text": "67.78亿",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 2
+        },
+        {
+          "text": "0.52%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "货币资金(元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "222.62亿",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 1
+        },
+        {
+          "text": "193.93亿",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 2
+        },
+        {
+          "text": "-12.89%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "应收账款(元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "261.7亿",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 1
+        },
+        {
+          "text": "293.61亿",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 2
+        },
+        {
+          "text": "12.19%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "有息负债(元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 0
+        },
+        {
+          "text": "523.44亿",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 1
+        },
+        {
+          "text": "384.36亿",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 2
+        },
+        {
+          "text": "-26.57%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "毛利率",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 0
+        },
+        {
+          "text": "13.96%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 1
+        },
+        {
+          "text": "12.96%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 2
+        },
+        {
+          "text": "-7.10%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "净利率",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 0
+        },
+        {
+          "text": "3.71%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 1
+        },
+        {
+          "text": "3.87%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 2
+        },
+        {
+          "text": "4.32%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "三费占营收比",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 0
+        },
+        {
+          "text": "8.31%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 1
+        },
+        {
+          "text": "8.02%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 2
+        },
+        {
+          "text": "-3.47%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "每股净资产(元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 0
+        },
+        {
+          "text": "18.82",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 1
+        },
+        {
+          "text": "19.49",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 2
+        },
+        {
+          "text": "3.59%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "每股收益(元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 0
+        },
+        {
+          "text": "1.58",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 1
+        },
+        {
+          "text": "1.67",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 2
+        },
+        {
+          "text": "5.70%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 3
+        }
+      ],
+      [
+        {
+          "text": "每股经营性现金流(元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 0
+        },
+        {
+          "text": "4.68",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 1
+        },
+        {
+          "text": "3.85",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 2
+        },
+        {
+          "text": "-17.73%",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 3
+        }
+      ]
+    ],
+    "html": "<table><tr><td>项目</td><td>2024年三季报</td><td>2025年三季报</td><td>同比增幅</td></tr><tr><td>营业总收入(元)</td><td>2068.61亿</td><td>2252.61亿</td><td>8.89%</td></tr><tr><td>归母净利润（元）</td><td>76.17亿</td><td>83.08亿</td><td>9.07%</td></tr><tr><td>扣非净利润(元)</td><td>67.43亿</td><td>67.78亿</td><td>0.52%</td></tr><tr><td>货币资金(元)</td><td>222.62亿</td><td>193.93亿</td><td>-12.89%</td></tr><tr><td>应收账款(元)</td><td>261.7亿</td><td>293.61亿</td><td>12.19%</td></tr><tr><td>有息负债(元)</td><td>523.44亿</td><td>384.36亿</td><td>-26.57%</td></tr><tr><td>毛利率</td><td>13.96%</td><td>12.96%</td><td>-7.10%</td></tr><tr><td>净利率</td><td>3.71%</td><td>3.87%</td><td>4.32%</td></tr><tr><td>三费占营收比</td><td>8.31%</td><td>8.02%</td><td>-3.47%</td></tr><tr><td>每股净资产(元)</td><td>18.82</td><td>19.49</td><td>3.59%</td></tr><tr><td>每股收益(元)</td><td>1.58</td><td>1.67</td><td>5.70%</td></tr><tr><td>每股经营性现金流(元)</td><td>4.68</td><td>3.85</td><td>-17.73%</td></tr></table>",
+    "md": "| 项目 | 2024年三季报 | 2025年三季报 | 同比增幅 |\n| --- | --- | --- | --- |\n| 营业总收入(元) | 2068.61亿 | 2252.61亿 | 8.89% |\n| 归母净利润（元） | 76.17亿 | 83.08亿 | 9.07% |\n| 扣非净利润(元) | 67.43亿 | 67.78亿 | 0.52% |\n| 货币资金(元) | 222.62亿 | 193.93亿 | -12.89% |\n| 应收账款(元) | 261.7亿 | 293.61亿 | 12.19% |\n| 有息负债(元) | 523.44亿 | 384.36亿 | -26.57% |\n| 毛利率 | 13.96% | 12.96% | -7.10% |\n| 净利率 | 3.71% | 3.87% | 4.32% |\n| 三费占营收比 | 8.31% | 8.02% | -3.47% |\n| 每股净资产(元) | 18.82 | 19.49 | 3.59% |\n| 每股收益(元) | 1.58 | 1.67 | 5.70% |\n| 每股经营性现金流(元) | 4.68 | 3.85 | -17.73% |",
+    "perfectTable": false,
+    "table_footnote": [
+      "数据来源：公开数据整理，仅供参考不构成投资建议"
+    ],
+    "img_path": "images/f0718b704672f5f25485d975e46e7424d05a863769b495e9dfd5c64d998e6c3a.jpg",
+    "file_id": "季报解读",
+    "table_type": "其他表",
+    "standard2D": true,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "2024年三季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "2025年三季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "同比增幅",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        }
+      ]
+    ],
+    "element_id": 39
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 203.0,
+      "r": 303.0,
+      "b": 220.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "证券之星价投圈财报分析工具显示：",
+    "md": "证券之星价投圈财报分析工具显示：",
+    "file_id": "季报解读",
+    "element_id": 40
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 129.0,
+      "t": 240.0,
+      "r": 322.0,
+      "b": 256.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "业务评价：公司去年的ROIC为",
+    "md": "业务评价：公司去年的ROIC为",
+    "file_id": "季报解读",
+    "element_id": 41
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 130.0,
+      "t": 260.0,
+      "r": 325.0,
+      "b": 276.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "8.04%，资本回报率一般。去年的",
+    "md": "8.04%，资本回报率一般。去年的",
+    "file_id": "季报解读",
+    "headingLevel": 1,
+    "element_id": 42
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 130.0,
+      "t": 279.0,
+      "r": 314.0,
+      "b": 297.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "净利率为  $3.59\\%$  ，算上全部成本",
+    "md": "净利率为  $3.59\\%$  ，算上全部成本",
+    "file_id": "季报解读",
+    "element_id": 43
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 130.0,
+      "t": 300.0,
+      "r": 315.0,
+      "b": 318.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "后，公司产品或服务的附加值不",
+    "md": "后，公司产品或服务的附加值不",
+    "file_id": "季报解读",
+    "element_id": 44
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 130.0,
+      "t": 321.0,
+      "r": 328.0,
+      "b": 339.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "高。从历史年报数据统计来看，公",
+    "md": "高。从历史年报数据统计来看，公",
+    "file_id": "季报解读",
+    "element_id": 45
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 130.0,
+      "t": 342.0,
+      "r": 325.0,
+      "b": 360.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "司近10年来中位数ROIC为9.99%，",
+    "md": "司近10年来中位数ROIC为9.99%，",
+    "file_id": "季报解读",
+    "element_id": 46
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 130.0,
+      "t": 363.0,
+      "r": 327.0,
+      "b": 379.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中位投资回报一般，其中最惨年份",
+    "md": "中位投资回报一般，其中最惨年份",
+    "file_id": "季报解读",
+    "element_id": 47
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 130.0,
+      "t": 384.0,
+      "r": 336.0,
+      "b": 400.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "2021年的ROIC为  $4.51\\%$  ，投资回报",
+    "md": "2021年的ROIC为  $4.51\\%$  ，投资回报",
+    "file_id": "季报解读",
+    "element_id": 48
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 130.0,
+      "t": 405.0,
+      "r": 315.0,
+      "b": 421.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "一般。公司历史上的财报相对一",
+    "md": "一般。公司历史上的财报相对一",
+    "file_id": "季报解读",
+    "element_id": 49
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 130.0,
+      "t": 426.0,
+      "r": 151.0,
+      "b": 442.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "般。",
+    "md": "般。",
+    "file_id": "季报解读",
+    "element_id": 50
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 463.0,
+      "r": 211.0,
+      "b": 479.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "财报体检工具显示：",
+    "md": "财报体检工具显示：",
+    "file_id": "季报解读",
+    "element_id": 51
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 115.0,
+      "t": 500.0,
+      "r": 328.0,
+      "b": 537.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "1. 建议关注公司应收账款状况（应收账款/利润已达288.69%）",
+    "md": "1. 建议关注公司应收账款状况（应收账款/利润已达288.69%）",
+    "file_id": "季报解读",
+    "headingLevel": 2,
+    "element_id": 52
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 558.0,
+      "r": 333.0,
+      "b": 617.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "分析师工具显示：证券研究员普遍预期2025年业绩在117.73亿元，每股收益均值在2.34元。",
+    "md": "分析师工具显示：证券研究员普遍预期2025年业绩在117.73亿元，每股收益均值在2.34元。",
+    "file_id": "季报解读",
+    "element_id": 53
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 637.0,
+      "r": 336.0,
+      "b": 807.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "该公司被1位明星基金经理持有，持有该公司的最受关注的基金经理是交银施罗德基金的王崇，在2024年的证星公募基金经理顶投榜中排名前五十，其现任基金总规模为56.02亿元，已累计从业11年13天，综合其过往业绩分析，该基金经理基本面选股能力出众，擅长挖掘价值股和成长股。",
+    "md": "该公司被1位明星基金经理持有，持有该公司的最受关注的基金经理是交银施罗德基金的王崇，在2024年的证星公募基金经理顶投榜中排名前五十，其现任基金总规模为56.02亿元，已累计从业11年13天，综合其过往业绩分析，该基金经理基本面选股能力出众，擅长挖掘价值股和成长股。",
+    "file_id": "季报解读",
+    "element_id": 54
+  },
+  {
+    "page": 2,
+    "type": "image",
+    "bBox": {
+      "l": 522.0,
+      "t": 535.0,
+      "r": 540.0,
+      "b": 553.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/6777f337f23820c3975216c2c48c3afc06b732ac0f6394c5701dfefbf01e44e4.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 55
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 522.0,
+      "t": 553.0,
+      "r": 541.0,
+      "b": 562.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "首页",
+    "md": "首页",
+    "file_id": "季报解读",
+    "element_id": 56
+  },
+  {
+    "page": 2,
+    "type": "image",
+    "bBox": {
+      "l": 522.0,
+      "t": 584.0,
+      "r": 540.0,
+      "b": 600.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/206f90dbad6f0b6a061a18c4527706cf5aadfa2766b5c587332bff35ee18d618.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 57
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 522.0,
+      "t": 600.0,
+      "r": 541.0,
+      "b": 611.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "刷新",
+    "md": "刷新",
+    "file_id": "季报解读",
+    "element_id": 58
+  },
+  {
+    "page": 2,
+    "type": "image",
+    "bBox": {
+      "l": 522.0,
+      "t": 632.0,
+      "r": 540.0,
+      "b": 648.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/c5570028e4801a785618dbfc1e446412d3829a0a0b8ee6c445a8ba644e481791.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 59
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 522.0,
+      "t": 649.0,
+      "r": 540.0,
+      "b": 659.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "反馈",
+    "md": "反馈",
+    "file_id": "季报解读",
+    "element_id": 60
+  },
+  {
+    "page": 2,
+    "type": "image",
+    "bBox": {
+      "l": 522.0,
+      "t": 681.0,
+      "r": 540.0,
+      "b": 697.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/2eec57f26264cad9a013671a5a80caddd157bb5aefa387de049e20e8f92a8668.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 61
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 522.0,
+      "t": 697.0,
+      "r": 540.0,
+      "b": 707.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "更多",
+    "md": "更多",
+    "file_id": "季报解读",
+    "element_id": 62
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 97.0,
+      "t": 27.0,
+      "r": 173.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "顺丰控股最新财务摘要",
+    "md": "顺丰控股最新财务摘要",
+    "file_id": "季报解读",
+    "element_id": 63
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 45.0,
+      "t": 188.0,
+      "r": 64.0,
+      "b": 487.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "0评论收藏分享",
+    "md": "0评论收藏分享",
+    "file_id": "季报解读",
+    "element_id": 64
+  },
+  {
+    "page": 3,
+    "type": "table",
+    "bBox": {
+      "l": 97.0,
+      "t": 40.0,
+      "r": 337.0,
+      "b": 156.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "基金简称",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "基金代码",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "持有股数",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "持仓变动",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "数据来源",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "前海开源公用事业股票",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "005669",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "1226.97万股",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "增仓",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "2025基金Q3季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "交银新生活力灵活配置混合A",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "519772",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 1
+        },
+        {
+          "text": "1022.25万股",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "减仓",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 3
+        },
+        {
+          "text": "2025基金Q3季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "交银新成长混合",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "519736",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 1
+        },
+        {
+          "text": "547.30万股",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 2
+        },
+        {
+          "text": "减仓",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 3
+        },
+        {
+          "text": "2025基金Q3季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "东方红睿望三年持有混合A",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "501049",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 1
+        },
+        {
+          "text": "510.23万股",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 2
+        },
+        {
+          "text": "不变",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 3
+        },
+        {
+          "text": "2025基金Q3季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "易方达稳健收益债券A",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "110007",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 1
+        },
+        {
+          "text": "461.03万股",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 2
+        },
+        {
+          "text": "新进十大",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 3
+        },
+        {
+          "text": "2025基金Q3季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "国泰金泰灵活配置混合A",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 0
+        },
+        {
+          "text": "519020",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 1
+        },
+        {
+          "text": "442.69万股",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 2
+        },
+        {
+          "text": "增仓",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 3
+        },
+        {
+          "text": "2025基金Q3季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "泓德瑞兴三年持有期混合",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 0
+        },
+        {
+          "text": "009264",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 1
+        },
+        {
+          "text": "370.98万股",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 2
+        },
+        {
+          "text": "减仓",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 3
+        },
+        {
+          "text": "2025基金Q3季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "嘉实策略混合",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 0
+        },
+        {
+          "text": "070011",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 1
+        },
+        {
+          "text": "300.00万股",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 2
+        },
+        {
+          "text": "新进十大",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 3
+        },
+        {
+          "text": "2025基金Q3季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "招商成长LOF",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 0
+        },
+        {
+          "text": "161706",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 1
+        },
+        {
+          "text": "270.00万股",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 2
+        },
+        {
+          "text": "增仓",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 3
+        },
+        {
+          "text": "2025基金Q3季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "易方达增强回报债券A",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 0
+        },
+        {
+          "text": "110017",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 1
+        },
+        {
+          "text": "241.28万股",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 2
+        },
+        {
+          "text": "不变",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 3
+        },
+        {
+          "text": "2025基金Q3季报",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 4
+        }
+      ]
+    ],
+    "html": "<table><tr><td>基金简称</td><td>基金代码</td><td>持有股数</td><td>持仓变动</td><td>数据来源</td></tr><tr><td>前海开源公用事业股票</td><td>005669</td><td>1226.97万股</td><td>增仓</td><td>2025基金Q3季报</td></tr><tr><td>交银新生活力灵活配置混合A</td><td>519772</td><td>1022.25万股</td><td>减仓</td><td>2025基金Q3季报</td></tr><tr><td>交银新成长混合</td><td>519736</td><td>547.30万股</td><td>减仓</td><td>2025基金Q3季报</td></tr><tr><td>东方红睿望三年持有混合A</td><td>501049</td><td>510.23万股</td><td>不变</td><td>2025基金Q3季报</td></tr><tr><td>易方达稳健收益债券A</td><td>110007</td><td>461.03万股</td><td>新进十大</td><td>2025基金Q3季报</td></tr><tr><td>国泰金泰灵活配置混合A</td><td>519020</td><td>442.69万股</td><td>增仓</td><td>2025基金Q3季报</td></tr><tr><td>泓德瑞兴三年持有期混合</td><td>009264</td><td>370.98万股</td><td>减仓</td><td>2025基金Q3季报</td></tr><tr><td>嘉实策略混合</td><td>070011</td><td>300.00万股</td><td>新进十大</td><td>2025基金Q3季报</td></tr><tr><td>招商成长LOF</td><td>161706</td><td>270.00万股</td><td>增仓</td><td>2025基金Q3季报</td></tr><tr><td>易方达增强回报债券A</td><td>110017</td><td>241.28万股</td><td>不变</td><td>2025基金Q3季报</td></tr></table>",
+    "md": "| 基金简称 | 基金代码 | 持有股数 | 持仓变动 | 数据来源 |\n| --- | --- | --- | --- | --- |\n| 前海开源公用事业股票 | 005669 | 1226.97万股 | 增仓 | 2025基金Q3季报 |\n| 交银新生活力灵活配置混合A | 519772 | 1022.25万股 | 减仓 | 2025基金Q3季报 |\n| 交银新成长混合 | 519736 | 547.30万股 | 减仓 | 2025基金Q3季报 |\n| 东方红睿望三年持有混合A | 501049 | 510.23万股 | 不变 | 2025基金Q3季报 |\n| 易方达稳健收益债券A | 110007 | 461.03万股 | 新进十大 | 2025基金Q3季报 |\n| 国泰金泰灵活配置混合A | 519020 | 442.69万股 | 增仓 | 2025基金Q3季报 |\n| 泓德瑞兴三年持有期混合 | 009264 | 370.98万股 | 减仓 | 2025基金Q3季报 |\n| 嘉实策略混合 | 070011 | 300.00万股 | 新进十大 | 2025基金Q3季报 |\n| 招商成长LOF | 161706 | 270.00万股 | 增仓 | 2025基金Q3季报 |\n| 易方达增强回报债券A | 110017 | 241.28万股 | 不变 | 2025基金Q3季报 |",
+    "perfectTable": false,
+    "table_footnote": [
+      "数据来源：公开数据整理，仅供参考不构成投资建议"
+    ],
+    "img_path": "images/7d996cdbe767a9bed7be4c8ee8831bd8a67d8758f8e8d6fa585fc4de07c15d64.jpg",
+    "file_id": "季报解读",
+    "table_type": "其他表",
+    "standard2D": true,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "基金简称",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "基金代码",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "持有股数",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "持仓变动",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "数据来源",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        }
+      ]
+    ],
+    "element_id": 65
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 182.0,
+      "r": 334.0,
+      "b": 284.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "持有顺丰控股最多的基金为前海开源公用事业股票，目前规模为95.19亿元，最新净值3.4139（10月30日），较上一交易日下跌  $0.29\\%$  ，近一年上涨  $36.91\\%$  。该基金现任基金经理为崔宸龙。",
+    "md": "持有顺丰控股最多的基金为前海开源公用事业股票，目前规模为95.19亿元，最新净值3.4139（10月30日），较上一交易日下跌  $0.29\\%$  ，近一年上涨  $36.91\\%$  。该基金现任基金经理为崔宸龙。",
+    "file_id": "季报解读",
+    "element_id": 66
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 309.0,
+      "r": 310.0,
+      "b": 320.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "以上内容为证券之星据公开信息整理，由AI算法生成（网信算备",
+    "md": "以上内容为证券之星据公开信息整理，由AI算法生成（网信算备",
+    "file_id": "季报解读",
+    "element_id": 67
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 331.0,
+      "r": 272.0,
+      "b": 341.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "310104345710301240019号），不构成投资建议。",
+    "md": "310104345710301240019号），不构成投资建议。",
+    "file_id": "季报解读",
+    "element_id": 68
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 371.0,
+      "r": 310.0,
+      "b": 395.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "免责声明：本内容来自腾讯平台创作者，不代表腾讯新闻或腾讯网的观点和立场。",
+    "md": "免责声明：本内容来自腾讯平台创作者，不代表腾讯新闻或腾讯网的观点和立场。",
+    "file_id": "季报解读",
+    "element_id": 69
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 316.0,
+      "t": 385.0,
+      "r": 337.0,
+      "b": 397.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "举报",
+    "md": "举报",
+    "file_id": "季报解读",
+    "element_id": 70
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 95.0,
+      "t": 469.0,
+      "r": 334.0,
+      "b": 485.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "评论0 文明上网理性发言，请遵守《新闻评论服务协议》",
+    "md": "评论0 文明上网理性发言，请遵守《新闻评论服务协议》",
+    "file_id": "季报解读",
+    "element_id": 71
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 174.0,
+      "t": 537.0,
+      "r": 295.0,
+      "b": 552.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "请先登录后发表评论~",
+    "md": "请先登录后发表评论~",
+    "file_id": "季报解读",
+    "element_id": 72
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 194.0,
+      "t": 606.0,
+      "r": 239.0,
+      "b": 619.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "加载中...",
+    "md": "加载中...",
+    "file_id": "季报解读",
+    "element_id": 73
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 98.0,
+      "t": 693.0,
+      "r": 335.0,
+      "b": 746.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "关于腾讯|AboutTencent|服务协议|隐私政策|开放平台|广告服务|腾讯招聘|腾讯公益|QQ浏览器|腾讯频道|客服中心",
+    "md": "关于腾讯|AboutTencent|服务协议|隐私政策|开放平台|广告服务|腾讯招聘|腾讯公益|QQ浏览器|腾讯频道|客服中心",
+    "file_id": "季报解读",
+    "element_id": 74
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 97.0,
+      "t": 27.0,
+      "r": 173.0,
+      "b": 36.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "顺丰控股十大重仓基金",
+    "md": "顺丰控股十大重仓基金",
+    "file_id": "季报解读",
+    "element_id": 75
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 45.0,
+      "t": 188.0,
+      "r": 62.0,
+      "b": 487.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "0评论收藏分享",
+    "md": "0评论收藏分享",
+    "file_id": "季报解读",
+    "element_id": 76
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 104.0,
+      "t": 754.0,
+      "r": 328.0,
+      "b": 765.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "Copyright © 1998 - 2025 Tencent. All Rights Reserved",
+    "md": "Copyright © 1998 - 2025 Tencent. All Rights Reserved",
+    "file_id": "季报解读",
+    "element_id": 77
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 522.0,
+      "t": 535.0,
+      "r": 540.0,
+      "b": 563.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "首页",
+    "md": "首页",
+    "file_id": "季报解读",
+    "element_id": 78
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 522.0,
+      "t": 584.0,
+      "r": 541.0,
+      "b": 611.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "刷新",
+    "md": "刷新",
+    "file_id": "季报解读",
+    "element_id": 79
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 522.0,
+      "t": 632.0,
+      "r": 540.0,
+      "b": 660.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "反馈",
+    "md": "反馈",
+    "file_id": "季报解读",
+    "element_id": 80
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 522.0,
+      "t": 681.0,
+      "r": 540.0,
+      "b": 707.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "更多",
+    "md": "更多",
+    "file_id": "季报解读",
+    "element_id": 81
+  },
+  {
+    "page": 4,
+    "type": "image",
+    "bBox": {
+      "l": 46.0,
+      "t": 189.0,
+      "r": 62.0,
+      "b": 229.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/7abdc4c5c8dba14492efddbd8bff1691c448e9a7a62d4c242f1708001f80313c.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 82
+  },
+  {
+    "page": 4,
+    "type": "image",
+    "bBox": {
+      "l": 45.0,
+      "t": 255.0,
+      "r": 62.0,
+      "b": 292.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/9427dc0bc016e8436999a8ff246d4260d710e3903d25746589247f0cb911c985.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 83
+  },
+  {
+    "page": 4,
+    "type": "image",
+    "bBox": {
+      "l": 46.0,
+      "t": 319.0,
+      "r": 62.0,
+      "b": 357.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/87b2d65232547bb52cf7fc98a7533882225ff00d2edeaead1417580691e5444a.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 84
+  },
+  {
+    "page": 4,
+    "type": "image",
+    "bBox": {
+      "l": 45.0,
+      "t": 383.0,
+      "r": 62.0,
+      "b": 421.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/dfdf671b267c1104a4ec3051830c41768b73d1188c8b4e395ff050d0568385d9.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 85
+  },
+  {
+    "page": 4,
+    "type": "image",
+    "bBox": {
+      "l": 48.0,
+      "t": 447.0,
+      "r": 60.0,
+      "b": 463.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/9787f4206dc8b02fe49355fe5284bd4a474a8b43742c8b078d7f8b60ced0b991.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 86
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 40.0,
+      "t": 474.0,
+      "r": 68.0,
+      "b": 485.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "手机看",
+    "md": "手机看",
+    "file_id": "季报解读",
+    "element_id": 87
+  },
+  {
+    "page": 4,
+    "type": "image",
+    "bBox": {
+      "l": 525.0,
+      "t": 536.0,
+      "r": 540.0,
+      "b": 551.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/3833ffea1ef864cad61e36b28a7986e231a6cafeea7b20ff026a325eb06ed509.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 88
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 522.0,
+      "t": 553.0,
+      "r": 541.0,
+      "b": 562.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "首页",
+    "md": "首页",
+    "file_id": "季报解读",
+    "element_id": 89
+  },
+  {
+    "page": 4,
+    "type": "image",
+    "bBox": {
+      "l": 522.0,
+      "t": 584.0,
+      "r": 540.0,
+      "b": 600.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/b9d6d4f4f729843698b05a674bfe560b67a26ef4dd79e826a64a2654595476ae.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 90
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 522.0,
+      "t": 600.0,
+      "r": 541.0,
+      "b": 611.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "刷新",
+    "md": "刷新",
+    "file_id": "季报解读",
+    "element_id": 91
+  },
+  {
+    "page": 4,
+    "type": "image",
+    "bBox": {
+      "l": 522.0,
+      "t": 632.0,
+      "r": 540.0,
+      "b": 648.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/7008ce9ed161317221352b2743100474af6f564cfa1a67c9cf0f625018f420fa.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 92
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 522.0,
+      "t": 649.0,
+      "r": 540.0,
+      "b": 659.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "反馈",
+    "md": "反馈",
+    "file_id": "季报解读",
+    "element_id": 93
+  },
+  {
+    "page": 4,
+    "type": "image",
+    "bBox": {
+      "l": 522.0,
+      "t": 681.0,
+      "r": 540.0,
+      "b": 697.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/51d80cd26247b7dd4738352a6b5a89cf4c7969eb03d6a0e63ccfec450404a3dc.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "季报解读",
+    "element_id": 94
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 522.0,
+      "t": 699.0,
+      "r": 540.0,
+      "b": 707.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "更多",
+    "md": "更多",
+    "file_id": "季报解读",
+    "element_id": 95
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 180.0,
+      "t": 30.0,
+      "r": 253.0,
+      "b": 43.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "腾讯公司版权所有",
+    "md": "腾讯公司版权所有",
+    "file_id": "季报解读",
+    "element_id": 96
+  }
+]

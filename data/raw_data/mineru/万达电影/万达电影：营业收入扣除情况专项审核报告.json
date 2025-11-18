@@ -1,0 +1,2367 @@
+[
+  {
+    "page": 1,
+    "type": "text",
+    "textLevel": 1,
+    "bBox": {
+      "l": 165.0,
+      "t": 203.0,
+      "r": 428.0,
+      "b": 231.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "万达电影股份有限公司",
+    "md": "万达电影股份有限公司",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 1
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 1,
+    "textLevel": 1,
+    "bBox": {
+      "l": 193.0,
+      "t": 252.0,
+      "r": 402.0,
+      "b": 323.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "营业收入扣除情况专项审核报告",
+    "md": "营业收入扣除情况专项审核报告",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 2
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 181.0,
+      "t": 341.0,
+      "r": 411.0,
+      "b": 362.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "大信专审字[2025]第9-00011号",
+    "md": "大信专审字[2025]第9-00011号",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 3
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 150.0,
+      "t": 654.0,
+      "r": 435.0,
+      "b": 676.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "大信会计师事务所（特殊普通合伙）",
+    "md": "大信会计师事务所（特殊普通合伙）",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 4
+  },
+  {
+    "page": 1,
+    "type": "text",
+    "bBox": {
+      "l": 152.0,
+      "t": 680.0,
+      "r": 440.0,
+      "b": 696.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WUYIGE CERTIFIED PUBLIC ACCOUNTANTS LLP.",
+    "md": "WUYIGE CERTIFIED PUBLIC ACCOUNTANTS LLP.",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 5
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 224.0,
+      "t": 173.0,
+      "r": 369.0,
+      "b": 193.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "营业收入扣除情况",
+    "md": "营业收入扣除情况",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 6
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 243.0,
+      "t": 204.0,
+      "r": 350.0,
+      "b": 225.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "专项审核报告",
+    "md": "专项审核报告",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 7
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 361.0,
+      "t": 262.0,
+      "r": 510.0,
+      "b": 274.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "大信专审字[2025]第9-00011号",
+    "md": "大信专审字[2025]第9-00011号",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 8
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "textLevel": 1,
+    "bBox": {
+      "l": 82.0,
+      "t": 305.0,
+      "r": 258.0,
+      "b": 321.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "万达电影股份有限公司全体股东：",
+    "md": "万达电影股份有限公司全体股东：",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 9
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 81.0,
+      "t": 337.0,
+      "r": 510.0,
+      "b": 443.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "我们接受委托，审计了万达电影股份有限公司（以下简称“贵公司”）的财务报表，包括2024年12月31日合并及母公司资产负债表、2024年度合并及母公司利润表、股东权益表、现金流量表以及财务报表附注，并于2025年4月25日出具大信审字[2025]第9-00001号审计报告。在对上述财务报表审计基础上，我们审核了贵公司编制的《万达电影股份有限公司2024年度营业收入扣除情况表》（以下简称“营业收入扣除情况表”）。",
+    "md": "我们接受委托，审计了万达电影股份有限公司（以下简称“贵公司”）的财务报表，包括2024年12月31日合并及母公司资产负债表、2024年度合并及母公司利润表、股东权益表、现金流量表以及财务报表附注，并于2025年4月25日出具大信审字[2025]第9-00001号审计报告。在对上述财务报表审计基础上，我们审核了贵公司编制的《万达电影股份有限公司2024年度营业收入扣除情况表》（以下简称“营业收入扣除情况表”）。",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 10
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 106.0,
+      "t": 475.0,
+      "r": 253.0,
+      "b": 489.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "一、管理层和治理层的责任",
+    "md": "一、管理层和治理层的责任",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 11
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 81.0,
+      "t": 500.0,
+      "r": 511.0,
+      "b": 558.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "根据深圳证券交易所《深圳证券交易所上市公司自律监管指南第1号——业务办理》《深圳证券交易所股票上市规则（2024年修订）》规定，编制营业收入扣除情况表，确保其真实、准确、完整是贵公司管理层的责任。",
+    "md": "根据深圳证券交易所《深圳证券交易所上市公司自律监管指南第1号——业务办理》《深圳证券交易所股票上市规则（2024年修订）》规定，编制营业收入扣除情况表，确保其真实、准确、完整是贵公司管理层的责任。",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 12
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 103.0,
+      "t": 569.0,
+      "r": 350.0,
+      "b": 580.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "治理层负责监督贵公司营业收入扣除情况表编制过程。",
+    "md": "治理层负责监督贵公司营业收入扣除情况表编制过程。",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 13
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 106.0,
+      "t": 612.0,
+      "r": 230.0,
+      "b": 627.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "二、注册会计师的责任",
+    "md": "二、注册会计师的责任",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 14
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 82.0,
+      "t": 638.0,
+      "r": 511.0,
+      "b": 721.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "我们的责任是在实施审核工作的基础上对贵公司编制的营业收入扣除情况表发表审核意见。我们按照《中国注册会计师其他鉴证业务准则第3101号——历史财务信息审计或审阅以外的鉴证业务》的规定执行了审核业务。该准则要求我们计划和实施审核工作，以对贵公司编制的营业收入扣除情况表是否不存在重大错报获取合理保证。",
+    "md": "我们的责任是在实施审核工作的基础上对贵公司编制的营业收入扣除情况表发表审核意见。我们按照《中国注册会计师其他鉴证业务准则第3101号——历史财务信息审计或审阅以外的鉴证业务》的规定执行了审核业务。该准则要求我们计划和实施审核工作，以对贵公司编制的营业收入扣除情况表是否不存在重大错报获取合理保证。",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 15
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 82.0,
+      "t": 728.0,
+      "r": 510.0,
+      "b": 765.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "在审核过程中，我们实施了包括询问、核对有关资料与文件、抽查会计记录等我们认为必要的审核程序。我们相信，我们的审核工作为发表审核意见提供了合理的基础。",
+    "md": "在审核过程中，我们实施了包括询问、核对有关资料与文件、抽查会计记录等我们认为必要的审核程序。我们相信，我们的审核工作为发表审核意见提供了合理的基础。",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 16
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 83.0,
+      "t": 73.0,
+      "r": 154.0,
+      "b": 107.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "EFA",
+    "md": "EFA",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 17
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 159.0,
+      "t": 86.0,
+      "r": 226.0,
+      "b": 96.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "大信会计师事务所",
+    "md": "大信会计师事务所",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 18
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 159.0,
+      "t": 98.0,
+      "r": 247.0,
+      "b": 117.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "北京市海淀区知春路1号学院国际大厦22层2206",
+    "md": "北京市海淀区知春路1号学院国际大厦22层2206",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 19
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 159.0,
+      "t": 119.0,
+      "r": 201.0,
+      "b": 129.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "邮编100083",
+    "md": "邮编100083",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 20
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 249.0,
+      "t": 86.0,
+      "r": 375.0,
+      "b": 94.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WUYIGE Certified Public Accountants.LLP",
+    "md": "WUYIGE Certified Public Accountants.LLP",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 21
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 249.0,
+      "t": 97.0,
+      "r": 383.0,
+      "b": 117.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "Room 2206 22/F, Xueyuan International Tower No.1 Zhichun Road, Haidian Dist.",
+    "md": "Room 2206 22/F, Xueyuan International Tower No.1 Zhichun Road, Haidian Dist.",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 22
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 249.0,
+      "t": 119.0,
+      "r": 313.0,
+      "b": 129.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "Beijing, China, 100083",
+    "md": "Beijing, China, 100083",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 23
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 386.0,
+      "t": 98.0,
+      "r": 500.0,
+      "b": 107.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "电话 Telephone: +86 (10) 82330558",
+    "md": "电话 Telephone: +86 (10) 82330558",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 24
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 386.0,
+      "t": 108.0,
+      "r": 500.0,
+      "b": 117.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "传真 Fax: +86 (10) 82327668",
+    "md": "传真 Fax: +86 (10) 82327668",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 25
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 386.0,
+      "t": 118.0,
+      "r": 503.0,
+      "b": 127.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "网址Internet: www.daxincpa.com.cn",
+    "md": "网址Internet: www.daxincpa.com.cn",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 26
+  },
+  {
+    "page": 2,
+    "type": "page_number",
+    "bBox": {
+      "l": 287.0,
+      "t": 792.0,
+      "r": 305.0,
+      "b": 802.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "-1-",
+    "md": "-1-",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 27
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 106.0,
+      "t": 198.0,
+      "r": 181.0,
+      "b": 213.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "三、审核意见",
+    "md": "三、审核意见",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 28
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 82.0,
+      "t": 221.0,
+      "r": 511.0,
+      "b": 258.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "我们认为，贵公司编制的2024年度营业收入扣除情况表符合相关规定，在所有重大方面公允反映了贵公司营业收入扣除情况。",
+    "md": "我们认为，贵公司编制的2024年度营业收入扣除情况表符合相关规定，在所有重大方面公允反映了贵公司营业收入扣除情况。",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 29
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 106.0,
+      "t": 289.0,
+      "r": 206.0,
+      "b": 304.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "四、其他说明事项",
+    "md": "四、其他说明事项",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 30
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 81.0,
+      "t": 314.0,
+      "r": 511.0,
+      "b": 351.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "为了更好地理解贵公司2024年度营业收入扣除情况，后附的汇总表应当与已审计的财务报表一并阅读。",
+    "md": "为了更好地理解贵公司2024年度营业收入扣除情况，后附的汇总表应当与已审计的财务报表一并阅读。",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 31
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 82.0,
+      "t": 360.0,
+      "r": 511.0,
+      "b": 397.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "本报告仅供贵公司年度报告披露时使用，不得用作其它目的。我们同意将本报告作为贵公司年度报告的必备文件，随其他文件一起报送并对外披露。",
+    "md": "本报告仅供贵公司年度报告披露时使用，不得用作其它目的。我们同意将本报告作为贵公司年度报告的必备文件，随其他文件一起报送并对外披露。",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 32
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 114.0,
+      "t": 521.0,
+      "r": 280.0,
+      "b": 533.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "大信会计师事务所（特殊普通合伙）",
+    "md": "大信会计师事务所（特殊普通合伙）",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 33
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 330.0,
+      "t": 521.0,
+      "r": 409.0,
+      "b": 533.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中国注册会计师：",
+    "md": "中国注册会计师：",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 34
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 145.0,
+      "t": 590.0,
+      "r": 221.0,
+      "b": 601.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中国·北京",
+    "md": "中国·北京",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 35
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 330.0,
+      "t": 590.0,
+      "r": 408.0,
+      "b": 601.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中国注册会计师：",
+    "md": "中国注册会计师：",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 36
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 472.0,
+      "t": 500.0,
+      "r": 569.0,
+      "b": 549.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "#",
+    "md": "#",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 37
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 479.0,
+      "t": 569.0,
+      "r": 568.0,
+      "b": 621.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "程未的",
+    "md": "程未的",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 38
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 392.0,
+      "t": 659.0,
+      "r": 509.0,
+      "b": 672.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "二〇二五年四月二十五日",
+    "md": "二〇二五年四月二十五日",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 39
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 83.0,
+      "t": 73.0,
+      "r": 153.0,
+      "b": 107.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "E-F3",
+    "md": "E-F3",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 40
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 159.0,
+      "t": 86.0,
+      "r": 226.0,
+      "b": 96.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "大信会计师事务所",
+    "md": "大信会计师事务所",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 41
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 159.0,
+      "t": 98.0,
+      "r": 247.0,
+      "b": 129.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "北京市海淀区知春路1号学院国际大厦22层2206邮编100083",
+    "md": "北京市海淀区知春路1号学院国际大厦22层2206邮编100083",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 42
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 249.0,
+      "t": 86.0,
+      "r": 375.0,
+      "b": 94.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "WUYIGE Certified Public Accountants.LLP",
+    "md": "WUYIGE Certified Public Accountants.LLP",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 43
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 249.0,
+      "t": 97.0,
+      "r": 383.0,
+      "b": 129.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "Room 2206 22/F, Xueyuan International Tower No.1 Zhichun Road,Haidian Dist. Beijing, China, 100083",
+    "md": "Room 2206 22/F, Xueyuan International Tower No.1 Zhichun Road,Haidian Dist. Beijing, China, 100083",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 44
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 386.0,
+      "t": 98.0,
+      "r": 502.0,
+      "b": 127.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "电话 Telephone: +86 (10) 82330558  \n传真 Fax: +86 (10) 82327668  \n网址 Internet: www.daxincpa.com.cn",
+    "md": "电话 Telephone: +86 (10) 82330558  \n传真 Fax: +86 (10) 82327668  \n网址 Internet: www.daxincpa.com.cn",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 45
+  },
+  {
+    "page": 3,
+    "type": "page_number",
+    "bBox": {
+      "l": 287.0,
+      "t": 792.0,
+      "r": 305.0,
+      "b": 802.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "-2-",
+    "md": "-2-",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 46
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 126.0,
+      "t": 97.0,
+      "r": 474.0,
+      "b": 115.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "万达电影股份有限公司2024年度营业收入扣除情况表",
+    "md": "万达电影股份有限公司2024年度营业收入扣除情况表",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 47
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 92.0,
+      "t": 130.0,
+      "r": 247.0,
+      "b": 145.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "编制单位：万达电影股份有限公司",
+    "md": "编制单位：万达电影股份有限公司",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 48
+  },
+  {
+    "page": 4,
+    "type": "table",
+    "bBox": {
+      "l": 89.0,
+      "t": 156.0,
+      "r": 507.0,
+      "b": 701.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "本年度(万元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "具体扣除情况",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "上年度(万元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "具体扣除情况",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "营业收入金额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "1,236,181.78",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "1,461,971.70",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "营业收入扣除项目合计金额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "营业收入扣除项目合计金额占营业收入的比重",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "一、与主营业务无关的业务收入",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "公司营业收入均与主营相关,不存在与主营业务无关的收入",
+          "rowspan": 1,
+          "colspan": 4,
+          "rowstart": 4,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "1.正常经营之外的其他业务收入。如出租固定资产、无形资产、包装物,销售材料,用材料进行非货币性资产交换,经营受托管理业务等实现的收入,以及虽计入主营业务收入,但属于上市公司正常经营之外的收入。",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "2.不具备资质的类金融业务收入,如拆出资金利息收入;本会计年度以及上一会计年度新增的类金融业务所产生的收入,如担保、商业保理、小额贷款、融资租赁、典当等业务形成的收入,为销售主营产品而开展的融资租赁业务除外。",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "3.本会计年度以及上一会计年度新增贸易业务所产生的收入。",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "4.与上市公司现有正常经营业务无关的关联交易产生的收入。",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "5.同一控制下企业合并的子公司期初至合并日的收入。",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "6.未形成或难以形成稳定业务模式的业务所产生的收入。",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "与主营业务无关的业务收入小计",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "二、不具备商业实质的收入",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 0
+        },
+        {
+          "text": "公司不存在不具备商业实质的收入",
+          "rowspan": 1,
+          "colspan": 4,
+          "rowstart": 12,
+          "colstart": 1
+        }
+      ],
+      [
+        {
+          "text": "1.未显著改变企业未来现金流量的风险、时间分布或金额的交易或事项产生的收入。",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "2.不具有真实业务的交易产生的收入。如以自我交易的方式实现的虚假收入,利用互联网技术手段或其他方法构造交易产生的虚假收入等。",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "3.交易价格显失公允的业务产生的收入。",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "4.本会计年度以显失公允的对价或非交易方式取得的企业合并的子公司或业务产生的收入。",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "5.审计意见中非标准审计意见涉及的收入。",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "6.其他不具有商业合理性的交易或事项产生的收入。",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "不具备商业实质的收入小计",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "三、与主营业务无关或不具备商业实质的其他收入",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "营业收入扣除后金额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 0
+        },
+        {
+          "text": "1,236,181.78",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 2
+        },
+        {
+          "text": "1,461,971.70",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 4
+        }
+      ]
+    ],
+    "html": "<table><tr><td>项目</td><td>本年度(万元)</td><td>具体扣除情况</td><td>上年度(万元)</td><td>具体扣除情况</td></tr><tr><td>营业收入金额</td><td>1,236,181.78</td><td></td><td>1,461,971.70</td><td></td></tr><tr><td>营业收入扣除项目合计金额</td><td></td><td></td><td></td><td></td></tr><tr><td>营业收入扣除项目合计金额占营业收入的比重</td><td></td><td></td><td></td><td></td></tr><tr><td>一、与主营业务无关的业务收入</td><td colspan=\"4\">公司营业收入均与主营相关,不存在与主营业务无关的收入</td></tr><tr><td>1.正常经营之外的其他业务收入。如出租固定资产、无形资产、包装物,销售材料,用材料进行非货币性资产交换,经营受托管理业务等实现的收入,以及虽计入主营业务收入,但属于上市公司正常经营之外的收入。</td><td></td><td></td><td></td><td></td></tr><tr><td>2.不具备资质的类金融业务收入,如拆出资金利息收入;本会计年度以及上一会计年度新增的类金融业务所产生的收入,如担保、商业保理、小额贷款、融资租赁、典当等业务形成的收入,为销售主营产品而开展的融资租赁业务除外。</td><td></td><td></td><td></td><td></td></tr><tr><td>3.本会计年度以及上一会计年度新增贸易业务所产生的收入。</td><td></td><td></td><td></td><td></td></tr><tr><td>4.与上市公司现有正常经营业务无关的关联交易产生的收入。</td><td></td><td></td><td></td><td></td></tr><tr><td>5.同一控制下企业合并的子公司期初至合并日的收入。</td><td></td><td></td><td></td><td></td></tr><tr><td>6.未形成或难以形成稳定业务模式的业务所产生的收入。</td><td></td><td></td><td></td><td></td></tr><tr><td>与主营业务无关的业务收入小计</td><td></td><td></td><td></td><td></td></tr><tr><td>二、不具备商业实质的收入</td><td colspan=\"4\">公司不存在不具备商业实质的收入</td></tr><tr><td>1.未显著改变企业未来现金流量的风险、时间分布或金额的交易或事项产生的收入。</td><td></td><td></td><td></td><td></td></tr><tr><td>2.不具有真实业务的交易产生的收入。如以自我交易的方式实现的虚假收入,利用互联网技术手段或其他方法构造交易产生的虚假收入等。</td><td></td><td></td><td></td><td></td></tr><tr><td>3.交易价格显失公允的业务产生的收入。</td><td></td><td></td><td></td><td></td></tr><tr><td>4.本会计年度以显失公允的对价或非交易方式取得的企业合并的子公司或业务产生的收入。</td><td></td><td></td><td></td><td></td></tr><tr><td>5.审计意见中非标准审计意见涉及的收入。</td><td></td><td></td><td></td><td></td></tr><tr><td>6.其他不具有商业合理性的交易或事项产生的收入。</td><td></td><td></td><td></td><td></td></tr><tr><td>不具备商业实质的收入小计</td><td></td><td></td><td></td><td></td></tr><tr><td>三、与主营业务无关或不具备商业实质的其他收入</td><td></td><td></td><td></td><td></td></tr><tr><td>营业收入扣除后金额</td><td>1,236,181.78</td><td></td><td>1,461,971.70</td><td></td></tr></table>",
+    "md": "| 项目 | 本年度(万元) | 具体扣除情况 | 上年度(万元) | 具体扣除情况 |\n| --- | --- | --- | --- | --- |\n| 营业收入金额 | 1,236,181.78 |  | 1,461,971.70 |  |\n| 营业收入扣除项目合计金额 |  |  |  |  |\n| 营业收入扣除项目合计金额占营业收入的比重 |  |  |  |  |\n| 一、与主营业务无关的业务收入 | 公司营业收入均与主营相关,不存在与主营业务无关的收入 | 公司营业收入均与主营相关,不存在与主营业务无关的收入 | 公司营业收入均与主营相关,不存在与主营业务无关的收入 | 公司营业收入均与主营相关,不存在与主营业务无关的收入 |\n| 1.正常经营之外的其他业务收入。如出租固定资产、无形资产、包装物,销售材料,用材料进行非货币性资产交换,经营受托管理业务等实现的收入,以及虽计入主营业务收入,但属于上市公司正常经营之外的收入。 |  |  |  |  |\n| 2.不具备资质的类金融业务收入,如拆出资金利息收入;本会计年度以及上一会计年度新增的类金融业务所产生的收入,如担保、商业保理、小额贷款、融资租赁、典当等业务形成的收入,为销售主营产品而开展的融资租赁业务除外。 |  |  |  |  |\n| 3.本会计年度以及上一会计年度新增贸易业务所产生的收入。 |  |  |  |  |\n| 4.与上市公司现有正常经营业务无关的关联交易产生的收入。 |  |  |  |  |\n| 5.同一控制下企业合并的子公司期初至合并日的收入。 |  |  |  |  |\n| 6.未形成或难以形成稳定业务模式的业务所产生的收入。 |  |  |  |  |\n| 与主营业务无关的业务收入小计 |  |  |  |  |\n| 二、不具备商业实质的收入 | 公司不存在不具备商业实质的收入 | 公司不存在不具备商业实质的收入 | 公司不存在不具备商业实质的收入 | 公司不存在不具备商业实质的收入 |\n| 1.未显著改变企业未来现金流量的风险、时间分布或金额的交易或事项产生的收入。 |  |  |  |  |\n| 2.不具有真实业务的交易产生的收入。如以自我交易的方式实现的虚假收入,利用互联网技术手段或其他方法构造交易产生的虚假收入等。 |  |  |  |  |\n| 3.交易价格显失公允的业务产生的收入。 |  |  |  |  |\n| 4.本会计年度以显失公允的对价或非交易方式取得的企业合并的子公司或业务产生的收入。 |  |  |  |  |\n| 5.审计意见中非标准审计意见涉及的收入。 |  |  |  |  |\n| 6.其他不具有商业合理性的交易或事项产生的收入。 |  |  |  |  |\n| 不具备商业实质的收入小计 |  |  |  |  |\n| 三、与主营业务无关或不具备商业实质的其他收入 |  |  |  |  |\n| 营业收入扣除后金额 | 1,236,181.78 |  | 1,461,971.70 |  |",
+    "perfectTable": false,
+    "img_path": "images/b03b694205ce748b2db29ccebba8fd7c56e95dc1b1be3211baa1ad98a7a31706.jpg",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "table_type": "其他表",
+    "standard2D": false,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "项目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "本年度(万元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "具体扣除情况",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "上年度(万元)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "具体扣除情况",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "营业收入金额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "1,236,181.78",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "1,461,971.70",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "营业收入扣除项目合计金额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 4
+        }
+      ]
+    ],
+    "element_id": 49
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 90.0,
+      "t": 717.0,
+      "r": 143.0,
+      "b": 731.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "法定代表人：",
+    "md": "法定代表人：",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 50
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 203.0,
+      "t": 718.0,
+      "r": 293.0,
+      "b": 731.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "主管会计工作负责人：",
+    "md": "主管会计工作负责人：",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 51
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 356.0,
+      "t": 716.0,
+      "r": 428.0,
+      "b": 732.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "会计机构负责人：",
+    "md": "会计机构负责人：",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 52
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 186.0,
+      "t": 744.0,
+      "r": 228.0,
+      "b": 787.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "之陈印曦",
+    "md": "之陈印曦",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 53
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 494.0,
+      "t": 730.0,
+      "r": 532.0,
+      "b": 773.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "高印树",
+    "md": "高印树",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 54
+  },
+  {
+    "page": 4,
+    "type": "page_number",
+    "bBox": {
+      "l": 289.0,
+      "t": 783.0,
+      "r": 305.0,
+      "b": 791.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "-3-",
+    "md": "-3-",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 55
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 120.0,
+      "t": 211.0,
+      "r": 220.0,
+      "b": 226.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "统一社会信用代码",
+    "md": "统一社会信用代码",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 56
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 123.0,
+      "t": 234.0,
+      "r": 208.0,
+      "b": 245.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "91110108590611484C",
+    "md": "91110108590611484C",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 57
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 267.0,
+      "t": 184.0,
+      "r": 557.0,
+      "b": 252.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "营业执照",
+    "md": "营业执照",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 58
+  },
+  {
+    "page": 5,
+    "type": "image",
+    "bBox": {
+      "l": 623.0,
+      "t": 199.0,
+      "r": 673.0,
+      "b": 248.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/cc921339adb7fde5f5dafc5c9a6cacd72f8905a9e2569e93683be25b33a6d0f4.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 59
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 673.0,
+      "t": 203.0,
+      "r": 738.0,
+      "b": 243.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "扫描市场主体身份码了解更多登记、备案、许可、监管信息，体验更多应用服务。",
+    "md": "扫描市场主体身份码了解更多登记、备案、许可、监管信息，体验更多应用服务。",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 60
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 98.0,
+      "t": 299.0,
+      "r": 328.0,
+      "b": 313.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "名称 大信会计师事务所（特殊普通合伙）",
+    "md": "名称 大信会计师事务所（特殊普通合伙）",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 61
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 98.0,
+      "t": 323.0,
+      "r": 247.0,
+      "b": 337.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "类型 特殊普通合伙企业",
+    "md": "类型 特殊普通合伙企业",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 62
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 98.0,
+      "t": 346.0,
+      "r": 240.0,
+      "b": 360.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "执行事务合伙人 吴卫星、谢泽敏",
+    "md": "执行事务合伙人 吴卫星、谢泽敏",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 63
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 98.0,
+      "t": 368.0,
+      "r": 455.0,
+      "b": 442.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "经营范围许可项目：注册会计师业务；代理记账。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）一般项目：税务服务；工程造价咨询业务；社会经济咨询服务；企业管理咨询；企业信用管理咨询服务；认证咨询；咨询策划服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）（不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "md": "经营范围许可项目：注册会计师业务；代理记账。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准）一般项目：税务服务；工程造价咨询业务；社会经济咨询服务；企业管理咨询；企业信用管理咨询服务；认证咨询；咨询策划服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）（不得从事国家和本市产业政策禁止和限制类项目的经营活动。）",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 64
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 459.0,
+      "t": 299.0,
+      "r": 569.0,
+      "b": 314.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "出资额5110万元",
+    "md": "出资额5110万元",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 65
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 459.0,
+      "t": 323.0,
+      "r": 610.0,
+      "b": 337.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "成立日期 2012年03月06日",
+    "md": "成立日期 2012年03月06日",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 66
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 459.0,
+      "t": 346.0,
+      "r": 690.0,
+      "b": 360.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "主要经营场所 北京市海淀区知春路1号22层2206",
+    "md": "主要经营场所 北京市海淀区知春路1号22层2206",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 67
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 537.0,
+      "t": 461.0,
+      "r": 625.0,
+      "b": 480.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "登记机关",
+    "md": "登记机关",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 68
+  },
+  {
+    "page": 5,
+    "type": "image",
+    "bBox": {
+      "l": 635.0,
+      "t": 431.0,
+      "r": 716.0,
+      "b": 512.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/19fb2e158e8dd3c24c0201cb01b7962774b66cacb52542d354a9eb8e512f512d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 69
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 601.0,
+      "t": 491.0,
+      "r": 716.0,
+      "b": 506.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "2025年03月03日",
+    "md": "2025年03月03日",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 70
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 362.0,
+      "t": 56.0,
+      "r": 459.0,
+      "b": 165.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "",
+    "md": "",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 71
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 56.0,
+      "t": 547.0,
+      "r": 240.0,
+      "b": 559.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "国家企业信用信息公示系统网址： http://www.gsxt.gov.cn",
+    "md": "国家企业信用信息公示系统网址： http://www.gsxt.gov.cn",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 72
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 654.0,
+      "t": 546.0,
+      "r": 764.0,
+      "b": 560.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "国家市场监督管理总局监制",
+    "md": "国家市场监督管理总局监制",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 73
+  },
+  {
+    "page": 6,
+    "type": "image",
+    "bBox": {
+      "l": 160.0,
+      "t": 54.0,
+      "r": 262.0,
+      "b": 165.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/dbdd1afdbb0f4ffef61336fc68d317123dd6476989ab38cd20cdd0fd4c09177a.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 74
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 130.0,
+      "t": 182.0,
+      "r": 294.0,
+      "b": 203.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "会计师事务所",
+    "md": "会计师事务所",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 75
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 130.0,
+      "t": 212.0,
+      "r": 292.0,
+      "b": 250.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "执业证书",
+    "md": "执业证书",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 76
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 62.0,
+      "t": 277.0,
+      "r": 376.0,
+      "b": 297.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "名称：大信会计师事务所（特殊普通合伙）",
+    "md": "名称：大信会计师事务所（特殊普通合伙）",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 77
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 62.0,
+      "t": 321.0,
+      "r": 212.0,
+      "b": 338.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "首席合伙人： 谢泽敏",
+    "md": "首席合伙人： 谢泽敏",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 78
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 62.0,
+      "t": 348.0,
+      "r": 154.0,
+      "b": 364.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "主任会计师：",
+    "md": "主任会计师：",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 79
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 61.0,
+      "t": 373.0,
+      "r": 363.0,
+      "b": 389.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "经营场所：北京市海淀区知春路1号22层2206",
+    "md": "经营场所：北京市海淀区知春路1号22层2206",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 80
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 61.0,
+      "t": 450.0,
+      "r": 252.0,
+      "b": 469.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "组织形式：特殊普通合伙",
+    "md": "组织形式：特殊普通合伙",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 81
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 62.0,
+      "t": 482.0,
+      "r": 224.0,
+      "b": 498.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "执业证书编号： 11010141",
+    "md": "执业证书编号： 11010141",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 82
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 62.0,
+      "t": 512.0,
+      "r": 316.0,
+      "b": 529.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "批准执业文号：京财会许可[2011]0073号",
+    "md": "批准执业文号：京财会许可[2011]0073号",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 83
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 62.0,
+      "t": 540.0,
+      "r": 263.0,
+      "b": 556.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "批准执业日期：2011年09月09日",
+    "md": "批准执业日期：2011年09月09日",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 84
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 636.0,
+      "t": 50.0,
+      "r": 768.0,
+      "b": 67.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "证书序号：0017384",
+    "md": "证书序号：0017384",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 85
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 607.0,
+      "t": 103.0,
+      "r": 664.0,
+      "b": 124.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "说明",
+    "md": "说明",
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 86
+  },
+  {
+    "page": 6,
+    "type": "list",
+    "sub_type": "text",
+    "list_items": [
+      "1、《会计师事务所执业证书》是证明持有人经财政部门依法审批，准予执行注册会计师法定业务的凭证。",
+      "2、《会计师事务所执业证书》记载事项发生变动的，应当向财政部门申请换发。",
+      "3、《会计师事务所执业证书》不得伪造、涂改、出租、出借、转让。",
+      "4、会计师事务所终止或执业许可注销的，应当向财政部门交回《会计师事务所执业证书》。"
+    ],
+    "md": "1、《会计师事务所执业证书》是证明持有人经财政部门依法审批，准予执行注册会计师法定业务的凭证。\n2、《会计师事务所执业证书》记载事项发生变动的，应当向财政部门申请换发。\n3、《会计师事务所执业证书》不得伪造、涂改、出租、出借、转让。\n4、会计师事务所终止或执业许可注销的，应当向财政部门交回《会计师事务所执业证书》。",
+    "value": "1、《会计师事务所执业证书》是证明持有人经财政部门依法审批，准予执行注册会计师法定业务的凭证。\n2、《会计师事务所执业证书》记载事项发生变动的，应当向财政部门申请换发。\n3、《会计师事务所执业证书》不得伪造、涂改、出租、出借、转让。\n4、会计师事务所终止或执业许可注销的，应当向财政部门交回《会计师事务所执业证书》。",
+    "bBox": {
+      "l": 495.0,
+      "t": 160.0,
+      "r": 775.0,
+      "b": 363.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 87
+  },
+  {
+    "page": 6,
+    "type": "image",
+    "bBox": {
+      "l": 575.0,
+      "t": 408.0,
+      "r": 752.0,
+      "b": 536.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/65a2b1b3853df25490928b87641884a72b3d7f9530ee3110fb2928969f293988.jpg",
+    "image_caption": [
+      "中华人民共和国财政部制"
+    ],
+    "image_footnote": [],
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 88
+  },
+  {
+    "page": 7,
+    "type": "image",
+    "bBox": {
+      "l": 67.0,
+      "t": 40.0,
+      "r": 422.0,
+      "b": 556.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/9060c81763191fd009067c63fdaa997bbe243c839781a931cf293e969b804b4c.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 89
+  },
+  {
+    "page": 7,
+    "type": "image",
+    "bBox": {
+      "l": 427.0,
+      "t": 40.0,
+      "r": 781.0,
+      "b": 299.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/289e5715c5b85b676deaa6e0ab70bf546a8dbe4c6716bfd13998d9d2bdc4c36a.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 90
+  },
+  {
+    "page": 7,
+    "type": "image",
+    "bBox": {
+      "l": 426.0,
+      "t": 300.0,
+      "r": 781.0,
+      "b": 556.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/f7eb8143aa75ff0ae78b9b08d7c706002e4f0d576d28ba43700e937d4aa163dd.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 91
+  },
+  {
+    "page": 8,
+    "type": "image",
+    "bBox": {
+      "l": 67.0,
+      "t": 40.0,
+      "r": 420.0,
+      "b": 300.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/2ac9c5f27245aa3997460677b2a04e6b70e51671cfae42504b3964b5ae216d06.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 92
+  },
+  {
+    "page": 8,
+    "type": "image",
+    "bBox": {
+      "l": 425.0,
+      "t": 40.0,
+      "r": 781.0,
+      "b": 300.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/cbc5bc1c211a675332473f0fde0d38dfb92f4fd9379ebda6f44f38727ab9ce2d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 93
+  },
+  {
+    "page": 8,
+    "type": "image",
+    "bBox": {
+      "l": 67.0,
+      "t": 302.0,
+      "r": 420.0,
+      "b": 556.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/a2405ddde196bf3d96f7540deaa8b94dea84aad8d4ca4581a18f0a88c4444228.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 94
+  },
+  {
+    "page": 8,
+    "type": "image",
+    "bBox": {
+      "l": 426.0,
+      "t": 302.0,
+      "r": 781.0,
+      "b": 556.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/2cde53891fc55540fd8b58c9f526863db0408307f0353ff4ee8628338d5a350d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "万达电影：营业收入扣除情况专项审核报告",
+    "element_id": 95
+  }
+]

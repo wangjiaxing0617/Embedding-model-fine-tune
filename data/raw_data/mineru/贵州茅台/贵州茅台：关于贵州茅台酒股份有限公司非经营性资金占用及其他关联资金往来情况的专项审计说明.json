@@ -1,0 +1,3796 @@
+[
+  {
+    "page": 1,
+    "type": "text",
+    "headingLevel": 2,
+    "textLevel": 1,
+    "bBox": {
+      "l": 278.0,
+      "t": 146.0,
+      "r": 350.0,
+      "b": 166.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "目录",
+    "md": "目录",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 1
+  },
+  {
+    "page": 1,
+    "type": "list",
+    "sub_type": "text",
+    "list_items": [
+      "一、非经营性资金占用及其他关联资金往来情况的专项",
+      "审计说明 第1—2页",
+      "二、非经营性资金占用及其他关联资金往来情况汇总表第3页",
+      "三、资质附件第4—9页"
+    ],
+    "md": "一、非经营性资金占用及其他关联资金往来情况的专项\n审计说明 第1—2页\n二、非经营性资金占用及其他关联资金往来情况汇总表第3页\n三、资质附件第4—9页",
+    "value": "一、非经营性资金占用及其他关联资金往来情况的专项\n审计说明 第1—2页\n二、非经营性资金占用及其他关联资金往来情况汇总表第3页\n三、资质附件第4—9页",
+    "bBox": {
+      "l": 111.0,
+      "t": 213.0,
+      "r": 503.0,
+      "b": 383.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 2
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "headingLevel": 1,
+    "textLevel": 1,
+    "bBox": {
+      "l": 115.0,
+      "t": 152.0,
+      "r": 479.0,
+      "b": 209.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "md": "非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 3
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 246.0,
+      "t": 221.0,
+      "r": 346.0,
+      "b": 234.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "天健审〔2025〕8-173号",
+    "md": "天健审〔2025〕8-173号",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 4
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 87.0,
+      "t": 258.0,
+      "r": 274.0,
+      "b": 272.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "贵州茅台酒股份有限公司全体股东：",
+    "md": "贵州茅台酒股份有限公司全体股东：",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 5
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 282.0,
+      "r": 507.0,
+      "b": 413.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "我们接受委托，审计了贵州茅台酒股份有限公司（以下简称贵州茅台公司）2024年度财务报表，包括2024年12月31日的合并及母公司资产负债表，2024年度的合并及母公司利润表、合并及母公司现金流量表、合并及母公司所有者权益变动表，以及财务报表附注，并出具了审计报告。在此基础上，我们审计了后附的贵州茅台公司管理层编制的2024年度《非经营性资金占用及其他关联资金往来情况汇总表》（以下简称汇总表）。",
+    "md": "我们接受委托，审计了贵州茅台酒股份有限公司（以下简称贵州茅台公司）2024年度财务报表，包括2024年12月31日的合并及母公司资产负债表，2024年度的合并及母公司利润表、合并及母公司现金流量表、合并及母公司所有者权益变动表，以及财务报表附注，并出具了审计报告。在此基础上，我们审计了后附的贵州茅台公司管理层编制的2024年度《非经营性资金占用及其他关联资金往来情况汇总表》（以下简称汇总表）。",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 6
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 111.0,
+      "t": 443.0,
+      "r": 306.0,
+      "b": 459.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "一、对报告使用者和使用目的的限定",
+    "md": "一、对报告使用者和使用目的的限定",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 7
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 468.0,
+      "r": 507.0,
+      "b": 529.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "本报告仅供贵州茅台公司年度报告披露时使用，不得用作任何其他目的。我们同意将本报告作为贵州茅台公司年度报告的必备文件，随同其他文件一起报送并对外披露。",
+    "md": "本报告仅供贵州茅台公司年度报告披露时使用，不得用作任何其他目的。我们同意将本报告作为贵州茅台公司年度报告的必备文件，随同其他文件一起报送并对外披露。",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 8
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 538.0,
+      "r": 508.0,
+      "b": 575.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "为了更好地理解贵州茅台公司2024年度非经营性资金占用及其他关联资金往来情况，汇总表应当与已审的财务报表一并阅读。",
+    "md": "为了更好地理解贵州茅台公司2024年度非经营性资金占用及其他关联资金往来情况，汇总表应当与已审的财务报表一并阅读。",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 9
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 111.0,
+      "t": 607.0,
+      "r": 211.0,
+      "b": 622.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "二、管理层的责任",
+    "md": "二、管理层的责任",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 10
+  },
+  {
+    "page": 2,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 632.0,
+      "r": 507.0,
+      "b": 739.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "贵州茅台公司管理层的责任是提供真实、合法、完整的相关资料，按照《上市公司监管指引第8号——上市公司资金往来、对外担保的监管要求》（证监会公告〔2022〕26号）和《上海证券交易所上市公司自律监管指南第2号——业务办理（2024年5月修订）》（上证函〔2024〕1476号）的规定编制汇总表，并保证其内容真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏。",
+    "md": "贵州茅台公司管理层的责任是提供真实、合法、完整的相关资料，按照《上市公司监管指引第8号——上市公司资金往来、对外担保的监管要求》（证监会公告〔2022〕26号）和《上海证券交易所上市公司自律监管指南第2号——业务办理（2024年5月修订）》（上证函〔2024〕1476号）的规定编制汇总表，并保证其内容真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏。",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 11
+  },
+  {
+    "page": 2,
+    "type": "page_number",
+    "bBox": {
+      "l": 261.0,
+      "t": 765.0,
+      "r": 331.0,
+      "b": 778.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第1页共9页",
+    "md": "第1页共9页",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 12
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 111.0,
+      "t": 94.0,
+      "r": 234.0,
+      "b": 110.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "三、注册会计师的责任",
+    "md": "三、注册会计师的责任",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 13
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 118.0,
+      "r": 507.0,
+      "b": 156.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "我们的责任是在实施审计工作的基础上对贵州茅台公司管理层编制的汇总表发表专项审计意见。",
+    "md": "我们的责任是在实施审计工作的基础上对贵州茅台公司管理层编制的汇总表发表专项审计意见。",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 14
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "headingLevel": 3,
+    "textLevel": 1,
+    "bBox": {
+      "l": 111.0,
+      "t": 188.0,
+      "r": 187.0,
+      "b": 204.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "四、工作概述",
+    "md": "四、工作概述",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 15
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 210.0,
+      "r": 508.0,
+      "b": 298.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "我们的审计是根据中国注册会计师执业准则进行的。中国注册会计师执业准则要求我们计划和实施审计工作，以对审计对象信息是否不存在重大错报获取合理保证。在审计过程中，我们实施了包括核查会计记录等我们认为必要的程序。我们相信，我们的审计工作为发表意见提供了合理的基础。",
+    "md": "我们的审计是根据中国注册会计师执业准则进行的。中国注册会计师执业准则要求我们计划和实施审计工作，以对审计对象信息是否不存在重大错报获取合理保证。在审计过程中，我们实施了包括核查会计记录等我们认为必要的程序。我们相信，我们的审计工作为发表意见提供了合理的基础。",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 16
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "headingLevel": 4,
+    "textLevel": 1,
+    "bBox": {
+      "l": 111.0,
+      "t": 328.0,
+      "r": 187.0,
+      "b": 342.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "五、审计结论",
+    "md": "五、审计结论",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 17
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 352.0,
+      "r": 508.0,
+      "b": 461.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "我们认为，贵州茅台公司管理层编制的汇总表在所有重大方面符合《上市公司监管指引第8号——上市公司资金往来、对外担保的监管要求》（证监会公告〔2022〕26号）和《上海证券交易所上市公司自律监管指南第2号——业务办理（2024年5月修订）》（上证函〔2024〕1476号）的规定，如实反映了贵州茅台公司2024年度非经营性资金占用及其他关联资金往来情况。",
+    "md": "我们认为，贵州茅台公司管理层编制的汇总表在所有重大方面符合《上市公司监管指引第8号——上市公司资金往来、对外担保的监管要求》（证监会公告〔2022〕26号）和《上海证券交易所上市公司自律监管指南第2号——业务办理（2024年5月修订）》（上证函〔2024〕1476号）的规定，如实反映了贵州茅台公司2024年度非经营性资金占用及其他关联资金往来情况。",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 18
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 86.0,
+      "t": 515.0,
+      "r": 392.0,
+      "b": 531.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "天健会计师事务所（特殊普通合伙） 中国注册会计师：",
+    "md": "天健会计师事务所（特殊普通合伙） 中国注册会计师：",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 19
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 150.0,
+      "t": 561.0,
+      "r": 214.0,
+      "b": 575.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中国·杭州",
+    "md": "中国·杭州",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 20
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 300.0,
+      "t": 561.0,
+      "r": 390.0,
+      "b": 575.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中国注册会计师：",
+    "md": "中国注册会计师：",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 21
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 297.0,
+      "t": 607.0,
+      "r": 389.0,
+      "b": 622.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "中国注册会计师：",
+    "md": "中国注册会计师：",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 22
+  },
+  {
+    "page": 3,
+    "type": "text",
+    "bBox": {
+      "l": 299.0,
+      "t": 654.0,
+      "r": 409.0,
+      "b": 669.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "二〇二五年四月一日",
+    "md": "二〇二五年四月一日",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 23
+  },
+  {
+    "page": 3,
+    "type": "page_number",
+    "bBox": {
+      "l": 261.0,
+      "t": 765.0,
+      "r": 331.0,
+      "b": 778.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第2页共9页",
+    "md": "第2页共9页",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 24
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 107.0,
+      "t": 406.0,
+      "r": 115.0,
+      "b": 432.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "2024年度",
+    "md": "2024年度",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 25
+  },
+  {
+    "page": 4,
+    "type": "table",
+    "bBox": {
+      "l": 120.0,
+      "t": 72.0,
+      "r": 449.0,
+      "b": 764.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "非经营性资金占用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "资金占用方名称",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "占用方与上市公司的关联关系",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "上市公司核算的会计科目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "2024年期初占用资金余额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "2024年度占用累计发生金额(不含利息)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 5
+        },
+        {
+          "text": "2021年度占用资金的利息(如有)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 6
+        },
+        {
+          "text": "2024年度偿还累计发生金额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 7
+        },
+        {
+          "text": "2021年末占用资金余额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 8
+        },
+        {
+          "text": "占用形成原因",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 9
+        },
+        {
+          "text": "占用性质",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "现大股东及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性占用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "小计",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "前大股东及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性占用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "小计",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "总计",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "其它关联资金往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 0
+        },
+        {
+          "text": "资金往来方名称",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 1
+        },
+        {
+          "text": "往来方与上市公司的关联关系",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 2
+        },
+        {
+          "text": "上市公司核算的会计科目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 3
+        },
+        {
+          "text": "2024年期初往来资金余额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 4
+        },
+        {
+          "text": "2024年度往来累计发生金额(不含利息)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 5
+        },
+        {
+          "text": "2021年度往来资金的利息(如有)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 6
+        },
+        {
+          "text": "2024年度偿还累计发生金额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 7
+        },
+        {
+          "text": "2021年末往来资金余额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 8
+        },
+        {
+          "text": "往来形成原因",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 9
+        },
+        {
+          "text": "往来性质",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "大股东及其附属企业",
+          "rowspan": 11,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 0
+        },
+        {
+          "text": "中国贵州茅台酒厂（集团）有限责任公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 1
+        },
+        {
+          "text": "母公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 4
+        },
+        {
+          "text": "2.73",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 7
+        },
+        {
+          "text": "2.73",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 8
+        },
+        {
+          "text": "餐饮服务费结算",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "巽风科技（贵州）有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 1
+        },
+        {
+          "text": "控股股东及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 2
+        },
+        {
+          "text": "应收账款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 3
+        },
+        {
+          "text": "6,037.34",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 4
+        },
+        {
+          "text": "119,815.32",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 6
+        },
+        {
+          "text": "121,100.27",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 7
+        },
+        {
+          "text": "1,782.39",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 8
+        },
+        {
+          "text": "销售结算及代收代付款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "贵州茅台酒厂（集团）保健酒业销售有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 1
+        },
+        {
+          "text": "控股股东及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 2
+        },
+        {
+          "text": "预付款项",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 4
+        },
+        {
+          "text": "2,073.01",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 6
+        },
+        {
+          "text": "1,212.92",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 7
+        },
+        {
+          "text": "860.09",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 8
+        },
+        {
+          "text": "采购结算",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "中国贵州茅台酒厂（集团）文化旅游有限责任公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 1
+        },
+        {
+          "text": "控股股东及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 2
+        },
+        {
+          "text": "预付款项",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 3
+        },
+        {
+          "text": "1,049.50",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 4
+        },
+        {
+          "text": "1,789.80",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 6
+        },
+        {
+          "text": "2,839.30",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 8
+        },
+        {
+          "text": "采购结算",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "贵州茅台酒厂（集团）贵阳高新置业投资发展有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 1
+        },
+        {
+          "text": "控股股东及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 3
+        },
+        {
+          "text": "30.48",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 4
+        },
+        {
+          "text": "2.95",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 7
+        },
+        {
+          "text": "33.43",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 8
+        },
+        {
+          "text": "租赁保证金",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "贵州茅台酒厂（集团）保健酒业销售有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 1
+        },
+        {
+          "text": "控股股东及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 3
+        },
+        {
+          "text": "10.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 4
+        },
+        {
+          "text": "20.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 7
+        },
+        {
+          "text": "30.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 8
+        },
+        {
+          "text": "履约保证金",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "贵州茅台酒厂（集团）保健酒业销售有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 1
+        },
+        {
+          "text": "控股股东及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 3
+        },
+        {
+          "text": "4.56",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 4
+        },
+        {
+          "text": "26.69",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 6
+        },
+        {
+          "text": "31.25",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 8
+        },
+        {
+          "text": "劳务结算",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "吕黎茅台葡萄酒经贸有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 1
+        },
+        {
+          "text": "控股股东及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 3
+        },
+        {
+          "text": "10.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 7
+        },
+        {
+          "text": "10.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 8
+        },
+        {
+          "text": "履约保证金",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "贵州茅台生态农业销售有限责任公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 1
+        },
+        {
+          "text": "控股股东及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 3
+        },
+        {
+          "text": "5.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 7
+        },
+        {
+          "text": "5.00",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 8
+        },
+        {
+          "text": "履约保证金",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "贵州茅台集团营销有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 1
+        },
+        {
+          "text": "控股股东及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 3
+        },
+        {
+          "text": "3.02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 6
+        },
+        {
+          "text": "3.02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 8
+        },
+        {
+          "text": "餐饮服务费结算",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "巽风科技（贵州）有限公司",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 1
+        },
+        {
+          "text": "控股股东及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 2
+        },
+        {
+          "text": "其他应收款",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 3
+        },
+        {
+          "text": "1.47",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 6
+        },
+        {
+          "text": "1.47",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 8
+        },
+        {
+          "text": "餐饮服务费结算",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 9
+        },
+        {
+          "text": "经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "上市公司的子公司及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "关联自然人",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "其他关联方及其附属企业",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 3
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 4
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 6
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 7
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 9
+        },
+        {
+          "text": "非经营性往来",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 10
+        }
+      ],
+      [
+        {
+          "text": "总计",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 0
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 2
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 3
+        },
+        {
+          "text": "51.37",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 4
+        },
+        {
+          "text": "123,760.50",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 5
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 6
+        },
+        {
+          "text": "128,188.22",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 7
+        },
+        {
+          "text": "2,783.64",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 8
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 9
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 10
+        }
+      ]
+    ],
+    "html": "<table><tr><td>非经营性资金占用</td><td>资金占用方名称</td><td>占用方与上市公司的关联关系</td><td>上市公司核算的会计科目</td><td>2024年期初占用资金余额</td><td>2024年度占用累计发生金额(不含利息)</td><td>2021年度占用资金的利息(如有)</td><td>2024年度偿还累计发生金额</td><td>2021年末占用资金余额</td><td>占用形成原因</td><td>占用性质</td></tr><tr><td>现大股东及其附属企业</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>非经营性占用</td></tr><tr><td>小计</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>前大股东及其附属企业</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>非经营性占用</td></tr><tr><td>小计</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总计</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>其它关联资金往来</td><td>资金往来方名称</td><td>往来方与上市公司的关联关系</td><td>上市公司核算的会计科目</td><td>2024年期初往来资金余额</td><td>2024年度往来累计发生金额(不含利息)</td><td>2021年度往来资金的利息(如有)</td><td>2024年度偿还累计发生金额</td><td>2021年末往来资金余额</td><td>往来形成原因</td><td>往来性质</td></tr><tr><td rowspan=\"11\">大股东及其附属企业</td><td>中国贵州茅台酒厂（集团）有限责任公司</td><td>母公司</td><td>其他应收款</td><td></td><td>2.73</td><td></td><td></td><td>2.73</td><td>餐饮服务费结算</td><td>经营性往来</td></tr><tr><td>巽风科技（贵州）有限公司</td><td>控股股东及其附属企业</td><td>应收账款</td><td>6,037.34</td><td>119,815.32</td><td></td><td>121,100.27</td><td>1,782.39</td><td>销售结算及代收代付款</td><td>经营性往来</td></tr><tr><td>贵州茅台酒厂（集团）保健酒业销售有限公司</td><td>控股股东及其附属企业</td><td>预付款项</td><td></td><td>2,073.01</td><td></td><td>1,212.92</td><td>860.09</td><td>采购结算</td><td>经营性往来</td></tr><tr><td>中国贵州茅台酒厂（集团）文化旅游有限责任公司</td><td>控股股东及其附属企业</td><td>预付款项</td><td>1,049.50</td><td>1,789.80</td><td></td><td>2,839.30</td><td></td><td>采购结算</td><td>经营性往来</td></tr><tr><td>贵州茅台酒厂（集团）贵阳高新置业投资发展有限公司</td><td>控股股东及其附属企业</td><td>其他应收款</td><td>30.48</td><td>2.95</td><td></td><td></td><td>33.43</td><td>租赁保证金</td><td>经营性往来</td></tr><tr><td>贵州茅台酒厂（集团）保健酒业销售有限公司</td><td>控股股东及其附属企业</td><td>其他应收款</td><td>10.00</td><td>20.00</td><td></td><td></td><td>30.00</td><td>履约保证金</td><td>经营性往来</td></tr><tr><td>贵州茅台酒厂（集团）保健酒业销售有限公司</td><td>控股股东及其附属企业</td><td>其他应收款</td><td>4.56</td><td>26.69</td><td></td><td>31.25</td><td></td><td>劳务结算</td><td>经营性往来</td></tr><tr><td>吕黎茅台葡萄酒经贸有限公司</td><td>控股股东及其附属企业</td><td>其他应收款</td><td>10.00</td><td></td><td></td><td></td><td>10.00</td><td>履约保证金</td><td>经营性往来</td></tr><tr><td>贵州茅台生态农业销售有限责任公司</td><td>控股股东及其附属企业</td><td>其他应收款</td><td>5.00</td><td></td><td></td><td></td><td>5.00</td><td>履约保证金</td><td>经营性往来</td></tr><tr><td>贵州茅台集团营销有限公司</td><td>控股股东及其附属企业</td><td>其他应收款</td><td>3.02</td><td></td><td></td><td>3.02</td><td></td><td>餐饮服务费结算</td><td>经营性往来</td></tr><tr><td>巽风科技（贵州）有限公司</td><td>控股股东及其附属企业</td><td>其他应收款</td><td>1.47</td><td></td><td></td><td>1.47</td><td></td><td>餐饮服务费结算</td><td>经营性往来</td></tr><tr><td>上市公司的子公司及其附属企业</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>非经营性往来</td></tr><tr><td>关联自然人</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>非经营性往来</td></tr><tr><td>其他关联方及其附属企业</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>非经营性往来</td></tr><tr><td>总计</td><td></td><td></td><td></td><td>51.37</td><td>123,760.50</td><td></td><td>128,188.22</td><td>2,783.64</td><td></td><td></td></tr></table>",
+    "md": "| 非经营性资金占用 | 资金占用方名称 | 占用方与上市公司的关联关系 | 上市公司核算的会计科目 | 2024年期初占用资金余额 | 2024年度占用累计发生金额(不含利息) | 2021年度占用资金的利息(如有) | 2024年度偿还累计发生金额 | 2021年末占用资金余额 | 占用形成原因 | 占用性质 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 现大股东及其附属企业 |  |  |  |  |  |  |  |  |  | 非经营性占用 |\n| 小计 |  |  |  |  |  |  |  |  |  |  |\n| 前大股东及其附属企业 |  |  |  |  |  |  |  |  |  | 非经营性占用 |\n| 小计 |  |  |  |  |  |  |  |  |  |  |\n| 总计 |  |  |  |  |  |  |  |  |  |  |\n| 其它关联资金往来 | 资金往来方名称 | 往来方与上市公司的关联关系 | 上市公司核算的会计科目 | 2024年期初往来资金余额 | 2024年度往来累计发生金额(不含利息) | 2021年度往来资金的利息(如有) | 2024年度偿还累计发生金额 | 2021年末往来资金余额 | 往来形成原因 | 往来性质 |\n| 大股东及其附属企业 | 中国贵州茅台酒厂（集团）有限责任公司 | 母公司 | 其他应收款 |  | 2.73 |  |  | 2.73 | 餐饮服务费结算 | 经营性往来 |\n| 大股东及其附属企业 | 巽风科技（贵州）有限公司 | 控股股东及其附属企业 | 应收账款 | 6,037.34 | 119,815.32 |  | 121,100.27 | 1,782.39 | 销售结算及代收代付款 | 经营性往来 |\n| 大股东及其附属企业 | 贵州茅台酒厂（集团）保健酒业销售有限公司 | 控股股东及其附属企业 | 预付款项 |  | 2,073.01 |  | 1,212.92 | 860.09 | 采购结算 | 经营性往来 |\n| 大股东及其附属企业 | 中国贵州茅台酒厂（集团）文化旅游有限责任公司 | 控股股东及其附属企业 | 预付款项 | 1,049.50 | 1,789.80 |  | 2,839.30 |  | 采购结算 | 经营性往来 |\n| 大股东及其附属企业 | 贵州茅台酒厂（集团）贵阳高新置业投资发展有限公司 | 控股股东及其附属企业 | 其他应收款 | 30.48 | 2.95 |  |  | 33.43 | 租赁保证金 | 经营性往来 |\n| 大股东及其附属企业 | 贵州茅台酒厂（集团）保健酒业销售有限公司 | 控股股东及其附属企业 | 其他应收款 | 10.00 | 20.00 |  |  | 30.00 | 履约保证金 | 经营性往来 |\n| 大股东及其附属企业 | 贵州茅台酒厂（集团）保健酒业销售有限公司 | 控股股东及其附属企业 | 其他应收款 | 4.56 | 26.69 |  | 31.25 |  | 劳务结算 | 经营性往来 |\n| 大股东及其附属企业 | 吕黎茅台葡萄酒经贸有限公司 | 控股股东及其附属企业 | 其他应收款 | 10.00 |  |  |  | 10.00 | 履约保证金 | 经营性往来 |\n| 大股东及其附属企业 | 贵州茅台生态农业销售有限责任公司 | 控股股东及其附属企业 | 其他应收款 | 5.00 |  |  |  | 5.00 | 履约保证金 | 经营性往来 |\n| 大股东及其附属企业 | 贵州茅台集团营销有限公司 | 控股股东及其附属企业 | 其他应收款 | 3.02 |  |  | 3.02 |  | 餐饮服务费结算 | 经营性往来 |\n| 大股东及其附属企业 | 巽风科技（贵州）有限公司 | 控股股东及其附属企业 | 其他应收款 | 1.47 |  |  | 1.47 |  | 餐饮服务费结算 | 经营性往来 |\n| 上市公司的子公司及其附属企业 |  |  |  |  |  |  |  |  |  | 非经营性往来 |\n| 关联自然人 |  |  |  |  |  |  |  |  |  | 非经营性往来 |\n| 其他关联方及其附属企业 |  |  |  |  |  |  |  |  |  | 非经营性往来 |\n| 总计 |  |  |  | 51.37 | 123,760.50 |  | 128,188.22 | 2,783.64 |  |  |",
+    "perfectTable": false,
+    "table_caption": [
+      "非经营性资金占用及其他关联资金往来情况汇总表"
+    ],
+    "img_path": "images/e699e0bab5f1e0da56d6b1e58859277b8d6f0d018c0b39c9de127a11559d4af3.jpg",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "table_type": "非经常性损益项目及金额表",
+    "standard2D": false,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "非经营性资金占用",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 0
+        },
+        {
+          "text": "资金占用方名称",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 1
+        },
+        {
+          "text": "占用方与上市公司的关联关系",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 2
+        },
+        {
+          "text": "上市公司核算的会计科目",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 3
+        },
+        {
+          "text": "2024年期初占用资金余额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 4
+        },
+        {
+          "text": "2024年度占用累计发生金额(不含利息)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 5
+        },
+        {
+          "text": "2021年度占用资金的利息(如有)",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 6
+        },
+        {
+          "text": "2024年度偿还累计发生金额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 7
+        },
+        {
+          "text": "2021年末占用资金余额",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 8
+        },
+        {
+          "text": "占用形成原因",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 9
+        },
+        {
+          "text": "占用性质",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 0,
+          "colstart": 10
+        }
+      ]
+    ],
+    "element_id": 26
+  },
+  {
+    "page": 4,
+    "type": "image",
+    "bBox": {
+      "l": 438.0,
+      "t": 652.0,
+      "r": 497.0,
+      "b": 710.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/657a745f6931a65862b0a2913f2ff10901493530830bab4df4313c5bbe655666.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 27
+  },
+  {
+    "page": 4,
+    "type": "list",
+    "sub_type": "text",
+    "list_items": [
+      "法定代表人：",
+      "主管会计工作的负责人："
+    ],
+    "md": "法定代表人：\n主管会计工作的负责人：",
+    "value": "法定代表人：\n主管会计工作的负责人：",
+    "bBox": {
+      "l": 450.0,
+      "t": 453.0,
+      "r": 459.0,
+      "b": 764.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 28
+  },
+  {
+    "page": 4,
+    "type": "list",
+    "sub_type": "text",
+    "list_items": [
+      "应祭印聪",
+      "会计机构负责人："
+    ],
+    "md": "应祭印聪\n会计机构负责人：",
+    "value": "应祭印聪\n会计机构负责人：",
+    "bBox": {
+      "l": 450.0,
+      "t": 208.0,
+      "r": 490.0,
+      "b": 305.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 29
+  },
+  {
+    "page": 4,
+    "type": "text",
+    "bBox": {
+      "l": 77.0,
+      "t": 600.0,
+      "r": 199.0,
+      "b": 764.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "制单位：贵州茅台酒股份有限公司 资金占\n非经营性资金占用\n现人股东及其附属企业\n小计\n前人股东及其附属企业 33101700",
+    "md": "制单位：贵州茅台酒股份有限公司 资金占\n非经营性资金占用\n现人股东及其附属企业\n小计\n前人股东及其附属企业 33101700",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 30
+  },
+  {
+    "page": 5,
+    "type": "image",
+    "bBox": {
+      "l": 90.0,
+      "t": 73.0,
+      "r": 502.0,
+      "b": 631.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/b941bd64f547fd5018e4e2b344e6530caa633f39ac85ca54f66e9a2faf923155.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 31
+  },
+  {
+    "page": 5,
+    "type": "text",
+    "bBox": {
+      "l": 111.0,
+      "t": 646.0,
+      "r": 506.0,
+      "b": 681.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "本复印件仅供贵州茅台酒股份有限公司天健审〔2025〕8-173号报告后附之用，证明天健会计师事务所（特殊普通合伙）合法经营，他用无效且不得擅自外传。",
+    "md": "本复印件仅供贵州茅台酒股份有限公司天健审〔2025〕8-173号报告后附之用，证明天健会计师事务所（特殊普通合伙）合法经营，他用无效且不得擅自外传。",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 32
+  },
+  {
+    "page": 5,
+    "type": "page_number",
+    "bBox": {
+      "l": 261.0,
+      "t": 778.0,
+      "r": 331.0,
+      "b": 791.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第4页共9页",
+    "md": "第4页共9页",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 33
+  },
+  {
+    "page": 6,
+    "type": "image",
+    "bBox": {
+      "l": 87.0,
+      "t": 72.0,
+      "r": 505.0,
+      "b": 663.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/c11aa493cb9eecbaa42549b62a497db27e19315bc3bc8e6586ce2ac5c16baf2a.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 34
+  },
+  {
+    "page": 6,
+    "type": "text",
+    "bBox": {
+      "l": 111.0,
+      "t": 673.0,
+      "r": 502.0,
+      "b": 709.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "本复印件仅供贵州茅台酒股份有限公司天健审〔2025〕8-173号报告后附之用，证明天健会计师事务所（特殊普通合伙）具有合法执业资质，他用无效且不得擅自外传。",
+    "md": "本复印件仅供贵州茅台酒股份有限公司天健审〔2025〕8-173号报告后附之用，证明天健会计师事务所（特殊普通合伙）具有合法执业资质，他用无效且不得擅自外传。",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 35
+  },
+  {
+    "page": 6,
+    "type": "page_number",
+    "bBox": {
+      "l": 261.0,
+      "t": 778.0,
+      "r": 331.0,
+      "b": 791.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第5页共9页",
+    "md": "第5页共9页",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 36
+  },
+  {
+    "page": 7,
+    "type": "image",
+    "bBox": {
+      "l": 162.0,
+      "t": 99.0,
+      "r": 431.0,
+      "b": 257.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/c8bab7ac44f988658c09045f745ffb88247ba7724e078c22368c20d44c54906e.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 37
+  },
+  {
+    "page": 7,
+    "type": "table",
+    "bBox": {
+      "l": 125.0,
+      "t": 260.0,
+      "r": 468.0,
+      "b": 627.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "rows": [
+      [
+        {
+          "text": "从事证券服务业务会计师事务所名单",
+          "rowspan": 1,
+          "colspan": 5,
+          "rowstart": 0,
+          "colstart": 0
+        }
+      ],
+      [
+        {
+          "text": "序号",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "会计师事务所名称",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "统一社会信用代码",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "执业证书编号",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "备案公告日期",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 0
+        },
+        {
+          "text": "安永华明会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 1
+        },
+        {
+          "text": "9111000051421390A",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 2
+        },
+        {
+          "text": "11000243",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 2,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "2",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 0
+        },
+        {
+          "text": "北京国富会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 1
+        },
+        {
+          "text": "91110108MA007YBQG",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 2
+        },
+        {
+          "text": "11010274",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 3,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "3",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 0
+        },
+        {
+          "text": "北京兴华会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 1
+        },
+        {
+          "text": "911101020855463270",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 2
+        },
+        {
+          "text": "11000010",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 4,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "4",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 0
+        },
+        {
+          "text": "毕马威华振会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 1
+        },
+        {
+          "text": "91110000599649382G",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 2
+        },
+        {
+          "text": "11000241",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 5,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "5",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 0
+        },
+        {
+          "text": "大华会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 1
+        },
+        {
+          "text": "91110108590676050Q",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 2
+        },
+        {
+          "text": "11010148",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 6,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "6",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 0
+        },
+        {
+          "text": "大信会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 1
+        },
+        {
+          "text": "91110108590611484C",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 2
+        },
+        {
+          "text": "11010141",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 7,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "7",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 0
+        },
+        {
+          "text": "德勤华永会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 1
+        },
+        {
+          "text": "9131000005587870XB",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 2
+        },
+        {
+          "text": "31000012",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 8,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "8",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 0
+        },
+        {
+          "text": "公证天业会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 1
+        },
+        {
+          "text": "91320200078269333C",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 2
+        },
+        {
+          "text": "32020028",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 9,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "9",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 0
+        },
+        {
+          "text": "广东正中珠江会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 1
+        },
+        {
+          "text": "914401010827260072",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 2
+        },
+        {
+          "text": "44010079",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 10,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "10",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 0
+        },
+        {
+          "text": "广东中职信会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 1
+        },
+        {
+          "text": "91440101MA9UN3YT81",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 2
+        },
+        {
+          "text": "44010157",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 11,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "11",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 0
+        },
+        {
+          "text": "和信会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 1
+        },
+        {
+          "text": "913701000611889323",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 2
+        },
+        {
+          "text": "37010001",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 12,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "12",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 0
+        },
+        {
+          "text": "华兴会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 1
+        },
+        {
+          "text": "91350100084343026U",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 2
+        },
+        {
+          "text": "35010001",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 13,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "13",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 0
+        },
+        {
+          "text": "利安达会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 1
+        },
+        {
+          "text": "911101050805090096",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 2
+        },
+        {
+          "text": "11000154",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 14,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "14",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 0
+        },
+        {
+          "text": "立信会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 1
+        },
+        {
+          "text": "91310101568093764U",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 2
+        },
+        {
+          "text": "31000006",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 15,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "15",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 0
+        },
+        {
+          "text": "立信中联会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 1
+        },
+        {
+          "text": "911201160796417077",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 2
+        },
+        {
+          "text": "12010023",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 16,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "16",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 0
+        },
+        {
+          "text": "鹏盛会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 1
+        },
+        {
+          "text": "91440300770329160G",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 2
+        },
+        {
+          "text": "47470029",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 17,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "17",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 0
+        },
+        {
+          "text": "普华永道中天会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 1
+        },
+        {
+          "text": "913100000609134343",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 2
+        },
+        {
+          "text": "31000007",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 18,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "18",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 0
+        },
+        {
+          "text": "容诚会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 1
+        },
+        {
+          "text": "911101020854927874",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 2
+        },
+        {
+          "text": "11010032",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 19,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "19",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 0
+        },
+        {
+          "text": "瑞华会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 1
+        },
+        {
+          "text": "9111010856949923XD",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 2
+        },
+        {
+          "text": "11010130",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 20,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "20",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 0
+        },
+        {
+          "text": "上会会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 1
+        },
+        {
+          "text": "91310106086242261L",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 2
+        },
+        {
+          "text": "31000008",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 21,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "21",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 0
+        },
+        {
+          "text": "深圳堂堂会计师事务所（普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 1
+        },
+        {
+          "text": "91440300770332722R",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 2
+        },
+        {
+          "text": "47470034",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 22,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "22",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 0
+        },
+        {
+          "text": "四川华信（集团）会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 1
+        },
+        {
+          "text": "91510500083391472Y",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 2
+        },
+        {
+          "text": "51010003",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 23,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "23",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 0
+        },
+        {
+          "text": "苏亚金诚会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 1
+        },
+        {
+          "text": "91320000085046285W",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 2
+        },
+        {
+          "text": "32000026",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 24,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "24",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 0
+        },
+        {
+          "text": "唐山市新正会计师事务所（普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 1
+        },
+        {
+          "text": "911302035795687109",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 2
+        },
+        {
+          "text": "13020011",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 25,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "25",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 0
+        },
+        {
+          "text": "天衡会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 1
+        },
+        {
+          "text": "913200000831585821",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 2
+        },
+        {
+          "text": "32000010",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 26,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "26",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 27,
+          "colstart": 0
+        },
+        {
+          "text": "天健会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 27,
+          "colstart": 1
+        },
+        {
+          "text": "913300005793421213",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 27,
+          "colstart": 2
+        },
+        {
+          "text": "33000001",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 27,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 27,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "27",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 28,
+          "colstart": 0
+        },
+        {
+          "text": "天圆全会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 28,
+          "colstart": 1
+        },
+        {
+          "text": "911101080896649376",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 28,
+          "colstart": 2
+        },
+        {
+          "text": "11000374",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 28,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 28,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "28",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 29,
+          "colstart": 0
+        },
+        {
+          "text": "天职国际会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 29,
+          "colstart": 1
+        },
+        {
+          "text": "911101085923425568",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 29,
+          "colstart": 2
+        },
+        {
+          "text": "11010150",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 29,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 29,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "29",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 30,
+          "colstart": 0
+        },
+        {
+          "text": "希格玛会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 30,
+          "colstart": 1
+        },
+        {
+          "text": "9161013607340169X2",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 30,
+          "colstart": 2
+        },
+        {
+          "text": "61010047",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 30,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 30,
+          "colstart": 4
+        }
+      ],
+      [
+        {
+          "text": "30",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 31,
+          "colstart": 0
+        },
+        {
+          "text": "信永中和会计师事务所（特殊普通合伙）",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 31,
+          "colstart": 1
+        },
+        {
+          "text": "91110101592354581W",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 31,
+          "colstart": 2
+        },
+        {
+          "text": "11010136",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 31,
+          "colstart": 3
+        },
+        {
+          "text": "2020/11/02",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 31,
+          "colstart": 4
+        }
+      ]
+    ],
+    "html": "<table><tr><td colspan=\"5\">从事证券服务业务会计师事务所名单</td></tr><tr><td>序号</td><td>会计师事务所名称</td><td>统一社会信用代码</td><td>执业证书编号</td><td>备案公告日期</td></tr><tr><td>1</td><td>安永华明会计师事务所（特殊普通合伙）</td><td>9111000051421390A</td><td>11000243</td><td>2020/11/02</td></tr><tr><td>2</td><td>北京国富会计师事务所（特殊普通合伙）</td><td>91110108MA007YBQG</td><td>11010274</td><td>2020/11/02</td></tr><tr><td>3</td><td>北京兴华会计师事务所（特殊普通合伙）</td><td>911101020855463270</td><td>11000010</td><td>2020/11/02</td></tr><tr><td>4</td><td>毕马威华振会计师事务所（特殊普通合伙）</td><td>91110000599649382G</td><td>11000241</td><td>2020/11/02</td></tr><tr><td>5</td><td>大华会计师事务所（特殊普通合伙）</td><td>91110108590676050Q</td><td>11010148</td><td>2020/11/02</td></tr><tr><td>6</td><td>大信会计师事务所（特殊普通合伙）</td><td>91110108590611484C</td><td>11010141</td><td>2020/11/02</td></tr><tr><td>7</td><td>德勤华永会计师事务所（特殊普通合伙）</td><td>9131000005587870XB</td><td>31000012</td><td>2020/11/02</td></tr><tr><td>8</td><td>公证天业会计师事务所（特殊普通合伙）</td><td>91320200078269333C</td><td>32020028</td><td>2020/11/02</td></tr><tr><td>9</td><td>广东正中珠江会计师事务所（特殊普通合伙）</td><td>914401010827260072</td><td>44010079</td><td>2020/11/02</td></tr><tr><td>10</td><td>广东中职信会计师事务所（特殊普通合伙）</td><td>91440101MA9UN3YT81</td><td>44010157</td><td>2020/11/02</td></tr><tr><td>11</td><td>和信会计师事务所（特殊普通合伙）</td><td>913701000611889323</td><td>37010001</td><td>2020/11/02</td></tr><tr><td>12</td><td>华兴会计师事务所（特殊普通合伙）</td><td>91350100084343026U</td><td>35010001</td><td>2020/11/02</td></tr><tr><td>13</td><td>利安达会计师事务所（特殊普通合伙）</td><td>911101050805090096</td><td>11000154</td><td>2020/11/02</td></tr><tr><td>14</td><td>立信会计师事务所（特殊普通合伙）</td><td>91310101568093764U</td><td>31000006</td><td>2020/11/02</td></tr><tr><td>15</td><td>立信中联会计师事务所（特殊普通合伙）</td><td>911201160796417077</td><td>12010023</td><td>2020/11/02</td></tr><tr><td>16</td><td>鹏盛会计师事务所（特殊普通合伙）</td><td>91440300770329160G</td><td>47470029</td><td>2020/11/02</td></tr><tr><td>17</td><td>普华永道中天会计师事务所（特殊普通合伙）</td><td>913100000609134343</td><td>31000007</td><td>2020/11/02</td></tr><tr><td>18</td><td>容诚会计师事务所（特殊普通合伙）</td><td>911101020854927874</td><td>11010032</td><td>2020/11/02</td></tr><tr><td>19</td><td>瑞华会计师事务所（特殊普通合伙）</td><td>9111010856949923XD</td><td>11010130</td><td>2020/11/02</td></tr><tr><td>20</td><td>上会会计师事务所（特殊普通合伙）</td><td>91310106086242261L</td><td>31000008</td><td>2020/11/02</td></tr><tr><td>21</td><td>深圳堂堂会计师事务所（普通合伙）</td><td>91440300770332722R</td><td>47470034</td><td>2020/11/02</td></tr><tr><td>22</td><td>四川华信（集团）会计师事务所（特殊普通合伙）</td><td>91510500083391472Y</td><td>51010003</td><td>2020/11/02</td></tr><tr><td>23</td><td>苏亚金诚会计师事务所（特殊普通合伙）</td><td>91320000085046285W</td><td>32000026</td><td>2020/11/02</td></tr><tr><td>24</td><td>唐山市新正会计师事务所（普通合伙）</td><td>911302035795687109</td><td>13020011</td><td>2020/11/02</td></tr><tr><td>25</td><td>天衡会计师事务所（特殊普通合伙）</td><td>913200000831585821</td><td>32000010</td><td>2020/11/02</td></tr><tr><td>26</td><td>天健会计师事务所（特殊普通合伙）</td><td>913300005793421213</td><td>33000001</td><td>2020/11/02</td></tr><tr><td>27</td><td>天圆全会计师事务所（特殊普通合伙）</td><td>911101080896649376</td><td>11000374</td><td>2020/11/02</td></tr><tr><td>28</td><td>天职国际会计师事务所（特殊普通合伙）</td><td>911101085923425568</td><td>11010150</td><td>2020/11/02</td></tr><tr><td>29</td><td>希格玛会计师事务所（特殊普通合伙）</td><td>9161013607340169X2</td><td>61010047</td><td>2020/11/02</td></tr><tr><td>30</td><td>信永中和会计师事务所（特殊普通合伙）</td><td>91110101592354581W</td><td>11010136</td><td>2020/11/02</td></tr></table>",
+    "md": "| 从事证券服务业务会计师事务所名单 | 从事证券服务业务会计师事务所名单 | 从事证券服务业务会计师事务所名单 | 从事证券服务业务会计师事务所名单 | 从事证券服务业务会计师事务所名单 |\n| --- | --- | --- | --- | --- |\n| 序号 | 会计师事务所名称 | 统一社会信用代码 | 执业证书编号 | 备案公告日期 |\n| 1 | 安永华明会计师事务所（特殊普通合伙） | 9111000051421390A | 11000243 | 2020/11/02 |\n| 2 | 北京国富会计师事务所（特殊普通合伙） | 91110108MA007YBQG | 11010274 | 2020/11/02 |\n| 3 | 北京兴华会计师事务所（特殊普通合伙） | 911101020855463270 | 11000010 | 2020/11/02 |\n| 4 | 毕马威华振会计师事务所（特殊普通合伙） | 91110000599649382G | 11000241 | 2020/11/02 |\n| 5 | 大华会计师事务所（特殊普通合伙） | 91110108590676050Q | 11010148 | 2020/11/02 |\n| 6 | 大信会计师事务所（特殊普通合伙） | 91110108590611484C | 11010141 | 2020/11/02 |\n| 7 | 德勤华永会计师事务所（特殊普通合伙） | 9131000005587870XB | 31000012 | 2020/11/02 |\n| 8 | 公证天业会计师事务所（特殊普通合伙） | 91320200078269333C | 32020028 | 2020/11/02 |\n| 9 | 广东正中珠江会计师事务所（特殊普通合伙） | 914401010827260072 | 44010079 | 2020/11/02 |\n| 10 | 广东中职信会计师事务所（特殊普通合伙） | 91440101MA9UN3YT81 | 44010157 | 2020/11/02 |\n| 11 | 和信会计师事务所（特殊普通合伙） | 913701000611889323 | 37010001 | 2020/11/02 |\n| 12 | 华兴会计师事务所（特殊普通合伙） | 91350100084343026U | 35010001 | 2020/11/02 |\n| 13 | 利安达会计师事务所（特殊普通合伙） | 911101050805090096 | 11000154 | 2020/11/02 |\n| 14 | 立信会计师事务所（特殊普通合伙） | 91310101568093764U | 31000006 | 2020/11/02 |\n| 15 | 立信中联会计师事务所（特殊普通合伙） | 911201160796417077 | 12010023 | 2020/11/02 |\n| 16 | 鹏盛会计师事务所（特殊普通合伙） | 91440300770329160G | 47470029 | 2020/11/02 |\n| 17 | 普华永道中天会计师事务所（特殊普通合伙） | 913100000609134343 | 31000007 | 2020/11/02 |\n| 18 | 容诚会计师事务所（特殊普通合伙） | 911101020854927874 | 11010032 | 2020/11/02 |\n| 19 | 瑞华会计师事务所（特殊普通合伙） | 9111010856949923XD | 11010130 | 2020/11/02 |\n| 20 | 上会会计师事务所（特殊普通合伙） | 91310106086242261L | 31000008 | 2020/11/02 |\n| 21 | 深圳堂堂会计师事务所（普通合伙） | 91440300770332722R | 47470034 | 2020/11/02 |\n| 22 | 四川华信（集团）会计师事务所（特殊普通合伙） | 91510500083391472Y | 51010003 | 2020/11/02 |\n| 23 | 苏亚金诚会计师事务所（特殊普通合伙） | 91320000085046285W | 32000026 | 2020/11/02 |\n| 24 | 唐山市新正会计师事务所（普通合伙） | 911302035795687109 | 13020011 | 2020/11/02 |\n| 25 | 天衡会计师事务所（特殊普通合伙） | 913200000831585821 | 32000010 | 2020/11/02 |\n| 26 | 天健会计师事务所（特殊普通合伙） | 913300005793421213 | 33000001 | 2020/11/02 |\n| 27 | 天圆全会计师事务所（特殊普通合伙） | 911101080896649376 | 11000374 | 2020/11/02 |\n| 28 | 天职国际会计师事务所（特殊普通合伙） | 911101085923425568 | 11010150 | 2020/11/02 |\n| 29 | 希格玛会计师事务所（特殊普通合伙） | 9161013607340169X2 | 61010047 | 2020/11/02 |\n| 30 | 信永中和会计师事务所（特殊普通合伙） | 91110101592354581W | 11010136 | 2020/11/02 |",
+    "perfectTable": false,
+    "table_footnote": [
+      "http://www.csrc.gov.cn/pub/newsite/kjb/sjpggjgb/202011/t20201102_385509.html"
+    ],
+    "img_path": "images/c9336ab867ad164964da2839d682bce0111cfb91f877b6483c69744294095f1d.jpg",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "table_type": "其他表",
+    "standard2D": false,
+    "hasHeader": true,
+    "headerCells": [
+      [
+        {
+          "text": "从事证券服务业务会计师事务所名单",
+          "rowspan": 1,
+          "colspan": 5,
+          "rowstart": 0,
+          "colstart": 0
+        }
+      ],
+      [
+        {
+          "text": "序号",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 0
+        },
+        {
+          "text": "会计师事务所名称",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 1
+        },
+        {
+          "text": "统一社会信用代码",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 2
+        },
+        {
+          "text": "执业证书编号",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 3
+        },
+        {
+          "text": "备案公告日期",
+          "rowspan": 1,
+          "colspan": 1,
+          "rowstart": 1,
+          "colstart": 4
+        }
+      ]
+    ],
+    "element_id": 38
+  },
+  {
+    "page": 7,
+    "type": "text",
+    "bBox": {
+      "l": 93.0,
+      "t": 642.0,
+      "r": 486.0,
+      "b": 696.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "本复印件仅供贵州茅台酒股份有限公司天健审〔2025〕8-173号报告后附之用，证明天健会计师事务所（特殊普通合伙）合法从事证券服务业务的备案工作已完备，他用无效且不得擅自外传。",
+    "md": "本复印件仅供贵州茅台酒股份有限公司天健审〔2025〕8-173号报告后附之用，证明天健会计师事务所（特殊普通合伙）合法从事证券服务业务的备案工作已完备，他用无效且不得擅自外传。",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 39
+  },
+  {
+    "page": 7,
+    "type": "page_number",
+    "bBox": {
+      "l": 261.0,
+      "t": 778.0,
+      "r": 331.0,
+      "b": 790.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第6页共9页",
+    "md": "第6页共9页",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 40
+  },
+  {
+    "page": 8,
+    "type": "image",
+    "bBox": {
+      "l": 93.0,
+      "t": 78.0,
+      "r": 508.0,
+      "b": 373.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/9de50af084bd2a3c64800c9fbeb38116c8c9051c4fcac1d6c99c02551aa2590b.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 41
+  },
+  {
+    "page": 8,
+    "type": "image",
+    "bBox": {
+      "l": 99.0,
+      "t": 381.0,
+      "r": 506.0,
+      "b": 669.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/77b41b2cf9ecdc0c83ee357519c64be040d903cf853fbb5954a721e39336530d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 42
+  },
+  {
+    "page": 8,
+    "type": "text",
+    "bBox": {
+      "l": 101.0,
+      "t": 675.0,
+      "r": 491.0,
+      "b": 706.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "本复印件仅供贵州茅台酒股份有限公司天健审（2025）8-173号报告后附之用，证明李青龙是中国注册会计师，他用无效且不得擅自外传。",
+    "md": "本复印件仅供贵州茅台酒股份有限公司天健审（2025）8-173号报告后附之用，证明李青龙是中国注册会计师，他用无效且不得擅自外传。",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 43
+  },
+  {
+    "page": 8,
+    "type": "page_number",
+    "bBox": {
+      "l": 261.0,
+      "t": 778.0,
+      "r": 331.0,
+      "b": 791.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第7页共9页",
+    "md": "第7页共9页",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 44
+  },
+  {
+    "page": 9,
+    "type": "image",
+    "bBox": {
+      "l": 87.0,
+      "t": 71.0,
+      "r": 503.0,
+      "b": 366.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/09068e77fa2a11d0f87be9f7c8047773127c4f8facb39f1f900065f591332b89.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 45
+  },
+  {
+    "page": 9,
+    "type": "image",
+    "bBox": {
+      "l": 87.0,
+      "t": 373.0,
+      "r": 503.0,
+      "b": 665.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/5cfd54babc93785a98426271abb07acf20e1e8c57171b3583aa8d2b3b3a2120d.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 46
+  },
+  {
+    "page": 9,
+    "type": "text",
+    "bBox": {
+      "l": 93.0,
+      "t": 673.0,
+      "r": 485.0,
+      "b": 702.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "本复印件仅供贵州茅台酒股份有限公司天健审（2025）8-173号报告后附之用，证明梁正勇是中国注册会计师，他用无效且不得擅自外传。",
+    "md": "本复印件仅供贵州茅台酒股份有限公司天健审（2025）8-173号报告后附之用，证明梁正勇是中国注册会计师，他用无效且不得擅自外传。",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 47
+  },
+  {
+    "page": 9,
+    "type": "page_number",
+    "bBox": {
+      "l": 261.0,
+      "t": 778.0,
+      "r": 331.0,
+      "b": 791.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第8页共9页",
+    "md": "第8页共9页",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 48
+  },
+  {
+    "page": 10,
+    "type": "image",
+    "bBox": {
+      "l": 87.0,
+      "t": 71.0,
+      "r": 506.0,
+      "b": 366.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/1fb0093cc8a51bc88b8150fcf40195fa0b18897f26016b71c30b4236e541c140.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 49
+  },
+  {
+    "page": 10,
+    "type": "image",
+    "bBox": {
+      "l": 87.0,
+      "t": 369.0,
+      "r": 506.0,
+      "b": 660.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "img_path": "images/5f6560602d6b23d72e4001d0a15c7e464a662430ff60e3ecce9f3a8da7aed204.jpg",
+    "image_caption": [],
+    "image_footnote": [],
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 50
+  },
+  {
+    "page": 10,
+    "type": "text",
+    "bBox": {
+      "l": 93.0,
+      "t": 667.0,
+      "r": 485.0,
+      "b": 697.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "本复印件仅供贵州茅台酒股份有限公司天健审（2025）8-173号报告后附之用，证明曾志是中国注册会计师，他用无效且不得擅自外传。",
+    "md": "本复印件仅供贵州茅台酒股份有限公司天健审（2025）8-173号报告后附之用，证明曾志是中国注册会计师，他用无效且不得擅自外传。",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 51
+  },
+  {
+    "page": 10,
+    "type": "page_number",
+    "bBox": {
+      "l": 261.0,
+      "t": 778.0,
+      "r": 331.0,
+      "b": 791.0,
+      "coord_origin": "TOPLEFT"
+    },
+    "value": "第9页共9页",
+    "md": "第9页共9页",
+    "file_id": "贵州茅台：关于贵州茅台酒股份有限公司非经营性资金占用及其他关联资金往来情况的专项审计说明",
+    "element_id": 52
+  }
+]
